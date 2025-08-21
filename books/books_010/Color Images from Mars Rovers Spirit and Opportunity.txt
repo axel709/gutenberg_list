@@ -1,0 +1,1148 @@
+The Project Gutenberg eBook of Color Images from Mars Rovers
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Color Images from Mars Rovers
+
+Author: Bob Webster
+
+Release date: April 1, 2004 [eBook #12082]
+                Most recently updated: January 7, 2023
+
+Language: English
+
+Credits: Bob Webster
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK COLOR IMAGES FROM MARS ROVERS ***
+
+
+
+
+Color Images from Mars Rovers
+
+by Bob Webster
+
+
+Thanks to Bob Webster for making these images available. They are
+recombinations of images with different colored filters. All images are
+courtesy of NASA/JPL and in the public domain in the United States.
+
+Mars Attacks!
+
+I was browsing the NASA web site for photos from the Mars rovers, but
+most of them are black and white. Then I noticed they have the raw
+images posted that can be combined into color photos, so I combined a
+bunch of them into "living color." Here they are:
+
+ Mars in Color, from “Opportunity”
+ Opportunity Photos
+ Mars in Color, from “Spirit”
+ Spirit Photos
+
+The color is not perfect on these, but it should be in the
+neighborhood. There are a lot of variables. The cameras are calibrated
+differently from time to time, there are different bandwidths available
+in different images, and the sun is at different angles.
+
+In these photos, 3 to 6 images were taken, one after another, using
+different bandwidth filters. There may be 5 minutes pass from the first
+to the last image, so a shadow may move a little bit during that time.
+An interesting effect of this is an occasional rainbow strip on the
+edge of shadows.
+
+The image file names include information such as camera type, time
+taken, location, etc. Here is the full info:
+
+http://origin.mars5.jpl.nasa.gov/gallery/edr_filename_key.html
+
+The image on this site have the filter and sometimes the Left or Right
+designator removed. If L or R is missing, then they were taken with the
+Left camera, which uses visible light filters.
+
+These images were taken with the panoramic camera, because it's the one
+that uses color filters. The filters used vary from image to image. The
+available filters are:
+
+        Left Camera
+        Right Camera
+
+        1 = EMPTY (clear)
+        1 = 436nm (37nm Short-pass)
+
+        2 = 753nm (20nm bandpass)
+        2 = 754nm (20nm bandpass)
+
+        3 = 673nm (16nm bandpass)
+        3 = 803nm (20nm bandpass)
+
+        4 = 601nm (17nm bandpass)
+        4 = 864nm (17nm bandpass)
+
+        5 = 535nm (20nm bandpass)
+        5 = 904nm (26nm bandpass)
+
+        6 = 482nm (25nm bandpass)
+        6 = 934nm (25nm bandpass)
+
+        7 = 432nm (32nm Short-pass)
+        7 = 1009nm (38nm Long-pass)
+
+        8 = 440nm (20) Solar ND 5.0
+        8 = 880nm (20) Solar ND 5.0
+
+Some bandwidths of visible light are:
+
+        red
+        650
+
+        orange
+        590
+
+        yellow
+        570
+
+        green
+        510
+
+        blue
+        475
+
+        indigo
+        445
+
+        violet
+        400
+
+Everything gets kind of fuzzy from this point on. The visible light
+bandwidths are not even sharply delimited. The bandwidths in the
+Martian cameras don't necessarily match the color bandwidths on
+Earthling computers. In a lot of the images some of the bandwidths are
+missing. For example, this image:
+
+only uses filters 4, 5, and 7, which more or less correspond to
+reddish-orange, yellow-green, and violet. There is a hole or two in the
+spectrum, notably red and blue, so it ends up looking a little weird.
+But it's still much better than black and white.
+
+Some of the images from Mars use filters 2, 5, and 7, or some wide
+range like that. This provides more information for scientific
+analysis, but it doesn't look normal when combined. That is, if there
+is a "normal" for pictures from Mars. I skipped most of these.
+
+The right pan camera filters are mainly longer wavelength in the
+ultraviolet range. I only included one of those pictures, mostly
+because I wondered what it would look like:
+
+I used Photo Mud to merge the separate images. In fact, I wrote the
+Merge Color Separation function in Photo Mud so I could do this. You
+can download a test version here:
+
+http://xpda.com/photomudsetup.exe
+
+When Photo Mud version 3.0 is released in a few days, I'll replace this
+file with a 30-day trial version. If you download the test version
+before then, you can have a free update to the release version without
+a 30-day limit. Let me know if you find any "design considerations" or
+other things that don't work.
+
+Here's where to get the latest raw images from Mars:
+
+http://origin.mars5.jpl.nasa.gov/gallery/all
+
+Some of the NASA pictures show mainly red on Mars, such as this
+panorama:
+
+But the colors in the corners of this sundial in the base of the photo
+from looks quite a bit different on earth than on the landscape photo.
+There is a lack of blue in the Mars photo, or maybe even a translation
+of blue to red. There's probably a good reason for this, since NASA has
+better software and spent more time on it.
+
+It looks to me like NASA included filter 2, infrared light, in their
+red color composition. In this image with filter 2, you can see how
+bright the lower right color tab is:
+
+This one is filter 3, is visible red. The blue tab in the lower right
+is not nearly as bright:
+
+Here is a composition I did using infrared as red, and shifting the
+colors toward that end of the spectrum. This is kind of like the
+sundial in the color landscape.
+
+Here's the image with "normal color" composition:
+
+The second one looks a lot closer to the original photo above. In these
+two images, the background dirt looks about the same, but these
+settings make a big difference sometimes.
+
+Photos Courtesy NASA/JPL-Caltech
+
+
+
+
+Mars in Color, from “Opportunity”
+
+
+4/9/2004
+
+4/8/2004
+
+4/7/2004
+
+4/6/2004
+
+4/5/2004
+
+4/5/2004
+
+4/4/2004
+
+4/4/2004
+
+4/4/2004
+
+4/3/2004
+
+3/30/2004
+
+3/28/2004
+
+3/28/2004
+
+3/27/2004
+
+3/24/2004
+
+3/23/2004
+
+3/22/2004
+
+3/22/2004
+
+3/21/2004
+
+Infrared used for red
+3/20/2004
+
+filter 2 (infrared) used for red
+3/20/2004
+
+filter 2 (infrared) used for red
+3/20/2004
+
+3/20/2004
+
+3/20/2004
+
+3/20/2004
+
+3/19/2004
+
+3/18/2004
+
+3/18/2004
+
+3/17/2004
+
+3/17/2004
+
+Dubbed "Carousel," the rock in this image was the target of the Mars
+Exploration Rover Opportunity science team's outcrop "scuff test." On
+sol 51 (March 15, 2004), Opportunity slowly rotated its left front
+wheel on the rock, abrading it in the same way that geology students
+use a scratch test to determine the hardness of minerals. The image on
+the right, taken by the rover's navigation camera on sol 51, shows the
+rock post-scuff. In this image, it is apparent that Opportunity
+scratched the surface of "Carousel" and deposited dirt that it was
+carrying in its wheel rims.
+3/16/2004
+
+3/16/2004
+
+3/15/2004
+
+3/15/2004
+
+"Shoemaker's Patio" near the Mars Exploration Rover Opportunity's
+landing site, shows finely layered sediments, which have been
+accentuated by erosion. The sphere-like grains or "blueberries"
+distributed throughout the outcrop can be seen lining up with
+individual layers. This observation indicates that the spherules are
+geologic features called concretions, which form in pre-existing wet
+sediments. Other sphere-like grains, such as impact spherules or
+volcanic lapilli (fragments of material between 2 and 64 millimeters or
+.08 and 2.5 inches in maximum dimension that are ejected from a
+volcano) are thought to be deposited with sediments and thus would form
+layers distinct from those of the rocks. This image was captured by the
+rover's panoramic camera on the 50th martian day, or sol, of the
+mission.
+3/15/2004
+
+3/14/2004
+
+3/14/2004
+
+This image is of the exceptional rock called "Berry Bowl" in the "Eagle
+Crater" outcrop. The study of this "blueberry-strewn" area and the
+identification of hematite as the major iron-bearing element within
+these sphere-like grains helped scientists confirm their hypothesis
+that the hematite in these martian spherules was deposited in water. To
+separately analyze the mineralogical content of three main features
+within this area -- blueberries, dust and rock -- it was important that
+the rock abrasion tool's brush was able to rest on a relatively
+berry-free spot. The rock's small size and crowd of berries made the
+10-minute brushing a challenge to plan and execute. The successful
+brushing on the target whimsically referred to as "Near Empty" on the
+rover's 48th sol on Mars left a dust-free impression for subsequent
+examination by the rover's spectrometers. No grinding was necessary on
+the rock because spectral data obtained on the dust-free surface were
+sufficient to verify that the rock's chemical composition differs
+significantly from the hematite-rich berries.
+3/13/2004
+
+3/13/2004
+
+3/12/2004
+
+3/12/2004
+
+The sphere-like grains or "blueberries" distributed throughout the
+outcrop can be seen lining up with individual layers. This observation
+indicates that the spherules are geologic features called concretions,
+which form in pre-existing wet sediments. Other sphere-like grains,
+such as impact spherules or volcanic lapilli (fragments of material
+between 2 and 64 millimeters or .08 and 2.5 inches in maximum dimension
+that are ejected from a volcano) are thought to be deposited with
+sediments and thus would form layers distinct from those of the rocks.
+3/11/2004
+
+3/11/2004
+
+3/11/2004
+
+the 3.1 millimeter-deep (just over one-tenth of an inch) hole ground by
+the Mars Exploration Rover Opportunity's rock abrasion tool in the
+target called "Mojo 2" on "Flatrock" was taken on the 44th martian day,
+or sol, of the mission. It will help complete the chemical analysis of
+the lowest layer of the outcrop in the crater where the rover now
+resides. After a brief brushing on sol 45, the science team plans to
+place Opportunity's spectrometers on the hole to collect data vital to
+their understanding of this impressive outcrop.
+Scientists believe that the spherule or "blueberry" in the upper right
+area of the circular impression was sliced in half by the rock abrasion
+tool. "Blueberries" are a known obstruction to the grinding tool that
+cause it to terminate its sequence. Despite the stall, the rock
+abrasion tool abraded "Flatrock" for one hour and five minutes,
+producing a cavity ripe for investigation.
+3/10/2004
+
+3/10/2004
+
+3/9/2004
+
+3/8/2004
+
+3/7/2004
+
+3/7/2004
+
+This hole was made by the rover's rock abrasion tool, located on its
+instrument deployment device, or "arm." The hole is located on a target
+called "McKittrick" at the "El Capitan" region of the Meridiani Planum,
+Mars, rock outcrop. It was made on the 30th martian day, or sol, of
+Opportunity's journey.
+The grinding process at has generated a significant amount of reddish
+dust. Color and spectral properties of the dust show that it may
+contain some fine-grained crystalline red hematite.
+Courtesy NASA/JPL
+3/1/2004
+
+2/29/2004
+
+This hole was made by the rover's rock abrasion tool, located on its
+instrument deployment device, or "arm." The hole is located on a target
+called "Guadalupe" at the "El Capitan" region of the Meridiani Planum,
+Mars, rock outcrop. It was made on the 30th martian day, or sol, of
+Opportunity's journey.
+The grinding process at has generated a significant amount of reddish
+dust. Color and spectral properties of the dust show that it may
+contain some fine-grained crystalline red hematite.
+2/29/2004
+
+The silver colored metal of the ring on the solar abrasion tool is a
+reddish brown after the dust settled on it, probably from fine-grained
+hematite.
+2/29/2004
+
+2/28/2004
+
+2/28/2004
+
+2/27/2004
+
+2/27/2004
+
+2/22/2004
+
+The image is from the right pan camera, made up of ultraviolet
+bandwidths.
+2/20/2004
+
+2/20/2004
+
+The "El Capitan" region of the rock outcrop at Meridiani Planum, Mars.
+This image shows fine, parallel lamination in the upper area of the
+rock, which also contains scattered sphere-shaped objects ranging from
+1 to 2 millimeters (.04 to .08 inches) in size. There are also more
+abundant, scattered vugs, or small cavities, that are shaped like
+discs. These are about 1 centimeter (0.4 inches) long.
+2/20/2004
+
+2/20/2004
+
+The "El Capitan" region of the rock outcrop at Meridiani Planum, Mars.
+2/20/2004
+
+The "capture magnet," which attracts atmospheric dust particles from
+the front deck of the rover. The lighter-colored areas in the image are
+clean sections of the magnet virtually free of dust, and the dark areas
+are places where dust has collected. Dust particles in the martian
+atmosphere are estimated to be about 1 micrometer in size (1/1000th of
+a millimeter or 1/1000th of .04 inches).
+The material below the magnet's aluminum surface is laid out in
+concentric rings, giving the image a bull's-eye appearance. The magnet
+was designed in this configuration to collect as much atmospheric dust
+as possible. Spirit and Opportunity each carry seven magnets.
+2/19/2004
+
+The Mars Exploration Rover Opportunity dragged one of its wheels back
+and forth across the sandy soil at Meridiani Planum to create a hole
+(bottom left corner) approximately 50 centimeters (19.7 inches) long by
+20 centimeters (7.9 inches) wide by 9 centimeters (3.5 inches) deep.
+The rover's instrument deployment device, or arm, will begin studying
+the fresh soil at the bottom of this trench later today for clues to
+its mineral composition and history. Scientists chose this particular
+site for digging because previous data taken by the rover's miniature
+thermal emission spectrometer indicated that it contains crystalline
+hematite, a mineral that sometimes forms in the presence of water. The
+brightness of the newly-exposed soil is thought to be either intrinsic
+to the soil itself, or a reflection of the Sun.
+2/19/2004
+
+The Mars Exploration Rover Opportunity dragged one of its wheels back
+and forth across the sandy soil at Meridiani Planum to create a hole
+(bottom left corner) approximately 50 centimeters (19.7 inches) long by
+20 centimeters (7.9 inches) wide by 9 centimeters (3.5 inches) deep.
+The rover's instrument deployment device, or arm, will begin studying
+the fresh soil at the bottom of this trench later today for clues to
+its mineral composition and history. Scientists chose this particular
+site for digging because previous data taken by the rover's miniature
+thermal emission spectrometer indicated that it contains crystalline
+hematite, a mineral that sometimes forms in the presence of water. The
+brightness of the newly-exposed soil is thought to be either intrinsic
+to the soil itself, or a reflection of the Sun.
+2/19/2004
+
+2/17/2004
+
+2/17/2004
+
+2/14/2004
+
+2/12/2004
+
+2/9/2004
+
+2/8/2004
+
+Rock abrasion tool, also known as "rat" (circular device in center),
+located on the rover's instrument deployment device, or "arm."
+2/8/2004
+
+2/7/2004
+
+2/7/2004
+
+2/7/2004
+
+A region at the end of the rock outcrop lining the small crater, called
+"Eagle Crater." The sphere-like grains or "blueberries" dotting the
+rocks in the outcrop can also be seen above the rocks, suggesting that
+these geologic features have origins beyond Eagle Crater.
+2/7/2004
+
+2/3/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+1/28/2004
+
+These layered rocks measure only 10 centimeters (4 inches) tall and are
+thought to be either volcanic ash deposits or sediments carried by
+water or wind.
+1/27/2004
+
+1/26/2004
+
+
+
+
+Opportunity Photos
+
+
+
+
+Mars in Color, from “Spirit”
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/11/2004
+
+4/7/2004
+
+4/7/2004
+
+4/7/2004
+
+4/6/2004
+
+4/5/2004
+
+4/5/2004
+
+4/5/2004
+
+4/5/2004
+
+4/5/2004
+
+no violet/indigo
+4/5/2004
+
+4/5/2004
+
+4/4/2004
+
+4/4/2004
+
+4/3/2004
+
+4/3/2004
+
+4/3/2004
+
+4/1/2004
+
+3/31/2004
+
+3/30/2004
+
+3/29/2004
+
+3/29/2004
+
+3/27/2004
+
+This image was taken by NASA's Mars Exploration Rover Spirit on sol 79
+after completing a two-location brushing on the rock dubbed "Mazatzal."
+A coating of fine, dust-like material was successfully removed from
+targets named "Illinois" (right) and "New York" (left), revealing clean
+rock underneath. The center of the two brushed spots are approximately
+10 centimeters (3.9 inches) apart and were aggressively analyzed by the
+instruments on the robotic arm on sol 80. On sol 81, the rover drilled
+into the New York target to expose the original rock underneath.
+3/26/2004
+
+3/25/2004
+
+3/25/2004
+
+3/25/2004
+
+This hazard-avoidance camera image was taken by NASA's Mars Exploration
+Rover Spirit on sol 79 after completing a two-location brushing on the
+rock dubbed "Mazatzal." A coating of fine, dust-like material was
+successfully removed from targets named "Illinois" (right) and "New
+York" (left), revealing clean rock underneath. In this image, Spirit's
+panoramic camera mast assembly, or camera head, can be seen shadowing
+Mazatzal's surface. The center of the two brushed spots are
+approximately 10 centimeters (3.9 inches) apart and were aggressively
+analyzed by the instruments on the robotic arm on sol 80. On sol 81,
+the rover drilled into the New York target to expose the original rock
+underneath.
+Note: The raw images are under the pan camera with color filters. ???
+3/24/2004
+
+NASA's Mars Exploration Rover Spirit took this panoramic camera image
+of the rock target named "Mazatzal" on sol 77 (March 22, 2004). It is a
+close-up look at the rock face and the targets that will be brushed and
+ground by the rock abrasion tool in upcoming sols.
+Mazatzal, like most rocks on Earth and Mars, has layers of material
+near its surface that provide clues about the history of the rock.
+Scientists believe that the top layer of Mazatzal is actually a coating
+of dust and possibly even salts. Under this light coating may be a more
+solid portion of the rock that has been chemically altered by
+weathering. Past this layer is the unaltered rock, which may give
+scientists the best information about how Mazatzal was formed.
+Because each layer reveals information about the formation and
+subsequent history of Mazatzal, it is important that scientists get a
+look at each of them. For this reason, they have developed a multi-part
+strategy to use the rock abrasion tool to systematically peel back
+Mazatzal's layers and analyze what's underneath with the rover's
+microscopic imager, and its Moessbauer and alpha particle X-ray
+spectrometers.
+The strategy began on sol 77 when scientists used the microscopic
+imager to get a closer look at targets on Mazatzal named "New York,"
+"Illinois" and "Arizona." These rock areas were targeted because they
+posed the best opportunity for successfully using the rock abrasion
+tool; Arizona also allowed for a close-up look at a range of tones. On
+sol 78, Spirit's rock abrasion tool will do a light brushing on the
+Illinois target to preserve some of the surface layers. Then, a
+brushing of the New York target should remove the top coating of any
+dust and salts and perhaps reveal the chemically altered rock
+underneath. Finally, on sol 79, the rock abrasion tool will be
+commanded to grind into the New York target, which will give scientists
+the best chance of observing Mazatzal's interior.
+The Mazatzal targets were named after the home states of some of the
+rock abrasion tool and science team members.
+3/23/2004
+
+used violet for blue
+3/22/2004
+
+3/22/2004
+
+3/22/2004
+
+3/22/2004
+
+3/22/2004
+
+This image of the rock called "Mazatzal" was taken by the Mars
+Exploration Rover Spirit. It reveals some interesting features on this
+future rock abrasion tool target, including variants in tone, a sugary
+surface texture and scalloped areas where parts of the rock seem to
+have been worn away. Mazatzal's uniqueness is made even more obvious
+when it is compared to the more typical, basaltic rock in the lower
+right of the image.
+3/21/2004
+
+3/17/2004
+
+3/17/2004
+
+The Mars Exploration Rover Spirit acquired this navigation camera image
+on the 72nd martian day, or sol, of its mission (March 15, 2004), after
+digging its wheel into the drift dubbed "Serpent." Creating the
+commands that would generate this "scar" was not an easy task for rover
+controllers. Essentially, they had to choreograph an intricate dance
+for Spirit, maneuvering it up the side of the dune, shimmying its left
+front wheel a number of times to create the scuff, and then reversing
+to attain proper positioning for miniature thermal emission
+spectrometer observations. Before the task was finished, Spirit moved
+forward to put the scuff within proper reach of the rover's arm.
+This scar allows the rover's instruments to see below the drift
+surface, to determine the composition of the materials. Initial results
+indicate that the drift material is similar to the basaltic sands that
+have been seen throughout Spirit's journey to the large crater dubbed
+"Bonneville." The material does not seem to be the same as that inside
+the crater.
+Scientists are now looking to answer two questions: Why is the dark
+sand in the crater not the same as the dark sand in the drift? And why
+are there two different dark soil-type deposits in such a small place?
+3/17/2004
+
+3/17/2004
+
+3/15/2004
+
+3/15/2004
+
+3/14/2004
+
+3/14/2004
+
+3/12/2004
+
+3/11/2004
+
+3/9/2004
+
+3/9/2004
+
+2/28/2004
+
+2/27/2004
+
+"Humphrey" at Gusev Crater, Mars, the Mars Exploration Rover Spirit's
+landing site. Spirit examined the lumpy rock with its suite of
+scientific instruments both before and after it drilled a hole into the
+rock surface on the 60th martian day, or sol, of its mission.
+"Humphrey" was one of several stops on the rover's way to the large
+crater dubbed "Bonneville."
+2/27/2004
+
+2/27/2004
+
+The large, shadowed rock in the foreground is nicknamed "Sandia" for a
+mountain range in New Mexico. An imposing rock, "Sandia" is about 33
+centimeters high and about 1.7 meters long. When lightened, this image
+reveals much about the pictured rocks, which the science team believes
+are ejected material, or ejecta, from the nearby crater called
+"Bonneville." Scientists believe "Sandia" is a basaltic rock that
+landed on its side after being ejected from the crater. The vertical
+lines on the side of the rock facing the camera are known by geologists
+as "flow banding" and typically run horizontally, indicating that
+"Sandia" is on its side. What look like small holes on the two visible
+sides of the rock are called vesicles; they were probably once gas
+bubbles within the lava. Many smaller rocks can be seen in the
+background of the image. Some rocks are completely exposed, while
+others are only peeking out of the surface. Scientists believe that two
+processes might be at work here: accretion, which occurs when winds
+deposit material that slowly buries many of the rocks; and deflation,
+which occurs when surface material is removed by wind, exposing more
+and more of the rocks.
+
+2/26/2004
+
+2/18/2004
+
+2/18/2004
+
+2/17/2004
+
+2/14/2004
+
+2/14/2004
+
+2/14/2004
+
+2/14/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+2/13/2004
+
+Magnetic dust collector
+2/12/2004
+
+2/10/2004
+
+White Boat is the first rock target that Spirit drove to after
+finishing a series of investigations on the rock Adirondack. White Boat
+stood out to scientists due to its light color and more tabular shape
+compared to the dark, rounded rocks that surround it.
+2/9/2004
+
+This is the Spirit's arm that does brushing, grinding, and drilling.
+2/6/2004
+
+This is the Spirit's arm that does brushing, grinding, and drilling.
+2/2/2004
+
+
+
+
+Spirit Photos
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK COLOR IMAGES FROM MARS ROVERS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

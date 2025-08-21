@@ -1,0 +1,2645 @@
+The Project Gutenberg eBook of The Use of Ropes and Tackle
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Use of Ropes and Tackle
+
+Author: Homer J. Dana
+        W. A. Pearl
+
+Release date: February 17, 2018 [eBook #56585]
+                Most recently updated: February 3, 2022
+
+Language: English
+
+Credits: Chris Curnow, Paul Marshall and the Online Distributed Proofreading Team
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE USE OF ROPES AND TACKLE ***
+
+
+
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs “=” before and after a word or phrase indicate =bold=
+    in the original text.
+  Illustrations have been moved so they do not break up paragraphs.
+  Old or antiquated spellings have been preserved.
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+  Fractions have been changed from “d/d” format to single character
+    fractions, e.g. 1/2 --> ½. However, unusual fractions cannot be
+    converted and are left unchanged. If the unusual fraction occurs
+    inside a table, then all fractions in that table retain the original
+    format, for consistent appearance.
+
+
+
+
+                            MONTHLY BULLETIN
+
+                   OF THE STATE COLLEGE OF WASHINGTON
+                          PULLMAN, WASHINGTON
+
+             VOLUME IV       DECEMBER, 1921       NUMBER 7
+
+                            The Use of Ropes
+                               and Tackle
+
+                             By H. J. DANA
+                 Specialist in Experimental Engineering
+                                  and
+                              W. A. PEARL
+                  Instructor in Mechanical Engineering
+
+                             [Illustration]
+
+                       ENGINEERING BULLETIN NO. 8
+                     Engineering Experiment Station
+                        H. V. CARPENTER, Director
+                                  1922
+
+        Entered as second-class matter September 5, 1919, at the
+        postoffice at Pullman, Wash., under Act of Aug. 24, 1912
+
+
+The ENGINEERING EXPERIMENT STATION of the State College of Washington
+was established on the authority of the act passed by the first
+Legislature of the State of Washington, March 28th, 1890, which
+established a “State Agricultural College and School of Science”,
+and instructed its commission “=to further the application of the
+principles of physical science to industrial pursuits=.” The spirit
+of this act has been followed out for many years by the Engineering
+Staff, which has carried on experimental investigations and published
+the results in the form of bulletins. The first adoption of a definite
+program in Engineering research, with an appropriation for its
+maintenance, was made by the Board of Regents, June 21st, 1911. This
+was followed by later appropriations. In April, 1919, this department
+was officially designated, Engineering Experiment Station.
+
+The scope of the Engineering Experiment Station covers research in
+engineering problems of general interest to the citizens of the State
+of Washington. The work of the station is made available to the public
+through technical reports, popular bulletins, and public service. The
+last named includes tests and analyses of coal, tests and analyses of
+road materials, testing of commercial steam pipe coverings, calibration
+of electrical instruments, testing of strength of materials, efficiency
+studies in power plants, testing of hydraulic machinery, testing of
+small engines and motors, consultation with regard to theory and design
+of experimental apparatus, preliminary advice to inventors, etc.
+
+Requests for copies of the engineering bulletins and inquiries for
+information on engineering and industrial problems should be addressed
+to Director, The Engineering Experiment Station, State College of
+Washington, Pullman, Washington.
+
+The Control of the Engineering Experiment Station is vested in the
+Board of Regents of the State College of Washington.
+
+                            BOARD OF REGENTS
+
+  Hon. Louis F. Hart, Governor of the State,                     Olympia
+  R. C. McCroskey,                                              Garfield
+  Adam Duncan Dunn,                                               Wapato
+  Edwin A. Ritz,                                             Walla Walla
+  A. W. Davis,                                                   Spokane
+  J. H. Hulbert,                                              Mt. Vernon
+  E. O. Holland, Secretary Ex-Officio, President State College   Pullman
+
+
+                  ENGINEERING EXPERIMENT STATION STAFF
+
+  Director,                              H. V. Carpenter, B. S., M. S.
+  Experimental Engineering,         Homer J. Dana, B. S., M. S., M. E.
+  Electrical Applications,      Philip S. Biegler, B. S., M. S., E. E.
+  Electrical Standardizations,                  Harry F. Lickey, B. S.
+  Automotive Engineering                        Aschel C. Abell, B. S.
+  Steam Engineering,                        A. R. Nottingham, M. M. E.
+  Mechanical Design,                               E. B. Parker, B. S.
+  Engineering Materials,                     G. Everett Thorton, B. S.
+  Gas Power,                                   William A. Pearl, B. S.
+  Steam Power,                                 Robert L. Rhoads, M. S.
+  Mining Engineering,                    Louis O. Howard, A. B., M. E.
+  Metallurgical Engineering,                  Chester G. Warfel, M. E.
+  Economic Geology,                      Olaf P. Jenkins, A. B., A. M.
+  Irrigation and Structures,           Osmar L. Waller, Ph. B., Ph. M.
+  Municipal Engineering,                       Morris K. Snyder, B. S.
+  Highway Engineering,                  Howard E. Phelps, B. S., C. E.
+  Topographical Engineering,           Frederic W. Welch, B. S., C. E.
+  Architectural Engineering,                     Rudolph Weaver, B. S.
+  Agricultural Engineering,                         L. J. Smith, B. S.
+  Physics,                             Brenton L. Steele, B. A., M. A.
+  Chemical Engineering,             Clare Chrisman Todd, B. S., Ph. D.
+
+
+
+
+         TABLE OF CONTENTS
+
+
+  LIST OF ILLUSTRATIONS             5
+  SOURCES OF MATERIAL               7
+  INTRODUCTION                      8
+  KNOTS                             9
+  SPLICES                          25
+  HITCHES                          28
+  LASHINGS                         43
+  TACKLE SETS                      45
+  HOISTS                           53
+  TRANSMISSION CABLES              55
+  TEXTILE ROPE DATA                57
+  WIRE ROPE DATA                   58
+  SPLICING TRANSMISSION CABLES     62
+  POWER TRANSMISSION TABLES        66
+  LIST OF ENGINEERING BULLETINS    68
+
+
+
+
+     LIST OF ILLUSTRATIONS
+
+
+ =Fastening Knots=.
+    1. Over-hand knot.
+    2. Double knot.
+    3. Figure 8 knot.
+    4. Double Figure 8 knot.
+    5. Square knot.
+    6. Reef knot.
+    7. Sq. served or whipped knot.
+    8. Slipped Square knot.
+    9. Open-hand knot.
+    10. Granny knot.
+    11. Fisherman’s knot.
+    12. Ordinary knot.
+    13. Ordinary knot whipped.
+    14. Weaver’s knot.
+    15. Hawser knot, or Sheet Bend.
+    16. Double Sheet Bend.
+    17. Garrick Bend knot.
+    18. Half-hitch and whipping knot.
+    19. Slip knot.
+    20. Bowline knot.
+    21. Running Bowline knot.
+    22. Loop knot.
+    23. Tom-fool knot.
+    24. Boat knot.
+    25. Surgeon’s knot.
+    26. Bowline on the bight.
+    27. Spanish Bowline.
+    28. Flemish Bowline.
+    29. Hawser knot with toggle.
+
+ =Ending Knots=.
+     30. Whipping.
+     31. Single Crown Tucked.
+     32. Wall knot Tucked.
+     33. Matthew Walker.
+     34. Double Wall or Crown knot.
+     35. Stevedore.
+     36. Chain knot.
+
+ =Shortening Knots=.
+     37. Whipped Shortening.
+     38. Three fold shortening.
+     39. Sheepshank.
+     40. Sheepshank for free end rope.
+     41. Sheepshank with toggle.
+     42. Sheepshank ends whipped.
+     43. Bow Shortening.
+
+  =Splices=.
+     44. Short Splice.
+     45. Eye Splice.
+     46. Long Splice.
+     47. Chain Splice.
+     48. Cut Splice.
+
+ =Hitches=.
+    49. Half hitch.
+    50. Timber hitch.
+    51. Clove or Builder’s hitch.
+    52. Rolling Hitch (A).
+    53. Rolling Hitch (B).
+    54. Snubbing hitch.
+    55. Timber hitch and half-hitch.
+    56. Chain hitch.
+    57. Twist hitch.
+    58. Twist and bow hitch.
+    59. Blackwall hitch.
+    60. Lark’s head with toggle.
+    61. Round turn and half-hitch.
+    62. Fisherman’s hitch.
+    63. Cat’s paw hitch.
+    64. Slippery hitch.
+    65. Double Blackwall.
+    66. Slip knot and half-hitch.
+    67. Fisherman’s bend.
+    68. Taut line hitch.
+    69. Jam hitch.
+    70. Scaffold hitch.
+    71. Studding sail bend.
+    72. Midshipman’s hitch.
+    73. Bale sling.
+    74. Hamburger hitch.
+    75. Sling a cask head up.
+    76. Well pipe hitch.
+    77. Hackamore hitch.
+    78. Halter tie.
+    79. Horse hitch or tie.
+    80. Manger Tie.
+    81. Figure 8 Manger tie.
+    82. Harness hitch.
+    83. Strap hitch or line.
+    84. Clevis hitch.
+    85. Two-man Diamond hitch.
+    86. Two-man Diamond hitch.
+    87. Two-man Diamond hitch.
+    88. Packer’s knot.
+    89. One-man Diamond hitch.
+    90. One-man Diamond hitch.
+    91. One-man Diamond hitch.
+    92. Two-man Diamond hitch.
+    93. Spar and Transom lashing.
+    94. Tripod lashing.
+
+ =Tackle Sets and Hoists=.
+     95. Single Whip.
+     96. Running Tackle.
+     97. Gun Tackle (A).
+     98. Gun Tackle (B).
+     99. Whip on Whip.
+    100. Luff.
+    101. Port Tackle.
+    102. Double Luff.
+    103. Single Burton (A).
+    104. Single Burton (B).
+    105. Three Fold Purchase.
+    106. Four Fold Purchase.
+    107. Double Burton (A).
+    108. Double Burton (B).
+    109. Double Burton (C).
+    110. Double Burton (D).
+    111. Luff on Luff.
+    112. Double Burton (E).
+    113. Geared Chain Hoist.
+    114. Differential Chain hoist.
+    115. Chinese hoist or Capstan.
+    116. Snatch Block on Hay Rope.
+
+ =Transmission Cables=.
+    117. Cable splice.
+    118. Cable Splice.
+    119. Cable Splice.
+    120. Cable Splice.
+    121. Cable Splice.
+    122. Splicing Tools.
+    123. Splicing Tools.
+
+
+
+
+SOURCES OF MATERIAL
+
+
+In the compilation of this bulletin free use was made of the
+material given in the following books, bulletins, catalogs, etc.
+
+Knotting and Splicing Ropes and Cordage,
+       Paul M. Hashuk--Cassel & Co., New York.
+
+Knots, A. F. Aldridge, The Rudder Pub. Co., New York.
+
+Knots, Splices, and Rope Work, A. Hyatt Verril,--Norman W. Henly
+       Pub. Co., New York.
+
+Rope and its Use on the Farm, J. B. Frior--Ag. Exp. Sta. Bul.
+       No. 136, Univ. of Minn.
+
+Knots, Hitches and Splices, Howard W. Riley,
+       Cornell Reading Courses, New York State College of Agriculture,
+       Ithaca, New York.
+
+Story of Rope, Plymouth Cordage Co., North Plymouth, Mass.
+
+Rope Knots and Hitches, MacGreggor Smith, College of Agriculture,
+       Univ. of Saskatchewan, Saskatoon, Canada.
+
+Problems in Physics, War Department Committee on Education and
+       Special Training, Washington, D. C.
+
+Kent’s Mechanical Engineers Hand Book, John Wiley & Sons, New York.
+
+Encyclopedia Britannica.
+
+Rope and Its Uses, Iowa State College of Agriculture and Mechanic Arts.
+
+American Wire Rope, American Steel and Wire Company.
+
+Boy Scout Manual.
+
+Engineer Field Manual, Fifth Edition, Government Printing Office,
+       Washington, D. C.
+
+Rope Work, L. M. Roehl, The Bruce Publishing Co., Milwaukee, Wis.
+
+R. O. T. C. Engineer.
+
+Columbia Knots and Splices, Columbia Rope Co., Auburn, New York.
+
+American Boy Magazine--July 1917.
+
+
+
+
+INTRODUCTION
+
+
+Each year, old industries keep expanding and new ones are created. In
+many of these, the use of hoists, tackle, rope transmissions, etc. is
+ever increasing in extent and importance. Information on the selection
+and use of ropes and tackles and the tying of knots is very scattering
+and incomplete. The purpose of this bulletin is to collect information
+from all the different sources possible and assemble it under one
+cover, in the hope that it may be valuable to people in many different
+fields of activity. It is not meant to be an advanced treatise for
+those who consider themselves already proficient in the use of rope and
+tackle but is designed as an aid and reference to those less skilled in
+the art.
+
+A variety of knots and splices are shown with occasional suggestions as
+to their use and application. Some knots tie easily and are very secure
+but are not so easy to untie; others are easily and quickly tied--are
+secure and yet are not difficult to untie. Some knots are suitable for
+small cords only, and others are adapted to large ship’s hawsers. For
+these and other reasons, it is desirable to select the right knot for
+the job in hand.
+
+Nearly every individual at some time or other has gone camping. If he
+chanced to select a remote or inaccessible mountain side for a vacation
+trip, he probably had one or more pack animals to take in the supplies
+and camp outfit. How many could use the famous Diamond hitch to fasten
+the pack on the horse’s back so that it will not shift or fall off in
+transit?
+
+The desirability of correct selection with reference to the work to be
+done is also true of tackle sets. One type of tackle will give great
+mechanical advantage, but requires an excessive amount of rope or
+requires frequent overhauling to complete the job, while another type,
+using the same equipment, will not give such great mechanical advantage
+but does not require overhauling so often during the progress of the
+load.
+
+Rope is coming more and more into favor for the transmission of
+power--replacing gears and heavy leather belts. It is important that
+the proper sized sheave wheel be used with a rope of given diameter in
+order to secure the longest service from the transmission. It is also
+important that speed be considered in the calculation for necessary
+strength to transmit a certain amount of power. It is evident from
+these two instances alone that it is desirable that the selection of
+a rope transmission should be governed by the use of complete sets of
+data on the subject.
+
+Some of the knots, splices, etc. shown in this bulletin were found to
+have more than one name, or were called by different names by different
+authors. In such case only the most commonly used term was selected.
+
+
+
+
+KNOTS
+
+
+A knowledge of knots has saved many a life in storm and wreck, and if
+everyone knew how to tie a knot quickly and securely there would be
+fewer casualties in hotel and similar fires where a false knot in the
+fire escape rope has slipped at the critical moment and plunged the
+victim to the ground. Many an accident has occurred through a knot
+or splice being improperly formed. Even in tying or roping a trunk,
+few people tie a knot that is secure and quickly made and yet readily
+undone. How many can tie a tow rope to a car so it will be secure and
+yet is easily untied after the car has been hauled out of the mud? Or
+suppose a rope was under strain holding a large timber in midair and a
+strand in the derrick guy rope shows signs of parting. How many could
+attach a rope each side of the weak spot to take the strain?
+
+The principle of a knot is that no two parts which lie adjacent
+shall travel in the same direction if the knot should slip. Knots
+are employed for several purposes, such as, to attach two rope ends
+together, to form an enlarged end on a rope, to shorten a rope without
+cutting it, or to attach a rope to another rope or object. Desirable
+features of knots are that they may be quickly tied, easily untied and
+will not slip under a strain. In a number of cases a toggle is used
+either to aid in making the knot or make it easier to untie after a
+strain has been applied.
+
+A number of terms are commonly used in tying knots. The “standing” part
+is the principal portion, or longest part of the rope. The “bight” is
+the part curved, looped or bent, while working or handling the rope in
+making a knot, and the “end” is that part used in forming the knot or
+hitch. The loose, or free end, of a rope should be knotted or whipped
+to prevent it from raveling while in use.
+
+
+Strength of Knots
+
+If a knot or hitch of any kind is tied in a rope its failure under
+stress is sure to occur at that place. Each fiber in the straight part
+of the rope takes its proper share of the load, but in all knots the
+rope is cramped or has a short bend, which throws an overload on those
+fibers that are on the outside of the bend and one fiber after another
+breaks until the rope is torn apart. The shorter the bend in the
+standing rope the weaker the knot. The approximate strength of several
+types of knots in percent, of full strength of a rope is given in the
+table below, as an average of four tests.
+
+  1. Full strength of dry rope                   100%
+  2. Eye splice over an iron thimble              90%
+  3. Short splice in rope                         80%
+  4. Timber hitch, round turn and half hitch      65%
+  5. Bowline, slip knot, clove hitch              60%
+  6. Square knot, weaver’s knot, sheet bend       50%
+  7. Flemish loop, over--hand knot                45%
+
+
+Fastening Knots
+
+Fig. 1. The over-hand knot is the simplest of all knots to make. It is
+made by passing the lose end of the rope over the standing part and
+back through the loop.
+
+Fig. 2. The Double knot is made by passing the free end of the rope
+through the loop twice instead of but once as in making an over-hand
+knot. This is used for shortening or for a stop on a rope, and is more
+easily untied than the over-hand knot. It is also known as a blood
+knot, from its use on whip lashes by slave drivers, etc.
+
+[Illustration: _Fig. 1; Fig. 2; Fig. 3; Fig. 4_]
+
+Fig. 3. The Figure Eight knot is similar to the over-hand knot except
+that the loose end of the rope is passed through the loop from the
+opposite side. It is commonly used to prevent a rope running through
+an eye or ring or tackle block. It is also used as the basis for
+ornamental knots, etc.
+
+Fig. 4. The Double Figure Eight knot is made by forming a regular
+figure eight and then following around with the end of the other rope
+as shown.
+
+Fig. 5. The Square knot is probably the commonest and most useful of
+all knots. It is strong and does not become jammed when being strained.
+Take the ends of the two ropes and pass the left end over and under the
+right end, then the right end over and under the left. Beware of the
+granny knot which is often mistaken for the square knot but is sure to
+slip under strain.
+
+Fig. 6. The Reef knot is a slight modification of the square knot. It
+consists merely of using the bight of the left or right end instead of
+the end itself, and is tied exactly as is the square knot. This makes
+the knot easy to untie by pulling the free end of the bight or loop.
+
+[Illustration: _Fig. 5; Fig. 6_]
+
+[Illustration: _Fig. 7; Fig. 8; Fig. 9; Fig. 10_]
+
+Fig. 7. If the Square or reef knot is used to join two ropes of unequal
+diameter, the knot is apt to slip unless the ends of the rope are
+whipped as shown.
+
+Fig. 8. A Square knot joining two ropes of unequal size is apt to slip
+with a result similar to that shown.
+
+Fig. 9. The Open-hand knot is made by tying an over-hand knot with two
+rope ends lying parallel. It is better than a square knot for joining
+two ropes of unequal diameter. Grain binders use this knot.
+
+Fig. 10. The Granny knot is often mistaken for a square knot and its
+use should by all means be avoided as it is almost sure to slip when
+a strain is applied, unless the ends are whipped. For large rope, a
+granny knot with ends whipped will hold securely and is easy to untie.
+
+[Illustration: _Fig. 11; Fig. 12; Fig. 13_]
+
+Fig. 11. The Fisherman’s knot is a simple type of knot formed by two
+simple over-hand knots slipped over the standing parts of the two
+ropes, and drawn tight. It is valuable for anglers as the two lines may
+be drawn apart by merely pulling on the loose ends of the rope.
+
+Fig. 12. The Ordinary knot is used for fastening two heavy ropes
+together and is made by forming a simple knot with the end of one rope
+and then interlacing the other rope around it, as shown.
+
+Fig. 13. Whipping the two ends of an Ordinary knot makes it more secure.
+
+Fig. 14. The Weaver’s knot is used to join small lines or
+threads and is made by forming a bight in one rope, passing the end
+of the second rope around the bight, back over itself and through the
+bight. Weavers use this knot in tying broken threads. When pulled
+tight, both ends point backward, and do not catch when pulled
+thru the loom.
+
+[Illustration: _Fig. 14; Fig. 15; Fig. 16; Fig. 17_]
+
+Fig. 15. The Hawser knot or sheet bend is used for joining stiff or
+heavy ropes and is not to be confused with the weaver’s knot. It
+resembles the bowline, and is easily untied.
+
+Fig. 16. The Double Sheet Bend is similar to the Hawser knot and is
+useful for the same purposes.
+
+Fig. 17. The Garrick bend is commonly used for joining two heavy
+hawsers which are too stiff to bend easily.
+
+Fig. 18. Another method of joining stiff hawsers is to use the
+Half-hitch and whipping. This is a satisfactory method of making a
+joint to be used for a considerable time.
+
+Fig. 19. The Slip knot as shown is a knot with many uses.
+
+Fig. 20. The Bowline knot is useful for forming a loop on the end of a
+rope. It is used frequently by stockmen to tie a horse or cow so that
+they will not choke themselves. It is always secure and easily untied.
+Use this knot in tying a tow rope to a car.
+
+[Illustration: _Fig. 18; Fig. 19_]
+
+Fig. 21. The Running Bowline is used for the same purposes as the slip
+knot in Fig. 19, but is much more secure. It will always run freely on
+the standing part of the rope, and is easily untied.
+
+[Illustration: _Fig. 20; Fig. 21_]
+
+Fig. 22. A Loop knot is useful for making fast to the middle of a rope
+where the ends are not free. It will pull tight under strain, and is
+not easily untied.
+
+Fig. 23. The Tom-fool knot is formed in the middle of a rope and may be
+used for the same purpose as the loop knot, except in this case either
+standing part of the rope may be strained without the knot failing, or
+slipping. It can be used for holding hogs. Place one loop over the
+hog’s snout and hold onto one rope. Release by pulling other rope. Can
+also be used from the ground for releasing hoisting tackle which has
+been used on a flag pole or other tall object.
+
+[Illustration: _Fig. 22_]
+
+Fig. 24. The Boat knot is formed by the aid of a toggle on a rope whose
+ends are not free, and is used for shortening or for stopping a ring on
+a taut line.
+
+[Illustration: _Fig. 23; Fig. 24; Fig. 25_]
+
+Fig. 25. The Surgeon’s knot is a modified form of the square knot, and
+if used with smooth cord, as in tying bundles, it holds very securely.
+The object of the double twist is to make the knot easy to tie without
+holding with the end of the finger.
+
+[Illustration: _Fig. 26_]
+
+Fig. 26. Bowline on the bight is easily made on the looped part of a
+rope which is double. It is used where a loop is desired which will
+not pull tight or choke and is easily untied. May be used for casting
+harness for horses.
+
+[Illustration: _Fig. 27_]
+
+Fig. 27. The Spanish Bowline is a knot which may be made in the middle
+of a long rope or in a bight at the end, and gives two single loops
+that may be thrown over two separate posts or both thrown over one.
+Either loop will hold without slipping and is easily untied.
+
+Fig. 28. The Flemish loop is similar to the Fisherman’s knot, Fig. 11,
+except that it is used for forming a loop on the end of a rope instead
+of joining two ropes. The loop or eye will not close up when strained.
+
+[Illustration: _Fig. 28_]
+
+[Illustration: _Fig. 29_]
+
+Fig. 29. The Hawser knot with toggle is formed exactly the same as the
+regular Hawser knot except that the toggle is inserted for the purpose
+of making it easy to loosen the knot after a strain has been applied.
+
+
+Ending Knots
+
+A group of knots somewhat different from those already described, are
+those used for ending ropes. Ending knots not only serve the purpose of
+giving a large end on the rope, but also take the place of whipping, in
+that they prevent the rope from unraveling. Sometimes an ending knot is
+also used for its ornamental value.
+
+[Illustration: _Fig. 30_]
+
+Fig. 30. A Whipping applied as shown is employed for keeping loose
+ends from fraying or unraveling, where the use to which the rope is to
+be put will not permit of a knot on the end. Strong cord is used for
+whipping. In splicing ropes, the whipping is removed before the splice
+may be considered complete.
+
+Fig. 31. The Single Crown, tucked, makes the rope end but slightly
+larger than the standing part, and serves to prevent the strands from
+unraveling. This gives a neat appearing end. To make this type of knot,
+leave the ends long enough so they can be brought down and tucked under
+the strands of the standing part. After tucking them under the first
+strand, as shown, halve each strand and tuck it again under the next
+strand of the standing part and continue this until the ends are
+completely tucked the whole length, thus giving a gradual taper to the
+end of the rope and also giving a knot that will stand by itself. The
+single crown not tucked, is not a good ending for a rope.
+
+[Illustration: _Fig. 31_]
+
+Fig. 32. The Wall knot is frequently used as an ending knot to prevent
+unraveling. It is very satisfactory where the rope does not need to
+pass through a block or hole which is but slightly larger than itself.
+The Wall knot may be tucked similar to the Crown and makes a very
+secure ending for a rope. For small ropes unlay the strands back, each
+three inches, and on larger ropes in proportion. Hold the rope in the
+left hand with the loose strands upward. With the right hand take the
+end of strand number one and bring it across the loose end in position
+with the thumb of the left hand, then take the rope, forming a loop and
+allowing the end to hang free. Hold strand number two and pass it under
+strand number one and hold it against the rope with the thumb of the
+left hand. Again with the right hand take strand number three and pass
+it under strand number two and up through the first loop formed. Then
+draw each of the strands gradually until the knot is tightened.
+
+Fig. 33. The Matthew Walker knot or Stopper knot is similar to the Wall
+knot except the ends are inserted through two loops instead of one
+as in the Wall knot. It can readily be made by loosely constructing
+the Wall knot as explained before and continuing as follows: pass the
+end number one through the loop with two, then end number two through
+the loop with three, and number three through the loop with one, then
+gradually tighten the knot by drawing in a little at a time on each
+strand.
+
+Fig. 34. The Double Wall or Crown knot is made exactly the same as the
+Single Crown or Wall knot, but instead of trimming off or tucking the
+ends in, they are carried around a second time, following the lay of
+the first as shown, and then the knot is pulled tight. When completed,
+the ends may be tucked in as was done in the Single Crown, or they may
+be trimmed off.
+
+[Illustration: _Fig. 32; Fig. 33; Fig. 34_]
+
+[Illustration: _Fig. 35_]
+
+Fig. 35. The Stevedore knot is similar to the Over-hand knot shown in
+Fig. 1, except that the end of the rope is served around the standing
+part two and half times before it is tucked through the bight. It is
+used where a knot is desired to keep the rope from running through a
+block or hole.
+
+
+Shortening Knots
+
+A third type of knots are those which are used where a rope is too long
+and where it is awkward to have the free ends hanging loose or where
+the ends are in use and the slack must be taken up in the middle of the
+rope. These are known as shortening knots. They are also sometimes used
+merely for ornament.
+
+Fig. 36. The Chain knot is frequently used for shortening and is made
+by forming a running loop, then drawing a bight of the rope through the
+loop, and a second bight through the first and so on until the rope has
+been shortened sufficiently. The free end should then be fastened by
+passing a toggle or the end of the rope through this last loop. To
+undo this shortening is very simple as all that is necessary is to
+either remove the toggle from the last loop or remove the end of the
+rope if it were used, and then pull on the free end until the knot is
+completely unraveled.
+
+[Illustration: _Fig. 36_]
+
+Fig. 37. The Whipped Shortening or Bend Shortening is one of the most
+easily made and is well adapted to heavy ropes where a shortening must
+be made quickly and where it is not to withstand a heavy strain.
+
+Fig. 38. Three-fold Shortening is started by making an Over-hand knot
+and continuing to tuck the end through the loop three more times, and
+drawing tight.
+
+Fig. 39. The Sheep-shank or Dog-shank as it is sometimes called, is one
+of the most widely used of all shortenings. It is made in several forms
+but the first form shown, while adaptable to fairly stiff ropes, will
+not withstand much strain. It is used for shortening electric light
+cords.
+
+Fig. 40. Sheep-shank for free end rope is similar to the plain
+Sheep-shank except the free end of the rope is passed through the
+loop. This makes a secure shortening, but it can not be used where
+the ends of the rope are not free.
+
+[Illustration: _Fig. 37; Fig. 38; Fig. 39; Fig. 40; Fig. 41_]
+
+Fig. 41. A Sheep-shank with toggle, is a plain Sheep-shank with the
+toggle inserted as shown, and makes the shortening as secure as that
+shown in Fig. 38. It is also easily untied.
+
+[Illustration: _Fig. 42_]
+
+Fig. 42. Sheep-shank with ends whipped is the same as in a plain
+Sheep-shank except the loop is whipped to the standing part of the
+rope. This makes the shortening as secure as those shown in Fig. 38,
+and Fig. 39.
+
+[Illustration: _Fig. 43_]
+
+Fig. 43. Bow-shortening is an ordinary knot in the middle of a rope
+in which a double bend has previously been made. It is not adapted to
+heavy ropes nor will it stand a heavy strain successfully.
+
+
+
+
+SPLICES
+
+
+In the use of ropes, occasion arises, many times, where it is necessary
+to join two ends together in such a way that the union is as strong
+as the rest of the rope and still not too large or irregular to pass
+through a hole or pulley block. Knots are unsuitable in that they will
+not pass through a block; they are unsightly, and usually are not as
+strong as the rest of the rope. The method of joining ropes to meet
+the above requirements is called splicing. There are two general types
+of rope splices known as the short splice and the long splice. Other
+applications of the former are made in the eye splice and the cut
+splice. The long splice is almost always used in splicing wire rope
+which runs through a block or over a sheave.
+
+[Illustration: _Fig. 44; Fig. 45_]
+
+Fig. 44. The Short-splice is made as follows: the two ends to be joined
+are untwisted for a few inches and the rope is whipped temporarily
+to prevent further unwinding. The end of each strand is also whipped
+temporarily to prevent unraveling. The strands may then be waxed if
+desired. The two rope ends are then locked together or “married” so
+that the strands from one end pass alternately between those from the
+other end. The strands from opposite sides are now in pairs. Take two
+strands from opposite sides as strands A and 1, tie a simple over-hand
+knot in its right hand form. Similarly with a right hand knot tie
+together the strands forming each of the pairs B and 2 and C and 3.
+Draw the knots tight, then pass each strand of the rope over the strand
+adjacent to it and under the next, coming out between two strands as at
+first. Repeat until the ends of the strands have been reached--leaving
+from half an inch to an inch and a half of ends hanging free so that
+when the rope is put under repeated strain for the first few days, the
+stretching of the splice will not pull the ends from under the last
+strand under which they were tucked. After a few days service the free
+ends may be safely trimmed even with the face of the rope. After the
+splice has been completed by tucking the ends as above, remove whipping
+on strands and lay the splice on the floor and roll it under the foot,
+or in the case of a large rope, pound it with a mallet to make it round
+and smooth. The appearance of the splice is improved if the strands are
+divided in half just before the last tuck is made, and one-half is cut
+off while the other half is used to complete the splice. This splice
+may also be made by simply laying the ropes together and then tucking
+them as above without first tying the simple Over-hand knots. A skilled
+workman frequently dispenses with the whipping in making a splice.
+
+Fig. 45. An Eye-splice is so much smaller and neater than a knotted eye
+in the end of a rope that it is much to be preferred to the latter. The
+Eye-splice is made similar to the short-splice except that the strands
+on the end of the rope are unlaid for the full length of the splice.
+The ends are tucked under, over and under, etc., the strands of the
+standing part of the rope. Stretch well and cut off the loose ends of
+the strands.
+
+Fig. 46. Long splice. If it is desired to unite two rope ends so that
+the splices will pass through a pulley as readily and smoothly as the
+rope itself, what is known as a Long splice is used. This is best
+suited as it does not cause an enlargement in the rope at the point
+where the splice is made. To make it, unlay the ends of two ropes to
+the length of at least five and a half times the circumference of the
+rope. Interlace the strands as for the Short splice. Unlay one strand
+and fill up the vacant space which it leaves with the strand next to it
+from the other rope end. Then turn the rope over and lay hold of the
+two next strands that will come opposite their respective lays. Unlay
+one, filling up the vacant space as before, with the other. Take one
+third out of each strand, knot the opposite one-thirds together and
+heave them well in place. Tuck all six ends once under adjacent strands
+and having stretched the splice well, cut off the ends. The ending of
+successive pairs should occur at intervals in the splice as shown, and
+not at the two ends as in the Short splice.
+
+[Illustration: _Fig. 46; Fig. 47; Fig. 48_]
+
+Fig. 47. A Chain splice is used for splicing a rope into a chain end
+which is required to travel through a block or small opening. It is
+also sometimes used for making an ordinary eye in the end of a rope.
+Four or six strand rope lends itself more readily to this type of splice
+than does a three strand rope. To make a chain splice, unlay the
+strands more than for an eye splice, then unlay a little further one
+strand in a three strand rope, and two strands in a four strand rope.
+Bend the two parts together and tie an Over-hand knot so that the
+divided strands will lay together again. Continue to lay the ends in by
+passing them through the eye. When the eye has been completely laid up,
+the remaining ends should be tucked in the standing part of the rope
+as in a very short splice. This makes an eye which will not pull out
+even if the ends of the strands are only whipped without first tucking.
+It is especially valuable in forming smooth eyes in steel cable,
+without the use of clamps. In this case, however, the eye must be made
+considerably longer than in the case of hemp rope.
+
+Fig. 48. The Cut splice is formed similar to the Eye splice, except
+that the two rope ends are extended past each other and joined into the
+standing part of the ropes. This type of splice is frequently used to
+hold the rings in rope ladders. It can also be used where it is desired
+to attach a spar or rod to the middle of a line.
+
+
+
+
+HITCHES
+
+
+The knots so far described are used mainly for fastening rope ends
+together or for ending a rope. A quite different class of knots is that
+used for fastening a rope to a stationary or solid object. This type of
+knots is known as hitches.
+
+Hitches as well as other types of knots should be easily made, should
+not slip under strains and should be easily untied. If all ropes
+were the same size and stiffness it would be possible to select two
+or three knots which would meet all requirements. But, since this is
+not true and since a knot suitable for a silken fish line will not be
+satisfactory for a ship’s hawser, we find a great variety of knots,
+each of which is designed to meet some special requirements of service.
+The following illustrations show a variety of the most typical and
+useful knots used on fiber or manila rope.
+
+Fig. 49. The Half-hitch is good only for temporary fastenings where
+pull is continuous. It is usually used as part of a more elaborate
+hitch.
+
+Fig. 50. The Timber-hitch is very similar to the Half-hitch but is much
+more permanent and secure. Instead of the end being passed under the
+standing part once it is wound around the standing part three or four
+times as shown.
+
+[Illustration: _Fig. 49; Fig. 50; Fig. 51; Fig. 52_]
+
+Fig. 51. The Clove, or Builder’s-hitch, is more secure than either of
+the above hitches. It will hold fast on a smooth timber and is used
+extensively by builders for fastening the staging to upright posts. It
+will hold without slipping on wet timber. It is also used to make the
+scaffold hitch.
+
+Fig. 52. The Rolling-hitch is made by wrapping the rope three or four
+times around the object to which it is to be fastened and then making
+two half-hitches around the standing part of the rope. It is then drawn
+tight. This hitch is easily and quickly made and is very secure.
+
+Fig. 53. This illustrates another type of Rolling-hitch very similar to
+the above but which is not as secure under a heavy strain.
+
+[Illustration: _Fig. 53; Fig. 54_]
+
+Fig. 54. The Snubbing-hitch is made by passing the rope around the
+object to which it is desired to fasten it, and then making what is
+known as a Taut-line hitch, Figure 68, about the standing part of the
+rope.
+
+[Illustration: _Fig. 55; Fig. 56_]
+
+Fig. 55. Timber-hitch and Half-hitch is a combination of the two
+separate hitches shown in Fig. 49 and Fig 50. It is more secure than
+either used alone.
+
+Fig. 56. The Chain-hitch is a combination of the above hitch and two
+or more half-hitches. It is used for hauling in a larger rope or cable
+with a tow line, etc.
+
+Fig. 57. The Twist-hitch is more secure than the Half-hitch and it is
+suitable only where the strain is continuous.
+
+Fig. 58. Twist-and-bow-hitch is similar to the Simple Twist-hitch but
+is easier to untie.
+
+[Illustration: _Fig. 57; Fig. 58; Fig. 59; Fig. 60; Fig. 61_]
+
+Fig. 59. The Blackwall-hitch is widely used as illustrated. The greater
+the strain the more securely it holds, but it is unreliable if the rope
+is slack. This hitch can be used with chain as well as rope.
+
+Fig. 60. The Lark’s-head with toggle is easily made and is
+used as a rule where it is desired to have a type of hitch which is
+easily and quickly released.
+
+Fig. 61. Round-turn-and-half-hitch is suitable for a more or
+less permanent method of attaching a rope to a ring. Whipping the
+end to the standing part of the rope makes it quite permanent.
+
+[Illustration: _Fig. 62; Fig. 63; Fig. 64; Fig. 65; Fig. 66_]
+
+Fig. 62. The Fisherman’s hitch is used for fastening large ropes or
+lines to rings and is very similar to the hitch shown in Fig. 61. It is
+improved by whipping the free end to the standing part.
+
+Fig. 63. The Cat’s-paw-hitch is suitable for attaching a hook to the
+middle part of a rope where the ends are not free. Strain may be taken
+on either or both ends. It is easily released.
+
+Fig. 64. The Slippery-hitch is easily made, but has the objection that
+it draws very tight under strain, making it hard to untie.
+
+Fig. 65. The Double Blackwall is similar to the Single Blackwall and is
+used for the same purpose.
+
+Fig. 66. The Slip Knot and Half-hitch constitute a combination that
+is used for the same purpose as the Flemish loop. It is made by first
+tying a slip knot so that it will run on the short end of the rope.
+Then complete by tying a half hitch with the short end as shown.
+
+[Illustration: _Fig. 67; Fig. 68_]
+
+Fig. 67. The Fisherman’s-bend is similar to the Fisherman’s-hitch
+except that the half hitches are replaced with whipping.
+
+Fig. 68. A Taut-line-hitch is used for attaching a rope to another rope
+already under strain, where no slack is available for making any other
+hitch. It is not secure unless pulled very tight. A few threads of hemp
+or marlin served about the taut line for the knot to pull against will
+improve the hitch.
+
+[Illustration: _Fig. 69; Fig. 70; Fig. 71; Fig. 72_]
+
+Fig. 69. The Jam Hitch is used in tying up light packages, such as
+bundles of lath, small boxes, rolls of paper, and the like. It is a
+hitch that will slide along a cord in one direction, but will jam
+and hold against moving the other way and will be found exceedingly
+convenient. The Jam Hitch will answer the requirements provided the
+cord is large enough and of not too hard a body nor too smooth a
+surface.
+
+Fig. 70. The Scaffold-hitch is very useful for slinging a scaffold so
+that it will not turn in the sling. It is started by making a Clove
+hitch with the two free ends of the rope below the scaffold. Then draw
+each rope back on itself and up over opposite sides of the board, where
+the short end is joined to the other with a bowline. Plenty of slack in
+the Clove will make it possible to draw the bight of each end out to
+the edge of the scaffold as shown in the left of the figure. The two
+illustrations at the right of the figure show another method of making
+a Scaffold hitch. Wrap the rope around the scaffold plank so that it
+crosses the top of the plank three times. Pull the middle loop as shown
+by the arrow and fold it down over the end of the plank, resulting as
+shown in the illustration immediately to the left of the arrow. This
+is completed by attaching the free end to the standing part with a
+bowline. Both hitches are equally good.
+
+Fig. 71. The Studding-sail-bend is frequently employed on shipboard for
+attaching a rope or line to a spar.
+
+Fig. 72. The Midshipman’s-hitch is somewhat similar to the Snubbing
+hitch shown in Figure 54, but is perhaps a little easier to make if the
+rope is under a strain while being tied.
+
+[Illustration: _Fig. 73; Fig. 74; Fig. 75; Fig. 76_]
+
+Fig. 73. A Bale-sling as shown is useful where it is necessary to hoist
+an object to which it is difficult to attach the hoisting tackle. It
+may be used on bales, sacks, kegs, etc.
+
+Fig. 74. The Hamburger hitch is useful in connection with a bale sling
+which is too long for the object it is carrying. It is also used to
+balance the load where two slings are used. The sling is placed around
+the load as in Fig. 73. Then with the loop end of the sling form a
+second loop as shown. Where the two ropes cross start to tie a square
+or Reef knot. Draw up the loops as shown, resulting in the Hamburger
+hitch. This may be adjusted by running the knot up or down the rope
+while slack, but it will not slip under strain.
+
+Fig. 75. Sling for a cask, head up, is very useful where it is desired
+to hoist an open barrel of water or lime or other material. Tie an
+ordinary knot over the barrel lengthwise. Then separate the two ropes
+in the middle of the twisted part and drop them over the head of the
+cask or barrel. Fasten the two rope ends together above the barrel as
+shown with a bowline.
+
+Fig. 76. A Well Pipe Hitch is used in hoisting pipe, where no special
+clamp is available for attaching the hoisting tackle to the pipe. The
+hitch shown will pull tighter, the harder the strain, and is also easy
+to untie. Pull up all slack possible in the coils when forming the
+hitch, in order to prevent slipping when the strain is first applied.
+
+[Illustration: _Fig. 77_]
+
+Fig. 77. The Hackamore hitch is commonly known and used as an emergency
+rope bridle or halter, in the western part of the United States. Among
+sailors it is known as a running turk’s head, and it may be used in
+carrying a jug or other vessel of similar shape. When used for a halter
+about twenty feet will be required. The knot is started by forming a
+bight in the center of the rope. Proceed as indicated in the successive
+illustrations shown. The result will be a running turk’s head. Draw
+together the two center ropes forming a bridle complete with bit,
+nose piece, head piece and reins. Such a bridle is not suitable for
+continuous use, to be sure, but it will be found useful in an emergency.
+
+Fig. 78. The Halter Tie is a knot preferred by some persons for use in
+hitching or in tying the halter rope in the stall. If properly set,
+it is secure and may be used in some cases in place of the underhand
+bowline knot. The halter tie should never be used around a horse’s
+neck, because if the tie is not set up correctly it forms a slip knot
+and its use might result in strangulation of the animal. In completing
+the tie draw the end through and set the knot by pulling first on the
+short end. This is important. If the long rope is pulled first and the
+kinks in it are straightened out, the tie forms a slip knot, being
+simply two half hitches around the rope.
+
+Fig. 79. Horse-hitch or tie is commonly used by farmers and stockmen
+to tie a horse or cow with a rope, so it will not choke itself. Tie
+an overhand knot in the standing part of the rope and leave open. Tie
+another overhand knot or a Stevedore knot in the end of the rope. Loop
+the rope around the animal’s neck and insert the knotted end through
+the open Overhand knot. This hitch will not slip and choke the animal.
+
+[Illustration: _Fig. 78; Fig. 79; Fig. 80; Fig. 81_]
+
+Fig. 80. The Manger tie is used for tying a horse or other animal to
+a manger or stanchion or hitching rack. The end of the halter rope is
+first passed through the hole in the manger with a bight or loop on the
+free end of the rope, tie a slip knot on the standing part. Stick the
+free end of the rope through the loop or bow as shown. This knot is
+easily and quickly tied, but under great strain will pull tight, making
+it hard to untie.
+
+Fig. 81. The Figure Eight Manger Tie is superior to the ordinary Manger
+Tie in that it will not pull tight under heavy strain such as would
+occur if the animal became frightened and attempted to break away. Pass
+the free end of the rope through the hole in the manger or around the
+hitching rack. Form a bight or loop with the free end of the rope and
+hold the loop along the standing part. With the free end form another
+loop and serve around both the first loop and the standing part.
+Complete the tie by inserting the second loop through the first loop
+and secure by inserting the free end of the rope through the second
+loop as shown. This is easily untied by first withdrawing the free end
+from the loop and then pulling on same until knot is untied.
+
+[Illustration: _Fig. 82; Fig. 83; Fig. 84_]
+
+Fig. 82. The Harness hitch is employed for forming a loop on a rope
+in such a way that strain may be applied to both ends and to the loop
+without slipping. Start to tie an Over-hand knot as shown. Reach
+through between the two twisted parts and draw the opposite side of the
+loop through, following the arrow. The completed harness hitch appears
+as shown.
+
+Fig. 83. The Strap hitch or Line knot is used to join the free ends of
+two leather driving lines on a team. It may be employed as an emergency
+tie for a broken line or strap but is not to be recommended as a
+permanent repair.
+
+Fig. 84. The Clevis hitch is used for forming a loop on the end of a
+rope which is both secure under strain and easily untied.
+
+
+The Diamond Hitch
+
+The present age of high speed transportation both on land and water,
+and in the air as well, has served to crowd pack animal transportation
+back into the hills and into those few regions where rail and sail have
+not yet penetrated. As a consequence, pack trains are fast becoming
+unknown, and the skill of the packer is fast being forgotten. The skill
+of the experienced packer is little short of marvelous, where he can
+catch a more or less wild pack animal and attach from 100 to 400 or
+500 pounds of stuff to his back so securely that it will ride all day
+without coming off. Different types of freighting, of course, gave
+rise to different methods of binding on the load, but the more widely
+used was, no doubt, some form of the famous Diamond Hitch. The early
+trappers of the Hudson’s Bay Company are credited with introducing the
+Diamond Hitch among the North-West Indians, and old trappers of the
+period of 1849, engaged in freighting to California, claim that the
+Mexicans used it at that time.
+
+Different packers have modified and used the Diamond Hitch to suit
+their needs. As an example, in rough country where there is frequent
+trouble with pack animals falling with their load, some packers tie the
+Diamond Hitch so that the final knot is on top of the animal’s back
+where it can be easily reached and loosened with the animal down. Under
+more favorable conditions, other packers use a Diamond Hitch in which
+the final tie is made on the side of the animal near the cinch hook.
+In fact, out of a group of old packers from different localities, the
+probability is that no two would tie the Diamond Hitch alike in every
+particular.
+
+The following illustrations of the Diamond Hitch are shown only as
+types actually in use by different men in the packing business. Other
+packers may have different methods of tying it more suited to the type
+of load they are handling. The cuts shown represent the appearance
+of the Diamond Hitch if the cinch were cut under the animal’s belly
+and the pack were flattened out and laid on the floor with the ropes
+undisturbed. This method clearly shows in one picture all the different
+parts of the hitch, so that those interested may follow it in making
+the hitch for themselves. The Government uses a Spanish packsaddle, or
+what is known as an aparejo--pronounced, ap-pa-ray-ho, but civilian
+packers often use the cross tree saddle. It consists of a padded board
+resting on each side of the animal’s backbone. These two padded boards
+are usually fastened together with two cross trees resembling a saw
+buck. There are different methods of placing the load on the saddle
+preparatory to lashing it fast with the Diamond Hitch. No attempt will
+be made to give complete instructions in packing. The hitches shown
+are given with the hope they will serve the prospective camper on his
+vacation to a retreat in the hills, or perhaps satisfy the interest of
+those who have heard of the Diamond Hitch but have never seen it tied.
+
+[Illustration: _Fig. 85; Fig. 86_]
+
+
+The Two Man Diamond Hitch
+
+Fig. 85. The Two Man Diamond Hitch is started by laying the middle of
+the rope lengthwise over the pack from head to tail with the free end
+of the rope at the head of the animal. Then the cinch hook is thrown
+under the animal’s belly and caught by the off packer. The near packer
+throws a bight over the pack and the off packer catches it in the cinch
+hook. The near packer pulls up on the rope, making it tight over the
+pack.
+
+Fig. 86. The two ropes over the pack are then twisted one and a half
+times and a loop pulled through as shown. In this case the loop first
+formed between the rope lying lengthwise and the part crossing the pack
+is lowered over the near side of the pack.
+
+[Illustration: _Fig. 87; Fig. 88_]
+
+Fig. 87. The hitch is then completed by the off packer, as shown. The
+difference between the one-man hitch and the two-man hitch is that they
+finish up on different sides of the animal. In the two Diamond Hitches
+shown, the final tightening pull is taken toward the head of the
+animal. Many packers tie the Diamond Hitch so that the final pull is
+taken to rearward of the animal. This can be done by laying the middle
+of the rope lengthwise of the pack with the end to the rear instead of
+toward the front of the animal.
+
+Fig. 88. The packer’s knot as shown consists of a clove hitch made
+around a standing rope. The second half hitch is made with a bight
+instead of the end of the rope. One or more half hitches are then
+thrown over this loop to make it secure. This knot, if pulled tight in
+making, will hold very securely, without slipping, and is easily untied
+by loosening the half hitches, and pulling on the free end of the rope.
+
+
+The One Man Diamond Hitch
+
+Fig. 89. The one man Diamond Hitch is employed by one packer working
+alone and requires that he make two trips around the animal in tying
+it. The rope is braided into a ring on one end of the cinch. The other
+end of the cinch carries a hook. Standing on the near side of the
+animal at its shoulder he first lays the middle of the rope across
+the pack from forward to back with the free end of the rope forward.
+He then throws the cinch over the pack and catches the hook under the
+animal’s belly. A loop of the rope is then caught under the cinch hook
+and pulled tight. Some packers, in using the one man Diamond Hitch,
+find it helps to hold the hitch tight if they take a double turn around
+the hook in making the first tightening.
+
+[Illustration: _Fig. 89; Fig. 90_]
+
+Fig. 90. Proceeding with the hitch, the two ropes over the pack
+crosswise are then twisted, lifting the forward strand up and back and
+pulling the rear strand forward and under. Two turns are made and then
+a loop of the rope lying forward and back over the top of the pack is
+drawn up between the two twisted ropes as shown. The loop formed on
+the off side between the part crosswise of the pack and the part of
+the rope crossing lengthwise of the pack, is formed over both corners
+of the off side of the pack. Then the loop drawn up between the two
+twisted ropes is lowered over the corners of the near side of the pack.
+
+Fig. 91. The final strain is taken on the free end of the rope passing
+along the neck of the animal and tied at the forward point of the
+diamond with a packer’s knot. If the animal should fall on either side,
+the knot is easily reached and untied. The free end of the rope
+is tucked under some part of the hitch or looped over the pack or
+otherwise disposed of. In making the Diamond Hitch, at no time is the
+end of the rope pulled through anywhere. This makes it easy to take off
+without becoming snarled.
+
+[Illustration: _Fig. 91; Fig. 92_]
+
+Fig. 92. The Diamond Hitch as mentioned above is frequently tied so
+that the knot occurs on the side of the animal opposite the cinch hook
+instead of on top. This hitch is tied so that the first loop is lowered
+over the rear corner only of the off side of the pack. In the two
+other hitches described above, the first loop included both corners of
+the pack, and finished with a knot on top. The Diamond Hitch shown is
+thrown by two packers.
+
+
+
+
+LASHINGS
+
+
+Fig. 93. To lash a Transom to an upright Spar with the transom in
+front of the upright. A clove hitch is made around the upright a few
+inches below the transom. The lashing is brought under the transom, up
+in front of it, horizontally behind the upright, down in front of the
+transom, and back behind the upright at the level of the bottom of the
+transom and above the clove hitch. The following turns are kept outside
+the previous ones on one spar and inside on the other, not riding over
+the turns already made. Four turns or more are required. A couple of
+frapping turns are then taken between the spar and transom, around
+the lashing, and the lashing is finished off either around one of the
+spars or any part of the lashing through which the rope can be passed.
+The final clove hitch should never be made around the spar on the side
+toward which the stress is to come, as it may jam and be difficult to
+remove. The lashing must be well beaten with handspike or pick handle
+to tighten it up. This is called a square lashing.
+
+[Illustration: _Fig. 93; Fig. 94_]
+
+Fig. 94. To lash three spars together as for a Gin or Tripod. Mark on
+each spar the distance from the butt to the center of the lashing.
+Lay two of the spars parallel to each other with an interval a little
+greater than the diameter. Rest their tips on a skid and lay the third
+spar between them with its butt in the opposite direction so that the
+marks on the three spars will be in line. Make a clove hitch on one of
+the outer spars below the lashing and take eight or nine loose turns
+around the three, as shown in Figure 94. Take a couple of frapping
+turns between each pair of spars in succession and finish with a clove
+hitch on the central spar above the lashing. Pass a sling over the
+lashing and the tripod is ready for raising.
+
+
+
+
+TACKLE SETS
+
+
+The use of block and tackle affords at least two advantages to the
+user. One is the advantage of position. The user may stand on the
+ground and pull downward--the most easy and natural way of exerting
+force, while the resulting forces may be developed upward as in the
+case of a hoist. The other advantage is mechanical. By the use of a
+combination of lines and sheaves, force applied by the user can be
+multiplied many times before it is transferred to act upon the body.
+But where there is gain in pounds force applied, there is always a
+counteracting loss due to an increase in the distance required to apply
+the force compared with the distance the weight or load will travel; as
+in Figure 96, a force of 100 lbs. on the free end of the rope will give
+a resultant on the object of 200 lbs. (neglecting loss by friction in
+rope and pulley) but distance travelled by the user will be two feet to
+one foot travelled by the object.
+
+The illustrations are shown in each case with an arbitrary force of
+100 lbs. applied to the free end of the rope. The resulting force
+(neglecting or disregarding friction) is then shown in all parts of the
+set. In actual practice the friction of the sheave and the resistance
+of the rope to bending gives rise to a loss of about 5% of the force
+applied to the rope passing through each sheave. For example in Fig.
+95 the force applied on the barrel would be 95% of that applied to the
+free end of the rope or 95 lbs. In Fig. 96 the resultant force would
+be 100 + (100 - 5) = 195 lbs. and in Fig. 97, the lift on the armature
+would be 185½ lbs. instead of 200 as shown.
+
+[Illustration: Fig. 95]
+
+The ropes are also separated in the illustrations in order to show each
+part clearly. The ropes are assumed to pull parallel to each other and
+the figures represent the pounds resulting in different parts of the
+set under those conditions. The illustrations show some of the most
+typical applications of block and tackle for mechanical advantage or
+advantage of position or both.
+
+Fig. 95. The Single Whip affords only advantage of position
+commonly used on a crane or derrick or perhaps for hauling an object
+up to a wall or to the water’s edge. Theoretical advantage 1:1.
+
+[Illustration: _Fig. 96_]
+
+Fig. 96. The Running tackle is similar to the Single Whip except that
+the object to be moved is attached at a different place. This gives a
+theoretical advantage of 2:1.
+
+Fig. 97. The Gun tackle A affords an advantage of position since the
+user stands on the ground and pulls down and the resultant force is
+applied to the object vertically upward. Theoretical advantage 2:1.
+
+Fig. 98. The gun tackle B is the same as gun tackle A except that its
+application is different, giving a theoretical advantage of 3:1.
+
+Fig. 99. Whip-on-whip multiplies the mechanical advantage by two, where
+applied as shown. If inverted and the top block applied to the load
+with the loop snubbed the mechanical advantage would be 4:1. In both
+cases two single blocks are used.
+
+Fig. 100. The Luff tackle has many applications aside from the one
+shown. Ordinarily consisting of one single and one double block and a
+single rope, it gives a theoretical mechanical advantage of 4:1 in
+the case shown.
+
+[Illustration: _Fig. 97; Fig. 98; Fig. 99; Fig. 100_]
+
+[Illustration: _Fig. 101; Fig. 102_]
+
+Fig. 101. The Port tackle, consisting of Single Whip and a Luff tackle
+may be applied when the level of operations changes from time to time
+and it is undesirable to apply the amount of rope necessary to make the
+Luff part of the set long enough to serve for all levels. A bale sling
+is also shown in use.
+
+Fig. 102. A Double Luff tackle has a four part line instead of a three
+part line as in the Single Luff.
+
+Fig. 103. A Single Spanish Burton (A) using two single blocks and one
+rope gives a greater mechanical advantage than the same equipment used
+as in Figure 97, the Gun Tackle. This is useful in shifting cargo, etc.,
+where the distance hoisted in not great.
+
+Fig. 104. A Single Spanish Burton (B) using three single blocks and
+two ropes, gives the same hoisting range as the Type A Burton, but a
+greater mechanical advantage.
+
+Fig. 105. Three Fold Purchase using a six part line, gives a
+theoretical mechanical advantage of 6:1 and an actual advantage of
+5·03:1, assuming a loss of 5% of the force on the rope passing over
+each sheave.
+
+[Illustration: _Fig. 103; Fig. 104_]
+
+[Illustration: _Fig. 105; Fig. 106_]
+
+Fig. 106. Four Fold purchase using two four-sheave blocks, is commonly
+used in derricks and hoists. The illustration shows the possibility of
+using four two-sheave blocks, where the larger sizes are not available.
+
+Fig. 107. The Double Burton (A), for one rope and two single blocks and
+one double block, gives a limited hoisting range which is desirable in
+shifting heavy weights when it is necessary to lift them but a small
+distance.
+
+Fig. 108. The Double Burton (B), while using exactly the same equipment
+as is used in Fig. 91, shows the large differences in mechanical
+advantage between different methods of threading up the set. The
+illustration also shows a box sling in use.
+
+Fig. 109. Double Burton (C), is a further application of the principle
+of the Spanish Burton, using two ropes.
+
+[Illustration: _Fig. 107; Fig. 108; Fig. 109_]
+
+[Illustration: _Fig. 110_]
+
+Fig. 110. Double Burton (D), using but one rope, illustrates the
+possiblity of using it to greater mechanical advantage than would be
+possible in a six fold purchase. However, in this case the hoisting
+range is less than would be possible in a six fold purchase.
+
+Fig. 111. Luff on Luff illustrates a common application of tackle to
+secure mechanical advantage. It will readily be recognized that the
+major tackle must be four times as strong as the other set if both are
+to be used anywhere near to capacity.
+
+Fig. 112. Another Double Burton which also illustrates the possibility
+of combining two blocks in place of one, with the required number of
+sheaves.
+
+[Illustration: _Fig. 111_]
+
+[Illustration: _Fig. 112_]
+
+
+
+
+CHAIN HOISTS
+
+
+Frequent use is made in garages, machine shops and other places, of a
+special device for hoisting heavy machine parts. The apparatus referred
+to is known as a chain hoist. These are built to use chain instead of
+rope and are designed to operate slowly, but with great mechanical
+advantage. Different types embody different design of movements, some
+being merely a train of gears attached to a sheave wheel and driven
+by a worm gear. Others employ the differential principle in which the
+hoisting chain is double, one end running over a small pulley and the
+other end running in the opposite direction over a larger pulley on the
+same shaft. As the small pulley unwinds one end of the chain slowly,
+the other pulley winds up the other end faster--thus raising the lower
+end of the chain loop. Chain hoists are made for various capacities,
+and can be built to raise the load any desired distance, merely by
+supplying chain long enough. A chain-hoist attached to a travelling
+crane makes a very satisfactory equipment for a shop where heavy parts
+are to be lifted and transferred and should be used wherever there is
+enough such work to warrant the greater first cost.
+
+Fig. 113. A Geared-chain-hoist showing a 1-ton hoist manufactured by
+the Wright Mfg. Co., of Lisbon, Ohio, using two chains, one for lifting
+and the other for operating.
+
+Fig. 114. A Differential Chain hoist using a single continuous
+chain running through a pulley at the bottom and over two different
+sized wheels fastened on the same shaft at the top. As one unwinds
+the other winds up and the difference in diameter causes one to wind
+up faster than the other unwinds.
+
+[Illustration: _Fig. 113; Fig. 114; Fig. 115_]
+
+Fig. 115. A Chinese hoist or Chinese capstan, in which the differential
+principle is used. The illustration shows the possibility of quickly
+applying the principle to the hoisting of a well-casing. It has the
+merit of being cheap and easy to construct and very efficient in
+developing a large mechanical advantage. The necessary materials can
+frequently be found around almost any farm or construction camp.
+
+[Illustration: _Fig. 116_]
+
+Fig. 116. A Snatch Block is used frequently in connection with hay
+handling equipment on the farm. Hoisting hay from a loaded wagon to the
+track located in the peak of the barn, requires much more force than is
+required to move the load along the track. From then on, the snatch
+block pulls away from the knot causing the load to travel on the
+carrier track twice as fast as the team. The object is to utilize the
+direct pull of the team while elevating the load and increase the speed
+of the load and decrease the distance travelled by the team after the
+load has been elevated and is to be transferred.
+
+
+
+
+TRANSMISSION CABLES
+
+
+Hemp and Manila
+
+Ropes and cables have many uses and applications both in industry and
+pleasure. Haulage, hoisting and the transmission of power are three
+of the most modern applications to which ropes and cables have been
+put, which require an intimate knowledge of their strength and life
+in service, in order to secure satisfactory service. For instance,
+a certain kind and size of rope is suitable for guy lines but would
+not be able to compete with a different type of rope in service on a
+rapid hoist. Similarly, a certain size of rope is being used on a rope
+drive, but the power load is increasing to such a point it is necessary
+to increase the size of transmission rope. If the sheaves are not
+increased in diameter suitable to the increased size of rope, the acute
+bending of the larger rope on the old sheave wheel will shorten its
+life materially.
+
+Following are tables of strength for a few different kinds and sizes
+of ropes. It is not the purpose to make these tables complete and
+exhaustive in scope, but rather to give a general conception of the
+strength to be expected of different kinds and sizes of ropes in more
+common use. Those interested in more complete information on this
+subject should refer to the catalogs put out by manufacturers of ropes.
+
+No accurate rule can be given for calculating the strength of rope
+and any table giving the strength will only be approximately correct.
+Four-strand rope has about 16% more strength than three-strand rope.
+Tarring rope decreases the strength by about 25% because the high
+temperature of the tar injures the fibers. The strength of a rope is
+decreased by age, exposure and wear.
+
+The breaking strength of a rope is the weight or pull that will break
+it. The safe load is the weight you may put on a rope without danger
+of breaking it. The safe load must be very much less than the breaking
+strength, in order that life and property may not be endangered when
+heavy objects are to be moved or lifted. The safe load is usually
+regarded as 1/6 of the breaking strength. The breaking strength and
+safe load for all ropes must be largely a matter of good judgment and
+experience.
+
+
+Calculation of Strength
+
+For new manila rope the breaking strength in pounds may be found
+approximately by the following rule: Square the diameter, measured in
+inches, and multiply this product by 7200. Result obtained from this
+rule may vary as much as 15% from actual tests. The safe load can be
+found by dividing the breaking strength by 6.
+
+Hemp rope is approximately 3/4 as strong as manila so that we use the
+following rule for it: The breaking strength of hemp rope in pounds is
+5400 times the square of the diameter in inches. The safe load is found
+by dividing the breaking strength by 6 as we did for the manila rope.
+
+
+Care of Rope
+
+Keep rope in a dry place, do not leave it out in the rain. If a rope
+gets wet, stretch it out straight to dry. Do not let the ends become
+untwisted but fix them in some way to prevent it as soon as the rope is
+obtained. A stiff and hard rope may be made very soft and flexible by
+boiling for a time in pure water. This will of course remove some of
+the tar or other preservative. Cowboys treat their lasso ropes in this
+way.
+
+
+Uncoiling Rope
+
+1. Start with the end found in the center of the coil.
+
+2. Pull this end out and the rope should uncoil in a direction opposite
+to the direction of motion of the hands of a clock.
+
+3. If it uncoils in the wrong direction, turn the coil over and pull
+this same end through the center of the coil and out on the other side.
+
+4. If these directions are followed, the rope will come out of the coil
+with very few kinks or snarls.
+
+
+
+
+SIZE AND STRENGTH OF TEXTILE ROPES
+
+
+  ──────────────┬────────────────────────┬───────────────────────
+                │ Ultimate Strength, Lb. │ Working Strength, Lbs.
+  Diam. of Rope ├──────────┬─────────────┼─────────┬──────────────
+     Inches     │  Cotton  │ Manila Hemp │  Cotton │ Manila Hemp
+  ──────────────┼──────────┼─────────────┼─────────┼──────────────
+        ½       │    1,150 │      1,900  │     50  │      50
+        ⅝       │    1,800 │      2,900  │     78  │      78
+        ¾       │    2,600 │      4,100  │    112  │     112
+        ⅞       │    3,500 │      5,500  │    153  │     153
+       1        │    4,600 │      7,100  │    200  │     200
+       1¼       │    7,200 │     10,900  │    312  │     312
+       1½       │   10,400 │     15,000  │    450  │     450
+       1¾       │   14,000 │     19,800  │    612  │     612
+       2        │   18,400 │     25,100  │    800  │     800
+  ──────────────┴──────────┴─────────────┴─────────┴─────────────
+
+
+STRENGTH OF MANILA ROPE
+
+  ──────────────┬─────────────────
+  Diameter of   │ Average Quality
+  Rope in Inches│ New Manila Rope
+  ──────────────┼─────────────────
+       2 3/4    │       26
+       2-1/2    │       21-1/2
+       2-1/4    │       18-1/2
+       2        │       15
+  ──────────────┼─────────────────
+       1-3/4    │       12-1/2
+       1-5/8    │       10
+       1-1/2    │       8-1/2
+       1-3/8    │       7-1/2
+       1-1/4    │       6-1/4
+       1-1/8    │       5-1/4
+       1        │       4
+  ──────────────┼─────────────────
+         7/8    │       3-1/4
+         3/4    │       2-1/4
+         5/8    │       2
+         9/16   │       1-1/2
+         1/2    │       1-1/5
+         7/16   │         3/4
+         3/8    │         1/2
+         5/16   │         3/8
+         9/32   │         3/10
+         1/4    │         1/4
+  ──────────────┴─────────────────
+
+
+
+
+STEEL CABLES
+
+
+The modern demands of industry for speed and large capacity have called
+for strengths exceeding that possible to attain from hemp or manila
+ropes, which are not excessive in size or cost. As a result, steel
+ropes and cables have been developed and perfected to a high degree of
+strength and dependability. The majority of hoists and cranes use steel
+rope. Logging industries depend for most part on steel cables. Cable
+cars use special steel cables which in many cases are several miles
+long. Long tramways use light steel cables, for long spans where manila
+rope would scarcely maintain its own weight. High speed passenger
+elevators maintain safe and dependable service day after day only
+through the strength of the perfected flexible steel cable. However, as
+stated above, each particular type of service calls for some special
+type of cable. The following tables are not complete but will serve to
+indicate the scope of the field covered by this subject.
+
+
+CAST STEEL ROPE
+
+Composed of 6 strands and a hemp center, 7 wires to the strand
+  ──────────┬───────────────┬────────────┬──────────┬──────────
+            │               │   Approx.  │ Proper   │ Minimum
+   Diameter │  Approximate  │  Breaking  │ Working  │ Size of
+      in    │ Circumference │  Strain in │ Load in  │ Drum or
+    Inches  │   in Inches   │   Tons of  │ Tons of  │  Sheave
+            │               │  2000 lbs. │ 2000 lbs.│  in ft.
+  ──────────┼───────────────┼────────────┼──────────┼──────────
+   1-1/2    │      4-3/4    │    63      │   12.6   │   11
+   1-3/8    │      4-1/4    │    53      │   10.6   │   10
+   1-1/4    │      4        │    46      │    9.2   │    9
+   1-1/8    │      3-1/2    │    37      │    7.4   │    8
+   1        │      3        │    31      │    6.2   │    7
+     7/8    │      2-3/4    │    24      │    4.8   │    6
+     3/4    │      2-1/4    │    18.6    │    3.7   │    5
+    11/16   │      2-1/8    │    15.4    │    3.1   │    4-3/4
+     5/8    │      2        │    13      │    2.6   │    4-1/2
+     9/16   │      1-3/4    │    10      │    2     │    4
+     1/2    │      1-1/2    │     7.7    │    1.54  │    3-1/2
+     7/16   │      1-1/4    │     5.5    │    1.10  │    3
+     3/8    │      1-1/8    │     4.6    │     .92  │    2-3/4
+     5/16   │      1        │     3.5    │     .70  │    2-1/4
+     9/32   │        7/8    │     2.5    │     .50  │    1-3/4
+  ──────────┴───────────────┴────────────┴──────────┴──────────
+
+
+CAST STEEL ROPE
+
+Composed of 6 strands and a hemp center, 19 wires to the strand
+
+  ──────────┬───────────────┬────────────┬──────────┬──────────
+            │               │   Approx.  │ Proper   │ Minimum
+   Diameter │  Approximate  │  Breaking  │ Working  │ Size of
+   of Rope  │ Circumference │  Strain in │ Load in  │ Drum or
+      in    │   in Inches   │   Tons of  │ Tons of  │  Sheave
+    Inches  │               │  2000 lbs. │ 2000 lbs.│  in ft.
+  ──────────┼───────────────┼────────────┼──────────┼──────────
+   2-3/4    │      8-5/8    │     211    │  42.2    │   11
+   2-1/2    │      7-7/8    │     170    │  34      │   10
+   2-1/4    │      7-1/8    │     133    │  26.6    │    9
+   2        │      6-1/4    │     106    │  21.2    │    8
+   1-7/8    │      5-3/4    │      96    │  19      │    8
+   1-3/4    │      5-1/2    │      85    │  17      │    7
+   1-5/8    │      5        │      72    │  14.4    │    6-1/2
+   1-1/2    │      4-3/4    │      64    │  12.8    │    6
+   1-3/8    │      4-1/4    │      56    │  11.2    │    5-1/2
+   1-1/4    │      4        │      47    │   9.4    │    5
+   1-1/8    │      3-1/2    │      38    │   7.6    │    4-1/2
+   1        │      3        │      30    │   6      │    4
+     7/8    │      2-3/4    │      23    │   4.6    │    3-1/2
+     3/4    │      2-1/4    │      17.5  │   3.5    │    3
+     5/8    │      2        │      12.5  │   2.5    │    2-1/2
+     9/16   │      1-3/4    │      10    │   2      │    2-1/4
+     1/2    │      1-1/2    │       8.4  │   1.68   │    2
+     7/16   │      1-1/4    │       6.5  │   1.30   │    1-3/4
+     3/8    │      1-1/8    │       4·8  │    .96   │    1-1/2
+     5/16   │      1        │       3.1  │    .62   │    1-1/4
+     1/4    │        3/4    │       2.2  │    .44   │    1
+  ──────────┴───────────────┴────────────┴──────────┴──────────
+
+
+CAST STEEL ROPE
+
+Composed of 6 strands and a hemp center, 37 wires to the strand
+
+  ──────────┬───────────────┬────────────┬──────────┬──────────
+            │               │   Approx.  │ Proper   │ Minimum
+   Diameter │  Approximate  │  Breaking  │ Working  │ Size of
+      in    │ Circumference │  Strain in │ Load in  │ Drum or
+    Inches  │   in Inches   │   Tons of  │ Tons of  │  Sheave
+            │               │  2000 lbs. │ 2000 lbs.│  in ft.
+  ──────────┼───────────────┼────────────┼──────────┼──────────
+   2-3/4    │     8-5/8     │     200    │  40      │
+   2-1/2    │     7-7/8     │     160    │  32      │
+   2-1/4    │     7-1/8     │     125    │  25      │
+   2        │     6-1/4     │     105    │  21      │
+   1-3/4    │     5-1/2     │      84    │  17      │
+   1-5/8    │     5         │      71    │  14      │
+   1-1/2    │     4-3/4     │      63    │  12      │    3-3/4
+   1-3/8    │     4-1/4     │      55    │  11      │    3-1/2
+   1-1/4    │     4         │      45    │   9      │    3-1/4
+   1-1/8    │     3-1/2     │      34    │   6.8    │    2-3/4
+   1        │     3         │      29    │   5.8    │    2-1/2
+     7/8    │     2-3/4     │      23    │   4.6    │    2-1/4
+     3/4    │     2-1/4     │      17.5  │   3.5    │    1-3/4
+     5/8    │     2         │      11.2  │   2.2    │    1-3/4
+     9/16   │     1-3/4     │       9.5  │   1.9    │    1-1/2
+     1/2    │     1-1/2     │       7.25 │   1.45   │    1-1/4
+     7/16   │     1-1/4     │       5.50 │   1.10   │    1-1/4
+     3/8    │     1-1/8     │       4.20 │    .84   │    1
+  ──────────┴───────────────┴────────────┴──────────┴──────────
+
+
+CAST STEEL ROPES FOR INCLINES
+
+Six strands of 7 wires each--hemp center
+
+  ────────┬─────────────────────────────────────────────────────────────
+    Diam. │ Diameter of Sheaves or Drums in Feet, Showing Percentage
+  of Rope │    of Life for Various Diameters
+          ├─────────┬────────┬────────┬────────┬────────┬────────┬──────
+   Inches │  100 %  │  90 %  │  80 %  │  75 %  │  60 %  │  50 %  │  25 %
+  ────────┼─────────┼────────┼────────┼────────┼────────┼────────┼──────
+  1-1/2   │  16     │ 14     │ 12     │ 11     │ 9      │ 7      │ 4.75
+  1-3/8   │  14     │ 12     │ 10     │  8.5   │ 7      │ 6      │ 4.5
+  1-1/4   │  12     │ 10     │  8     │  7.25  │ 6      │ 5.5    │ 4.25
+  1-1/8   │  10     │  8.5   │  7.75  │  7     │ 6      │ 5      │ 4
+  1       │   8.5   │  7.75  │  6.75  │  6     │ 5      │ 4.5    │ 3.75
+    7/8   │   7.75  │  7     │  6.25  │  5.75  │ 4.5    │ 3.75   │ 3.2
+    3/4   │   7     │  6.25  │  5.5   │  5     │ 4.25   │ 3.5    │ 2.75
+    5/8   │   6     │  5.25  │  4.5   │  4     │ 3.25   │ 3      │ 2.5
+    1/2   │   5     │  4.5   │  4     │  3.5   │ 2.75   │ 2      │ 1.75
+  ────────┴─────────┴────────┴────────┴────────┴────────┴────────┴──────
+
+
+CAST STEEL HOISTING ROPES
+
+6 strands of 19 wires each--hemp center
+
+  ────────┬─────────────────────────────────────────────────────────────
+   Diam.  │ Diameter of Sheaves or Drums in Feet, Showing Percentage
+  of Rope │    of Life for Various Diameters
+          ├─────────┬────────┬────────┬────────┬────────┬────────┬──────
+   Inches │  100 %  │  90 %  │  80 %  │  75 %  │  60 %  │  50 %  │  25 %
+  ────────┼─────────┼────────┼────────┼────────┼────────┼────────┼──────
+  1-1/2   │ 14      │ 12     │ 10     │  8.5   │  7     │  6     │  4.5
+  1-3/8   │ 12      │ 10     │  8     │  7     │  6     │  5.25  │  4.25
+  1-1/4   │ 10      │  8.5   │  7.5   │  6.75  │  5.5   │  5     │  4
+  1-1/8   │  9      │  7.5   │  6.5   │  5.5   │  5     │  4.5   │  3.75
+  1       │  8      │  7     │  6     │  5.5   │  4.5   │  4     │  3.50
+    7/8   │  7.5    │  6.75  │  5.75  │  5     │  4.25  │  3.5   │  3
+    3/4   │  5.5    │  4.5   │  4     │  3.75  │  3.25  │  3     │  2.25
+    5/8   │  4.5    │  4     │  3.75  │  3.25  │  3     │  2.5   │  2
+    1/2   │  4      │  3     │  3     │  2.75  │  2.25  │  2     │  1.5
+    3/8   │  3      │        │        │  2     │        │  1.5   │
+  ────────┴─────────┴────────┴────────┴────────┴────────┴────────┴──────
+
+
+STANDARD HOISTING ROPE
+
+Six Strands--19 wires to the strand--One hemp core
+
+  ─────────────────────────────────┬────────────────────────────────────
+                                   │         Swedes Iron
+  ──────────┬───────────┬──────────┼───────────┬───────────┬────────────
+            │           │          │  Approx.  │  Proper   │  Diam. of
+     Diam.  │   Circum- │  Approx. │ Strain in │  Working  │  Drum or
+      in    │   ference │  Weight  │ Tons of   │  Load in  │  Sheave in
+    Inches  │     in    │ Per Foot │ 2000 lbs. │  Tons of  │   in ft.
+            │   Inches  │          │           │ 2000 lbs. │   Advised
+  ──────────┼───────────┼──────────┼───────────┼───────────┼────────────
+   2-3/4    │  8-5/8    │  11.95   │ 111       │  22.2     │  17
+   2-1/2    │  7-7/8    │   9.85   │  92       │  18.4     │  15
+   2-1/4    │  7-1/8    │   8      │  72       │  14.4     │  14
+   2        │  6-1/4    │   6.30   │  55       │  11       │  12
+   1-7/8    │  5-3/4    │   5.55   │  50       │  10       │  12
+   1-3/4    │  5-1/2    │   4.85   │  44       │   8.8     │  11
+   1-5/8    │  5        │   4.15   │  38       │   7.5     │  10
+   1-1/2    │  4-3/4    │   3.55   │  33       │   6.5     │   9
+   1-3/8    │  4-1/4    │   3      │  28       │   5.5     │   8.5
+   1-1/4    │  4        │   2.45   │  22.8     │   4.56    │   7.5
+   1-1/8    │  3-1/2    │   2      │  18.6     │   3.72    │   7
+   1        │  3        │   1.58   │  14.5     │   2.90    │   6
+     7/8    │  2-3/4    │   1.20   │  11.8     │   2.36    │   5.5
+     3/4    │  2-1/4    │    .89   │   8.5     │   1.70    │   4.5
+     5/8    │  2        │    .62   │   6       │   1.20    │   4
+     9/16   │  1-3/4    │    .50   │   4.7     │    .94    │   3.5
+     1/2    │  1-1/2    │    .39   │   3.9     │    .78    │   3
+     7/16   │  1-1/4    │    .30   │   2.9     │    .58    │   2.75
+     3/8    │  1-1/8    │    .22   │   2.4     │    .48    │   2.25
+     5/16   │  1        │    .15   │   1.5     │    .30    │   2
+     1/4    │    3/4    │    .10   │   1.1     │    .22    │   1.50
+  ──────────┴───────────┴──────────┼───────────┴───────────┴────────────
+                                   │      Crucible Cast Steel
+  ──────────┬───────────┬──────────┼───────────┬───────────┬────────────
+            │           │          │           │  Proper   │
+     Diam.  │   Circum- │  Approx. │  Approx.  │  Working  │ Diam. of
+      in    │   ference │  Weight  │ Strain in │  Load in  │ Drum or
+    Inches  │     in    │ Per Foot │  Tons of  │  Tons of  │ Sheave in
+            │   Inches  │          │ 2000 lbs. │  2000 lbs.│ ft. Advised
+  ──────────┼───────────┼──────────┼───────────┼───────────┼────────────
+   2-3/4    │  8-5/8    │  11.95   │ 211       │  42.2     │  11
+   2-1/2    │  7-7/8    │   9.85   │ 170       │  34       │  10
+   2-1/4    │  7-1/8    │   8      │ 133       │  26.6     │   9
+   2        │  6-1/4    │   6.30   │ 106       │  21.2     │   8
+   1-7/8    │  5-3/4    │   5.55   │  96       │  19       │   8
+   1-3/4    │  5-1/2    │   4.85   │  85       │  17       │   7
+   1-5/8    │  5        │   4.15   │  72       │  14.4     │   6.5
+   1-1/2    │  4-3/4    │   3.55   │  64       │  12.8     │   6
+   1-3/8    │  4-1/4    │   3      │  56       │  11.6     │   5.5
+   1-1/4    │  4        │   2.45   │  47       │   9.4     │   5
+   1-1/8    │  3-1/2    │   2      │  38       │   7.6     │   4.5
+   1        │  3        │   1.58   │  30       │   6       │   4
+     7/8    │  2-3/4    │   1.20   │  23       │   4.6     │   3.5
+     3/4    │  2-1/4    │    .89   │  17.5     │   3.5     │   3
+     5/8    │  2        │    .62   │  12.5     │   2.5     │   2.5
+     9/16   │  1-3/4    │    .50   │  10       │   2       │   2.25
+     1/2    │  1-1/2    │    .39   │   8.4     │   1.68    │   2
+     7/16   │  1-1/4    │    .30   │   6.5     │   1.30    │   1.75
+     3/8    │  1-1/8    │    .22   │   4.8     │    .96    │   1.50
+     5/16   │  1        │    .15   │   3.1     │    .62    │   1.25
+     1/4    │    3/4    │    .10   │   2.2     │    .44    │   1
+  ──────────┴───────────┴──────────┼───────────┴───────────┴────────────
+                                   │         Plow Steel
+  ──────────┬───────────┬──────────┼───────────┬───────────┬────────────
+            │           │          │  Approx.  │ Proper    │ Diam. of
+     Diam.  │   Circum- │  Approx. │ Strain in │ Working   │ Drum or
+      in    │   ference │  Weight  │  Tons of  │ Load in   │ Sheave in
+    Inches  │     in    │ Per Foot │ 2000 lbs. │  Tons of  │ ft. Advised
+            │   Inches  │          │           │ 2000 lbs. │
+  ──────────┼───────────┼──────────┼───────────┼───────────┼────────────
+   2-3/4    │  8-5/8    │  11.95   │ 275       │  55       │  11
+   2-1/2    │  7-7/8    │   9.85   │ 229       │  46       │  10
+   2-1/4    │  7-1/8    │   8      │ 186       │  37       │   9
+   2        │  6-1/4    │   6.30   │ 140       │  28       │   8
+   1-7/8    │  5-3/4    │   5.55   │ 127       │  25       │   8
+   1-3/4    │  5-1/2    │   4.85   │ 112       │  22       │   7
+   1-5/8    │  5        │   4.15   │  94       │  19       │   6.5
+   1-1/2    │  4-3/4    │   3.55   │  82       │  16       │   6
+   1-3/8    │  4-1/4    │   3      │  72       │  14       │   5.5
+   1-1/4    │  4        │   2.45   │  58       │  12       │   5
+   1-1/8    │  3-1/2    │   2      │  47       │   9.5     │   4.5
+   1        │  3        │   1.58   │  38       │   7.6     │   4
+     7/8    │  2-3/4    │   1.20   │  29       │   5.8     │   3.5
+     3/4    │  2-1/4    │    .89   │  23       │   4.6     │   3
+     5/8    │  2        │    .62   │  15.5     │   3.1     │   2.5
+     9/16   │  1-3/4    │    .50   │  12.3     │   2.4     │   2.25
+     1/2    │  1-1/2    │    .39   │  10       │   2       │   2
+     7/16   │  1-1/4    │    .30   │   8       │   1.6     │   1.75
+     3/8    │  1-1/8    │    .22   │   5.75    │   1.15    │   1.50
+     5/16   │  1        │    .15   │   3.8     │    .76    │   1.25
+     1/4    │    3/4    │    .10   │   2.65    │    .53    │   1
+  ──────────┴───────────┴──────────┴───────────┴───────────┴────────────
+
+
+STRENGTH OF WIRE ROPE
+
+in tons of 2,000 pounds
+
+  ──────────┬───────────────────────────────────────────────
+            │       Wire Transmission Rope. One Hemp core
+            │            surrounded by six strands of
+   Diameter │                 seven wires each
+     in     ├────────┬────────────┬───────────────┬─────────
+   Inches   │        │  Crucible  │ Extra Strong  │  Plow
+            │  Iron  │    Cast    │ Crucible Cast │  Steel
+            │        │   Steel    │    Steel      │
+  ──────────┼────────┼────────────┼───────────────┼─────────
+    2-3/4   │        │            │               │
+    2-1/2   │        │            │               │
+    2-1/4   │        │            │               │
+    2       │        │            │               │
+    1-3/4   │        │            │               │
+    1-5/8   │        │            │               │
+    1-1/2   │  32    │  63        │  73           │  82
+    1-3/8   │  28    │  53        │  63           │  72
+    1-1/4   │  23    │  46        │  54           │  60
+    1-1/8   │  19    │  37        │  43           │  47
+    1       │  15    │  31        │  35           │  38
+      7/8   │  12    │  24        │  28           │  31
+      3/4   │   8.8  │  18.6      │  21           │  23
+      5/8   │   6    │  13        │  14.5         │  16
+      9/16  │   4.8  │  10        │  11           │  12
+      1/2   │   3.7  │   7.7      │   8.85        │  10
+      7/16  │   2.6  │   5.5      │   6.25        │   7
+      3/8   │   2.2  │   4.6      │   5.25        │   5.9
+      5/16  │   1.7  │   3.5      │   3.95        │   4.4
+      9/32  │   1.2  │   2.5      │   2.95        │   3.4
+      1/4   │        │            │               │
+  ──────────┼────────┴────────────┴───────────────┴─────────
+            │         Wire Hoisting Rope. One Hemp core
+            │            surrounded by six strands of
+   Diameter │                 nineteen wires each
+     in     ├────────┬────────────┬───────────────┬─────────
+   Inches   │        │  Crucible  │ Extra Strong  │  Plow
+            │  Iron  │    Cast    │ Crucible Cast │  Steel
+            │        │   Steel    │    Steel      │
+  ──────────┼────────┼────────────┼───────────────┼─────────
+    2-3/4   │ 111    │   211      │   243         │  275
+    2-1/2   │  92    │   170      │   200         │  229
+    2-1/4   │  72    │   133      │   160         │  186
+    2       │  55    │   106      │   123         │  140
+    1-3/4   │  44    │    85      │    99         │  112
+    1-5/8   │  38    │    72      │    83         │   94
+    1-1/2   │  33    │    64      │    73         │   82
+    1-3/8   │  28    │    56      │    64         │   72
+    1-1/4   │  22.8  │    47      │    53         │   58
+    1-1/8   │  18.6  │    38      │    43         │   47
+    1       │  14.5  │    30      │    34         │   38
+      7/8   │  11.8  │    23      │    26         │   29
+      3/4   │   8.5  │    17.5    │    20.2       │   23
+      5/8   │   6    │    12.5    │    14         │   15.5
+      9/16  │   4.7  │    10      │    11.2       │   12.3
+      1/2   │   3.9  │     8.4    │     9.2       │   10
+      7/16  │   2.9  │     6.5    │     7.25      │    8
+      3/8   │   2.4  │     4.8    │     5.30      │    5.75
+      5/16  │   1.5  │     3.1    │     3.50      │    3.8
+      9/32  │        │            │               │
+      1/4   │   1.1  │     2.2    │     2.43      │    2.65
+  ──────────┴────────┴────────────┴───────────────┴─────────
+
+
+
+
+SPLICING TRANSMISSION CABLES
+
+
+Wherever wire rope transmissions are used it is necessary to splice the
+rope or cable so that it will run smoothly over the sheave wheels. For
+this purpose a long splice is invariably used. (Taken from “American
+Wire Rope” published by American Steel and Wire Company). The tools
+required are a small marlin-spike, nipping cutters, and either clamps
+or a small hemp rope sling with which to wrap around and untwist the
+rope. If a bench vise is accessible, it will be found very convenient
+for holding the rope.
+
+“In splicing a rope, a certain length is used up in making the
+splice. An allowance of not less than 16 feet for ½ inch rope, and
+proportionately longer for larger sizes, must be added to the length
+of an endless rope, in ordering. The length of splice relation to the
+diameter of the rope is approximately 50:1.”
+
+This extra length is equal to the distance EE´ in Fig. 117. The
+additional length recommended for making a splice in different sizes of
+wire rope is as follows:
+
+  ───────────────┬──────────────────────────
+   Diam. of Rope │ Extra Length Allowed for
+     in Inches   │     the Splice, Feet
+  ───────────────┼──────────────────────────
+         ⅜       │        16
+         ½       │        16
+         ⅝       │        20
+         ¾       │        24
+         ⅞       │        28
+  ───────────────┼──────────────────────────
+        1        │        32
+        1⅛       │        36
+        1¼       │        40
+        1½       │        44
+                 │
+  ───────────────┴──────────────────────────
+
+Fig. 117. Having measured carefully the length the rope should be after
+splicing and marked the points M and M´, unlay the strands from each
+end E and E´, to M and M´, and cut off the hemp center at M and M´.
+
+Fig. 118. First. Interlock the six unlaid strands of each end
+alternately, cutting off the hemp centers at M and M´, and draw wire
+strands together, so that the points M and M´ meet, as shown.
+
+[Illustration: FIG. _117_; FIG. _118_; FIG. _119_;
+FIG. _120_; FIG. _121_]
+
+Fig. 119. Second. Unlay a strand from one end, and following the unlay
+closely, lay into the seam or groove it opens, the strand opposite it
+belonging to the other end of the rope, until there remains a length of
+stand equal in inches to the length of splice EE´ in feet, e. g., the
+straight end of unlaid strand A on one-half inch rope equal 16 inches
+for 16 foot splice. Then cut the other strand to about the same length
+from the point of meeting, as shown at A.
+
+Fig. 119. Third. Unlay the adjacent strand in the opposite direction,
+and following the unlay closely, lay in its place the corresponding
+opposite strand, cutting the ends as described before at B.
+
+The four strands are now laid in place terminating at A and B, with
+eight remaining at M and M´ as shown in Fig. 119.
+
+It will be well after laying each pair of strands to tie them
+temporarily at the points A and B.
+
+Fig. 120. Pursue the same course with the remaining four pairs of
+opposite strands, stopping each pair of strands so as to divide the
+space between A and B into five equal parts, and cutting the ends as
+before.
+
+All the strands are now laid in their proper places with their
+respective ends passing each other.
+
+[Illustration: FIG. _122_; FIG. _123_]
+
+All methods of rope splicing are identical up to this point; their
+variety consists in the method of securing the ends.
+
+Fig. 121. The completed splice with ends secured results in a cable
+with scarcely any enlargement at that point. A few days’ use will make
+it difficult to discover at all.
+
+The final part of the splice is made as follows:
+
+“Clamp the rope either in a vise or with a hand clamp at a point to the
+left of A (Fig. 119), and by a hand clamp applied near the right of A
+open up the rope by untwisting sufficiently to cut the hemp core at A,
+and seizing it with nippers, let your assistant draw it out slowly.
+Then insert a marlin spike under the two nearest strands to open up
+the rope and starting the loose strand into the space left vacant by
+the hemp center, rotate the marlin spike so as to run the strand into
+the center. Cut the hemp core where the strand ends, and push the end
+of hemp back into its place. Remove the clamps and let the rope close
+together around it. Draw out the hemp core in the opposite direction
+and lay the other strand in the center of the rope in the same manner.
+Repeat the operation at the five remaining points, and hammer the rope
+lightly at the points where the ends pass each other at A´, B´, etc.,
+with small wooden mallets, and the splice is complete, as shown in Fig.
+121.”
+
+A rope spliced as above will be nearly as strong as the original rope,
+and smooth everywhere. After running a few days, the splice, if well
+made, cannot be pointed out except by the close examination of an
+expert.
+
+Fig. 122. If a clamp and vice are not obtainable, two rope slings and
+short wooden levers may be used to untwist and open up the rope.
+
+Fig. 123. A marlin spike is absolutely necessary in order to separate
+the strands in making a splice in steel cable.
+
+
+
+
+POWER TRANSMITTED BY WIRE ROPE
+
+
+Wire Rope Drives
+
+  ────────────────────┬────────────────────┬──────────┬──────────────
+   Diam. of Wheel     │ No. of Revolutions │ Diam. of │ Horse Power
+        in Feet       │     Per Minute     │   Rope   │
+  ────────────────────┼────────────────────┼──────────┼──────────────
+           3          │        80          │    3/8   │    3
+           3          │       100          │    3/8   │    3 1/2
+           3          │       120          │    3/8   │    4
+           3          │       140          │    3/8   │    4 1/2
+           4          │        80          │    3/8   │    4
+           4          │       100          │    3/8   │    5
+           4          │       120          │    3/8   │    6
+           4          │       140          │    3/8   │    7
+           5          │        80          │    7/16  │    9
+           5          │       100          │    7/16  │   11
+           5          │       120          │    7/16  │   13
+           5          │       140          │    7/16  │   15
+           6          │        80          │    1/2   │   14
+           6          │       100          │    1/2   │   17
+           6          │       120          │    1/2   │   20
+           6          │       140          │    1/2   │   23
+           7          │        80          │    9/16  │   20
+           7          │       100          │    9/16  │   25
+           7          │       120          │    9/16  │   30
+           7          │       140          │    9/16  │   35
+  ────────────────────┼────────────────────┼──────────┼──────────────
+           8          │        80          │    5/8   │   26
+           8          │       100          │    5/8   │   32
+           8          │       120          │    5/8   │   39
+           8          │       140          │    5/8   │   45
+                      │                    │    9/16  │   47
+           9          │        80          │    5/8   │   48
+                      │                    │    9/16  │   58
+           9          │       100          │    5/8   │   60
+                      │                    │    9/16  │   69
+           9          │       120          │    5/8   │   73
+                      │                    │    9/16  │   82
+           9          │       140          │    5/8   │   84
+          10          │        80          │    5/8   │   64
+                      │                    │   11/16  │   68
+          10          │       100          │    5/8   │   80
+                      │                    │   11/16  │   85
+          10          │       120          │    5/8   │   96
+                      │                    │   11/16  │  102
+          10          │       140          │    5/8   │  112
+                      │                    │   11/16  │  119
+          12          │        80          │   11/16  │   93
+                      │                    │    3/4   │   99
+          12          │       100          │   11/16  │  116
+                      │                    │    3/4   │  124
+          12          │       120          │   11/16  │  140
+                      │                    │    3/4   │  149
+          12          │       120          │    7/8   │  173
+          14          │        80          │   1      │  141
+                      │                    │   1 1/8  │  148
+          14          │       100          │   1      │  176
+                      │                    │   1 1/8  │  185
+  ────────────────────┴────────────────────┴──────────┴──────────────
+
+
+MINIMUM DIAMETERS OF SHEAVES FOR POWER TRANSMISSION BY WIRE ROPES
+
+(All Dimensions in Inches)
+
+  ────────┬──────────────────┬──────────────────
+    Rope  │      Steel       │       Iron
+    Diam. ├────────┬─────────┼────────┬─────────
+          │ 7-Wire │ 19-Wire │ 7-Wire │ 19-Wire
+  ────────┼────────┼─────────┼────────┼─────────
+     1/4  │  20    │  12     │  40    │  24
+     5/16 │  25    │  15     │  50    │  30
+     3/8  │  30    │  18     │  60    │  36
+     7/16 │  35    │  21     │  70    │  42
+     1/2  │  40    │  24     │  80    │  48
+     9/16 │  45    │  27     │  90    │  54
+     5/8  │  50    │  30     │ 100    │  60
+    11/16 │  55    │  32     │ 110    │  66
+     3/4  │  60    │  35     │ 120    │  72
+     7/8  │  70    │  41     │ 140    │  84
+   1      │  80    │  47     │ 160    │  96
+   1 1/8  │  90    │  53     │ 180    │ 108
+   1 1/4  │ 100    │  58     │ 200    │ 120
+   1 3/8  │ 110    │  64     │ 220    │ 132
+   1 1/2  │ 120    │  70     │ 240    │ 144
+  ────────┴────────┴─────────┴────────┴─────────
+
+
+DIAMETER OF MINIMUM SHEAVES IN INCHES, CORRESPONDING TO A MAXIMUM SAFE
+WORKING TENSION.
+
+  ─────────────┬────────────────────────────┬───────────────────────────
+  Diam. of Rope│           Steel            │           Iron
+    in Inches  ├────────┬─────────┬─────────┼────────┬─────────┬────────
+               │ 7-Wire │ 12-Wire │ 19-Wire │ 7-Wire │ 12-Wire │ 19-Wire
+  ─────────────┼────────┼─────────┼─────────┼────────┼─────────┼────────
+       1/4     │   19   │   15    │   11    │   39   │   31    │   23
+       5/16    │   24   │   19    │   14    │   49   │   38    │   29
+       3/8     │   29   │   22    │   17    │   59   │   46    │   35
+       7/16    │   34   │   26    │   19    │   69   │   54    │   41
+       1/2     │   38   │   30    │   22    │   79   │   61    │   47
+       9/16    │   43   │   33    │   25    │   89   │   69    │   52
+       5/8     │   48   │   37    │   28    │   99   │   77    │   58
+      11/16    │   53   │   41    │   31    │  109   │   84    │   64
+       3/4     │   58   │   44    │   34    │  119   │   92    │   70
+       7/8     │   67   │   52    │   39    │  138   │  107    │   81
+     1         │   77   │   59    │   45    │  158   │  123    │   93
+  ─────────────┴────────┴─────────┴─────────┴────────┴─────────┴────────
+
+
+
+
+ENGINEERING BULLETINS PUBLISHED BY THE STATE COLLEGE OF WASHINGTON
+ENGINEERING EXPERIMENT STATION.
+
+
+   1. Sewage Disposal for the Country Home.
+      Septic tanks and underground distribution systems.
+      By O. L. Waller and M. K. Snyder. Mar. 1914, July 1916.
+
+   2. How to Measure Water.
+      Construction of weirs and tables for same.
+      By O. L. Waller. Oct. 1915.
+
+   3. Water Supply for the Country Home.
+      Water Sources, pumps, filters, storage tanks and cost data.
+      By M. K. Snyder. Jan. 1916 (out of print).
+
+   4. Construction and Maintenance of Earth Roads.
+      Grades and grading, drainage and dragging.
+      By L. V. Edwards. April 1916.
+
+   5. Cost of Pumping for Irrigation.
+      Cost of equipment and operation of same,
+         with tables of efficiency.
+      By O. L. Waller. Aug. 1916 (out of print).
+
+   6. Fuel Economy in Domestic Heating and Cooking.
+      Fuel Tables, heating equipment and care of same.
+      By B. L. Steele. Dec. 1917.
+
+   7. Thawing Frozen Water Pipes Electrically.
+      Method of Thawing and list of equipment needed.
+      By H. J. Dana. Oct. 1921.
+
+   8. The Use of Ropes and Tackle.
+      Illustrations of application to different jobs.
+      By H. J. Dana and W. A. Pearl. Mar. 1922.
+
+   9. Well and Spring Protection.
+      By M. K. Snyder. (In preparation).
+
+  10. Water Purification for the Country Home.
+      By M. K. Snyder. (In preparation).
+
+  11. Farm Water Systems.
+      By M. K. Snyder and H. J. Dana. (In preparation).
+
+  12. Commercial and Economic Efficiency of Commercial Pipe Coverings.
+      By H. J. Dana. (In preparation).
+
+[Illustration: Mechanics Arts Building--Headquarters Mechanical
+Engineering Experiment Station]
+
+
+
+
+                 =_The State College of Washington_=
+
+       Founded and Maintained by the National Government and the
+                          State of Washington
+
+
+  College of Agriculture and Experiment Station
+     Farm Crops, Soils, Animal Husbandry, Dairy Husbandry, Poultry
+     Husbandry, Horticulture, Landscape Gardening, Forestry, Farm
+     Management, Plant Pathology, Agricultural Engineering.
+
+  College of Mechanic Arts and Engineering
+
+  Architecture, Civil Engineering, Electrical Engineering,
+     Hydro-Electrical Engineering, Mathematics, Mechanical Engineering,
+     Physics.
+
+  College of Sciences and Arts
+     Chemistry, Chemical Engineering, Botany, Zoology, English,
+     Economic Science and History, Foreign Languages.
+
+  College of Home Economics
+
+  College of Veterinary Science
+
+  School of Mines and Geology
+
+  Geology, Mining, Metallurgy, Metallography.
+
+  School of Education
+
+  School of Music and Fine Arts
+     Music, Oral Expression, Dramatic Art, Fine Arts.
+
+  School of Pharmacy
+
+  The Graduate School
+
+  Department of Military Science and Tactics
+
+  Department of Physical Education and Athletics
+
+  The Summer Session (six weeks)
+
+  Short Courses from one to twelve weeks, beginning early in January,
+     are offered in Farming, Gas Tractors, Automobiles, Home Economics,
+     and Mining.
+
+  The Department of Elementary Science offers three-year vocational
+     courses in agriculture, horticulture, mechanic and industrial arts,
+     commerce, and domestic economy, from which young men and
+     women can, if they desire, be admitted to the Freshman class of
+     the College.
+
+  The College Year Begins Monday, September 18, 1922.
+
+     Address all inquiries to:
+                     THE REGISTRAR, Pullman, Wash.
+
+  Extension Service, under the Smith-Lever Act, is in charge of the
+     demonstration and correspondence work in Agriculture, Home
+     Economics, Boys and Girls Club Work, and County Work.
+     Address: The Director.
+
+  The Division of General College Extension gives correspondence
+     courses, organizes extension classes, supplies lectures and
+     educational motion picture films.
+     Address: Director.
+
+               MANY DEPARTMENTS PUBLISH SPECIAL BOOKLETS
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE USE OF ROPES AND TACKLE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
