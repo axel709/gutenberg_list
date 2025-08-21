@@ -1,0 +1,1132 @@
+The Project Gutenberg eBook of De Latino sine Flexione; Principio de Permanentia
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: De Latino sine Flexione; Principio de Permanentia
+
+Author: Giuseppe Peano
+
+Release date: April 9, 2011 [eBook #35803]
+
+Language: Latin
+
+Credits: Produced by David Starner, Jana Srna and the Online
+        Distributed Proofreading Team at http://www.pgdp.net (This
+        book was produced from scanned images of public domain
+        material from the Google Print project.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK DE LATINO SINE FLEXIONE; PRINCIPIO DE PERMANENTIA ***
+
+
+
+
+Produced by David Starner, Jana Srna and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from scanned images of public domain
+material from the Google Print project.)
+
+
+
+
+
+
+  [ Transcriber's Notes:
+
+    Every effort has been made to replicate this text as faithfully as
+    possible, including inconsistencies in spelling and hyphenation;
+    changes (corrections of spelling and punctuation) made to the
+    original text are listed at the end of this file.
+
+    Italic text has been marked with _underscores_.
+    Letter-spaced text has been marked with ~tildes~.
+    Greek letters theta and phi have been reproduced as [theta] and [phi].
+  ]
+
+
+
+
+DE LATINO SINE FLEXIONE
+
+LINGUA AUXILIARE INTERNATIONALE
+
+
+Lingua latina fuit internationalis in omni scientia, ab imperio Romano,
+usque ad finem saeculi XVIII. Hodie multi reputant illam nimis
+difficilem esse, iam in scientia, magis in commercio.
+
+Sed non tota lingua latina est necessaria; parva pars sufficit ad
+exprimendam quamlibet ideam.
+
+
+§ 1.--Casus.
+
+    «Nominum casus semper eliminari possunt substitutis in eorum locum
+    particulis quibusdam».
+
+    LEIBNIZ. Ed. Couturat a. 1901, p. 67.
+
+Lingua latina exprimit nominum casus cum praepositionibus «_de_, _ad_,
+_ab_, _ex_, ...» et cum postpositionibus vel desinentiis. Prima methodus
+sufficit; ipsa sola invenitur in latino populare, a quo derivant linguae
+neolatinae, ut italica, franca, hispanica, etc.
+
+Sumimus nomen inflexibile sub forma simpliciore, quae est ablativus, vel
+nominativus, vel alia.
+
+Indicamus genitivo cum _de_, dativo cum _ad_, ablativo cum _ab_,
+_ex_, ... Accusativo indicatur cum constructione, ut in linguis
+neolatinis, scilicet cum serie: nominativo--verbo--accusativo, vel cum
+serie: _qui_-accusativo--nominativo--verbo.
+
+Vocabulario latino commune continet nominativo et genitivo de nomen.
+Regula commoda haec est:
+
+«Sumimus nomen inflexibile
+
+  a) aut identico ad nominativo,
+
+  b) aut nominativo, mutata desinentia _-us_, _-um_, _-u_, _-es_
+                                    in  _-o_,  _-o_, _-o_,  _-e_,
+
+  c) aut genitivo, mutata desinentia _-i_ in _-o_, _-is_ in _-e_.
+
+  d) ad nominativo   _ego_, _tu_, _aliquis_,
+  responde (ablativo) _me_, _te_, _aliquo_.»
+
+Regula a) producit nulla ambiguitate, quae iam non sit in latino.
+
+Regulae b) c) d) brevi exprimunt formatione de ablativo, cum reductione
+de 4-a declinatione ad 2-a, et cum reductione ad forma unica de 3-a
+declinatione.
+
+
+§ 2.--Genere masculino, feminino et neutro.
+
+    «Discrimen generis nihil pertinet ad grammaticam rationalem».
+
+    LEIBNIZ.
+
+Nomen isolato non habet genere. Quum volumus indicare ille, scribemus
+explicite "mas, femina".
+
+Ita "mater est _bona_" fit "mater est femina bono"; sed idea de femina
+iam continetur in mater; igitur post simplificatione(1): "mater est
+bono".
+
+  (1) Juxta _Formulaire de Mathématiques_ a. 1902, p. 7, Prop. 3·1 et
+  5·3.
+
+Indicatione de genere evanescit saepe in lingua scientifica.
+
+In lingua familiare sufficit conservare genere in uno pronomen "is, ea,
+id", vel in antiquo "hi, hae, ho".
+
+
+§ 3.--Numero singulare et plurale.
+
+    «Videtur pluralis inutilis in lingua rationali».
+
+    LEIBNIZ.
+
+Nomen isolato non habet numero. Ad indicando ille scribemus explicite
+"uno, plure".
+
+  Ex.        "unum os habemus et duas aures"
+  fit        "habemus uno uno ore, et duo plure aure",
+
+et post simplificatione logico "uno uno" = "uno", et "duo plure" =
+"duo", nam "duo" continet idea de "plure", propositio
+
+  fit:       "habemus uno ore et duo aure".
+
+Ex. "Omne homo est mortale, aliquo homo est nigro, multo homo est
+pauper, pauco homo est divite, plure homo est sapiens".
+
+  Propositione: "Romani eligebant duo consules"
+  fit           "Populo Romano eligebat duo consule".
+
+
+§ 4.--Conjugatione de verbo.
+
+    «Personae verborum possunt esse invariabiles, sufficit variari
+    _ego_, _tu_, _ille_, etc.».
+
+    LEIBNIZ.
+
+Lingua latino habet discurso directo, ut:
+
+    "Amicitia inter malos esse non potest"
+
+et discurso indirecto:
+
+    "(Verum est) amicitiam inter malos esse non posse".
+
+Si nos utimur semper de discurso indirecto, in verbo evanescit
+desinentia de persona, de modo, et saepe de tempore.
+
+Sumimus ergo nomen inflexibile, per persona modo et tempore, sub forma
+magis simplice, qui es imperativo, activo et passivo. Regula es:
+
+  «a) Ad forma inflexibile "es,  pote,  vol,   fi"
+  responde infinito       "esse, posse, velle, fieri".
+
+  b) Ad forma inflexibile de alio verbo adde _-re_, et te habe
+  infinito, ut es in vocabulario latino.
+
+  c) Ad verbo activo adde _-re_, et te habe passivo.
+
+  d) Nos transforma verbo deponente in activo».
+
+(Verbo "vol, dice, duce, face", et regula d) non es exacto latino
+classico).
+
+Nos indica persona cum "me, te, nos ...", modo cum "si, ut, quod, ...",
+tempore cum "heri, jam, in passato, nunc, cras, in futuro, vol,
+debe, ...".
+
+Ex. "Me scribe.--Vos lege.--Cras me i ad Roma.--Cras me, postquam veni
+ad Roma, scribe ad te.--Heri me lege dum te scribe et antequam Petro
+veni.--Si te narra, nos audi.--Ut te vale."
+
+
+§ 5.--Altero reductione de desinentia de verbo.
+
+Exsta aequalitate logico:
+
+  lauda-nte = qui lauda
+  lauda-ndo = dum lauda
+  lauda-to  = qui aliquo lauda
+
+(hoc es: "quem aliquis laudat", juxta regula de § 1)
+
+  lauda-turo = qui lauda in futuro
+  Petro lauda-re ab Paulo = Paulo lauda Petro.
+
+Si in loco de primo membro de uno ex hic aequalitate nos scribe secundo,
+omne desinentia evanesce.
+
+Sed aliquo desinentia, et non necessario, pote es utile, ut "-nte, -to",
+desinentia "-vi, -bi" de passato et de futuro, et forma neolatino: "habe
+ama-to, es ama-to, ...".
+
+
+§ 6.--Vocabulario.
+
+Vocabulario latino commune suffice ut nos traduce hic lingua. Sed si
+plure auctore adopta "latino sine flexione", tunc es utile publicatione
+de proprio vocabulario, qui:
+
+1) Contine nomen et verbo, solo sub forma inflexibile.
+
+2) Contine vocabulo internationale, ut "metro, dyne, ...".
+
+3) Elige suo voce ex toto latinitate, etiam ex latino populare. Igitur
+nos posse sume regula:
+
+«Omne voce qui pertine ad duo lingua neolatino, p. ex. italo et franco,
+es latino».
+
+4) Simplifica derivatione et compositione de vocabulo.
+
+De ultimo subiecto me hic breviter dice.
+
+a) Substantivo diminutivo: "hortulo = parvo horto", etc.
+
+b) Substantivo abstracto ex adiectivo vale adiectivo. Ex. "bonitas =
+bono", "altitudo = alto".
+
+c) Adiectivo qui deriva ab sustantivo vale genitivo: "aureo = de auro",
+"vitulino = de vitulo", "Romano = de Roma", "chartaceo = ex charta",
+"animoso = cum animo".
+
+d) Substantivo abstracto ex verbo vale verbo.
+
+"Laudatio" = italico "il lodare" = anglo "to laud", vel simpliciter
+"laud".
+
+"Vita est cogitatio" fi "vivere est cogitare", in discurso indirecto (§
+4) "vivere esse cogitare", post reductione ad radice: "vive es cogita".
+
+Ita "amor = ama", "gaudio = gaude", ...
+
+e) "Lauda-tore = qui lauda", vel "qui sole lauda".
+
+f) Adiectivo verbale: "erra-bundo = qui saepe erra", "tim-ido = qui sole
+time", "mord-ace = qui sole morde", "ama-bile = qui aliquo pote ama".
+
+g) Adverbio extracto ex adiectivo vale adiectivo. Ita in latino classico
+"brevi, raro, ..." es adiectivo et adverbio.
+
+h) In modo simile ad "ne-sci, ne-fasto, n-ullo" nos forma: "ne-facile =
+difficile" "ne-digno = indigno" "ne-normale = abnormale" "ne-es = de-es"
+"ne-multo = pauco", etc.
+
+i) Alio praefixo, p. ex. "ab", indica oppositione.
+
+j) In modo simile ad "agricola = agro-colente" "homicidio = homo-caede",
+lice scribe: "auro-corona = corona de auro", "me-patre = meo patre",
+etc.
+
+Lingua sinense habe omne hic simplificatione, et alio.
+
+
+§ 7.--Pronuntia de latino.
+
+Pronuntia de latino non es uniforme in diverso populo. Forma meliore es
+antiquo:
+
+  _ce_, _ci_ ut italo _che_, _chi_, franco _que_, _qui_, germano _ke_,
+        _ki_.
+  _ge_, _gi_      »   _ghe_, _ghi_,    »   _gue_, _gui_,     »    _ge_,
+        _gi_.
+  _ti_            »   _ti_, non _zi_.
+  _y_ ut franco _u_, germano _ü_.
+  _ae_ ut _e_ aperto, franco _è_, germano _ä_.
+  _oe_ ut franco _eu_, germano _ö_ (hoc es conventione).
+  _th_ ut anglo _th_, graeco moderno [theta].
+  _ph_, sono producto quando nos suffla flamma. (Deriva ex graeco antiquo
+        [phi]; graeco moderno pronuntia _f_).
+  _ch_, ut germano _ch_, etrusco _c_.
+  _h_, aspirato, ut germano.
+  _rh_, ut franco _r_.
+  _qu_ sona ut _cu_ in neolatino; hic duo syllaba es differente et in
+      positione, et in pronuntiatione antiquo(5).
+
+  (2) Vide A. ~Meillet~, _Introduction à l'étude comparative des langues
+  indo-européennes_, Paris a. 1903 pag. 56.
+
+Omne alio litera ut in italo.
+
+
+HISTORIA
+
+Quum plure populo es in reciproco contacto, per ratione de politica,
+scientia et commercio, semper se manifesta necessitate de inter-lingua.
+
+Diverso populo, sub imperio Romano, adopta latino populare, qui es
+latino cum simplificatione de caso (§ 1).
+
+Populo Saxone, in contacto cum Anglo, forma lingua anglo moderno, qui
+contine simplificatione de caso (§ 1), de genere (§ 2), et in parte
+simplificatione de persona et de modo (§ 4). Lingua anglo tende ad
+perdita de omne flexione et ad monosyllabismo.
+
+Ita, in tempore historico, ori "Lingua franca" in porto de Mediterraneo,
+"Pidgin" in Sina, "Urdu" in India, etc.
+
+Hodie omne homo de Europa et de America, qui habe plure relatione cum
+extero, clama lingua internationale. Nam suffice lingua nationale ad qui
+habe solo relatione nationale. Conoscentia de tres aut quatuor lingua
+principale suffice ut nos lege, in originale aut in versione omne libro
+jam celebre. Sed hodie Russo, Polacco, Rumeno, Japonico, ... publica in
+suo lingua libro originale, et non solo libro scholastico.
+
+Adoptio, ut inter-lingua, de lingua vive-nte, non es possibile, per
+causa de politica.
+
+Plure homo propone latino classico. Vide:
+
+Prof. A. VALDARNINI de universitate de Bologna, _Necessità d'una lingua
+internazionale e lo studio del latino_, in "Primo congresso
+internazionale latino", Roma a. 1903.
+
+Hic congresso exopta:
+
+«ut sermo latinus inter gentes universas communis habeatur, et
+adhibeatur ad humanitatis commercium fovendum, augendum, tenendum».
+
+Ibi congressista loque neolatino, ut italico, franco, provenzale, rumeno
+et castellano, raro latino classico.
+
+Et periodico "Phenix" in London, "Praeco latinus" in Philadelphia, "Vox
+urbis" in Roma sustine idem idea; sed primo mori in anno 1892, et
+secundo in 1902. Ergo adoptio de latino fi semper minus probabile.
+
+Multo auctore, in vario tempo, propone lingua plus vel minus
+artificiale.
+
+Vir doctissimo, L. COUTURAT professore in Universitate de Toulouse, in
+libro _La Logique de Leibniz_, Paris a. 1901 p. 608, expone:
+
+_Ars magna_ de R. LULLE a. 1234-1315,
+
+_Ars magna sciendi_ de KIRCHER a. 1669,
+
+_Ars signorum_ de DALGARNO a. 1661,
+
+_Philosophical language_ de WILKINS a. 1668.
+
+Postea Leibniz diffuse et profunde stude hic subjecto; sed nihil
+publica. Suo studio mane sepulto in bibliotheca de Hannover, usque ad
+nostro die; primo Dr Vacca in RdM., postea Couturat in libro citato
+detege et publica parte de hic manuscripto. Suo importantia magis pate,
+et denique L. COUTURAT publica «Opuscules et fragments inédits de
+Leibniz», Paris a. 1903, p. XVI-682, qui contine studio de Leibniz,
+summe praetioso per constructione de Vocabulario philosophico.
+
+Libro, nunc edito, L. COUTURAT et L. LEAU _Histoire de la langue
+universelle_, Paris a. 1903 p. XXI+571, expone 56 projecto de lingua
+artificiale.
+
+Me hic breve loque de magis noto.
+
+                   *       *       *       *       *
+
+SCHLEYER, parrocho, in anno 1881 publica «Volapük», qui es
+transformatione de lingua anglo, ut ipse dice.
+
+Hic lingua regularisa declinatione de nomen, et conjugatione de verbo;
+sed introduce nullo simplificatione rationale, qui Leibniz propone. Ille
+contine immenso numero de conventione. Volapük sume in principio multo
+diffusione. In anno 1888 habe 283 club, et 25 periodico, in omne parte
+de terra. Plure conventione produce discordia inter sectatore, et post
+congresso de Paris, in anno 1889, hic lingua decade et mori.
+
+                   *       *       *       *       *
+
+ZAMENOF, doctore in medicina, in anno 1887, publica «Esperanto», qui
+contine simplificatione de genere (§ 2), de persona (§ 4). Sed non
+contine simplificatione de caso (§ 1), de numero (§ 3) et de modo (§ 5).
+Esperanto reduce toto grammatica ad 16 regula, de qui nullo es
+necessario.
+
+Et Esperanto contine magno numero de conventione, etsi minus quam
+Volapük, et in grammatica, et in vocabulario.
+
+Esperanto habe hodie 9 periodico; jam plure sectatore propone
+simplificatione; ille seque via de Volapük.
+
+                   *       *       *       *       *
+
+Et notato-digno es «Langue bleue» de L. BOLLACK. Ibi, ex numero de
+littera, nos vide si voce es vacuo, vel pleno, ut in sinense.
+
+                   *       *       *       *       *
+
+Nunc me loque de projecto cum pauco novo conventione.
+
+                   *       *       *       *       *
+
+«Lingua» de HENDERSON, a. 1888, es vocabulario latino, cum grammatica de
+typo Anglo.
+
+                   *       *       *       *       *
+
+Dr Daniel ROSA simplifica idea de Henderson, et publica «Le
+nov-latin»(2). Ille dice:
+
+  (3) _Bollettino dei Musei di Zoologia e Anatomia comparata della Regia
+  Università di Torino_, a. 1890.
+
+«Le nov-latin non requirer pro le sui adoption aliq congress. Omnes
+poter, cum les praecedént regulas, scriber statim ist lingua. ... Sic
+faciént ils vol valide cooperar ad le universal adoption de ist
+international lingua et simul ils vol poter star legé ab un mult major
+numer de doctes quam si ils haber scribé in quilibet alter vivént
+lingua».
+
+Ex hoc resulta quod Novlatin conserva pauco flexione (plurale in _-s_, 2
+participio, ...), et es quam proximo ad "lingua rationale" de Leibniz et
+ad "latino sine flexione".
+
+Domino George J. HENDERSON, in periodico, «The lingua franca of the
+future», qui ille dirige, a. 1901, perfectiona suo projecto, et dice:
+
+«Quare debe-nos non facere ex i Latine Lingue i Internationale Lingue?
+
+«I Latine Lingue esse nimis difficile. Post decem annes de studere,
+pauce discipules pote, legere facile, vel scribere accurate, vel loquere
+aliquantulum i Latine Lingue.»
+
+(_I_ articulo, plurale in _-s_, desinentia _-e_, ...)
+
+                   *       *       *       *       *
+
+Societate, qui habe nomen "Akademi internasional de lingu universal"
+adopta vocabulo magis internationale, et post multo studio et
+discussione, in a. 1902, publica "Idiom neutral".
+
+«Idiom neutral es usabl no sole pro scribasion, ma et pro parlation.»
+
+Ergo, principio de maximo internationalitate duce ad vocabulo latino.
+
+                   *       *       *       *       *
+
+"The American Philosophical Society" in an. 1887, pro formatione de
+inter-lingua, propone abolitione de articulo (ut in latino et in russo),
+de flexione de adjectivo, de caso de nomen, de persona et modo de verbo,
+et, in modo dubitativo, abolitione de plurale de nomen, et tempo de
+verbo.
+
+                   *       *       *       *       *
+
+Quaestio de inter-lingua nihil habe hodie commune cum ideographia, qui
+nos adopta in «Formulario mathematico».
+
+Ideographia es synthese; cum auxilio de pauco idea primitivo, circa
+decem, ille compone idea complexo; ita _hodie_ cum ideographia nos pote
+scribe toto mathematica, sed mathematica solo.
+
+Lingua artificiale es analyse. Ille decompone idea de lingua commune in
+alio idea plus simplice.
+
+Si in futuro analyse et synthese invicem conveni, ut duo exercito de
+minatore, qui labora tunnel ex duo extremitate, tunc «Lingua rationale»
+et «Characteristica universale» de Leibniz fore idem.
+
+                   *       *       *       *       *
+
+Vide quoque:
+
+H. DIELS, _Ueber LEIBNIZ und das Problem der Universalsprache_, Berlin
+Sitzungsberichte d. Akademie, a. 1899 p. 579.
+
+Prof. G. BELLAVITIS, _Pensieri sopra una lingua universale e su alcuni
+argomenti analoghi_, Mem. dell'Ist. Veneto; vol. XI a. 1862, pag. 33-74.
+
+                   *       *       *       *       *
+
+_Délégation pour l'adoption d'une langue auxiliaire internationale_, qui
+porta firma de numeroso scientiato de plure universitate, academia,
+repraesentante de societate philosophico, de commercio et de sport. Ipse
+delegatione declara:
+
+«Lingua auxiliaria internationale
+
+«1. posse servi ad relatione de vita sociale, de commercio, et de
+scientia et philosophia.
+
+«2. Omne homo, qui habe instructione elementare medio, facile disce hic
+lingua.
+
+«3. Hic lingua es proprio ad nullo natione.»
+
+Prof. L. COUTURAT explica hic idea in opusculo: «_Pour la langue
+internationale_» a. 1901. Periodico _Revue des questions scientifiques_,
+Bruxelles a. 1902, t. 1, p. 547-586 reproduce scripto de Couturat, cum
+observatione de P. P. PEETERS. Couturat responde in t. 2, pag. 213-230.
+Nullo objectione de PEETERS vale per "Latino sine flexione".
+
+
+CONCLUSIONE
+
+Articulo, qui praecede, proba quod flexione de nomen et de verbo non es
+necessario.
+
+«Se, invece di dizionario latino, noi cercare ogni parola in dizionario
+italiano, noi scrivere in italiano senza flessione.»
+
+Articulo, qui seque, contine versione litterale de plure propositione
+Germano et Anglo. Ille proba, quod suppressio de omne flexio non redde
+discurso magis longo.
+
+    G. PEANO.
+
+
+
+
+PRINCIPIO DE PERMANENTIA
+
+Exercitio de Latino recto
+
+
+[Omne vocabulo es inflexibile.
+
+Vocabulario latino commune, qui contine nominativo et genitivo de nomen,
+infinito de verbo, contine omne vocabulo de hic Nota, aut identico, aut
+cum abbreviatione:
+
+  a) Si termina in _-a_, muta _-a_ in _-are_, vel in _-ari_, et es
+     infinito de verbo.
+
+  b) Si termina in _-e_, muta _-e_ in _-ere_, vel _-i_, et es infinito de
+     verbo;
+  vel muta _-e_ in _-is_ et es genitivo de nomen,
+   »    »        » _-es_ et es nominativo de nomen.
+
+  In loco de _me_, _te_, _aliquo_, quaere _ego_, _tu_, _aliquis_.
+
+  c) Si termina in _-i_, muta _-i_ in _-ire_, vel _-iri_, et es infinito
+     de verbo.
+
+  d) Si termina in _-o_, muta _-o_ in _-us_ _-um_ _-u_, et est nominativo
+     de nomen, vel muta _-o_ in _-i_ et es genitivo de nomen.
+
+  e) _es_ quaere _sum_, _esse_.]
+
+Aliquo auctore introduce numero negativo, fracto et imaginario, ut
+applicatione de regula, qui ille dice "principio de permanentia". Hic
+principio varia aliquanto prope diverso auctore.
+
+Prof. SCHUBERT, in _Encyclopädie der Mathematischen Wissenschaften_,
+t. 1, p. 11, expone hic principio sub forma claro sed erroneo. Ille
+dice:
+
+«_Princip der Permanenz_ in viererlei besteht:
+
+«erstens darin, jeder Zeichen-Verknüpfung, die keine der bis dahin
+definierten Zahlen darstellt, einen solchen Sinn zu erteilen, dass die
+Verknüpfung nach denselben Regeln behandelt werden darf, als stellte sie
+eine der bis dahin definierten Zahlen dar;
+
+«zweitens darin, eine solche Verknüpfung als Zahl im erweiterten Sinne
+des Wortes zu definieren und dadurch den Begriff der Zahl zu erweitern;
+
+«drittens darin, zu beweisen, dass für die Zahlen im erweiterten Sinne
+dieselben Sätze gelten, wie für die Zahlen im noch nicht erweiterten
+Sinne;
+
+«viertens darin, zu definieren, was im erweiterten Zahlengebiet gleich,
+grösser und kleiner heisst».
+
+Versione:
+
+«Principio de permanentia ex quatuor articulo consta:
+
+«1. ad omne signo-reunione(3) qui non repraesenta numero qui nos ante
+defini, nos tribue tale senso, ut nos posse tracta reunione juxta idem
+regula, velut si hic reunione repraesenta numero, qui nos ante defini;
+
+«2. nos defini hic reunione ut numero, in lato senso de vocabulo, et ita
+nos extende idea de numero;
+
+«3. nos demonstra quod per numero in lato senso omne theorema vale, ut
+per numero in non lato senso;
+
+«4. nos defini, quod in campo de numero lato nos voca aequale, maiore et
+minore».
+
+  (4) Vide «Latino sine flexione» § 6 j).
+
+Si omne regula et omne theorema super numero in senso non lato subsiste
+super numero in senso lato, necesse es ut numero in senso lato es
+identico ad numero in senso non lato. Nam duo ente es inter se aequale,
+si omne proprietate de uno es quoque proprietate de alio. Hoc es ipse
+definitione de aequalitate:
+
+«Eadem sunt quorum unum in alterius locum substitui potest, salva
+veritate» (Leibniz, vide Formulario § 2, P4·3) quod me traduce: «Plure
+ente es idem, si nos posse substitue uno de ille in loco de altero, et
+veritate (de propositione) es salvo».
+
+Quum nos trans-i ab uno specie de numero ad specie magis lato, semper
+debe omitte aliquo proprietate.
+
+Relatione a + b > a es vero per numero absoluto, falso per numero cum
+signo.
+
+Si nos trans-i ab numero imaginario simplice ad quaternione, nos omitte
+proprietate commutativo de producto.
+
+Ergo definitione, qui nostro auctore da de 0, de numero negativo, de
+fracto, etc. basa super principio absurdo. Hic definitione non es
+legitimo.
+
+                   *       *       *       *       *
+
+Nos repete idem critica ad _Elementare Arithmetik und Algebra_ de ipse
+Prof. SCHUBERT (Leipzig a. 1899, pag. 33) qui enuntia ipse principio cum
+primo et secundo articulo.
+
+                   *       *       *       *       *
+
+HANKEL, _Theorie der Complexen Zahlensysteme_, Leipzig, a. 1867, quum
+nancisce «principio de permanentia de lege formale», dice in pagina 5:
+
+«Wenn b > c ist, ... die Subtraction ist ... unmöglich. Nichts hindert
+uns jedoch, dass wir in diesem Falle die Differenz (c - b) als ein
+Zeichen ansehen, welches die Aufgabe [(c - b) + b = c] löst und mit
+welchem genau so zu operiren ist, als wenn es eine numerische Zahl aus
+der Reihe 1, 2, 3 ... wäre».
+
+Versione: «Si b > c es, subtractione es ne-possibile. Nihil obsta tamen,
+quod nos in hic caso considera differentia (c - b) ut signo, qui resolve
+quaestio, et cum qui exacte nos debe opera, ut si ille numero ex serie
+1, 2, 3, ... es».
+
+Contra hic modo de ratiocinio Gauss antea dice:
+
+«Quodsi quis dicat, triangulum rectilineum aequilaterum rectangulum
+impossibile esse, nemo erit qui neget. At si tale triangulum impossibile
+tanquam novum triangulorum genus contemplari, aliasque triangulorum
+proprietates ad illud applicare voluerit, ecquis risum teneat? Hoc esset
+verbis ludere seu potius abuti». (Formul. pag. 219). Versione:
+
+«Si aliquo dice quod triangulo rectilineo aequilatero rectangulo
+impossibile es, nemo tunc es qui nega. Sed si aliquo velle contempla
+tale triangulo impossibile tanquam novo genere de triangulo, et applica
+ad illo omne alio proprietate de triangulo, an qui tene riso? Hoc es
+lude cum verbo, vel potius abute».
+
+                   *       *       *       *       *
+
+Prof. CHRISTAL, _Algebra_, Edinburgh a. 1889, p. 6, re-dice idea de
+Hankel:
+
+«Assuming that the quantity +a - b always exists, we may show that the
+laws of commutation and association hold».
+
+Versione:
+
+«Si nos assume quod quantitas +a - b semper existe, posse monstra quod
+lege de commutatio et associatio mane».(4)
+
+  (5) Nota analogia grammaticale de «show» cum «monstra».
+
+Hoc es, si nos assume absurdo, non solo nos posse deduce lege de
+commutatione, sed omne lege qui nos velle, nam ex absurdo omne
+consequentia deriva.
+
+Non sub forma de principio absoluto, sed sub forma de consilio, lice
+quod nos dice:
+
+«Quum nos introduce novo calculo, es multo utile quod nos sume
+nomenclatura et notatione ita ut novo calculo fie quam maxime simile ad
+calculo antiquo».
+
+Me dice «quam maxime simile»; «identico» es absurdo.
+
+Ita Algebra, qui indica cum idem signo +, ×, = ... operatione non solo
+inter numero integro, sed etiam inter fracto, es magno progresso super
+longo methodo de antiquo graeco; Algebra reduce toto libro X de Euclide,
+noto per magnitudine et difficultate, ad uno pagina, qui professore sole
+doce in uno lectione in Instituto tecnico (Vide Formul. p. 111).
+
+In saeculo ultimo plure auctore indica cum idem signo +, sive summa de
+algebra, sive resultante de vectore, et ita construe Calculo geometrico,
+qui in respecto ad Geometria, es idem progresso quam Algebra in respecto
+de Arithmetica graeco.
+
+Tunc principio de permanentia idem es ac principio generale de
+oeconomia, qui subsiste in linguistica, didactica et politica, ut
+demonstra E. MACH, in capitulo de «natura oeconomico de progresso
+physico» de _Populär-wissenschaftliche Vorlesungen_, Leipzig a. 1903.
+
+    G. PEANO.
+
+
+
+
+  [ Transcriber's Note:
+
+    The following is a list of corrections made to the original.
+    The first line is the original line, the second the corrected one.
+
+    c) Ad verbo activo adde _re_, et te habe passivo.
+    c) Ad verbo activo adde _-re_, et te habe passivo.
+
+    _ge_, _gi_      »   _ghe_, _ghi_,    »   _gue_, _gui_      »    _ge_,
+    _ge_, _gi_      »   _ghe_, _ghi_,    »   _gue_, _gui_,     »    _ge_,
+
+  internationale latino", Roma a. 1903.
+  internazionale latino", Roma a. 1903.
+
+  contine simplicatione de genere (§ 2), de persona (§ 4). Sed non
+  contine simplificatione de genere (§ 2), de persona (§ 4). Sed non
+
+  Et notato-digno es «Langue bleu» de L. BOLLACK. Ibi, ex numero de
+  Et notato-digno es «Langue bleue» de L. BOLLACK. Ibi, ex numero de
+
+  Prof. L. COUTURAT explica hic idea in opusculo: Pour la langue
+  Prof. L. COUTURAT explica hic idea in opusculo: «_Pour la langue
+
+  Articulo, qui praecede, proba quod flexio de nomen et de verbo non es
+  Articulo, qui praecede, proba quod flexione de nomen et de verbo non es
+
+  cum abreviatione:
+  cum abbreviatione:
+
+  «erstens darin, jeder Zeichnen-Verknüpfung, die keine der bis dahin
+  «erstens darin, jeder Zeichen-Verknüpfung, die keine der bis dahin
+
+  definierten Zahlen darstellt, einem solchen Sinn zu erteilen, dass die
+  definierten Zahlen darstellt, einen solchen Sinn zu erteilen, dass die
+
+  Verknüpfung nach denselben Regeln behaldelt werden darf, als stellte sie
+  Verknüpfung nach denselben Regeln behandelt werden darf, als stellte sie
+
+  eine des bis dahin definierten Zahlen dar;
+  eine der bis dahin definierten Zahlen dar;
+
+  «drittens darin, zu beweisen dass für die Zahlen im erweiterten Sinne
+  «drittens darin, zu beweisen, dass für die Zahlen im erweiterten Sinne
+
+  grösser und minor heisst».
+  grösser und kleiner heisst».
+
+  «Wenn b > c ist, ... die Substraction ist ... unmöglich. Nichts hindert
+  «Wenn b > c ist, ... die Subtraction ist ... unmöglich. Nichts hindert
+
+  Versione: «Si b > c es, subtractione es ne-possible. Nihil obsta tamen,
+  Versione: «Si b > c es, subtractione es ne-possibile. Nihil obsta tamen,
+
+  physico» de _Populär Vorlesungen_, Leipzig a. 1903.
+  physico» de _Populär-wissenschaftliche Vorlesungen_, Leipzig a. 1903.
+
+  ]
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK DE LATINO SINE FLEXIONE; PRINCIPIO DE PERMANENTIA ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
