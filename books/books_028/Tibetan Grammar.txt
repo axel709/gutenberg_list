@@ -1,0 +1,3417 @@
+The Project Gutenberg eBook of Tibetan Grammar
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Tibetan Grammar
+
+Author: H. A. Jäschke
+
+Editor: H. Wenzel
+
+Release date: October 22, 2022 [eBook #69207]
+                Most recently updated: October 19, 2024
+
+Language: English
+
+Original publication: United Kingdom: Trübner and Co, 1883
+
+Credits: Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TIBETAN GRAMMAR ***
+
+[Transcriber’s note: This Unicode text file includes Tibetan and 
+Indic scripts. You may need to install a special fonts to read it.
+Because Tibetan scripts are not monospaced, tables may appear 
+misaligned.]
+
+
+
+
+
+
+
+
+                            TIBETAN GRAMMAR
+
+                                   BY
+
+                             H. A. JÄSCHKE
+                          MORAVIAN MISSIONARY.
+
+                             SECOND EDITION
+
+                              PREPARED BY
+                             Dr. H. WENZEL.
+
+
+
+                                LONDON:
+                 TRÜBNER & CO., 57 & 59, LUDGATE HILL.
+                                 1883.
+
+
+
+
+
+
+
+
+PREFACE.
+
+
+The present new edition of Mr. Jäschke’s Tibetan Grammar scarcely needs
+a word of apology. As the first edition which was lithographed at
+Kyelaṅ in 1865 in a limited number of copies has long been out of
+print, Dr. Rost urged the author to revise his grammar for the purpose
+of bringing it out in an improved form. The latter, prevented by
+ill-health from undertaking the task, placed the matter in my hands,
+and had the goodness to make over to me his own manuscript notes and
+additions to the original work. Without his personal cooperation,
+however, I was unable to make any but a very sparing use of these,
+adding only a few remarks from Gyalrabs and Milaraspa, with some
+further remarks on the local vernacular of Western Tibet. Indeed,
+special attention has been paid throughout to this dialect; it is the
+one with which the author during his long residence at Kyelaṅ had
+become most familiar, and with which the English in India are most
+likely to be brought into direct contact.
+
+Besides the above mentioned additions, I have taken a number of
+examples from the Dzaṅlun, to make clearer some of the rules, and, with
+the same view, I have altered, here and there, the wording of the
+lithographed edition. The order of the paragraphs has been retained
+throughout, and only one (23.) has been added for completeness’ sake.
+
+The system of transliteration is nearly the same as in the Dictionary,
+only for ny, ñ is used, and instead of e̱, ä (respectively ā̤) has been
+thought to be a clearer representation of the sound intended. For the
+niceties of pronunciation the reader is referred to the Dictionary, as
+in this Grammar only the general rules have been given.
+
+Finally I must express my warmest thanks to Dr. Rost, to whose
+exertions not only the printing of this Grammar is solely due, but who
+also rendered me much help in the correcting of the work.
+
+Mayence, May 1883.
+
+H. Wenzel.
+
+
+
+
+
+
+
+
+ABBREVIATIONS.
+
+
+    act. = active.
+    C or CT = Central Tibet, especially the provinces of Ü and Tsaṅ.
+    cf. = confer, compare.
+    Dzl. = Dzaṅlun.
+    e.g. = exempli gratia, for instance.
+    ET = East Tibet.
+    fut. = future.
+    imp. = imperative.
+    inf. = infinitive.
+    i.o. = instead of.
+    Köpp. = Köppen.
+    Kun. = Kunawur, province under English protection.
+    Ld. = Ladak, province.
+    Mil. = Milaraspa.
+    neutr. = neuter verb.
+    perf. or pf. = perfect.
+    pres. = present.
+    s. = see.
+    term. = terminative case.
+    Thgy. = Thar-gyan, scientific treatises.
+    v. = vide, see.
+    vulg. = vulgar expression.
+    W or WT = Western Tibet.
+
+
+
+
+
+
+
+
+CONTENTS.
+
+
+I. Phonology.
+                                                        Page
+        1. Alphabet                                        1
+        2. Remarks                                         3
+        3. Vowels                                          3
+        4. Syllables                                       4
+        5. Final Consonants                                5
+        6. Diphthongs                                      6
+        7. Compound Consonants                             7
+        8. Prefixed Letters                               11
+        9. Word; Accent; Quantity                         12
+       10. Punctuation                                    14
+
+II. Etymology.
+
+        I. Article.
+
+            11. Peculiarities of the Tibetan Article      17
+            12. Difference of the Articles                18
+            13. The Indefinite Article                    19
+
+        II. Substantive.
+
+            14. Number                                    20
+            15. Declension                                21
+
+        III. Adjective.
+
+            16. Relation to the Substantive               25
+            17. Comparison                                26
+
+        IV. Numerals.
+
+            18. Cardinal numerals                         28
+            19. Ordinal numerals                          31
+            20. Remarks                                   31
+            21. Distributive numerals                     33
+            22. Adverbial numerals                        33
+            23. Fractional numerals                       33
+
+        V. Pronouns.
+
+            24. Personal pronouns                         34
+            25. Possessive pronouns                       36
+            26. Reflective pronouns                       37
+            27. Demonstrative pronouns                    37
+            28. Interrogative pronouns                    38
+            29. Relative pronouns                         38
+
+        VI. Verb.
+
+            30. Introduction                              40
+            31. Inflection                                41
+            32. Infinitive                                42
+            33. Participle                                43
+            34. Finite Verb                               45
+            35. Present                                   46
+            36. Preterit                                  47
+            37. Future                                    48
+            38. Imperative                                49
+            39. Intensive                                 50
+            40. Substantive Verbs                         51
+            41. Gerunds and Supines                       54
+            42. VII.  Adverb                              65
+            43. VIII. Postposition                        67
+            44. IX.   Conjunction                         74
+            45. X.    Interjection                        76
+                XI.   Derivation:
+            46. Derivation of Substantives                77
+            47. Derivation of Adjectives                  78
+
+III. Syntax.
+
+        48. Arrangement of Words                          80
+        49. Use of the Cases                              81
+        50. Simple Sentences                              82
+        51. Compound Sentences                            83
+
+Appendix.
+
+        Phrases                                           86
+        Reading Exercise                                  92
+        Verbs                                             99
+
+
+
+
+
+
+
+
+PART I.
+
+PHONOLOGY.
+
+
+1. The Alphabet. The Tibetan Alphabet was adapted from the Lañc̀ʽa
+(ལཱཉ་ཚ) form of the Indian letters by Tʽon-mi-sam-bho-ta (ཐོན་མི་སམ་བྷོ་ཏ)
+minister of king Sroṅ-tsan-gam-po (སྲོང་བཙན་སྒམ་པོ་) about the year 632 (s.
+Köpp. II, 56). The Indian letters out of which the single Tibetan
+characters were formed are given in the following table in their Nāgari
+shape.
+
+             surd.         aspir.         sonant.       nasal.
+
+gutturals.   ཀ་   क   ka    ཁ་   ख   kʽa    ག་   ग   ga    ང་   ङ    ṅa
+palatals.    ཅ་   च   c̀a    ཆ་   छ   c̀ʽa    ཇ་   ज   j̀a     ཉ་   ञ   ña
+dentals.     ཏ་   त   ta    ཐ་   थ   tʽa    ད་   द   da     ན་   न   na
+labials.     པ་   प   pa    ཕ་   फ   pʽa    བ་   ब   ba     མ་   म   ma
+palatal      ཙ་       tsa   ཚ་       tʽsa   ཛ་       dsa
+sibilants.
+semivowels   ཝ་   व   wa    ཞ་       z̀a    ཟ་       za   འ་      ˱a
+             ཡ་   य   ya    ར་   र   ra    ལ་   ल   la
+             ཤ་   श   s̀a    ས་   स   sa    ཧ་   ह   ha
+             ཨ་       ’a
+
+
+It is seen from this table that several signs have been added to
+express sounds that are unknown in Sanscrit. The sibilants ཙ་ ཚ་ ཛ་
+evidently were differentiated from the palatals. But as in transcribing
+Sanscrit words the Tibetans substitute their sibilants for the palatals
+of the original (as ཙི་ན་ for चीन), we must suppose that the sibilisation
+of those consonants, common at present among the Hindus on the Southern
+slopes of the Himālaya (who say tsār for चार, four etc.), was in general
+use with those Indians from whom the Tib. Alphabet was taken (cf. also
+the Afghan څ‎ and ڂ‎ likewise sprung from چ‎ and ج‎). ཝ་ is
+differentiated from བ་, which itself often is pronounced v, as shewn in
+the sequel; in transcribing Sanscrit, ब and व both are given,
+generally, by བ only. ཞ་ seems to be formed out of ཤ་ to which it is
+related in sound. ཟ་ evidently is only the inverted ཇ་. ཨ་ corresponds
+with Sanscrit अ. འ་ is newly invented; for its functions see the
+following §§.—The letters which are peculiar to Sanscrit are expressed,
+in transcribing, in the following manner. a) The linguals, simply by
+inverting the signs of the dentals: thus, ཊ་ ट, ཋ་ ठ, ཌ་ ड, ཎ་ ण. b)
+The sonant aspirates, by putting ཧ་ under the sonants: thus, གྷ་ घ, ཛྷ་
+झ, ཊྷ་ ढ, དྷ་ ध, བྷ་ भ. [1]
+
+
+
+2. Remarks. 1. Regarding the pronunciation of the single letters, as
+given above, it is to be born in mind, that surds ཀ་ ཏ་ པ་ are uttered
+without the least admixture of an aspiration, viz. as k, t, p are
+pronounced in the words skate, stale, spear; the aspirates ཁ་ ཐ་ ཕ་
+forcibly, rather harder than the same in Kate, tale, peer; the sonants
+ག་ ད་ བ་ like g, d, b in gate, dale, beer. 2. The same difference of
+hardness is to be observed in ཅ་ ཆ་ ཇ་ or c̀, c̀ʽ, j̀ (c̀ʽ occurs in
+church; c̀, the same without aspiration; j̀ in judge) and in ཙ་ ཚ་ ཛ་ or
+ts, tʽs, ds. 3. ཞ་ is the soft modification of s̀ or the s in leisure
+(French j in jamais, but more palatal). 4. ང་ is the English ng in
+sing, but occurs in Tibetan often at the commencement of a syllable. 5.
+ཉ་ ñ is the Hindi न्य, or the initial sound in the word new, which would
+be spelled ཉུ་ ñu. 6. In the dialects of Eastern or Chinese-Tibet,
+however, the soft consonants ག་ ད་ བ་ ཇ་ ཛ་, when occurring as
+initials, are pronounced with an aspiration, similar to the Hindi घ, ध,
+भ, झ, or indeed so that they often scarcely differ from the common
+English k, t, p, ch; also ཞ་ and ཟ་ are more difficult to distinguish
+from ཤ་ and ས་ than in the Western provinces (Exceptions s. §§ 7. 8).
+
+
+
+3. Vowels. 1. Since every consonant sign implies, like its Sanscrit
+prototype, a following a, unless some other vowel sign is attached to
+it, no particular sign is wanted to denote this vowel, except in some
+cases specified in the following §§. The special vowel signs are   ེ,
+ི,   ོ,   ུ, pronounced respectively as e, i, o, u are in German, Italian
+and most other European languages, viz.   ེ like ay in say, or e in ten;
+ི like i in machine, tin;   ོ like o in so, on;   ུ like u in rule, pull.
+It ought to be specially remarked that all vowels, including e and o
+(unlike the Sanscrit vowels from which they have taken their signs) are
+short, since no long vowels at all occur in the Tibetan language,
+except under particular circumstances, mentioned below (s. § 9. 5, 6).
+2. When vowels are initial, ཨ is used as their base, as is ا‎ in Urdu,
+e.g. ཨ་མ་ ama, ‘mother’. 3. འ is originally different from ཨ་, as the
+latter denotes the opening of the previously closed throat for
+pronouncing a vowel with that slight explosive sound which the Arabs
+mean by أ‎ (همزة‎), as the a in the words: the lily, an endogen, which
+would be in Tibetan characters ལི་ལི་ཨན་; འ་ on the contrary is the mere
+vowel without that audible opening of the throat (as Arabic ا‎ without
+ء‎), as in Lilian, ལི་ལི་འན་. In Eastern Tibet this difference is
+strictly observed; and if the vowel is o or u the intentional exertion
+for avoiding the sound of ཨ་ makes it resemble wo and wu: འོ་མ་ ‘the
+milk’, almost like wo-ma, འུག་པ་ ‘the owl’ = wug-pa. In western Tibet
+this has been obliterated, and འ་ is there spoken just like ཨ་.
+
+
+
+4. Syllables. The Tibetan language is monosyllabic, that is to say all
+its words consist of one syllable only, which indeed may be variously
+composed, though the component parts cannot, in every case, be
+recognised in their individuality. The mark for the end of such a
+syllable is a dot, called ཚེག་ tʽseg, put at the right side of the upper
+part of the closing letter, such as ཀ་ the syllable ka. This tʽseg must
+invariably be put at the end of each written syllable, except before a
+s̀ad (§ 10), in which case only ང་ ṅa retains its tʽseg. If therefore
+such a dot is found after two or more consonants, this will indicate
+that all of them, some way or other, form one syllable with only one
+vowel in it: ཀ་ར་ ka-ra, ཀར་ kar (cf. §§ 5. 8).
+
+
+
+5. Final consonants. 1. Only the following ten: ག་ ང་ ཏ་ ན་ བ་ མ་ འ་ ར་
+ལ་ ས་ (and the four with affixed ས, v. 5) occur at the end of a
+syllable. 2. It must be observed, that ག་ ད་ བ་ as finals are never
+pronounced like the English g, d, b in leg, bad, cab, but are
+transformed differently in the different provinces. In Ladak they sound
+like k, t, p e.g. སོག་ = sock, གོད་ = got, ཐོབ་ = top. 3. In all Central
+Tibet, moreover, final ད་ and ན་, sometimes even ལ་, modify the sound
+of a preceding vowel: a to ä (similar to the English a in hare, man), o
+into o̤ (French eu in jeu), u into ṳ (French u in mur). In most of the
+other provinces ག་ and ད་ are uttered so indistinctly as to be scarcely
+audible, so that སོག་, གོད་ become sŏʼ, gŏʼ. In Tsang even final ལ་ is
+scarcely perceptible, and final ག་, particularly after o, is almost
+dissolved into a vowel sound = a: སོལ་བ་ so-wa, དཀོན་མཆོག་ kon-choa. [2]
+4. Final ས་ is sounded as s only in Northern Ladak; elsewhere it
+changes into i or disappears entirely, prolonging, or even modifying at
+the same time the preceding vowel. Thus the following words: ནས་
+‘barley’, ཤེས་ ‘know’, རིས་ ‘figure’, ཆོས་ ‘religion’, ལུས་ ‘body’, are
+pronounced in Northern Ladak: năs, s̀ĕs, ris, c̀ʽos, lŭs; in Lahoul: nai,
+shei, rī, c̀ʽō, lū; in Lhasa, and consequently by everyone who wishes to
+speak elegantly: nā̤, s̀ē, rī, c̀ʽō̤, lṳ̄. 5. In some words final ས་ occurs
+as a second closing letter (affix), after ག་ ང་ བ་ མ་, as in ནགས་
+‘forest’, གངས་ ‘glacier-ice’, ཐབས་ ‘means’, རམས་ ‘indigo’; these are
+pronounced in N. Ladak: nacks, gaṅs, tʽaps, rams, elsewhere nack (in Ü:
+nā), gaṅ (ET ghang), tʽap, ram. 6. ན་ before པ་ and མ་ is especially in
+ET very often pronounced m, e.g. ཉན་པ་ ñäm-pa, ཉོན་པ་ ñöm-pa, སྙེན་པ་
+ñem-pa.
+
+
+
+6. Diphthongs. 1. They occur in Tibetan writing only where one of the
+vowels i, o, u have to be added to a word ending with an other vowel
+(s. §§ 15. 1; 33. 1; 45. 2). These additional vowels are then always
+written འི་, འོ་, འུ་, never ཨི་ etc. (cf. § 3. 3); and the combinations
+ai, oi, ui (as in བཀའི་, མགོའི་, བུའི་) are pronounced very much like ā̤, ō̤,
+ṳ̄, so that the syllables ནའི་, ཤེའི་, རིའི་, ཆོའི་, ལུའི་ can only in some
+vulgar dialects be distinguished from those mentioned in § 5. 4. 2. The
+others ao, eo, io, oo, uo, au, eu, iu (བཀའོ་, སྐྱེའོ་, བགྱིའོ་, འགྲོའོ་, འདུའོ་,
+གའུ་, བྱེའུ་, ཁྱིའུ་) are pronounced in rapid succession, but each vowel is
+distinctly audible. In prosody they are generally regarded as one
+syllable, but if the verse should require it they may be counted as
+two.
+
+
+
+7. Compound consonants. 1. They are expressed in writing by putting one
+below the other, in which case several change their original figure.
+
+Subscribed consonants. 2. The letter y subjoined to another is
+represented by the figure  ྱ, and occurs in connection with the three
+gutturals and labials, and with m, thus ཀྱ་ ཁྱ་ གྱ་ པྱ་ ཕྱ་ བྱ་ མྱ་. The
+former three have preserved, in most cases, their original
+pronunciation kya, kʽya, gya (the latter in ET: ghya s. § 2. 6). In the
+Mongol pronunciation of Tibetan words, however, they have been
+corrupted into c̀, c̀ʽ, j̀ respectively, a well known instance of which is
+the common pronunciation Kanj̀ur i.o. kangyur, or eleg. ka-gyur
+(བཀའ་འགྱུར་). པྱ་, ཕྱ་, བྱ་ are almost everywhere spoken without any
+difference from ཅ, ཆ, ཇ (except in the Western dialect before e and i,
+where the y is dropped and པ, ཕ, བ alone are pronounced). མྱ is spoken
+ny = ཉ. 3. r occurs at the foot of the gutturals, dentals, labials, of
+ན, མ, ས, and ཧ, in the shape of  ྲ. In some parts of the country, as in
+Purig, these combinations are pronounced literally, like kra, khra
+etc., but by far the most general custom is to sound them like the
+Indian cerebrals, viz. ཀྲ, ཏྲ, པྲ indiscriminately = ट ṭ; ཁྲ, ཐྲ, ཕྲ = ठ ṭh;
+གྲ, དྲ, བྲ = ड ḍ (in CT: ḍh); only in the case of བྲ the literal
+pronunciation br is not uncommon. In ནྲ and མྲ both letters are
+distinctly heard; ཧྲ sounds like shr in shrub, and so does སྲ generally.
+In Ü this r is dropped nearly in all cases: thus, ཕྲ pʽa, སྲ sa etc. 4.
+Six letters are often found with an ལ beneath: ཀླ་ གླ་ བླ་ ཟླ་ རླ་ སླ་; in
+these the ལ alone is pronounced, except in ཟླ་, which sounds da. 5. The
+figure  ྭ, sometimes found at the foot of a letter is used in Sanscrit
+words to express the subscribed व, as in སྭཱ་ཧཱ་ (cf. § 9. 6) for स्वाहा; and
+is now pronounced by Tibetans = ō: sōhā; in words originally Tibetan it
+now exists merely as an orthographical mark, to distinguish homonyms in
+writing, as ཚ་ tʽsa, ‘hot’ and ཚྭ་ tʽsa, ‘salt’; but, as it is spoken,
+in some words at least, in Balti (e.g. རྩྭ་ rtswa ‘grass’), it must be
+supposed that, in the primitive form of the language, it was generally
+heard.—Note. Of such compounds, indeed, as ཕྱྭ་ ‘lot’ it is difficult to
+understand, how they can have been pronounced literally, if the v was
+not, perhaps, pronounced before the y.
+
+Superadded consonants. 6. r over another consonant is written ⸆, and 11
+consonants have this sign: རྐ་ རྒ་ རྔ་ རྟ་ རྡ་ རྣ་ རྦ་ རྨ་ རྩ་ རྫ་, above ཉ་ it
+preserves its full shape, as better adapted to the form of that letter:
+thus, རྙ་. In speaking it is seldom heard except provincially, and in
+some instances in compound words after a vowel thus, ཨུ་རྒྱན་ Urgyán,
+Urgyén, ancient name of the country of Lahore; རྡོ་རྗེ་ dórje ‘vaj̀ra’.
+Ladakees often pronounce it = s: རྟ་ sta ‘horse’ elsewhere ta. 7.
+Similar is the usage in those with a superadded ལ (namely: the surds
+and sonants of the first four classes, the guttural nasal, and ཧ),
+which latter is often softly heard in WT, but entirely dropped
+elsewhere, except in the case of ལྷ, which is spoken = ལ in WT, but with
+a distinct aspiration = hla or lha in ET. 8. ས is superadded to the
+gutturals, dentals and labials with exception of the aspiratae, then ཉ་
+and ཙ་. It is, in many cases, distinctly pronounced in Ladak, but
+dropped elsewhere [3]. 9. ག་ ད་ བ་ ཇ་ ཛ་ with any superadded letter
+lose the aspiration mentioned in § 2. 6 and sound = g, d, b, j̀, ds. 10.
+རྗ་ རྩ་ རྫ་ often lose even the inherent t-sound in pronunciation and are
+spoken like j̀, s, z.
+
+
+Examples.
+
+    ཀྱིར་ཀྱིར་ kyir-kyir, round, circular.
+    ཁྱི་ kʽyi, dog.
+    གྱེན་ལ་ gyen-la, upwards.
+    ཕྱུགས་ c̀ʽug(s), Ü: c̀ʽū, cattle.
+    ཀྱུ་ kyu, hook.
+    ཁྱོད་ kʽyod, C: kʽyöʼ, you.
+    ཕྱུག་པོ་ c̀ʽug-po, rich.
+    ཕྱེད་ W: pʽed, C: c̀ʽĕʼ, half.
+    བྱ་མོ་ W: j̀á-mo, C: j̀ʽa-mo, hen.
+    མྱ་ངན་ W: ña-ṅán, C: -ṅän, misery.
+    ཀྲམ་ ṭam, cabbage.
+    ཁྲིམས་ ṭʽim(s), judgment.
+    གྲང་མོ་ W: ḍaṅ-mo, C: ḍʽ°-, cold.
+    ཕྲུག་གུ་ ṭʽug-gu, child.
+    སྲན་མ་ s̀ran-ma, srän-ma, pea.
+    གླ་ la, wages.
+    རླུང་(པོ་) luṅ(-po), wind.
+    ཟླ་བ་ da-wa (s. § 11 note), moon.
+    རྣོན་པོ་ nón-po, C: no̤m-po, sharp.
+    ལྗང་ཁུ་ jaṅ-kʽu (Ld. lj°), green.
+    སྐོམ་ (s)kom, thirst.
+    སྒོ་ (s)go, door.
+    སྒྱུར་བ་ (s)gyúr-wa, to alter, turn.
+    སྤྱིན་ W: (s)pin, C: c̀ʽin, glue.
+    སྤྲེའུ་ ṭe-u, Ld: s̀re-u, monkey.
+    སྨན་ W: (s)man, C: män, medicine.
+    བྱེ་མ་ W: bé-ma, C: j̀ʽe-ma, sand.
+    མྱུར་དུ་ ñur-du, quickly.
+    ཁྲལ་ ṭʽal, tax.
+    གྲི་ W: ḍi, ḍʽi (Pur: gri), knife.
+    དྲང་པོ་ W: ḍaṅ-po, C: ḍʽ°, straight.
+    བྲག་ ḍag, ḍʽag (brag), rock.
+    ཧྲུལ་པོ་ s̀rul-po, ragged.
+    བླ་མ་ lá-ma, priest.
+    སླ་མོ་ lá-mo, easy.
+    རྐང་པ་ kaṅ-pa, foot.
+    རྫུན་ W: zun, C: dsṳn, lie, untruth.
+    ལྟད་མོ་ tad-mo (Ld. lt°), C: täʼ-mo, spectacle.
+    སྐྲ་ W: s̀ra [4], C: ṭa, hair.
+    སྒྲ་ ḍa (vulg.: ra), sound, voice.
+    སྤུ་ (s)pu, small hair.
+    སྤྱོད་པ་ W: (s)c̀od-pa, C: c̀öʼ-pa, to behave.
+    སྦྲུལ་ W: (sb)rul, C: ḍul, snake.
+    སྨྱོན་པ་ W: ñon-pa, C: ño̤n-pa, mad.
+
+
+
+8. Prefixed letters. 1. The five letters ག་ ད་ བ་ མ་ འ་ frequently
+occur before the real, radical initials of other words, but are seldom
+pronounced, except in similar cases as § 7. 6. ག་ occurs before ཅ་ ཉ་
+ཏ་ ད་ ན་ ཙ་ ཞ་ ཟ་ ཡ་ ཤ་ ས་; ད before the gutturals and labials with
+exception of the aspiratae; བ་ before ཀ་ ག་, the palatals, dentals and
+palatal sibilants with the same exception as under ད, then ཞ་ ཟ་ ར་ ཤ་
+ས་; མ་ before the gutturals, palatals, dentals and palatal sibilants,
+except the surds; འ before the aspiratae and sonants of the five
+classes. In CT, to pronounce them in any case, is considered vulgar. 2.
+The ambiguity which would arise in case of the prefix standing before
+one of the 10 final consonants, as single radical, the vowel being the
+unwritten a,—e.g. in the syllable དག་, which, if ད is radical, has to
+be pronounced dag, if prefixed gā,—is avoided by adding an འ་ in the
+latter case: thus, དགའ་. Other examples are: གད་ gad (gʽäʼ) and གདའ་
+dā; བས་ bas (bā̤, bʽā̤) and བསའ་ sā; མད་ mad (mäʼ) and མདའ་ dā; འགའ་ gā.
+This འ་ is added, though the radical be not one of the mentioned
+letters; as, བཀའ་ kā. 3. ད་ as a prefix and བ་ as first radical annul
+each other, so that only the following sound is heard, as will be seen
+in the following examples (དབང་ etc.). 4. Another irregularity is the
+nasal pronunciation of the prefixed འ་ in compounds after a vowel,
+which is often heard e.g. དགེ་འདུན་ pronounced gen-dún, gen-dṳ́n, but
+eleg.: ge-dṳ́n, ‘clergy’; བཀའ་འབུམ་ kam-bum, eleg. ka-búm, ‘the 100 000
+precepts’ (title of a book).—Note. With regard to the aspiration of the
+soft consonants in ET the prefixed letters have the same influence as
+the superadded ones § 7. 9.
+
+
+Examples.
+
+    གཡག་ yag, bos grunniens.
+    དཔེ་ཆ་ pé-c̀ʽa (Ld.: spe-c̀ʽa), book.
+    བཟང་པོ་ záṅ-po, good.
+    འབབ་པ་ bab-pa, to descend.
+    དབང་ waṅ, vulg. C: aṅ, power.
+    དབུས་ Ṳ̄, name of the Lhasa district.
+    དབེན་པ་ en-pa, solitude.
+    དབྱིབས་ yib(s), ib, figure.
+    དཀར་པོ་ kár-po, white.
+    དགྲ་བོ་ ḍá-wo, enemy.
+    མངར་མོ་ ṅár-mo, sweet.
+    བཅུ་བཞི་ c̀ub-z̀i, eleg. c̀u-z̀i, fourteen.
+    དབུ་ u, resp. head.
+    དབུགས་ ug(s), C: ug, ū, breath.
+    དབྱར་ཀ་ yar-ka, summer.
+    དབྱེ་བ་ ye-wa, e-wa, difference.
+
+
+
+9. Word; Accent; Quantity. 1. The peculiarity of the Tibetan mode of
+writing in distinctly marking the word-syllables, but not the words
+(cf. § 4) composed of two or more of these, sometimes renders it
+doubtful what is to be regarded as one word. 2. There exist a great
+number of small monosyllables, which serve to denote different shades
+of notions, grammatical relations etc., and are postponed to the word
+in question; but never alter its original shape, though their own
+initials are not seldom influenced by its final consonant (cf. § 15).
+3. Such monosyllables may conveniently be regarded as terminations,
+forming one word together with the preceding nominal or verbal root. 4.
+The accent is, in such cases, most naturally given to the root, or, in
+compounds, generally to the latter part of the composition, as: མིག་
+mig, ‘eye’, མིག་གི་ míg-gi, ‘of the eye’; ལག་ lag, ‘hand’, ལག་ཤུབས་
+lag-s̀ub(s), ‘hand-covering, glove’.—5. Equally natural is, in WT, the
+quantity of the vowels: accentuated vowels, when closing the syllable,
+are comparatively long (though never so long as in the English words
+bee, stay, or Hindi راجا‎ etc.), otherwise short, as མི་ mī ‘man’, མི་ལ་
+mī-lă ‘to the man’, but མར་ măr, ‘butter’.—In CT, however, even
+accentuated and closing vowels are uttered very shortly: mĭ, mĭ-lă
+etc., and long ones occur there only in the case of § 5, 4. 5. and 8,
+2., as ལས་ lā̤ ‘work’; ཆོས་ c̀ʽō̤ ‘religion’; མདའ་ dā ‘arrow’; གཟའ་ zā
+‘planet’; and in Lhasa especially: ནགས་ nā ‘forest’; ལེགས་པ་ lē-pa
+‘good’; རིགས་ rī ‘class, sort’; ལོགས་ lō ‘side’; ལུགས་ lū ‘manner’.—In
+Sanscrit words the long vowels are marked by an འ་ beneath the
+consonant, as: ནཱ་མ་ (नाम) ‘called’, མཱུ་ལ་ (मूल) ‘root’ (s. § 3).
+
+
+
+10. Punctuation. For separating the members of a longer period, a
+vertical stroke: །, called ཤད་ s̀ad (s̀äʼ), is used, which corresponds at
+once to our comma, semicolon and colon; after the closing of a sentence
+the same is doubled; after a longer piece, e.g. a chapter, four s̀ads
+are put. No marks of interrogation or exclamation exist in
+punctuation.—2. In metrical compositions, the double s̀ad is used for
+separating the single verses; in that case the logical partition of the
+sentence is not marked (cf. § 4).
+
+
+A list of a few useful words.
+
+    ཀ་ར་ or ཁ་ར་ ká-ra, kʽá-ra, sugar.
+    ཁང་པ་ kʽaṅ-pa, house.
+    གང་ W: gaṅ, C: gʽaṅ, which?
+    གུར་ W: gur, C: gʽur, tent.
+    ངལ་ ṅal, fatigue.
+    ཅི་ c̀i, what?
+    ཆད་པ་ W: c̀ʽad-pa, C: c̀ʽăʼ-pa, punishment.
+    ཆུང་བ་ c̀ʽuṅ-wa, little.
+    ཇ་ W: j̀a, C: j̀ʽa, tea.
+    ཉི་མ་ ñí-ma, sun; day.
+    ཉུང་མ་ ñúṅ-ma, turnip.
+    ཏིབ་རིལ་ tíb-ril, tea-pot, kettle.
+    ཀུན་ W: kun, C: kün, all.
+    ཁུང་ kʽuṅ, hole.
+    ག་རུ་ or གར་ W: ga-ru, gar, C: gʽ°, where?
+    ངན་པ་ ṅan-pa, C: ṅam-pa, bad.
+    ཆང་, c̀ʽaṅ, beer.
+    ཆར་པ་ c̀ʽár-pa, rain.
+    ཆེན་པོ་ c̀ʽen-po, great.
+    ཉ་ ña, fish.
+    ཉུང་བ་ ñuṅ-wa, little, few.
+    ཉེ་མོ་ ñe-mo, near.
+    ཏོག་ཙེ་ tóg-tse (W), hoe.
+    ཐག་པ་ tʽag-pa, rope.
+    ཐོད་པ་ W: tʽód-pa, C: tʽöʼ-pa, skull.
+    དང་ daṅ, dʽaṅ, and; with.
+    ནག་པོ nag-po, black.
+    ནོར་ nor, wealth, property.
+    ཕན་པ་ pʽan-pa, pʽäm-pa, use, benefit.
+    བ་ ba, bʽa, cow.
+    བུ་ bu, bʽu, son.
+    མེ་ me, fire.
+    མེད་ med, mĕʼ, there is not.
+    ཚང་མ་ tʽsaṅ-ma, whole.
+    ཞོ་ z̀o, s̀ŏ, curdled milk.
+    འོད་ od, wöʼ, light, shine.
+    ཡི་གེ་ yí-ge, letter.
+    ཡོད་ yod, yöʼ, am, is, are.
+    རི་ ri, hill, mountain.
+    ལ་ la, mountain-pass.
+    ལུག་ lug, sheep.
+    ཐང་ tʽáṅ, the plain.
+    ད་ W: da, C: dʽa, now.
+    དུད་པ་ dud-pa, dʽüʼ-pa, smoke.
+    ནད་ nad, näʼ, disease.
+    པར་མ་ pár-ma, a printed book.
+    ཕུག་རོན་ pʽug-rón, -ró̤n, dove.
+    བལ་ bal, bʽal, wool.
+    བུ་མོ་ bu-mo, bʽ°, daughter.
+    མིང་ miṅ, name.
+    ཙམ་ tsam, how much?
+    ཞག་ z̀ag, C: s̀ag, day.
+    འོ་མ་ o-ma, wo-ma, milk.
+    ཡང་ yaṅ, also.
+    ཡིན་ yin, am, is, are (cf. § 39).
+    ར་མ་ ra-ma, goat.
+    རིན་ rin, price.
+    ལམ་ lam, road.
+    ཤ་ s̀a, flesh, meat.
+    ཤིང་ s̀iṅ, tree, wood.
+    སུ་ su, who?
+    ཨ་ཕ་ a-pʽa, (vulg.) father.
+    རས་ (Ld: ras) rā̤, cotton cloth.
+    གོས་ (Ld: gos) gō̤, gʽō̤, clothing.
+    སེམས་ sem, soul.
+    ཁྲག་ ṭʽag, blood.
+    སླེབ་པ་ leb-pa, to arrive.
+    རྩྭ་ W: sa, C: tsa, grass.
+    སྔོན་པོ་ ṅon-po, ṅo̤m-po, blue.
+    གཞུ་ z̀u, bow (for shooting).
+    དགུན་ཀ་ gun-ka, gṳn-ka, winter.
+    མཚོ་ tʽso, lake.
+    འདྲི་བ་ ḍi-wa, to ask.
+    ས་ sa, earth.
+    སོ་མ་ só-ma, new.
+    ཨ་མ་ a-ma, (vulg.) mother.
+    དུས་ (Ld.: dus) dṳ̄, dʽṳ̄, time.
+    ཐབས་ tʽab(s), means.
+    བག་ཕྱེ་ W: bag-pʽe, C: bʽag-c̀ʽe, flour.
+    གྲོ་ ḍo, ḍʽŏ, wheat.
+    རྒད་པོ་ gad-po, gʽäʼ-po, old.
+    སྐྱེ་བ་ (s)kye-wa, to be born, grow.
+    སྙིང་ ñiṅ, heart.
+    གཟིག་ zig, leopard.
+    མགྱོགས་པ་ gyog(s)-pa (Ü: gyō-pa), fast, quick.
+    འབྲི་བ་ ḍi-wa (bri-wa), to write.
+
+
+
+
+
+
+
+
+PART II.
+
+ETYMOLOGY.
+
+
+CHAPTER I.
+
+THE ARTICLE.
+
+
+11. Peculiarities of the Tibetan article. 1. What have been called
+Articles by Csoma and Schmidt, are a number of little affixes: པ་ བ་ མ་
+པོ་ བོ་ མོ་, and some similar ones, which might perhaps be more adequately
+termed denominators, since their principal object is undoubtedly to
+represent a given root as a noun, substantive or adjective, as is most
+clearly perceptible in the instance of the roots of verbs, to which པ་
+or བ་ impart the notion of the Infinitive and Participle, or the
+nearest abstract and nearest concrete nouns that can possibly be formed
+from the idea of a verb. These affixes are not, however,—except in this
+case—essential to a noun, as many substantives and adjectives and most
+of the pronouns are never accompanied by them, and even those which
+usually appear connected with them, will drop them upon the slightest
+occasion. 2. Almost the only case in which a syntactical use of them,
+like that of the English definite Article, is perceptible, is that
+mentioned § 20. 3; a formal one, that of distinguishing the Gender,
+occurs in a limited number of words, where མོ་ denotes the female, པོ་
+the masculine. Thus: རྒྱལ་པོ་ gyál-po ‘king’, རྒྱལ་མོ་ gyál-mo ‘queen’. Or,
+if the word in the masculine (or rather common) gender has no article,
+མོ་ is added: སེང་གེ་ séṅ-ge ‘lion’, སེང་གེ་མོ་ ‘lioness’. 3. In most
+instances, by far, their only use is to distinguish different meanings
+of homonymous roots, e.g. སྟོན་པ་ (s)tón-pa (tó̤n-pa), ‘teacher’; སྟོན་མོ་
+(s)tón-mo (tó̤n-mo) ‘feast’; སྟོན་ཁ་ (s)tón-kʽa (tó̤n-kʽa) ‘autumn’. Even
+this advantage, however, is given up, as soon as a composition takes
+place, and then the meaning can only be inferred from the context, or
+known from usage: མིང་སྟོན་ (from སྟོན་མོ་) ‘name feast’ (given on the
+occasion of naming or christening an infant); སྟོན་ཟླ་ (from སྟོན་ཁ་)
+‘autumnal month’. In some instances the putting or omitting of these
+articles is optional; more frequently the usage varies in different
+provinces. 4. The peculiar nature of these affixes is most clearly
+shown by the manner in which they are connected with the indefinite
+article § 13.
+
+Note. The affixes བ་ བོ་ are after vowels and after the consonants ང་ ར་
+ལ་ always pronounced wa and wo, instead of ba and bo; thus, དཀའ་བ་
+ka-wa ‘difficult’; རེ་བ་ re-wa ‘hope’; གང་བ་ gaṅ-wa (gh°) ‘full’; ཟེར་བ་
+zer-wa (ser-wa) ‘to say’; མྱལ་བ་ nyal-wa ‘hell’; ཇོ་བོ་ jo-wo (jho-wo)
+‘lord, master’.
+
+
+
+12. Difference of the Articles among each other. 1. The usage of པ་ བ་
+མ་ is the most general and widest of all, as they occur with all sorts
+of substantives and other nouns. པ་ is particularly used for denoting a
+man who is in a certain way connected with a certain thing (something
+like والا‎ and دار‎ in Hindustāni and Persian): གྲྭ་ ḍa ‘school’, གྲྭ་པ་
+(literally: scholar) ‘disciple, novice’; ཆུ་ c̀ʽu ‘water’, ཆུ་པ་
+‘water-carrier’ (پانى والا‎); རྟ་ ‘horse’, རྟ་པ་ ‘horseman’; དབུས་ ‘the
+province of Ṳ̄’, དབུས་པ་ ‘a man from Ṳ̄’, ཁྱེའུ་ kʽyëu ‘boy’, ལོ་ lo ‘year’,
+གཉིས་ ñi(s) ‘two’, hence: ཁྱེའུ་ལོ་གཉིས་པ་ ‘a two years’ boy’. If the
+feminine is required མ་ is either added to, or—more commonly—used
+instead of, the former: དབུས་མ་ ‘a woman from Ṳ̄’; བུ་མོ་ལོ་གཉིས་མ་ ‘a two
+years’ girl’. The performer of an action is more frequently denoted by
+པོ་ (or, in more solemn language, པ་པོ་), though, in conversation at
+least, མཁན་ kʽan (kʽe̱n), is preferred; བྱེད་པ་ j̀ed-pa ‘to do, make;
+doing, making’: བྱེད་པོ་, བྱེད་པ་པོ་, བྱེད་མཁན་ ‘the doer, maker’. 2. The
+appendices ཀ་ ཁ་ ག་ occur with a limited number of nouns only,
+especially the names of the seasons, with numerals, and some pronouns.
+(ཀོ་ seems to be a vulgar form of pronunciation for ཀ་).
+
+
+
+13. The indefinite Article. This is the numeral one (§ 13), only
+deprived of its prefix, viz.: ཅིག་, which form it retains, if the
+preceding word ends with ག་ ད་ བ་, as: ཁབ་ཅིག་ kʽab-c̀ig, a needle; it is
+changed to ཤིག་ after ས་, རས་ཤིག་ ras-s̀ig, rä-s̀ig, a cloth; to ཞིག་ z̀ig
+(s̀ig) in all other cases. Some authors use ཅིག་ after any termination
+indiscriminately. It is, of course, always without accent. The articles
+པ་ བ་ etc. are not superseded by the indefinite article e.g. སྟོན་པ་
+‘teacher, the teacher’, སྟོན་པ་ཞིག་ ‘a teacher’. It is used even after a
+plurality: thus, ཆུ་མིག་བཞི་ཞིག་དེ་རུ་ཡོད་ ‘there were some four wells’, and
+even: མང་ཞིག་གདའ་སྟེ་ ‘there being a multitude of them’ (from Mil.). Very
+often it is placed after the interrogative pronouns (v. 27), and
+sometimes its original meaning is obscured so much that it occurs even
+after known and definite subjects, where one would expect the
+demonstrative (see f. i. Dzl. 25, 1. 28, 6. 128, 14).
+
+
+
+
+
+
+
+
+CHAPTER II.
+
+THE SUBSTANTIVE.
+
+
+14. The Number. The Plural is denoted by adding the word རྣམས་ nam, or,
+more rarely, དག་ dag (dʽag), ཚོ་, or a few other words, which originally
+were nouns with the common notion of plurality. But this mark of the
+Plural is usually omitted, when the plurality of the thing in question
+may be known from other circumstances, e.g. when a numeral is added:
+thus, མི་ ‘man’, མི་རྣམས་ ‘men’, མི་གསུམ་ ‘three men’. When a substantive is
+connected with an adjective, the plural sign is added only once, viz.
+after the last of the connected words: མི་བཟང་པོ་རྣམས་ ‘the good men’.
+
+Note. The conversational language uses the words རྣམས་ etc. seldom, in
+WT scarcely ever (an exception s. 24. Remarks), but adds, when
+necessary, such words as: all, many, some; two, three, seven, eight, or
+other suitable numerals (cf. § 20, 5.).
+
+
+
+15. Declension. The regular addition of the different particles or
+single sounds by which the cases are formed is the same for all nouns,
+whether substantives or adjectives, pronouns or participles. Only in
+some cases, in the Dative and Instrumental, the noun itself is changed,
+when, ending in a vowel, it admits of a closer connection with the
+corrupted case-sign. We may reckon in Tibetan seven cases, expressive
+of all the relations, for which cases are used in other languages, viz:
+nominative and accusative, genitive, instrumental, dative, locative,
+ablative, terminative and vocative. 1. The unaltered form of the noun
+has some of the functions of our Nominative and those of the Accusative
+and Vocative. 2. The sign of the Genitive is ཀྱི་ after words with the
+finals ད་ བ་ ས་; གྱི་ after ན་ མ་ ར་ ལ་, གི་ after ག་ and ང་; after vowels
+i is simply added by means of an འ་ thus: འི་, which then will form a
+diphthong with the vowel of the noun (cf. § 6), or if, in
+versification, two syllables are required, i appears supported by an ཡ་
+forming a distinct word. 3. The Instrumental or Agent is expressed by
+the particles ཀྱིས་, གྱིས་ or གིས་ after the respective consonants as
+specified above; after vowels simply ས་ is added, or, in verse,
+sometimes ཡིས་.
+
+Note. The instrumental is, in modern pronunciation, except in Northern
+Ladak, scarcely discernible from the genitive, and there are but few if
+any, even among lamas, who are not liable to confound both cases in
+writing.
+
+In the language of common life, in WT, the different forms of the
+particle of the genitive and instrumental, after consonants, ཀྱི་ གྱི་ etc.
+are never heard, but everywhere the final consonant is doubled and the
+vowel i added to it, thus: ལུས་, G. lus-si (Ld.), lṳ̄-i; ལམ་, G. lam-mi;
+གསེར་ (gold), G. ser-ri etc; or, in other words, all nouns ending in
+consonants are formed like those ending with ག་ (see the example མིག་).
+In those ending with a vowel no irregularity takes place.
+
+4. The Dative adds indiscriminately the postposition ལ་ la, denoting
+the relation of space in the widest sense, expressed by the English
+prepositions in, into, at, on, to. 5. The Locative is formed by the
+postposition ན་ na ‘in’. 6. The Ablative by ནས་ nā̤ or ལས་ lā̤ ‘from’
+(the latter especially with the meaning: from among), all three
+likewise without any discriminating regard to the ending of the noun.
+7. The Terminative is expressed by the postpositions རུ་ or ར་ after
+vowels; ཏུ་ after final ག་ and བ་ and, in certain words, ད་ ར་ ལ་; སུ་
+after ས་; དུ་ generally after ན་ ར་ ལ་ and the other final consonants.
+All these postpositions denote the motion to or into. 8. The Vocative
+is not different from the Nominative (as stated above), if not
+distinguished by the interjection ཀྱེ་ oh!, and can only be known from
+the context.
+
+
+
+Examples of declension. As example of the declension of consonantal
+nouns we may take 1. for those in s (respectively d, b), ལུས་ lus, lṳ̄,
+‘body’; 2. for those in m (n, r, l), ལམ་ lam ‘way’; 3. for those in g
+(ṅ), མིག་ mig ‘eye’,—of that of vocalic nouns: 4. ཁ་ kʽa or kʽa-wa
+‘snow’.
+
+
+Singular.
+
+          1.                         2.
+N. Acc.   ལུས་ lus, lṳ̄                ལམ་ lam
+Gen.      ལུས་ཀྱི་ lus-kyi, lṳ̄-kyi;      ལམ་གྱི་ lam-gyi; lam-mi
+          lus-si, lṳ̄i
+Inst.     ལུས་ཀྱིས་ lus-kyis,             ལམ་གྱིས་ lam-gyis, -gyī; lam-mī
+          lṳ̄-kyī; lus-sī, lṳ̄ī
+Dat.      ལུས་ལ་ lus-la, lṳ̄-la         ལམ་ལ་ lam-la
+Loc.      ལུས་ན་ lus-na                 ལམ་ན་ lam-na
+Abl.      ལུས་ནས་ lus-nā̤                ལམ་ནས་ lam-nā̤
+Term.     ལུས་སུ་ lus-su                 ལམ་དུ་ lam-du
+
+          3.                         4.
+N. Acc.   མིག་ mig                     ཁ་ kʽa; ཁ་བ་ kʽa-wa
+Gen.      མིག་གི་ mig-gi                 ཁའི་ kʽai; ཁ་བའི་ kʽa-wai
+Inst.     མིག་གིས་ mig-gis, -gī          ཁས་ kʽā̤; ཁ་བས་ kʽa-wā̤
+Dat.      མིག་ལ་ mig-la                 ཁ་ལ་ kʽa-la; ཁ་བ་ལ་ kʽa-wa-la
+Loc.      མིག་ན་ mig-na                 ཁ་ན་ kʽa-na; ཁ་བ་ན་ kʽa-wa-na
+Abl.      མིག་ནས་ mig-nā̤                ཁ་ནས་ kʽa-nā̤; ཁ་བ་ནས་
+                                     kʽa-wa-nā̤
+Term.     མིག་ཏུ་ mig-tu                 ཁ་རུ་, ཁར་ kʽa-ru, kʽar;
+                                     ཁ་བ་རུ་, ཁ་བར་ kʽa-wa-ru,
+                                     kʽa-war.
+
+
+
+Plural.
+
+As the plural signs are simply added to the nouns, without affecting
+their form, we here only give examples of declension with the two most
+frequent plural particles. As example for དག་ the plural of the pron.
+དེ་ ‘that’ has been chosen.
+
+
+    N. Acc.   ལུས་རྣམས་ lus(lṳ̄-)-nam(s)       དེ་དག་ de-dag
+    Gen.      ལུས་རྣམས་ཀྱི་ lus-nam(s)-kyi        དེ་དག་གི་ de-dag-gi
+    Inst.     ལུས་རྣམས་ཀྱིས་ lus-nam(s)-kyis      དེ་དག་གིས་ de-dag-gis
+    Dat.      ལུས་རྣམས་ལ་ lus-nam(s)-la         དེ་དག་ལ་ de-dag-la
+    Loc.      ལུས་རྣམས་ན་ lus-nam(s)-na         དེ་དག་ན་ de-dag-na
+    Abl.      ལུས་རྣམས་ནས་ lus-nam(s)-nā̤        དེ་དག་ནས་ de-dag-nā̤
+    Term.     ལུས་རྣམས་སུ་ lus-nam(s)-su         དེ་དག་ཏུ་ de-dag-tu
+
+
+
+
+
+
+
+
+CHAPTER III.
+
+THE ADJECTIVE.
+
+
+16. In the Tibetan language the Adjective is not formally distinguished
+from the Substantive, so that many nouns may be used one or the other
+way just as circumstances require. [5] The declension, likewise,
+follows the same rules as that of substantives. Only two remarks may be
+added here. 1. The particles པ་ མ་ པོ་ མོ་ are not very strictly used for
+distinguishing the gender, since even in the case of human beings པ་
+and པོ་ are not seldom found connected with feminines, e.g.: བུ་མོ་མཛེས་པ་
+just as well as བུ་མོ་མཛེས་མ་ ‘a fine girl’. 2. The Adjective stands after
+the Substantive to which it belongs: thus, རི་མཐོན་པོ་ ri-tʽón-po, C:
+ri-tʽo̤n-po, ‘the high hill’, when, of course, the case-signs are joined
+to the Adjective: རི་མཐོན་པོའི་ ‘of the high hill’, རི་མཐོན་པོ་རྣམས་ ‘the high
+hills’ etc.
+
+Or the Adjective may be put in the Gen. before the Substantive:
+མཐོན་པོའི་རི་, and then the latter only is declined: མཐོན་པོའི་རིའི་,
+མཐོན་པོའི་རི་རྣམས་. In the vulgar speech both of C and WT the adjective
+sometimes preserves, even in this position, its simple form
+(Nominative). A third way of expression, when both are joined together,
+without any article, as སྐམ་ས་ instead of ས་སྐམ་པོ་ ‘the dry land’, is
+rather a compound substantive, with the same difference of meaning as
+‘highland’ and ‘a high land’ in English.
+
+
+
+17. Comparison. 1. Special terminations, expressive of the different
+degrees of comparison, as in the Aryan languages, do not exist in
+Tibetan. There are two particles, however, corresponding to the English
+than: བས་, after the final consonants ང་ ར་ ལ་ and after vowels (པས་,
+after ག་ ད་ ན་ བ་ མ་ ས་ [6]), and ལས་; these particles follow the word
+with which another is compared (like the Hind. سے‎) and this then
+precedes the compared one, finally follows the adjective in the
+positive: རྟ་བས་ (or ལས་) ཁྱི་ཆུང་བ་ཡིན་ ‘horse—than dog small is’, just as
+in Hindūstāni: گھوڑى سے كتّا چھوٹا ھَى‎. But also the position usual in
+our European languages occurs, thus:
+རབ་ཏུ་འབྱུང་བའི་བསོད་ནམས་རི་རབ་ལྷུན་པོ་བས་འཕངས་མཐོའོ་ ‘the merit of becoming a
+priest is relatively higher than mount Meru’;
+བོད་གྱི་རྒྱལ་པོ་གཞན་ལས་ཆེ་བ་ཡིན་ནོ་ ‘the king of Tibet is greater than the other
+ones’. The particle བས་ (པས་) may be put, in the same manner, after
+adverbs. Thus, སྔར་བས་གསལ་བར་མཐོང་བར་གྱུར་ཏོ་ ‘(their eyes) became more
+keen-sighted than before’. Or, after infinitives,
+གཞན་སོང་བ་བས་ནུ་བོས་སོང་ན་ཕན་ ‘it is better (for him) that his younger
+brother should go (with him) than another’. ལས་ for itself has the
+meaning of ‘more than’, with the negative: ‘not more than’, ‘only’;
+thus: ང་ལ་སྲང་གཉིས་ལས་ནི་མི་དགོས་ ‘more than two ounces I do not want’ (cf.
+vulg. WT: གསུམ་མན་ན་མེད་ ‘there are not more than (only) three’); or
+‘nothing but’, ‘only’, རི་དྭགས་ཤོར་བ་ལས་དགའ་བ་མེད་ ‘there is no pleasure
+(for us) but hunting, h. is our only pl.’.
+
+2. An Adverb which augments the notion of the adjective itself, is
+ལྷག་པར་ ‘more’; this can be added ad libitum: རྟ་བས་ཁྱི་ལྷག་པར་ཆུང་བ་ཡིན་.
+
+3. Another adverb, ཇེ་ means: ‘more and more’, ‘gradually more’, e.g.
+ཇེ་ཉེ་ཇེ་ཉེ་སོང་སྟེ་ ‘going nearer and nearer’. 4. ‘The elder—the younger’
+e.g. of two brothers, is simply expressed by: ‘the great—the little’.
+5. The Superlative is paraphrased by the same means: ཀུན་ལས་ཆེན་པོ་ or
+ཐམས་ཅད་པས་ཆེན་པོ་ ‘greater than all’. Or it is expressed in the following
+manner: ཡུལ་གྱི་རྒྱལ་པོའི་ནང་ན་རྒྱལ་པོ་གང་ཆེ་ ‘of (among) the kings of the country
+which one is the greatest (prop. great)?’. Adverbs for expressing high
+degrees are: ཤིན་ཏུ་ or རབ་ཏུ་ ‘very’, ཀུན་ཏུ་ ‘all’, ཡོངས་སུ་ ‘quite’, མཆོག་ཏུ་
+‘exceedingly’ etc.
+
+Note. The colloquial language of WT uses སང་ instead of བས་ or ལས་, and
+མཱ་ (mā, always with a strong emphasis, perhaps a mutilated form of མངས་
+‘much’) or མང་པོ་ instead of ཤིན་ཏུ་, whereas that of CT employs ལས་ in
+the former case, but repeats the adjective in the latter, so that ‘very
+large’ is expressed in books by ཤིན་ཏུ་ཆེན་པོ་, in speaking, in WT by mā́
+c̀ʽén-po, in CT by c̀ʽem-po c̀ʽem-po.
+
+
+
+
+
+
+
+
+CHAPTER IV.
+
+THE NUMERALS.
+
+
+18. Cardinals:
+
+
+         1   ༡            གཅིག་ c̀ig
+         2   ༢            གཉིས་ ñi(s)
+         3   ༣            གསུམ་ sum
+         4   ༤            བཞི་ z̀i
+         5   ༥            ལྔ་ ṅa
+         6   ༦            དྲུག་ W: ḍug, C: ḍhug
+         7   ༧            བདུན་ W: dun, C: dhṳn
+         8   ༨            བརྒྱད་ W: gyad, C: gyäʼ
+         9   ༩            དགུ་ gu
+        10   ༡༠           བཅུ་ c̀u, or བཅུ་ཐམ་པ་ c̀u-tʽam-pa
+        11   ༡༡           བཅུ་གཅིག་ c̀u-c̀ig
+        12   ༡༢           བཅུ་གཉིས་ c̀u-ñí, vulg: c̀ug-ñí(s)
+        13   ༡༣           བཅུ་གསུམ་ c̀u-súm, vulg: c̀ug-súm
+        14   ༡༤           བཅུ་བཞི་ c̀u-z̀í, vulg: c̀ub-z̀í
+        15   ༡༥           བཅོ་ལྔ་ c̀o-ṅá
+        16   ༡༦           བཅུ་དྲུག་ c̀u-ḍúg, C: -ḍhúg
+        17   ༡༧           བཅུ་བདུན་ c̀u-dún, C: -dṳ́n, vulg: c̀ub-d°
+        18   ༡༨           བཅོ་བརྒྱད་ c̀o-gyád, C: -gyäʼ, vulg: c̀ob-g°
+        19   ༡༩           བཅུ་དགུ་ c̀u-gú
+        20   ༢༠           ཉི་ཤུ་ ñi-s̀u
+        21   ༢༡           ཉི་ཤུ་རྩ་གཅིག་ ñi-s̀u-sa-c̀íg, or ཉེར་གཅིག་
+                          ñer-c̀íg
+        30   ༣༠           སུམ་ཅུ་ súm-c̀u
+        31   ༣༡           སུམ་ཅུ་རྩ་གཅིག་ sum-c̀u-sa-c̀íg, སོ་གཅིག་
+                          so-c̀ig
+        40   ༤༠           བཞི་བཅུ་ z̀i-c̀u, vulg: z̀ib-c̀u
+        41   ༤༡           བཞི་བཅུ་རྩ་གཅིག་ z̀i-c̀u-sa-c̀íg, ཞེ་གཅིག་
+                          z̀e-c̀íg
+        50   ༥༠           ལྔ་བཅུ་ ṅa-c̀u, vulg: ṅab-c̀u
+        51   ༥༡           ལྔ་བཅུ་རྩ་གཅིག་ ṅa-c̀u-sa-c̀íg, ང་གཅིག་
+                          ṅa-c̀ig
+        60   ༦༠           དྲུག་ཅུ་ ḍug-c̀u, C: ḍhug-c̀u
+        61   ༦༡           དྲུག་ཅུ་རྩ་གཅིག་ ḍug-c̀u-sa-c̀íg, རེ་གཅིག་
+                          re-c̀íg
+        70   ༧༠           བདུན་ཅུ་ dun-c̀u, C: dṳn-c̀u
+        71   ༧༡           བདུན་ཅུ་རྩ་གཅིག་ dun-c̀u-sa-c̀íg, དོན་གཅིག་
+                          don-c̀íg
+        80   ༨༠           བརྒྱད་ཅུ་ gyád-c̀u, C: gyäʼ-c̀u
+        81   ༨༡           བརྒྱད་ཅུ་རྩ་གཅིག་ gyad-c̀u-sa-c̀íg, གྱ་གཅིག་
+                          gya-c̀íg
+        90   ༩༠           དགུ་བཅུ་ gú-c̀u, vulg: gúb-c̀u
+        91   ༩༡           དགུ་བཅུ་རྩ་གཅིག་ gu-c̀u-sa-c̀ig, གོ་གཅིག་
+                          go-c̀íg (C: gʽo-c̀íg)
+       100   ༡༠༠          བརྒྱ་(ཐམ་པ་) gya (tʽám-pa)
+       101   ༡༠༡          བརྒྱ་དང་གཅིག་ or བརྒྱ་རྩ་གཅིག་ gya daṅ (or
+                          sa) c̀íg
+       200   ༢༠༠          ཉི་བརྒྱ་ ñi-gya, vulg: ñib-gya
+       300   ༣༠༠          སུམ་བརྒྱ་ sum-gya
+       400   ༤༠༠          བཞི་བརྒྱ་ z̀i-gya, vulg: z̀ib-gya etc.
+      1000   ༡༠༠༠         སྟོང་ (s)toṅ
+    10 000   ༡༠ ༠༠༠       ཁྲི་ ṭʽi
+   100 000   ༡༠༠ ༠༠༠      འབུམ་ bum
+ 1 000 000   ༡ ༠༠༠ ༠༠༠    ས་ཡ་ sa-ya
+10 000 000   ༡༠ ༠༠༠ ༠༠༠   བྱེ་བ་ j̀e-wa
+
+
+There are, as in Sanscrit, names for many more powers of 10, but they
+are seldom used.
+
+
+
+19. Ordinals. དང་པོ་ W: daṅ-po, C: dʽ° ‘the first’, the rest are simply
+formed by adding པ་ to the cardinals, as: གཉིས་པ་, ‘the second’ etc.;
+the 21st is ཉི་ཤུ་རྩ་གཅིག་པ་ ‘the twenty-oneth’, not, as in English, ‘the
+twenty first’.
+
+
+
+20. Remarks. 1. The smaller number postponed indicates, as is seen in §
+18, addition, the reverse—multiplication: བཅུ་གསུམ་ 13, སུམ་ཅུ་ 30; but in
+the latter case the three first numerals are changed to ཆིག་, ཉི་, སུམ་;
+and བཅུ་, as the second part of a compound after consonants, is spelled
+ཅུ་. 2. The words ཐམ་པ་ (after full tens up to one hundred), ཕྲག་ (after
+hundreds and thousands [7]), ཚོ་ (with still greater numbers), are
+optional but frequent additions. རྩ་ is common instead of དང་ ‘and’, to
+connect units with tens (s. § 18), but it occurs also with hundreds and
+thousands, and not seldom together with དང་, e.g. སྟོང་དང་རྩ་གཉིས་, 1002.
+It is used also instead of ཐམ་པ་, as: བཅུ་རྩ་ ten, ཉི་ཤུ་རྩ་ twenty; often
+it is standing alone for ཉི་ཤུ་རྩ་, as རྩ་གཉིས་, twenty two. This latter
+custom may have caused the belief, common even among educated readers
+in C and WT, that རྩ་ must mean twenty, even when connecting a hundred
+or thousand to a unit, as they will usually understand the above
+mentioned number in the sense of 1022 instead of 1002; but the
+authority of printed books, wherever the exact number can be verified
+from other circumstances, does not confirm this, which would indeed be
+a sadly ambiguous phraseology. 3. ཀ་ added to a cardinal number means
+conjunction: གཉིས་ཀ་, the two together, both; གསུམ་ཀ་, the three
+together, all three etc. པོ་ means either the same, or represents the
+definite article, indicating that the number has been already
+mentioned, e.g. མི་ལྔ༌༌༌༌ བཏང་ངོ༌།   །མི་ལྔ་པོ་བསླེབ་སྟེ༌༌༌༌, five men were
+sent.... The five men arriving etc. 4. པ་ is used, besides forming
+Ordinals, to express the notion of ‘containing’, e.g. ཡི་གེ་དྲུག་པ་ ‘that
+containing six letters’, viz. the famous formula: ཨོཾ་མ་ཎི་པ་དྨེ་ཧཱུཾ་ om maṇi
+padme hum; སུམ་ཅུ་པ་ ‘that containing thirty (letters)’, the Tibetan
+alphabet. 5. Such combinations as གཉིས་གསུམ་ etc. are frequently used in
+common life, to denote a number approximately, ‘two or three or so’
+(cf. § 14 Note).
+
+
+
+21. Distributive numerals. They are expressed by repetition as in
+Hind.: དྲུག་དྲུག་ each time six, six for each etc. In composed numerals
+only the last member is repeated, thus སུམ་ཅུ་རྩ་གཉིས་གཉིས་ each time thirty
+two.
+
+
+
+22. Adverbial numerals. 1. Firstly, secondly etc. are formed from the
+ordinals as every Adverb is from an Adjective, viz. by adding the
+letter ར་, དང་པོར་, གཉིས་པར་ etc. (s. § 41). 2. Multiplicative adverbs,
+‘once’, ‘twice’ etc., are expressed by putting ལན་ ‘times’ before the
+cardinal: ལན་གཅིག་, ལན་གཉིས་, W: lan-c̀ig, lan-ñi(s), C: län-c̀ig, län-ñī
+‘once, twice’ etc.: seldom ཚེར་, ཚར་, ཐེངས་ with the same meaning as ལན་.
+
+
+
+23. Fractional numerals are formed by adding ཆ་ ‘part’: thus, བརྒྱའི་ཆ་ ‘a
+hundredth part’ etc., but also: བང་མཛོད་གསུམ་ཆ་ཞིག་ ‘one third of the
+treasury’.
+
+
+
+
+
+
+
+
+CHAPTER V.
+
+PRONOUNS.
+
+
+24. Personal Pronouns. First person: ང་ ṅa; ངེད་ ṅed, ṅĕʼ; ངོས་ ṅos
+(Ld.); ཁོ་བོ་ kʽo-wo, masc., and ཁོ་མོ་ kʽo-mo, fem.; བདག་ dag ‘self’—‘I’;
+Second person: ཁྱོད་ kʽyod (kʽyöʼ), ཁྱེད་ kʽyed (kʽyĕʼ) ‘thou, you’; Third
+person: ཁོ་ kʽo, ཁོང་ kʽoṅ—‘he, she, it’.
+
+The plural is formed by adding ཅག་, རྣམས་, ཅག་རྣམས་ or ཚོ་, but very
+often, if circumstances show the meaning with sufficient certainty, the
+sign of the plural is altogether omitted. The declension is the same as
+that of the substantives.
+
+Remarks: ང་ is the most common and can be used by every body; ངེད་ seems
+to be preferred in elegant speech (s. Note); ངོས་ is very common in
+modern letter-writing, at least in WT; བདག་ ‘self’, when speaking to
+superior persons occurs very often in books, but has disappeared from
+common speech, except in the province of Tsaṅ (Ṭas̀ilhunpo) as also the
+following; ཁོ་བོ་, ཁོ་མོ་ in easy conversation with persons of equal rank,
+or to inferiors.
+
+2. person. ཁྱོད་ is used in books in addressing even the highest persons,
+but in modern conversation only among equals or to inferiors; ཁྱེད་ is
+elegant and respectful, especially in books.—
+
+3. person. ཁོ་ seldom occurs in books, where the demonstr. pron. དེ་ (§
+26) is generally used instead; ཁོང་ is common to both the written and
+the spoken language, and used, at least in the latter, as respectful.
+But it must be remarked that the pronoun of the third person is in most
+cases entirely omitted, even when there is a change of subject.—Instead
+of ང་ཅག་ and ཁྱོད་ཅག་ the people of WT use ང་ཞ་ and ཁྱོ་ཞ་; the vulgar
+plural of ཁོ་ is ཁོ་པ་.—
+
+To each of these pronouns may be added: རང་ raṅ or ཉིད་ ñid, ñĭʼ ‘self’,
+and in conversational language ང་རང་, ཁྱོད་རང་, ཁོ་རང་ are, perhaps, even
+more frequently used than the simple forms, without any difference in
+the meaning. ཉིད་ is more prevalent in books, except the compound ཉིད་རང་
+ñi-raṅ, which is in modern speech the usual respectful pronoun of
+address, like ‘Sie’ in German.
+
+Note. The predilection of Eastern Asiatics for a system of ceremonials
+in the language is met with also in Tibetan. There is one separate
+class of words, which must be used in reference to the honoured person,
+when spoken to as well as when spoken of. To this class belong, besides
+the pronouns ཉིད་རང་, ཁྱེད་, ཁོང་, all the respectful terms by which the
+body or soul, or parts of the same, and all things or persons
+pertaining to such a person, and even his actions, must be called. The
+terms, most frequently occurring, have special expressions, as སྐུ་
+(s)ku, instead of ལུས་ lus, lṳ̄, ‘body’; དབུ་ u, i.o. མགོ་ go ‘head’; ཐུགས་
+tʽug(s) (Ü: tʽū), i.o. སེམས་ sem(s) ‘soul’, or ཡིད་ yid, yĭʼ, ‘mind’; ཡབ་
+yab, i.o. ཕ་ (vulg: ཨ་ཕ་), ‘father’; ན་བཟའ་ na-za, i.o. གོས་ gos, gō̤,
+‘coat’, ‘dress’; ཆིབས་ c̀ʽib(s), i.o. རྟ་ (r)ta, sta ‘horse’; བཞུགས་པ་
+z̀ug(s)-pa (Ü: z̀ū-pa), i.o. སྡོད་པ་ dod-pa, döʼ-pa ‘to sit’; མཛད་པ་
+dzad-pa, dzäʼ-pa i.o. བྱེད་པ་ j̀ed-pa, j̀hĕʼ-pa ‘to make’ and many others.
+If there is no such special word, any substantive may be rendered
+respectful by adding སྐུ་ or ཐུགས་ respectively (so, སྐུ་ཚེ་ i.o. ཚེ་
+‘lifetime’; ཐུགས་ཁྲོ་བ་ i.o. ཁྲོ་བ་ ‘anger’) and any verb by adding མཛན་པ་,
+according to 39, 1. Another class of what might be called elegant terms
+are to be used when conversing with an honoured person (or also by a
+high person speaking of himself), such as བགྱིད་པ་ gyid-pa, gyĭʼ-pa ‘to
+do’; མཆིས་པ་ c̀ʽī-pa ‘to be’; སླད་དུ་ lad-du, läʼ-du i.o. ཕྱིར་དུ་ ‘for the
+sake of’, without reference to the said person himself. Even uneducated
+people know, and make use of, most of the ‘respectful’ terms, but the
+merely ‘elegant’ ones are, at least in WT, seldom or never heard in
+conversation.
+
+
+
+25. Possessive pronouns. The Possessive is simply expressed by the
+Genitive of the Personal, ངའི་, ཁྱོད་ཀྱི་ etc. ‘His’, ‘her’, ‘its’, when
+referring to the acting subject (suus), must be expressed by རང་གི་ or
+ཉིད་ཀྱི་ ‘his own’; otherwise (ejus) by ཁོའི་, ཁོང་གི་, དེའི་. In C, in the
+latter case, ང་ཅན་, ཁྱོད་ཅན་, ཁོ་ཅན་ are used.
+
+
+
+26. Reflective and Reciprocal pronouns. 1. The Reflective pronoun,
+‘myself’, ‘yourself’ etc. is expressed by རང་, ཉིད་, also བདག་. But in
+the case of the same person being the subject and object of an action,
+it must be paraphrased, so for ‘he precipitated himself from the rock’
+must be said ‘he precipitated his own body etc.’ རང་གི་ལུས་; for ‘he
+rebuked himself’—‘he rebuked his own soul’ རང་གི་སེམས་.—2. The reciprocal
+pronoun ‘each other’ or ‘one another’ is rendered by ‘one—one’, as
+གཅིག་གིས་གཅིག་བསད་ ‘by one one was killed’, ‘they killed one another’;
+གཅིག་ལ་གཅིག་ན་རེ་ ‘to one one said’, ‘they said to each other’.
+
+
+
+27. Demonstrative pronouns. 1. འདི་ di, ‘this’; དེ་ de, dhe ‘that’ are
+those most frequently used, both in books and speaking. The Plural is
+generally formed by དག་, but also by རྣམས་ and ཚོ་. More emphatical are
+འདི་ཀ་, འདི་ག་, འདི་ཀོ་, འདི་གོ་, ‘just this’, ‘this same’; དེ་ཀ་ etc. ‘that
+same’.—The vulgar dialect also uses ཧ་གྱི་ hắ-gyi and ཕ་གྱི་ pʽắ-gyi for
+‘that’, ‘yonder’, and, in WT, ཨི་, ཨི་པོ་ for ‘this’ and ཨ་ for ‘that’;
+ཕ་གྱི་ occurs even in books.—2. It is worth remarking that the
+distinction of the nearer and remoter relation is, even in common
+language, scrupulously observed. If reference is made to an object
+already mentioned, དེ་ is used; if to something following, འདི་; e.g.
+དེ་སྐད་ཅེས་སྨྲས་སོ་ ‘that speech he said’, ‘thus he said’; འདི་སྐད་ཅེས་སྨྲས་པ་
+‘this speech he said’, ‘he said thus, spoke the following words’.
+
+
+
+28. Interrogative pronouns. They are སུ་ su ‘who?’; གང་ gaṅ, ghaṅ
+‘which?’; ཅི་ c̀i ‘what?’; to these the indefinite article ཞིག་ is often
+added, སུ་ཞིག་ etc. The two former can also assume the plural termination
+དག་, སུ་དག, གང་དག་.—In CT གང་ is frequently used instead of ཅི་.
+
+
+
+29. Relative pronouns. These are almost entirely wanting in the Tibetan
+language, and our subordinate relative clauses must be expressed by
+Participles and Gerunds, or a new independent sentence must be begun.
+The participle, in such a case, is treated quite as an adjective, being
+put either in the Genitive before the substantive, or, in the
+Nominative, after: འགྲོ་བའི་ཚོང་པ་རྣམས་ ‘the merchants who would go (with
+him)’; ཉག་ཐག་གཡུ་བརྒུས་པ་ ‘the cord on which turquoises are strung’;
+འཁྱོས་མ་མང་པོ་ཡོང་བ་ཞིག་ ‘one who gets (unto whom come) many presents’. Cf.
+also 33. Only those indefinite sentences which in English are
+introduced by ‘he who’, ‘who ever’, ‘that which’, ‘what’ etc. can be
+adequately expressed in Tibetan, by using the interrogative pronouns
+with the participle (seldom the naked root) of the verb, or adding ན་
+(‘if—’ v. 41, A. 4.) to the latter. Instead of ཅི་ in this case ཇི་ is
+written more correctly. Thus: སུ་ལ་དམ་པའི་ཆོས་མཆིས་པ་བདག་ལ་སྟོན་པར་གྱུར་ན་ ‘if
+anybody who possesses the good faith teach it me’;
+ཁྱོད་སུ་འགྲོ་བ་དག་ཀྱང་འགྲོགས་ཏེ་ ‘when those of you who wish to go are
+assembled’; ནོར་བུ་རིན་པོ་ཆེ་འདི་ཇི་འདོད་པ་ཐམས་ཅད་ཆར་བཞིན་དུ་འབེབས་སོ་ ‘this jewel
+(cintāmaṇi) will make come down like rain whatever is wished for’;
+ཁྱོད་ཅི་ཟེར་ཁྱོད་ཇི་སྨྲས་པ་བཞིན་དུ་བྱའོ་ ‘whatever you may say and ask of me
+according to that I will act, or I will grant you whatever you ask’.
+བདག་གིས་མཐུ་ཇི་ཡོད་པས་རྒྱ་མཚོའི་ཆུ་བཅུས་ཏེ་ ‘having scooped the water of the sea
+with what force I have’; རིན་པོ་ཆེ་ཇི་ལྟ་བུ་ཞིག་རྙེད་པ་བདག་ལ་བསྟན་དུ་གསོལ་ ‘I beg
+you to show me what sort of jewel you have found (got)’;
+རྒང་གྱེ་རྗེས་གང་རིགས་པར་གསེར་གྱི་བྱེ་མར་གྱུར་ཏོ་ ‘his footprints, in what place
+soever they fell (v. lex. s. v. རིགས་), became gold-sand’.
+
+But the participle is treated as if no relative was preceding, thus
+སྔར་ཇི་སྐད་སྨྲས་པ་ལས་མ་ཟློགས་སོ་ ‘he did not recede from (recall) the word he
+had spoken before’; vulg., WT, ང་གང་བསྡད་པའི་ཁང་མིག་ ‘the room where I
+sat’.
+
+
+
+
+
+
+
+
+CHAPTER VI.
+
+THE VERB.
+
+
+30. Introductory remarks. The Tibetan verbs must be regarded as
+denoting, not an action, or suffering, or condition of any subject, but
+merely a coming to pass, or, in other words, they are all impersonal
+verbs, like taedet, miseret etc. in Latin, or it suits etc. in English.
+Therefore they are destitute of what is called in our own languages the
+active and passive voice, as well as of the discrimination of persons,
+and show nothing beyond a rather poor capability of expressing the most
+indispensable distinctions of tense and mood. From the same reason the
+acting subject of a transitive verb must regularly appear in the
+Instrumental case, as the case of the subject of a neuter verb,—which,
+in European languages, is the Nominative—, ought to be regarded, from a
+Tibetan point of view, as an Accusative expressing the object of an
+impersonal verb, just as ‘poenitet me’ is translated by ‘I repent’. But
+it will perhaps be easier to say: The subject of a transitive verb, in
+Tibetan, assumes regularly the form of the instrumental, of a neuter
+verb that of the nominative which is the same as the accusative. Thus,
+ངས་ཁྱོད་རྡུང་ is properly: རྡུང་ a beating happens, ཁྱོད་ regarding you, ངས་ by
+me = I beat you. In common life the object has often the form of the
+dative, ཁྱོད་ལ་, to facilitate the comprehension. But often, in modern
+talk as well as in the classical literature, the acting subject, if
+known as such from the context, retains its Nominative form. Especially
+the verba loquendi are apt to admit this slight irregularity.
+
+
+
+
+31. Inflection of verbs. This is done in three different ways:
+
+a) by changing the form of the root. Such different forms are, at most,
+four in number, which may be called, according to the tenses of our own
+grammar to which they correspond, the Present-, Perfect-, Future-, and
+Imperative-roots; e.g. of the Present-root གཏོང་བ་ ‘to give’ the Perfect
+root is བཏང་, the Future-root གཏང་, the Imperative root ཐོང་; of འཚག་པ་
+‘to filter, bolt’ respectively: བཙགས་ tsag(s) (Ü: tsā), བཙག་ tsag, ཚོག་
+tʽsog. The Present root, which implies duration, is also occasionally
+used for the Imperfect (in the sense of the Latin and Greek languages)
+and Future tenses. It is obvious, from the above mentioned instances,
+that the inflection of the root consists partly in alterations of the
+prefixed letters (so, if the Perfect prefers the prefixed བ, the Future
+will have ག or retain the བ), partly in adding a final ས་ (to the
+Perfect and Imperative), partly in changing the vowel (particularly in
+the Imperative). But also the consonants of the root itself are changed
+sometimes: so the aspirates are often converted in the Perfect and
+Future into their surds, besides other more irregular changes. Only a
+limited number of verbs, however, are possessed of all the four roots,
+some cannot assume more than three, some two, and a great many have
+only one. To make up in some measure for this deficiency:
+
+b) some auxiliary verbs have been made available: for the Present tense
+ཡིན་, འདུག་, ལགས་ and others, all of which mean ‘to be’ (§ 39); for the
+Perfect ཚར་, ཟིན་, སོང་; for the Future འགྱུར་, འོང་, and the substantive
+རྒྱུ་.
+
+c) By adding various monosyllabic affixes, the Infinitive, Participles,
+and Gerunds are formed. These affixes as well as the auxiliary verbs
+are connected partly with the root, partly with the Infinitive, resp.
+its terminative, partly with the Participle.
+
+Note. The spoken language, at least in WT, recognises even in
+four-rooted verbs seldom more than the Perfect root.
+
+
+
+32. The Infinitive mood. The syllables པ་ pa or, after the final
+consonants ང་ ར་ ལ་ and vowels, བ་ wa are added to the root, whereby it
+assumes all the qualities and powers of a noun. In verbs of more roots
+than one, each of them can, of course, in this way be converted into a
+substantive, or, in other words, each tense has its Infinitive, except
+the Imperative. From one-rooted verbs the different Infinitives may be
+formed by the above mentioned auxiliaries: thus, the Inf. Perf., by
+adding ཡིན་པ་ to the Infinitive of the verb in question, or ཚར་བ་,
+ཟིན་པ་, སོང་བ་ to the root, and the Inf. Fut. by adding འགྱུར་བ་ to the
+Supine (terminative of the infinitive, 41. B) thus, མཐོང་བར་འགྱུར་བ་
+visurum esse, visum iri.
+
+Note. The spoken language uses, in WT almost exclusively, a termination
+pronounced c̀as in Turig and Balti, c̀es, c̀e in Ladak, c̀e in Lahoul etc.,
+j̀a in Kunawar, s̀e in Tsaṅ etc., the etymology of which is doubtful, as
+it is not to be found in any printed book. Lamas in Ladak and Lahoul
+spell it ཅེས་.
+
+
+
+33. The Participle. 1. This is in the written language entirely like
+the Infinitive ཡིན་པ་ ‘being’, གཏོང་བ་ ‘giving’, བཏང་བ་ ‘having
+given’.—2. Whether the meaning is active or passive, however, can only
+be inferred from the context, e.g. བཏང་བའི་དངུལ་ is of course ‘the money
+given’, but དངུལ་བཏང་བའི་མི་ ‘the man having given, or, that has given,
+the money’; the Tibetan participle means nothing but that the action or
+condition is connected in some way with a person or thing. But it is
+natural that in the present participle the active idea should be the
+more frequent one, as well as in the preterit the passive.—3. In the
+instance of Intensive verbs (formed with བྱེད་པ་ 38.1) the usage of
+scientific authors has strictly connected the active sense with those
+formed with བྱེད་, as གཏོང་བྱེད་ toṅ-j̀ed, toṅ-j̀ʽĕʼ, instead of གཏོང་བར་བྱེད་པ་,
+‘doing give, giving, giver’, and the passive to those with བྱ་, as
+གཏོང་བྱ་ toṅ j̀a, toṅ j̀ʽa i.o. གཏོང་བར་བྱ་བ་ ‘to be given’ (dandus),
+བྱ་བ་དང་བྱ་བ་མ་ཡིན་པ་སྟོན་པ་ ‘to teach the things to be done and not to be
+done’ (Thgy.).—4. In certain cases, especially with verbs that mean: to
+say, ask etc., the Participle is used before the words of the speech,
+where we should use the Imperfect: རྒྱལ་པོས་སྨྲས་པ༌༌༌ ‘the king said....’
+
+Note. In the spoken language, of WT at least, the Participle is formed
+by མཁན་, in the active sense as well as the passive (whereas in books
+this syllable occurs only in the meaning of the performer of an action,
+s. 12. 1.): དངུལ་བཏང་མཁན་གྱི་མི་ ṅul taṅ kʽan-ni mi (s. 15, Note) ‘the man
+giving the money’, བཏང་མཁན་གྱི་དངུལ་ ‘the money given’.
+འདས་ཞག་གོན་ཆས་བཙོངས་མཁན་གྱི་བླ་མ་ ‘the lama who brought a coat for sale the
+other day’. བུ་མོ་རྗེ་བཙུན་ལ་སྒོ་ཁུང་སྟོན་མཁན་དེ་ ‘the girl who had shewn the door
+to his reverence’ (Mil.). The future participle is represented, just as
+in English, by the Infinitive (32, Note), so that ‘the sheep to be
+killed’, (in books གསོད་པར་བྱ་བའི་ལུག་ or གསོད་བྱའི་ལུག་) is expressed, in the
+most Western provinces, by: sád c̀as-si lug, Lad.: sád-c̀es-si lug, Lah.
+etc.: sád c̀eï lug, Tsaṅ: söʼ-s̀ē-kyi lug གསོད་ཤེས་ཀྱི་ལུག་, and, most like
+the classical language, in Kun.: sód j̀ā̤ lug.
+
+
+
+34. The finite verb. 1. The principal verb of a sentence, which always
+closes it (48.) receives in written Tibetan in most cases a certain
+mark, by which the end of a period may be known. This is, in
+affirmative sentences, the vowel o (called by the grammarians:
+སླར་སྡུ་བ་), in interrogative ones the syllable am. Before both the
+closing consonant of the verb is repeated, or, if it ends with a vowel,
+འོ་ and འམ་ are written. The Perfect of the verbs ending in ན་ ར་ ལ་,
+which formerly had a ད་ as second final—ད་དྲག་—, assume ཏོ་ and ཏམ་.—2.
+These additional syllables are omitted a) in imperative sentences, b)
+in the latter member of a double question, c) when the question is
+expressed already by an interrogative pronoun or adverb, d) in
+coordinate members of a period, with the exception of the last one, e)
+commonly, when the principal verb is the verb substantive ཡིན་, ཡོད་ etc.
+(40. 1.).
+
+Examples. a) སོང་ ‘go!’, འདི་རུ་ཤོག་ ‘come here!’.—b) མཐོང་ངམ་མི་མཐོང་ ‘do you
+see or not?’—c) དེ་ན་སུ་ཡོད་ ‘who is there?’, ནམ་བསླེབ་ ‘when did (he, you
+etc.) arrive?’.—d) ཁང་པ་ཤིག །མི་བསད ། གྲོང་ཁྱེར་ཚང་མ་མེད་པར་བྱས་སོ། ‘the houses
+were destroyed, the men killed, the whole town annihilated’.—e)
+གཙང་པའི་བྱེ་མ་ལ་གསེར་ཡོད། ‘in the sand of the river is gold’.
+
+Note. In conversation the o is generally omitted, and the m of the
+interrogative termination dropped, so that merely the vowel a is heard,
+e.g. the question མཐོང་ངམ་ ‘do (you) see’ and the answer མཐོང་ངོ་ ‘(I)
+see’, are commonly spoken in WT: tʽoṅ-ṅa? tʽoṅ.
+
+
+
+35. Present Tenses. 1. Simple Present Tense. This is the simple root of
+the verb, which will always be found in the dictionary; in WT, as
+mentioned above, of verbs with more than one root, only the Perfect
+root is in use; if, therefore, stress is laid on the Present
+signification, recourse must be had to one of the following
+compositions (s. 31. and Note). Thus, མཐོང་ ‘(I, thou, he etc.) see,
+seest etc.’, གཏོང་ ‘(I etc.) give’ through all persons; in the end of a
+sentence: མཐོང་ངོ༌། གཏོང་ངོ༌།.
+
+2. Compound Present Tenses. a) འདུག་ (s. 40, 1) is added to the root:
+མཐོང་འདུག་ ‘(I) see’, བཏང་འདུག་ ‘(I) give’. This is common in the dialect
+of WT especially.—b) The Participle connected with ཡིན་, མཐོང་བ་ཡིན་ ‘I
+see’. In WT this, of course, is changed to མཐོང་མཁན་ཡིན་.—c) One of the
+Gerunds (41, A) with ཡོད་ or འདུག་, as མཐོང་སྟེ་ (or ནས་ or གི་ or ཞིང་), འདུག་
+or ཡོད་ ‘(I) see, am seeing’; it must, however, be remarked that both
+ways of expression, b) and c), are not very frequent.—d) གིན་ཡོད་ or འདུག་
+is the proper form for the compound English present: མཐོང་གིན་འདུག་ ‘(I)
+am seeing’, འབྲི་གིན་འདུག་ ‘(I) am writing (just now)’.
+
+
+
+36. Preterit Tenses. 1. Simple Preterit, Perfect or Aorist Tense; this
+is the Perfect root: བཏང་, at the close of the sentence བཏང་ངོ༌། ‘gave,
+have given, was given’; in one-rooted verbs it has, of course, the same
+form as the present: མཐོང་(ངོ་) ‘saw, have, or was, seen’. This is the
+usual narrative tense like the Greek Aorist or French Parfait
+défini.—2. Compound Preterit Tenses.—a) The root with སོང་, བཏང་སོང་
+‘have given, gave, was given’, མཐོང་སོང་ ‘have seen, saw, was seen’;
+rarely met with in books, but in general use in the conversation of WT.
+In CT བྱུང་ j̀ʽuṅ is used in a similar way: ཁྱིས་རྨུག་བྱུང་ ‘the dog has
+bitten’.—b) The root with ཟིན་ (more in books), or ཚར་ (more in common
+language), the true Perfect as the tense of accomplished action:
+བཏང་ཟིན་, བཏང་ཚར་ ‘have given etc.’, ‘the action of giving is past’,
+མི་སོང་ཚར་ ‘the man has already left’.—c) The Participle connected with
+ཡིན་ occurs more frequently in the past sense than otherwise. Here, in
+the common talk of WT, པ་ is used, even in those cases where the books
+have བ་, ཡི་གེ་བཀལ་པ་ཡིན་ yí-ge kál-pa yin, or, contracted, kál-pen, ‘the
+letter has been sent off’, in books: བཀལ་བ་ཡིན་ (s. 11, Note), even
+གླ་བཏངས་པ་ཡིན་ la táṅs-pa yin, táṅs-pen, ‘the wages have been paid’ i.o.
+བཏང་བ་ཡིན་.—d) Gerunds in ཏེ་ (WT) or ནས་ (CT) with ཡོད་ or འདུག་ (the same
+as 35. 2. c); also (in Ü Tsaṅ and later books) the mere Perfect root
+with ཡོད་, the ཏེ་ or ནས་ being dropped: སོང་ཡོད་ ‘has gone’.
+
+
+
+37. Future Tenses. 1. Simple Future. The Future-root, གཏོང་(ངོ་) ‘shall,
+will give, be given’.—2. Compound Future. a) The auxiliary verb འགྱུར་བ་
+(to grow, become) added to the Terminative case of the Infinitive:
+གཏོང་བར་འགྱུར་(རོ་) ‘shall, will give, be given’, མཐོང་བར་འགྱུར་(རོ་) ‘shall,
+will see, be seen’. This is the most common, and, together with the
+Simple Future and the Intensive (39.), ༌༌༌བར་བྱའོ་, the only one in use
+with the early classical authors in all cases where a special
+Future-root is wanted, and even where this exists. It disappears,
+however, gradually from the literature of the later period, and is
+replaced by the two following compositions.—b) རྒྱུ་ཡིན་ connected with the
+root: མཐོང་རྒྱུ་ཡིན་ ‘shall, will see’, གཏོང་རྒྱུ་ཡིན་ ‘shall, will give’ etc.
+(རྒྱུ་ is originally a substantive, meaning material, cause, occasion).—c)
+the root with འོང་ or ཡོང་, སླེབ་ཡོང་ ‘will arrive’, or, i.o. the root, the
+Term. Inf., སླེབ་པར་འོང་.—Both b) and c) are even now in common use in CT,
+whereas in WT:—d) ཡིན་ connected with the root is the general form:
+མཐོང་ཡིན་ tʽoṅ yin, vulg.: tʽóṅin ‘shall, will see’, བཏང་ཡིན་ táṅin,
+‘shall, will give’, བཀལ་ཡིན་ kállin ‘will send’, ཚ་ཡིན་ c̀ʽa yin, c̀ʽa’in,
+c̀ʽän ‘will go’.—e) In books the Participle with ཡིན་ (35. 2. b, 36. 2 c)
+occurs sometimes also as Future.
+
+
+
+38. Imperative mood. 1. This is usually the shortest possible form of
+the verb, which often loses its prefixed letters, though in some
+instances a final ས་ is added. In many verbs with the vowel a, and in
+some with e these vowels are changed into o, besides other alterations
+of the consonants. Particularly often the surds or sonants of the other
+tense-roots are changed to their aspirates in the Imperative. Thus, ཐོང་
+‘give!’, from གཏོང་བ་; ལྟོས་ Ld: ltos, CT: tō̤ ‘look!’, from ལྟ་བ་; ཐོབ་
+‘throw!’, from འདེབས་པ་. In one-rooted verbs it is, of course, like the
+Present, but it can always be sufficiently distinguished by adding the
+particle ཅིག་ (ཤིག་ or ཞིག་, according to 13.). This is used in the
+classical literature indiscriminately in addressing the highest and the
+lowest persons (or, in other words, as well to command, as to pray),
+but according to the modern custom of CT only when addressing servants
+and inferior people.—2. In forbidding, the Present-root is used with
+the negative particle མ་, མ་གཏོང་ ‘do not give!’, མ་ལྟ་ ‘do not look!’,
+མ་འདེབས་ ‘do not throw!’—3. In praying or wishing (Precative or
+Optative) either the same forms as under 1. are used, or the
+Imperatives of འགྱུར་བ་ ‘to come’ or འོང་ ‘to come’ (the latter, ཤོག་, of a
+quite different root) are connected with the Termin. Infin.
+མཐོང་བར་གྱུར་ཅིག་ or ཤོག་ཅིག་ ‘may (I, you, he etc.) see!’—4. In none of the
+three a person is indicated, but it is natural that in commanding and
+forbidding the subject will be the second, sometimes the third person;
+in the precative also the first person can be understood.
+
+Note. The common language of WT, acknowledging only the Perfect-root,
+changes nothing but the vowel: བཏོང་ ‘give!’ from བཏང་ཅེས་; ལྟོས་ ‘look!’
+from ལྟ་ཅེས་; བཏོབ་ ‘throw!’ from བཏབ་ཅེས་ (Perf. of འདེབས་པ་). Instead of
+ཅིག་, which is not much used, བཏོང་ (‘give!’) is often added to the roots
+of other verbs (s. 39), thus, བཏོན་བཏོང་ ton toṅ ‘take out!’ from བཏོན་ཅེས་
+(འདོན་པ་). Or the Imperative is paraphrased by དགོས་ gos (Ld.), gō̤, goi
+‘must’, added to the root of the verb: བསད་དགོས་ ‘must be killed’.—In CT
+the changing of the vowel seems to be usually omitted, but the ཅིག་ is
+more used. Here, also, the Perfect root is not so exclusively
+preferred.
+
+
+
+39. Intensive verbs. 1. Very frequent in books is the connection of the
+four-rooted verb བྱེད་པ་ (Pf. བྱས་, Fut. བྱ་, Imp. བྱོས་) ‘to do’, elegantly
+བགྱིད་པ་ (Pf. བགྱིས་, Fut. བགྱི་, Imp. གྱིས་), respectfully མཛད་པ་ (Imp. མཛོད་)
+with the Term. Inf. of another verb, to intensify the action of the
+latter. By this means not only one-rooted verbs can be made to
+participate in the advantages of the four-rooted, as མཐོང་བར་བྱེད་ ‘see’,
+མཐོང་བར་བྱས་ ‘saw’, མཐོང་བར་བྱ་ ‘shall, will see’, མཐོང་བར་བྱོས་ ‘see!’, but
+also several other periphrastical phrases are gained for speaking more
+precisely than otherwise would be possible. The Future tense བྱ(འོ)༌
+serves, besides its proper notion of futurity, particularly to express
+the English auxiliaries ‘must, ought etc.’: thus, བརྗོད་པར་མི་བྱའོ་ ‘must
+not be uttered, ought not to be uttered’, sometimes it may be
+translated by the Imperative mood. The spoken language, at least of WT,
+is devoid of this convenience, and possesses nothing of the kind except
+the above mentioned intensive form of the Imperative, formed by བཏོང་
+(s. 38., Note).—2. Another class of intensive verbs are formed by
+connecting two synonyms, as འཇིགས་སྐྲག་པ་ ‘to be afraid’, literally ‘to be
+fear-frightened’, and other similar ones.
+
+
+
+40. Substantive and Auxiliary Verbs. 1. To be a) ཡིན་པ་, in elegant and
+respectful speech ལགས་པ་ lag-pa, Ü: lā-pa (the latter word never used
+in WT) is the mere means of connecting the attribute with its subject,
+as: མི་འདི་ལ་དྭགས་པ་ཡིན་ ‘this man is a Ladakee’, དེ་ཁྱེད་ལགས་སམ་ ‘is it you,
+Sir?’. Therefore the question སུ་ཡིན་ is to be understood ‘who are you’
+or ‘who is he’ etc., the personal pronoun being often let to be
+guessed.—ཡིན་ itself is often omitted in daily life in WT as well as in
+poetry, e.g. ཨི་ཁུར་རུ་མཱ་ལྕིན་ཏེ་ ‘this load (is) very heavy’ WT. Negatively:
+མ་ཡིན་, མིན་ vulg. མན་, resp. མ་ལགས་.—b) ཡོད་པ་ yod-pa, yöʼ-pa, eleg.
+མཆིས་པ་ c̀ʽī-pa, resp. བཞུགས་པ་ z̀ug(s)-pa, Ü: z̀ū-pa, negat.: མེད་, མ་མཆིས་,
+མི་བཞུགས་ means ‘to exist’, or ‘to be present’, ‘to be found at a place’,
+therefore the question སུ་ཡོད་ is to be understood: ‘Who is here? Who is
+there?’—ཡོད་ and བཞུགས་པ་ are in general use, མཆིས་པ་ is seldom heard.
+When connected with the Dative of a substantive it expresses the
+English ‘to have, to have got’, as: ང་ལ་དངུལ་ཡོད་ ‘I have money’;
+ང་ལ་ཟུག་ཡོད་ ‘I have pain’. In this case the respectful term is not
+གཞུགས་པ་ but མངའ་བ་ ṅa-wa: རྒྱལ་པོ་ལ་སྙུན་མི་མངའ་འམ་ ‘has not the King an
+indisposition?’ i.e. ‘is Your Majesty ill?’.—c) འདུག་པ་ dug-pa (eleg.
+གདའ་བ་ is seldom heard), resp. བཞུགས་པ་, ‘to be present, stay, be found
+at a place’; negat. མི་འདུག་. Both འདུག་པ་ and ཡོད་པ་ can be used instead
+of ཡིན་པ་, though not this instead of them.—d) རེད་པ་ rĕʼ-pa = འདུག་པ་,
+negat. མ་རེད་ in Spiti and CT, seldom in books.—e) མོད་པ་ mod-pa, möʼ-pa
+has a somewhat emphatical sense: ‘to be (something) in a high degree’,
+‘to be (somehow) in plenty’. It occurs most frequently in the Gerund
+with ཀྱི་ (41.), when it frequently has the sense of ‘though’, but never
+with a negative.—f) སྣང་བ་ naṅ-wa, originally ‘to appear, to be visible,
+extant’, negat. མི་སྣང་. Sometimes in books, and common in certain
+districts.—g) In books the concluding o (34.) is, moreover, found to
+represent the verb ‘to be’ in all its meanings, and is capable of being
+connected with words of all classes besides verbs, e.g. དང་པོ་འོ་ ‘is the
+first’ = དང་པོ་ཡིན་. In a similar manner also the ཅིག་ of the Imperative
+(38.) implies the verb ‘to be’.—h) The Preterit root for all these
+verbs is སོང་ soṅ ‘was, has been’, and besides also ‘has gone, become’,
+which is its original meaning.—For the use of these verbs as
+auxiliaries s. 35. sq.
+
+2. འགྱུར་བ་ originally ‘to be changed, turned into something’ then ‘to
+become, to grow’, auxiliary for the Future tense in the old classical
+language, as mentioned in 37. Since this can be considered as the
+intransitive or passive sense, opposed to བྱེད་པ་ ‘to make, render’, the
+connection of འགྱུར་བ་ with the Term. Inf. of another verb must, in many
+cases, be rendered by the passive voice in our languages. In WT the
+verb ཆ་ཅེས་ c̀ʽa-c̀e ‘to go’ is used in the sense of ‘to become, to grow’.
+The Perfect root for both is སོང་ ‘(went), grew, became, has become, is’
+(s. above).—In CT and later books འབྱུང་བ་ is used instead.
+
+3. ‘must’ is expressed by དགོས་པ་ ‘to be necessary’ (s. 38. Note). In WT
+this is used in a very wide sense for any possible modification of the
+notion of necessity: ‘I must, should, want to, ought’ and even ‘I will,
+wish, beg (for something)’ is nothing but ང་ལ་དགོས་ ‘to me is necessary’
+which may be, in the last mentioned case, rendered somewhat more
+politely by adding ཞུ་ z̀u ‘pray!’ ང་ལ་ཨ་ལུ་དགོས་ཞུ་ ‘I want potatoes,
+pray!’ is as much to say as ‘Will you kindly give me some potatoes’. In
+books and more refined language several other verbs are used in the
+same sense, viz. རིགས་པ་ ‘it is right to’ (usually with the Genit.
+Infin.), རུང་བ་ ‘it is meet, decent’, འདོད་པ་ ‘to wish, desire’, both
+with the Supine; དགའ་བ་ ‘to like’ with the Dat. Inf. The popular
+substitute of the last, especially in use in WT, is འཐད་པ་, of similar
+meaning, added to the root.
+
+
+
+41. Gerunds and Supines. We retain these terms, employed by former
+grammarians, but observe that they do not refer to the form, but to the
+meaning, as well as that Gerund is not to be understood in the same
+signification as in Latin, but as the Gérondif of some French
+grammarians, or what Shakespeare calls Past conjunctive participle in
+Hindi. These forms are of the greatest importance in Tibetan, being the
+only substitutes for most of those subordinate clauses which we are
+accustomed to introduce by conjunctions. They are formed by the two
+monosyllabic affixes ཏེ་ (so after the closing consonants ན་ ར་ ལ་ ས་);
+དེ་ after དེ་, སྟེ་ after ག་ ང་ བ་ མ་ and vowels and ཅིང་ (ཤིང་ or ཞིང་
+according to the same rule as ཅིག་ 13.), both of which are added to the
+root, or by the terminations mentioned in 15. as composing the
+declension of nouns, which are added partly to the root, partly to the
+Infinitive or Participle.
+
+A. Gerunds. All the following forms can be rendered by the English
+Participle ending in ing, but the more accurate distinctions must be
+expressed by various conjunctions.
+
+1. ཏེ་ (དེ་ etc.), the most frequent of all these endings. It is added to
+the Present-root as well as to the Perfect-root: གཏོང་སྟེ་ ‘giving’,
+བཏོང་སྟེ་ ‘having given’, and stands for all clauses beginning with when,
+as, since, after etc. Also in the spoken language of WT it is used most
+frequently.—Examples: ཕྲུ་གུ་ཆུས་ཁྱེར་ཏེ་ཤིའོ་ ‘the child, having been carried
+away by the water, died’; རྒྱལ་པོ་ཤི་སྟེ་རྒྱལ་སྲས་ཀྱིས་རྒྱལ་ས་བཟུང་ངོ་ ‘the king
+having died, the prince occupied the throne (king’s-place)’;
+ཆུ་ཆེན་པོ་ཞིག་དེ་རུ་ཡོད་དེ་འགྲུལ་མི་ཐུབ་བོ་ ‘as there is a great water, we cannot
+go’.
+
+2. ཅིང་ (ཤིང་ etc.), of a similar sense, chiefly used for smaller clauses
+within a large one, མི་དགའ་ཞིང་ཁྲོས་ཏེ་ ‘when, being displeased, he became
+angry’, or ‘growing displeased and angry’. Often it denotes two actions
+going on at the same time, or two states of a thing existing together,
+and then can only be translated by ‘and’, thus, མཐའ་མེད་ཅིང་མུ་མེད་
+‘without end and boundary’; ཤ་ལ་ཟ་ཞིང་ཁྲག་ལ་འཐུང་བ་ ‘to eat flesh and
+drink blood’ [8]. It stands also in a causal sense: ‘by doing etc.’,
+as: ཉ་བཤོར་ཞིང་འཚོའོ་ ‘(we) live by catching fish’. These two (1. and 2.)
+can also, like the closing o, as mentioned in 40. 1. g, be added to
+every class of words, in the sense of being: ཁྱོད་རིགས་ཆེ་ཞིང་མཐོ་བ་སྟེ་ ‘as
+you are high(-born), being of a great family’. In conversation, ཅིང་ is
+scarcely ever heard.
+
+3. ནས་ (from, or after, doing something) in temporal clauses with
+‘after, when, as’; practically it is very much like ཏེ་, and often
+alternating with it. In most cases, in speaking always, it is added to
+the root, seldom to the infinitive.—Examples. ནམ་ལངས་ནས་སོང་ ‘when the
+night had risen (viz. at daybreak) he went’; ལང་ནས་སོང་ ‘after you will
+have risen, go!’ དེ་མཐོང་ནས་སྐད་ཕྱུང་སྟེ་ངུས་སོ་ ‘when I saw that, raising
+clamour, I wept’.
+
+4. ན་ ‘in (doing something)’ again for clauses with ‘since, when, as’,
+but in most cases by far for ‘if’ and conditional ‘when’: འགྲོ་ན་ ‘if,
+or, when (I) go, or went’; ཤི་ཚར་ན་ ‘when, after (he) has died’, ‘if he
+is already dead’; ཤི་ན་ ‘if (he) die, should die’, ‘if (he) died’, ‘when
+(he) dies’; བྱེད་ན་ ‘if ... do, did’; བྱ་ན་ ‘if ... were to do’. It is
+added to the root, seldom to the infinitive, and as common in talking
+as in books.
+
+5. ལ་ is of more various use. When added to the root, it is very much
+like ཅིང་, which it replaces in the conversational language of CT (where
+the first example of 2. would be, མ་དགའ་ལ་ཁྲོས་ཏེ་), but does not occur so
+often except in imperative or precative sentences, when it is added to
+the Imperative root of the subordinate verb, just like other gerunds:
+སོང་ལ་ལྟོས་ ‘going look!’, ‘go and look!’ ལོང་ལ་སོང་ ‘rise and go!’. This
+particle, like the above-mentioned, implies the verb ‘to be’,
+especially when added to adjectives denoting a personal quality.
+མི་སྡུག་ལ་ཐུང་ངུ་ཡིན་ཏེ་ ‘being ugly and short’; དབྱིབས་ལེགས་ཤིང་ལྟ་ན་སྡུག་ལ་མཛེས་པ་
+‘pretty, being of a good figure and nice to behold’. When added to the
+Infinitive, it denotes: a) of course, the real Dative, or the usual
+meanings of the postposition ལ་ with a substantive; thus,
+གསོད་པ་ལ་དགའ་བ་ ‘to rejoice at killing, be fond of killing’. b) nearly
+the same as ཏེ་ or ‘as’ in English, e.g.
+ལམ་གྱི་བར་དུ་ལྷ་རྟེན་ཞིག་ཡོད་པ་ལ་ཤིང་རྟ་ལས་བབ་བོ་ ‘as there was an idol-shrine in
+the middle of the way, (she) alighted from (her) chariot’;
+རྒྱལ་པོ་ཉིན་རེ་བཞིན་དུ་དེར་ཁྲུས་བྱེད་དུ་འགྲོ་བ་ལ་ ‘as the king went there daily to
+bathe’; འཇིག་རྟེན་གྱི་ནང་ན་མི་འོང་བ་ལ་འདི་རུ་འོང་བ་ཅི་ཡིན་ ‘as (it) does not occur
+in the (whole) world, what is (its) occurring here, or, how is it that
+it occurs here?’. Finally, in the language of common life ལ་ is added
+to the repeated root in order to express the English ‘while, whilst’:
+ངས་ཤ་གཏུབ་གཏུབ་ལ་ཁྱོད་ཀྱིས་ཤིང་ཁྱོང་ ṅā̤ s̀a tub-túb-la kʽyód-dī (15., Note) s̀iṅ
+kʽyoṅ WT, or ཁྱོད་ཀྱིས་ཤིང་བཀུར་ཤོག་ kʽyöʼ-kyī s̀iṅ kur-s̀og CT ‘while I am
+cutting the meat into pieces, bring you (some) wood’.
+
+6. ལས་ added only to the Infinitive, literally ‘out of (the doing)’.
+This may mean a) ‘after’, ཉལ་བ་ལས་ལང་བ་ ‘to rise from lying, after
+having lain’; དུར་ན་ཞག་གསུམ་འདུག་པ་ལས་དུར་ནས་བྱུང་ ‘after having been three
+days in the grave (I) came out of the grave’.—b) ‘while’, in which case
+the root of the verb may be repeated, as: སོང་སོང་བ་ལས་བྲམ་ཟེ་ཞིག་དང་ཕྲད་དོ་
+‘out of my walking i.e. when walking along, (I) met with a brahman’;
+ང་ཤ་གཏུབ་གཏུབ་པ་ལས་ཁྱོད་ཀྱིས་ཤིང་བཀུར་ཏེ་ཤོག་ (the above mentioned example (s.
+ལ་) translated into classical language); c) also the English ‘being
+about to’ is, in books, often expressed by this Gerund:
+ནང་དུ་སོང་བ་ལས་སྒོ་བཅད་དོ་ ‘when (I) was about to enter, the door was shut’;
+ཤི་བ་ལས་ཕྱིར་སོས་པར་གྱུར་ཏོ་ ‘when (I) was going to die, (I) was restored to
+life again’. Which of the three is the real meaning, will in most cases
+be clear from circumstances. This gerund is not used in talking, at
+least in WT.
+
+7. ཀྱིས་ (གྱིས་ etc.) or ཀྱི་ (གྱི་ etc.), or the Instrumental and Genitive
+cases of the root, mean a) ‘by doing something’ or ‘because’, e.g.
+དགོས་ཀྱིས་འདོང་ངོ་ ‘we come (here), because it is necessary’.
+ཁོ་མོས་གྲོགས་བུ་ཡིས་སྙིང་མ་ཆུང་ཞིག་ ‘since I am resolved to help you, do not be
+depressed!’ This, originally, is a function of the Instrumental only,
+but in later times the other cases also are used in this meaning.—b)
+more frequently they are used adversatively, ‘though’, especially when
+connected with མོད་ (40. 1. e), ཅེས་སྨྲས་མོད་ཀྱིས་ཅིས་ཡིད་ཆེས་པར་འགྱུར་ ‘though
+(you) did say so, by what shall (I) believe (it)?’ In other cases it
+may be left untranslated when the next sentence will commence with
+‘but’: ཟས་བཟང་པོ་མི་འདོད་ཀྱིས་ཟས་ཐ་མལ་པ་ཟོས་སོ་ ‘not liking delicate food, he
+ate vulgar food’ or ‘he did not like d. f., but preferred v. f.’. This
+Gerund is scarcely used in talking, at least in WT.
+
+8. པས་ (བས་), the Instrumental of the Infinitive, ‘by (doing
+something)’ is, of course, the proper expression for ‘because’, but
+also very often used indiscriminately for ཏེ་ or ནས་ only for the sake
+of varying the mode of speaking: ཤིན་ཏུ་དཀའ་བ་ཡིན་པས་ ‘because it is very
+difficult’; ལྟས་པས་ ‘when (he) looked’.
+
+9. Also གིན་ the proper use of which has been shewn above (35. 2. d.)
+must be mentioned once more as it occurs in a similar sense to ཅིང་,
+སྨོན་ལམ་འདེབས་གིན་སོང་ཞིག་ ‘walk on praying (preces faciendo)!’;
+བྲང་བརྡུང་གིན་ངུས་པས་ ‘beating (her own) breast and weeping’.
+
+B. Supines. They are expressed simply by the Terminative Case of the
+Infinitive or of the Root, མཐོང་བར་ or ཐོང་དུ་ ‘to see’. In many instances
+the use of either is optional, in others one is preferred. 1. Their use
+is: with adjectives like the Latin supine in u, e.g. བསླབ་ཏུ་དཀའ་བ་
+‘difficult to learn’; with verbs expressing ‘to go, to send’ etc., also
+‘to pray’ etc. like that in um: ལེན་ཏུ་སོང་ ‘go to fetch’, གནང་དུ་གསོལ་ ‘(I)
+beg (you) to permit,—for permission’. In these cases the root is most
+common, but the Inf. བསླབ་པར་, or གནང་བར་, ལེན་པར་ may also be used. 2.
+Another use of the Supine is a) with verbs of sensation and, less
+frequently, with those of declaration, where we use sentences with
+‘that’ or the Participle or Infinitive: མ་འོང་བར་མཐོང་ནས་ ‘seeing (his)
+mother coming’ (instead of which, however, འོང་བ་ may be said as well);
+༌༌༌བའི་དུས་ལ་བབ་པར་ཤེས་ནས་ ‘knowing that the time of ...ing had arrived’
+(lit: ‘that it had come down to the time’); རྒྱལ་པོའི་བུ་ཡིན་པར་དྲན་ནས་
+‘remembering him to be the king’s son’ or ‘that he was...’.—b) in an
+adverbial sense, when we say ‘so that’, especially in negative
+sentences, ‘so that not’, ‘without ...ing’, སུས་ཀྱང་མ་ཚོར་བར་ ‘so that
+nobody may (did) perceive it’, or ‘without anybody perceiving it’.
+
+Note 1. The modern language of WT uses in the first instance (B. 1.)
+either the simple Infinitive, བསླབ་ཅེས་ཁག་པོ་ (or དཀག་པོ་), or the same
+with ལ་, བསླབ་ཅེས་ལ་ཁག་པོ་, or with ཕྱི་ལ་ (for the ཕྱིར་ of the books s. 7.
+2.), བསླབ་ཅེས་ཕྱི་ལ་ཁག་པོ་; in the second either the same forms, or a
+particular one, which consists in repeating the final consonant of the
+root with the vowel a, to which also ལ་ may be added: thus, ལེན་ན་སོང་,
+ཁྱོད་རང་ལ་ཐུག་ག་ལ་ཡོངས་སོང་ ‘(I) have come to meet you’; in the third, the
+direct Imperative adding ཞུ་ for the sake of civility, དགོངས་ཞུ་ ‘pray
+permit!’
+
+In the case of B. 2., instead of མ་འོང་བར་མཐོང་ནས་, the expression in
+common use will be ཨ་མ་ཡོང་ or ཡོང་ང་མཐོང་ནས་; instead of སུས་ཀྱང་མ་ཚོར་བར་,
+either the same form, མ་ཚོར་ར་, or the Gerund, མ་ཚོར་ཏེ་.—In CT those
+examples would respectively, stand thus, བསླབ་ཏུ་ or བསླབ་བ་ or
+བསླབ་པའི་དོན་དུ་དཀག་པོ་ láb-tu, láb-ba (sounding almost lă-wa), láb-pa̤
+dʽo̤n-dʽu kag-po; in the third instance a peculiar word, ‘rog’, is used,
+which is said to be originally the same as གྲོགས་ (རོགས་) ‘friend,
+assistant’, and serves now as the respectful substitute of ཅིག་,
+Particle of the Imperative, གནང་རོག་ ‘pray permit!’, སྟེར་རོག་ ‘pray give!’
+Instead of མ་ཚོར་ར་ etc. the most usual form in CT will be the simple
+Participle, མ་ཤེས་པ་.
+
+Note 2. All the forms, of course, where པ་ or བ་ are met with might in
+certain cases belong to the Participle, and not to the Infinitive.
+
+Note 3. The reader will have missed any mention of tenses of the class
+of Pluperfect, Past Future etc., and, indeed, there exists no form of
+the kind, and they can only be rendered by a Gerund, e.g.
+ཡི་གེ་བྲིས་ཟིན་ནས་བཀལ་སོང་ ‘when (he) had written the letter, (he) sent (it)
+off’; ཡི་གེ་བྲིས་ཟིན་ནས་བཀལ་བར་འགྱུར་ (WT: བཀལ་ཡིན་, CT: བཀལ་རྒྱུ་ཡིན་) ‘when (he)
+shall have written the letter, (he) will send (it) off’. Neither have
+the Conditional or Subjunctive any special form. Thus, e.g.,
+འདི་མ་བྱས་ན་མི་འཚོའོ་ ‘if we did not do that, we could not live’ (i.e. we
+cannot earn our sustenance in any other manner); ཅིའི་ཕྱེར་ཁྱོད་ཟེར་བ་ནི་མི་ཉན་
+‘why should not I hear (grant) what you say (your wish)?’;
+བརྡ་མ་བཀྲོལ་ཞིང་རྟགས་མ་མཐོང་ན་མི་རྟོགས་པར་འདུག་ ‘if (you) had not explained it,
+and (we) had not seen the signs, we would not have understood it’;
+མིས་མི་རྙེད་པས་སྤྲུལ་པ་ཅིག་བཏག་དགོས་ ‘as a man would not find it, I must send an
+emanation’; vulg., WT, ཨི་ཟུག་ཐག་རིང་མ་ཡིན་ན་ངའི་རྩར་འགྲོ་དུ་ཡོང་ཡིན་ ‘if the
+distance was not so great, they would come to me (visit me)’. Here may
+be added, that also the intention of, or attempt at, doing something is
+expressed by the simple verb: thus, བདག་གིས་བཀག་ཡང་མ་བཏུབ་ཀྱིས་ ‘though I
+did try to hinder him, I could not’; བདག་གི་ཉེ་གནས་ཆུར་མཆོངས་པ་མཐོང་ནས།
+ཆུར་མ་ཕྱིན་པར་རྫུ་འཕྲུལ་གྱི་མཐུས་བླངས་སོ་ ‘as he saw his own disciple on the point
+of springing into the water (and that he had sprung off the bank), he
+held him back by the force of his magic, so that he did not touch the
+water’ (s. 41. B. 2. b.). Especially the gerunds in ལས་ (41. A. 6.)
+have often this meaning: བདག་སྲོག་དང་བྲལ་བ་ལས་སྲོག་གི་སྐྱབས་བྱས་སོ་ ‘when I was
+about to be parted from life, he saved it’;
+སྦྲུལ་ཁྲོས་ནས་གདུག་པ་ཕྱུང་པ་ལས་ཡང་འདི་སྙམས་བསམས་སོ་ ‘the snake, having become
+angry, though she intended (or: had at first int.) to let out her
+poison, reflected thus’. As will be seen from these examples, the
+action, in such cases, is thought to have begun in fact.
+
+
+
+
+A Survey of the principal forms of the Finite Verb.
+
+Present:
+
+
+གཏོང་,          W   བཏང་འདུག་ give
+མཐོང་བ་ཡིན་            མཐོང་མཁན་ཡིན་ I see intens. མཐོང་བར་བྱེད་
+             C   མཐོང་སྟེ་འདུག་ (or ཡོད་)
+             W   མཐོང་གིན་འདུག་ (or ཡོད་); C མཐོང་གི་འདུག་ I am seeing
+
+
+Perfect:
+
+
+བཏང་           W   བཏང་སོང་ gave, have given
+མཐོང་           C   མཐོང་བྱུང་ saw,         W   སོང་སྟེ་ཡོད་       C   སོང་ཡོད་
+                                           went          went
+བཏང་ཟིན་       བཏང་ཚར་ I have given, intens. མཐོང་བར་བྱས་བཏངས་པ་ཡིན་ has been given
+
+
+Future:
+
+
+        གཏང་             W    བཏང་ཡིན་ shall, will give
+        མཐོང་བར་འགྱུར་         C    མཐོང་རྒྱུ་ཡིན་ intens. མཐོང་བར་བྱ་
+                             shall, will see
+                             སླེབ་ཡོང་, སླེབ་པར་འོང་ will arrive
+
+
+Imperative:
+
+
+ཐོང་                          W   བཏོང་ give! བཏོན་བཏོང་ take out!
+                                བསད་དགོས་ kill!
+                                མཐོང་ཅིག་ see! intens. མཐོང་བར་བྱོས་
+negat. མ་གཏོང་མ་བཏང་ do not
+give! མཐོང་བར་མ་བྱེད་
+
+
+
+
+
+
+
+
+CHAPTER VII.
+
+THE ADVERB.
+
+
+42. We may distinguish three classes of adverbs: 1. Primitive adverbs.
+2. Adverbs formed from Adjectives. 3. Adverbs formed from Substantives
+or Pronouns.
+
+1. Very few Primitive Adverbs occur; the most usual are: ད་ ‘now’, ནམ་
+‘when’, སང་ (books and CT) or ཐོ་རེ་ (WT) ‘to morrow’, and a few similar
+ones; ཡང་ ‘again’, and the two negatives མི་ and མ་, the latter of which
+is used in prohibitive sentences, and with a past tense, as མི་གཏོང་ ‘(I)
+do not give’, མི་གཏང་ ‘(I) shall not give’, but: མ་བཏང་ ‘did not give’,
+མ་གཏོང་ (WT: མ་བཏང་) ‘do not give!’ The verbs ཡིན་, ལགས་, མཆིས་, རེད་ have
+always མ་ instead of མི་ before them (40.). Another particle of this
+kind, of a merely formal value, is ནི་, which is added to any word or
+group of words in order to single it out and distinctly separate it
+from everything that follows. It is, therefore, often very useful in
+lessening the great indistinctness of the language, especially so when
+separating the subject from the attribute: མི་དེ་ནི་ལ་དྭགས་པ་ཡིན་ ‘that man
+is a Ladakee’. (There is scarcely an adequate word to be found in our
+modern languages, but the Greek γε, or μεν—δε—, are very similar.) In
+talking it is seldom heard, and, when used, in WT pronounced: ནིང་.
+
+2. Adverbs may be formed from any Adjective by putting it in the
+Terminative case. བཟང་པོ་ ‘good’, བཟང་པོར་ ‘well’; རབ་ ‘principal’, རབ་ཏུ་
+‘principally, very’; དྲག་པོ་ ‘violent’, དྲག་པོར་ or དྲག་ཏུ་ ‘violently’.
+
+3. Nearly all the local Adverbs are formed from Substantives or
+Pronouns with some local Postposition: གོང་ ‘the place (space) above,
+upper part’, གོང་ན་ ‘above’, གོང་ཏུ་ ‘upwards’, གོང་ནས་ ‘from above
+(downwards)’; འདི་ ‘this’, འདི་ན་ ‘in this, here’, འདི་རུ་, འདིར་ ‘hither,
+here’ (cf. 15.), འདི་ནས་ ‘hence’; དེ་ ‘that’, དེ་ན་ ‘there’, དེ་རུ, དེར་
+‘thither, there’, དེ་ནས་ ‘from there, thence, then, after that’.
+
+Note. In talking the simple adjective is used, mostly, instead of its
+adverb (2. class): མགྱོགས་པ་ for —པར་ ‘quickly, soon’.
+
+
+
+
+
+
+
+
+CHAPTER VIII.
+
+THE POSTPOSITION.
+
+
+43. There are two kinds of Postpositions: 1. Simple Postpositions.
+These are the same that we know already as forming the cases (15). 2.
+Compound Postpositions, formed in the manner of local Adverbs (42. 3),
+with which they are, indeed, with a few exceptions, identical.
+
+1. Simple Postpositions. These are: ལ་ (the affix of the Dative), ན་
+(Locative), ནས་ and ལས་ (Ablative), རུ་, ར་, སུ་, ཏུ་, དུ་ (Terminative).
+
+Their use will be best seen in the following examples:
+
+
+
+༎ ལ་ ༎
+
+ཕན་དིལ་མེ་ལ་བོར་ WT, ཟངས་མེ་ལ་བཞག་ (inst. of ཞོག་ 38, Note) CT ‘put the
+degchi on the fire!’.
+
+བོང་བུ་ས་ལ་འགྲེའོ་, vulg: འགྲེ་འདུག་, Tsang: བོང་གུ་ས་ལ་འགྲེ་གིས་ ‘the ass rolls
+himself on the ground’.
+
+རྟ་ལ་ཞོན་ཏེ་ (or ནས་) འགྲོ་ ‘having mounted on the horse (he) goes’, or
+‘(he) goes on horseback’.
+
+བྱ་ནས་མཁའ་ལ་འཕུར་རོ་, vulg (WT): ཅི་པ་ (corrupted from མཆིལ་པ་)
+ནམ་མཁའ་ལ་འཕུར་འདུག་, CT: བྱ་ནམ་མཁའ་ལ་འཕིར་གིས་འདུག་ ‘the bird flies in the
+sky’.
+
+མཚན་ལ་ཆ་ཡིན་ WT, ནམ་ལ་འགྲོ་རྒྱུ་ཡིན་ CT ‘(we) shall set out at night’.
+
+དེ་ལ་ཤིན་ཏུ་དགའ་སྟེ་ (books and CT), དེ་ལ་མང་པོ་འཐད་དེ་ WT ‘being very glad at
+this’.
+
+སྨན་ལ་མཁས་པ་ ‘skilful in medicine’.
+
+ཆང་ལ་བོས་སོ་, vulg: བོས་སོང་ ‘invited him to beer’.
+
+མགོ་ལ་ཟུག་རག་ག་ WT, འདུག་གམ་ CT ‘is (there) ache in (your) head’, ‘have
+you head-ache?’
+
+
+
+༎ ན་, དུ་ etc. ༎
+
+ཁྱིམ་ན་ (or དུ་) ཡོད་, vulg: ཁང་པ་ལ་ (or རུ་) ཡོད་ ‘(he) is in the house, at
+home’.
+
+ཁྱིམ་དུ་སོང་, vulg: ཁང་པ་རུ་ (or ལ་) སོང་ ‘go into the house, home!’.
+
+དུས་ཅིག་ན་, vulg: ཞག་ཅིག་ ‘at a (certain) time, once’.
+
+ད་སྟེ་ཞག་བདུན་ན་ (books) ‘from to-day in (after) seven days’.
+
+མས་བུ་པང་པར་ཁྱེར་ཏོ་; WT: ཨ་མས་བུ་ཚ་པང་ལ་ཁུར་ཁྱེར་; CT: ཨ་མས་བུ་པང་ཀར་ཁུར་སོང་
+‘the mother carried the son in (her) arms’.
+
+དེའི་དུས་སུ་, vulg: དེ་དུས་ ‘at that time’.
+
+ལོ་བདུན་དུ་ (books, for vulg. see Compound adv.) ‘for seven years’.
+
+མི་དེ་རྒྱལ་པོར་བཅུག་གོ་ (or བསྐོས་སོ་), W: རྒྱལ་པོ་ལ་བཏག་ ‘(they) made (or selected,
+raised) that man to (be) king’.
+
+ཡོ་བྱད་སྔས་སུ་བཅུག་གོ་, CT: འཁྱོ་བྱད་ (or ཆ་ལག་) སྔས་ལ་བཅུག་ ‘they made (their)
+luggage into a pillow, used it as a pillow’.
+
+གང་དུ་ (or ག་རུ་) འགྲོ་, WT: ག་རུ་ཆ་མཁན་ (s. 35. 2. b, ཡིན་ omitted, 40. 1.
+a), CT: ག་ལ་འགྲོ་གིས་ཡིན་ (པ་ or པས་, provincial irregularities 35. 2. c)
+‘where are (you) going?’
+
+ང་ཏི་ནོར་ (or ཁོག་སར་ལ་) འགྲུལ་འདུག་ (vulg.) ‘I am going to Tino (or
+Kʽoksar)’.
+
+
+
+༎ ནས་ ༎
+
+ཟླ་བ་བརྒྱད་ནས་ ‘after eight months’.
+
+ཟླ་བ་བརྒྱད་པ་ནས་ ‘from (after) the eighth month’.
+
+ཐོག་མ་ནས་ (books and CT), WT: མགོ་མ་ནས་ ‘from the beginning’.
+
+
+
+༎ ལས་ ༎
+
+དཀར་ཁུང་ལས་ ‘from the window, through the window’.
+
+འཁོར་བ་ལས་འགྲོལ་བ་, vulg: ༌༌༌ནས་བསྒྲལ་བ་ ‘to deliver from the circulation
+(transmigration)’.
+
+པ་གུ་ལས་ཁང་པ་རྩིག་པ་, WT: ནས་, Tsang: པ་གུའི་ནང་རྩིག་པ་ ‘to build a house out
+of brick (Ts: a house of brick)’.
+
+མདོ་ཟ་མ་ཏོག་ལས་ ‘from the sūtra Zamatog’.
+
+སློབ་མ་ལས་གཅིག་ (vulg: སློབ་མའི་ནང་ནས་གཅིག་) ‘one of (from among) the pupils’.
+
+ཀུན་ལས་མཁས་པ་ (books and CT), WT: ཚང་མའི་སང་མཁས་པ་ ‘wiser than all, the
+wisest, most skilful of all’.
+
+གཉིས་ལས་མ་ལུས་སོ་ ‘more than two are not left’.
+
+ང་ལས་མི་འདུག་ ‘more than myself are not’.
+
+
+
+Besides these དང་ ‘with’ is to be mentioned as Simple Postposition:
+thus, ཁྱེའུ་དང་སྨྲས་ཏེ་, WT: ཁྱོག་ཐོང་དང་ལབ་སྟེ་ ‘speaking (conversing) with the
+youth’; ང་དང་ ‘with me’, or, in fuller form, ང་དང་ལྷན་གཅིག་ཏུ་,
+ང་དང་བཅས་སུ་ vulg: ང་དང་མཉམ་པོ་ ‘together with me’. In WT it is even used
+for the instrumental when the real instrument (tool) of an action is
+meant, e.g. རྒྱལ་པོས་བློན་པོ་རལ་གྲིས་བསད་ so in books, but WT: རལ་གྲི་དང་བསད་
+‘the king killed the minister with the sword’. It is, moreover, added
+to many Adjectives and Verbs, when we use the Accusative or Dative or
+other Prepositions, e.g. དེ་དང་འདྲ་བ་ ‘like (with) that, similar to
+that’. With an Infinitive it denotes the synchronism of the action with
+another one, ཉི་མ་ཤར་བ་དང་ ‘with the sun rising, at sunrise’;
+གཉིད་སོང་བ་དང་ ‘with (on) their going to sleep, when they went to sleep’;
+ཅེས་སྨྲས་པ་དང་ཁྱིམ་དུ་སོང་ ‘(with) saying so he went home’ or also ‘he said
+so, and went home’. Often it is found with an Imperative, without any
+perceptible signification, if it is not to be regarded as a substitute
+for ཅིག་ (38): ད་ཟོ་དང་ ‘now eat!’ For its use as a conjunction see the
+next chapter.
+
+2. Compound Postpositions. These may conveniently be grouped in two
+classes: a) Local Compound Postpositions, which are virtually the same
+as the Local Adverbs specified in 42. 3.: thus, ནང་ན་ ‘in (the midst
+of)’, ནང་དུ་ ‘into’ also ‘in’, ནང་ནས་ ‘from, out of’. The most usual
+ones will be seen in the following examples:
+
+
+
+རྫིང་གི་ནང་ན་ (or དུ་) ཁྲུས་བྱེད་པ་ ‘to bathe in a pond’.
+
+ཆུའི་ནང་དུ་ཞུགས་ ‘he entered into the water’ (both in books and common
+talk).
+
+ལྷའི་ནང་ན་གཙོ་བོ་ ‘the lord among the gods’.
+
+ཁང་པའི་ནང་ནས་འཐོན་ (or འབྱུང་) vulg. ‘(he) comes (emerges) out of the
+house’.
+
+སྒོའི་གོང་ཏུ་ (or ན་, or ལ་) ‘above the door’ (books and vulg., but more
+usual in WT: སྒོ་ལྟག་, CT སྒོ་ཐོད་).
+
+ཡབ་ཀྱི་གོང་ཏུ་འདས་, vulg.: ཡབ་ཀྱི་སྔན་ལ་ (or ལྔུན་ལ་, CT also གདོང་ལ་ ‘he died
+before his father’.
+
+པདྨའི་སྟེང་དུ་ (or ན་, or ཐོག་ཏུ་, or ཁ་རུ་) བཞུགས་པ་, vulg., in WT: ཁ་ཐོག་ལ་
+(ཁ་ཐོད་ལ་), CT: དགེང་ལ་ ‘to sit on a lotus-flower’.
+
+སྒོའི་འགྲམ་དུ་ (or ལ་, or ན་) (books and talk) ‘beside, near the door’.
+
+ཤིང་གི་དྲུང་དུ་, vulg.: མདུན་ལ་, རྩ་ན་, རྩར་ ‘under a tree’ (literally: ‘in
+front, by the side, of a tree’).
+
+ཞལ་ཆེ་པའི་དྲུང་དུ་ (མདུན་དུ་) འཁྲིད་པ་ ‘to take before the judge’.
+
+ཟླ་བ་བརྒྱད་ཀྱི་རྗེས་ལ་ CT, རྟིང་ལ་ WT ‘after eight months’.
+
+ཟླ་བ་གཉིས་ཀྱི་སྔན་ལ་ (or སྔུན་ལ་) vulg. ‘before two months, two months ago’.
+
+སའི་འོག་ཏུ་གཏེར་སྦེད་པ་ books and CT, WT: སའི་འོག་ལ་གཏེར་སྦ་བ་ ‘to hide a
+treasure below the ground’.
+
+སའི་འོག་ནས་འབྱུང་བ་ CT, WT: སའི་ཡོག་ནས་འཐོན་པ་ ‘to emerge, come out, from
+below the ground’.
+
+ཆུའི་ཕ་རོལ་ན་ books and CT, in CT also: ཕར་ཕྱོགས་པ་, WT: ཕར་ཁ་ལ་, ཕར་ངོས་ལ་
+‘beyond the water, river’.
+
+ཆུའི་ཚུ་རོལ་ན་ books and CT, WT: ཚུར་ཁ་ལ་ ‘on this side of the water’.
+
+ཞག་གསུམ་དུ་ (or ནས་) ཐང་དེའི་ཕ་རོལ་ཏུ་ཕྱིན་པར་འགྱུར་རོ་, CT: ཕ་རོལ་ཏུ་སླེབ་ཡོང་, WT:
+ཕར་ཁ་ལ་སླེབ་ཡིན་ ‘in (after) three days he will arrive beyond this plain,
+will have crossed it’.
+
+ཁང་པའི་ཕྱོགས་བཞི་རུ་ ‘in the four regions of the house, roundabout’.
+
+ཡུལ་དེའི་ཕྱོགས་ལ་སོང་ ‘go in the direction of, towards, that village’.
+
+ལོ་བདུན་གྱི་བར་དུ་, CT: ལོ་བདུན་ཐུག་(པ་), WT: ༌༌༌ཚུག་པ་ ‘for seven years’.
+
+འདི་ནས་དེའི་བར་དུ་, CT: འདི་ནས་དེ་ཐུག་པ་, WT: ཨི་ནས་ཨ་ཚུག་པ་ ‘from this to
+that’.
+
+ང་ཉུང་ཏི་རུ་ཆ་ཅེས་ཚུག་པ་ WT: ‘till I go to Kullu’.
+
+
+
+b) General Compound Postpositions, expressive of the general relations
+of things and persons. They are formed in the same manner as the Local
+ones, from substantives, adjectives, and even verbs. Their use may be
+learned from the following examples:
+
+
+
+ངའི་ཕྱིར་(དུ་) or དོན་དུ་ books and CT, WT: ངའི་ཕི་ལ་ ‘for me, in my behalf,
+for my sake, on my account’.
+
+ནད་དེ་ནི་ཅིའི་ཕྱིར་བྱུང་, WT: ཅིའི་ཕི་ལ་ཡོངས་, CT: གང་གི་རོན་དུ་བྱུང་ ‘for what reason
+has that illness come? what is the cause of etc.?’.
+
+སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་ ‘in behalf of all living beings’.
+
+ཤིང་གི་ཚབ་ལ་རྡོ་ (WT: རྡོ་བ་) བཏོང་ ‘give (apply) stone instead of wood’.
+
+
+
+བཞིན་དུ་ ‘according to, like, as’—རྒྱལ་པོའི་བཀའ་བཞིན་དུ་བྱས་ཏེ་ ‘doing according
+to the word of the king’; དེ་བཞིན་དུ་ ‘according to that, like that, thus,
+so’; སྔ་མ་བཞིན་དུ་ ‘as formerly, as before’; instead of it the dialect of
+WT uses ནང་ལྟར་, generally with the Genitive, thus the last example
+there would be: སྔན་མའི་ནང་ལྟར་.
+
+ལྟར་ ‘like’, རི་ལྟར་ ‘like a hill’; འདི་ལྟར་, དེ་ལྟར་ ‘like this, like that,
+thus, so’, ཅི་ལྟར་, CT: གང་ལྟར་ ‘like what? how? in what manner?’.
+
+In the dialect of WT མཚོགས་ or མཚོགས་སེ་ is used instead (which is a
+corruption of མཚོངས་, occurring in books with the same meaning): thus,
+རི་མཚོགས་སེ་ ‘like a hill’; འདི་མཚོགས་, དེ་མཚོགས་ ‘thus’; or ཟུག་ (properly
+ཙུག་), ཨི་ཟུག་, ཨ་ཟུག་ ‘thus’, ག་ཟུག་ ‘how?’.
+
+
+
+
+
+
+
+
+CHAPTER IX.
+
+THE CONJUNCTION.
+
+
+44. The written language possesses very few, the spoken still fewer,
+Conjunctions, most of which are coordinative. The common word for ‘and’
+is དང་ which we have seen above in the sense of ‘with’, གསེར་དང༌།
+དངུལ་དང༌། ལྕགས་ལ་སོགས་པ་ ‘gold and silver and iron and collection (i.e.
+and so on)’, though the position of the s̀ad (10.) after the word དང་
+shows that it is always considered as belonging to the preceding member
+of the sentence, similar, in this respect, to the Latin ‘que’; nor can
+it in any case begin a sentence. Very seldom, and only in later
+literature, it appears as combining two verbs, if not, indeed, the root
+ought to be regarded there as abbreviation for the infinitive. Further:
+ཡང་ ‘also, too’. When belonging to a single word or notion it is put
+after it in an enclitical way like ‘quoque’ in Latin. It is changed
+according to the termination of the preceding word, into ཀྱང་ after ག་
+ད་ བ་ ས་ [9], into འང་ often after vowels (cf. 6). Thus: བུ་ཞིག་ཀྱང་ཁྲིད་དེ་
+‘taking also a son (with him)’. When repeated, it has the signification
+of Latin ‘et—et—’, མ་ཡང་ཤི། བུ་ཡང་ཤིའོ༎ ‘both mother and son died’. Often,
+especially in negative sentences, it means ‘even’, གཅིག་ཀྱང་མ་རྙེད་དོ་ ‘even
+one (they) did not find—not even one’. This is the only means for
+expressing ‘none, no, nothing’, མི་སུ་ (or གང་) ཡང་མ་འོངས་ (resp. ཡོངས་)
+‘nobody came’; དེ་ན་ཅི་ཡང་ (ཅིའང་, or ཅང་) མེད་ ‘there is nothing’ (cf.
+29). When combined with verbs, བཙལ་ཡང་མ་རྙེད་དོ་ ‘even searching (they)
+did not find’, it serves as another expression for ‘though’ or also
+‘but’ (s. 41. A. 7. b): thus, ‘though they searched, they etc.’ or
+‘they searched, but they etc.’. Standing for itself (not leaning on the
+preceding word) it means ‘again, once more’ (when it is to be regarded
+as adverb), དེར་ཡང་འཁམས་ནས་ ‘there (I) fainting once more etc.’. In the
+beginning of a sentence it is ‘and, again, moreover’, and may
+occasionally be rendered by ‘however, but’. ཡང་ན་, ‘or’; repeated,
+ཡང་ན༌༌༌༌ ཡང་ན༌༌༌༌ ‘either—or—’.—‘Or’ is expressed also by the
+interrogative affix of the finite verb (34. 1.), འམ་ etc., གསེར་དངུལ་འམ།
+ཟངས་ཀྱི་བུམ་པོ་ ‘a bottle of gold, silver, or copper’.—འོན་ཀྱང་
+‘nevertheless, but’, vulg: ཡིན་ཀྱང་ occurs much less frequently in
+Tibetan than in the European languages.
+
+The only Subordinate Conjunctions are: 1. གལ་ཏེ་ ‘if’, introducing
+conditional sentences ending in ན་ (41. A. 4). But, as the conditional
+force really rests on the closing ན་, the initial གལ་ཏེ་ may be put or
+omitted at pleasure; 2. ཅི་སྟེ་ ‘but if’; གལ་ཏེ་ནུས་ན༌༌༌༌ ‘if I can ...’,
+ཅི་སྟེ་མི་ནུས་ན་ ‘but if not ...’; this last is found only in books.
+
+
+
+
+
+
+
+
+CHAPTER X.
+
+THE INTERJECTION.
+
+
+45. The most common Interjection is ཀྱེ་, or, repeated, ཀྱེ་ཀྱེ་ ‘oh!, alas!’
+used also before the Vocative. The language of common life uses
+instead: ཝ་ wa, or ཝའི་ wä.
+
+
+
+
+
+
+
+
+CHAPTER XI.
+
+DERIVATION.
+
+
+46. Derivation of Substantives. As most of what belongs under this head
+has already been mentioned in 11. and 12. only the formation of
+abstract nouns remains to be spoken of. 1. The unaltered adjective may
+be used as an abstract noun, especially with the article བ་, as:
+གྲང་བ་དྲོ་བར་འགྱུར་ ‘the cold is changed into warmth’.—To this may be added
+the pronoun ཉིད་ (གྲང་བ་ཉིད་ ‘ipsum frigidum’); but this is used scarcely
+anywhere else than in metaphysical treatises, from whence a few
+expressions, such as སྟོང་པ་ཉིད་ ‘the vacuum, the absolute rest in
+deliverance from existence’ have become more generally known.—2. In the
+case of two correlative ideas existing, frequently the compound of both
+is used, esp. in common talk, ཆེ་ཆུང་ ‘size’ (lit. ‘large and small’),
+སྦོམ་ཕྲ་ ‘thickness’ (‘thick and thin’), e.g. ཆེ་ཆུང་ནི་ཡུངས་འབྲུ་ཙམ་ ‘the size
+as much as a mustard-seed’.—3. ཁྱད་ ‘difference’ (or, sometimes, ཚད་,
+ཚོད་ ‘measure’) is added, མཐོ་ཁྱད་ ‘height’, ཕྱུག་ཁྱད་ ‘wealth, riches’.—4.
+Mental qualities are in most cases paraphrased by སེམས་, or བློ་ with a
+genitive, བཟོད་པའི་སེམས་ ‘mind of suffering, enduring, i.e. patience’,
+མཁས་པའི་བློ་ ‘wise mind, wisdom, skill’; དགའ་བའི་སེམས་ ‘mind of rejoicing,
+joy’ (vulg: སེམས་དགའ་མོ་), དད་པའི་སེམས་ ‘mind of belief (also ‘a believing
+mind’), faith’.—5. Diminutives are formed by adding the termination འུ་,
+often with an alteration of the preceding vowel: རྟ་ ‘horse’, རྟེའུ་
+‘little horse, foal’; མི་ ‘man’, མིའུ་ ‘little man, dwarf’; རྡོ་ ‘stone’,
+རྡེའུ་ ‘small stone, calculus’. If a word ends with a consonant, only u is
+added, and a new syllable formed: ལུག་ ‘sheep’, ལུ་གུ་ ‘lamb’.
+
+
+
+47. Derivation of Adjectives. 1. Possessive adjectives are regularly
+expressed by adding the syllable ཅན་, or the phrase དང་ལྡན་པ་, abridged
+ལྡན་ to any substantive, མགོ་ཅན་ ‘having a head’; མི་མགོ་ཅན་ ‘having the
+head of a man’; སྐྲ་ཅན་ ‘having hair, (long-)haired’; རིག་པ་ཅན་,
+རིག་པ་དང་ལྡན་པ་ ‘possessing knowledge, learned, wise’; དང་ལྡན་པ་ is never
+heard in common talk in WT.—2. Adjectives of appurtenance are generally
+expressed by the genitive of the substantive, གསེར་གྱི་ ‘of gold, golden’;
+ཤའི་མིག་ ‘the eye of flesh, the carnal, bodily eye’, oppos.: ཤེས་རབ་ཀྱི་མིག་
+‘the eye of knowledge, spiritual eye’.—3. Negative, or privative
+adjectives are formed in several ways: a) by the simple negative མི་,
+མི་འོས་པ་ ‘unworthy’; མི་རུང་བ་ ‘unfit’; མི་ཐོས་པ་ ‘unheard of’. b) by adding
+མེད་ ‘without’, མགོ་མེད་ ‘headless’; སྐྱོན་མེད་ ‘faultless’. c) by adding the
+verb བྲལ་(བ་) ‘separated from’, ལུས་དང་བྲལ་བ་, ལུས་བྲལ་ ‘separated from the
+body, bodiless’.—4. The English adjectives in -able, -ible are
+expressed by རུང་བ་ ‘to be fit’, added to the Supine, or to the simple
+Root, འཐང་དུ་རུང་བ་, འཐུང་རུང་ ‘fit for drinking, drinkable’, vulgo:
+འཐུང་ཉན་ (from ཉན་པ་ ‘to be able’), འཐུང་ཆོག་ (ཆོག་ ‘permitted, lawful’).
+
+
+
+
+
+
+
+
+PART III.
+
+SYNTAX.
+
+
+48. Arrangement of words. 1. The invariable rule is this: in a simple
+sentence all other words must precede the verb; in a compound one all
+the subordinate verbs in the form of gerunds or supines, and all the
+coordinate verbs in the form of the root, each closing its own
+respective clause, must precede the governing verb (examples s.
+below).—2. The order in which the different cases of substantives
+belonging to a verb are to be arranged, is rather optional, so that
+e.g. the agent may either precede or follow its object. Local and
+temporal adverbs or adverbial phrases are, if possible, put at the head
+of the sentence.—3. The order of words belonging to a substantive is
+this: 1. The Genitive, 2. the governing Substantive, 3. the Adjective
+(unless this is itself put, in the genitive, before; 16), 4. the
+Pronoun, 5. the Numeral, 6. the indefinite Article: thus,
+ངའི་བུ་མོ་ཆུང་ངུ་འདི་ ‘this my little daughter’; གོས་དམར་པོ་ཞིག་ ‘a red gown’;
+གོས་དམར་པོ་ or དམར་པོའི་གོས་ ‘the red gown’; རྒྱལ་ཁམས་ཆེན་པོ་འདི་གསུམ་ ‘these
+three great kingdoms’. Adverbs precede the word they belong to:
+ཤིན་ཏུ་ཆེན་པོ་ ‘very great’; ཤིན་ཏུ་མགྱོགས་པར་ཤོག་ ‘come very quickly’.—4. In
+correlative sentences (cf. 29) the Relative precedes the Demonstrative:
+གང་ཡོད་པ་དེ་ཐོང་ཞིག་ ‘what there is, give!’ i.e. ‘give whatever you have’,
+and in comparative sentences the thing with which another is compared,
+ordinarily precedes this (cf. 17).
+
+
+
+49. Use of the cases. As the necessary observations about the
+instrumental have been made in 30, about the other cases and
+postpositions partly in 15, partly in 43, it is only the Accusative,
+that requires a few words more, as it is very often used absolutely (as
+in Greek). a) Acc. temporalis: མཚན་མོ་ ‘at night’; གསོན་པོའི་ཚེ་ ‘during
+(his etc.) lifetime’; དེའི་ཚེ, དེ་དུས་ ‘at that time’; ཉི་མ་གཅིག་བསླབས་ནས་
+‘having studied for one day, after one day’s study’.—b) Acc. modalis:
+དབྱིབས་ཟླུམ་པ་ ‘regarding the size, round’; གཏིང་ཟབ་ཁྱད་ཁྲུ་བརྒྱད་པ་ ‘regarding
+the depth, eight cubits’ (cf. 12); ཁ་དོག་དུ་བ་ལྟ་བུར་ཡོད་པ་ ‘regarding
+colour, being like smoke’ (cf. 50, 1, a); རིགས་མཐུན་པ་ ‘with regard to
+(his) birth, equal’ i.e. ‘of equal birth’. Here ནི་ (42. 1) is very
+often employed: དབྱིབས་ནི་ཟླུམ་པ་ etc. Nearly in all cases, however,
+postpositions may be added, and in talking they are preferred to the
+simple Accusative: མཚན་མོ་ལ་, མཚན་ལ་, དེའི་ཚེ་ན་, དབྱིབས་ལ་ etc.
+
+
+
+50. Simple Sentences.—1. Affirmative sentences.—a) the attribute being
+a noun, the verb: to be, become, remain etc.; མི་འདི་ནི་མཁས་པ་ཡིན་ ‘this
+man is wise’; འདི་ནི་མི་མཁས་པ་ཞིག་ཡིན་ ‘this is a wise man’. When the verb
+is འགྱུར་བ་ (to become), གནས་པ་ (to remain) etc. the attribute must be
+put in the Terminative: སྐྲ་དཀར་པོར་གྱུར་ཏོ་ ‘(his) hair became white’;
+རྒྱལ་པོ་ཡི་དམ་ལ་བརྟན་པར་གནས་སོ་, vulg: བརྟན་པོ་གནས་པ་ཡིན་ ‘the king remained
+steadfast on his vow’; in some special cases this may take place, even
+if the verb is simply ‘to be’: ལུས་གཟུགས་ཐམས་ཅད་མི་འདྲ་སྟེ།
+རྐང་པ་འབའ་ཞིག་ཁྲ་བོར་འདུག་གོ་ ‘while his whole shape was like a man’s, his
+foot only was piebald’. b) the attribute being any other verb:
+རྒྱ་ནག་ཡུལ་གྱི་རྒྱལ་པོ་སྔ་མ་ཞིག་གིས་ཡུལ་དེའི་བྱང་ཕྱོགས་སུ་ལྕགས་རི་ཤིན་ཏུ་ཆེན་པོ་ཞིག་བརྩིགས་སོ་ ‘an
+ancient king of China built a very large wall in the north of that
+country’.
+
+2. Interrogative sentences.—a) simple: ཁྱོད་ཀྱི་བུ་ཁང་པ་ལ་འདུག་གམ་ ‘is your
+son in the house?’; དེ་རུ་སུ་ཡོད་ ‘who is there?’; ཅི་ལ་ཡོང་ ‘what do you
+come for?’, ‘what do you want?’.—རིན་ཙམ་ W (རིན་ག་ཚོད་ C) ‘how much (is)
+the price?’.
+
+Besides the affix am the later literature and the conversational
+language of CT has the accentuated interrogative particle ཨེ་ ĕ́,
+immediately before the verb: ཐབས་ཨེ་ཡོད་ tʽab ĕ́ yöʼ ‘is there any
+means...?’; ལས་འདི་བྱེད་ཨེ་ནུས་ lā̤ di j̀ĕʼ ĕ́ nṳ̄ ‘can you do this work?’.
+
+The form of a question is also used to express uncertain suppositions
+(likely to become realized), as: རྗེད་པ་སྲིད་དམ་ ‘is forgetting possible?’
+for ‘he may possibly have forgotten it’; ཤི་བ་ཡིན་ནམ་ ‘won’t he die?’;
+འདི་བདུད་མ་ཡིན་ནམ་ ‘this (apparition) is not the devil, I hope?’.
+
+b) double: ནང་ན་ཡོད་དམ་མེད་ ‘is (he) within or not?’;
+བདག་ལ་སྦྱིན་དུ་རུང་ངམ་མི་རུང་ ‘is it agreeable (to you i.e. do you consent) to
+give me (your son) or not?’; ང་འོངས་པ་མི་དགའ་འམ་ཅི་ཉེས་ ‘are you sorry at
+my arrival, or what (else) is the matter (with you—because you weep)?’.
+
+3. Imperative and Optative or Precative sentences do not require any
+additional remarks besides what is said in 38.
+
+
+
+51. Compound Sentences. After having examined in 41 the different
+gerunds as the constituent parts of compound sentences, a few examples
+will suffice for illustration.
+
+1. Compound sentences, for the most part coordinative: རྒྱལ་པོས་ཁྲིམས་བཅའ་སྟེ
+[10]། བཟང་ [11]ལ་བྱ་དགའ་སྟེར། ངན་པ་ལ་ཆད་པ་གཅོད [12]། བྲེ་སྲང་གཏན་ལ་ཕབ [13]།
+མི་ལ་ཡི་གེ་བསླབས་སོ [14]༎ ‘The king having given a law, the good were given
+rewards, the bad punished, measures and weights arranged, and people
+taught letters (i.e. reading and writing)’.
+
+2. subordinate sentences: དེར་ [15]བུད་མེད་གཉིས་ཤིག་ [16]བུ་གཅིག་ལ་རྩོད་དེ།
+རྒྱལ་པོ་བློ་ [17]མཁས་པས་བརྟག་ནས་ [18]འདི་སྐད་ཅེས་ [19]བསྒོའོ།
+།ཁྱོད་གཉིས་ཀྱིས་བུའི་ལག་པ་རེ་རེ་ནས་བཟུང་སྟེ། དྲོངས་ལ་ [20]གང་གིས་ཐོབ་པ་ [21]བུ་ཁྱེར་ཞིག་
+[22]ཅེས་བསྒོ་བ་དང་ [23]། བུའི་མ་མ་ཡིན་པ་དེས་ནི་ [24]བུ་ལ་སྙིང་རྗེ་མེད་པས་ [25]སྣད་ཀྱིས་
+[26]མི་དོགས་ཏེ། མཐུ་ཇེ་ཡོད་པར་ [27]དྲངས་སོ།
+།བུའི་མ་གང་ཡིན་པ་དེ་ནི་བུ་ལ་བྱམས་པས་སྣད་ཀྱིས་དོགས་ཏེ། སྟོབས་ཀྱིས་ཐུབ་ཀྱང་ [28]དྲག་ཏུ་
+[29]མ་ [30]དྲངས་སོ། །རྒྱལ་པོས་དྲག་ཏུ་དྲངས་པ་དེ་ལ། འདི་ནི་ཁྱོད་ཀྱི་བུ་མ་ཡིན་ཏེ།
+བུད་མེད་ཅིག་ཤོས་ [31]ཀྱི་བུ་ཡིན་པས་ན [32]། དྲང་པོར་ [33]སྨྲོས་ཤིག་ [34]ཅེས་སྨྲས་པ་དང༌།
+དལ་གྱིས་དྲངས་པའི་བུ་ཡིན་པར་གྱུར་ཏེ་ [35]བུ་ཁྱེར་རོ༎ ‘There being certain two women
+quarrelling about one boy, the king (being) wise of understanding
+having examined (the case) thus ordered: You two, having seized from
+each (side) a hand of the boy, pull, and who gets him, (she) may carry
+him off.—When he had so spoken, she who was not the boy’s mother,
+because she had no compassion for the boy, not fearing (she might) hurt
+(him), pulled with what force she had. She who (in truth) was the boy’s
+mother, because she had compassion with the boy, fearing (she might)
+hurt (him), though she was able by force, did not pull hard. The king
+said to her who had pulled hard: “Because this, not being your son, is
+the other woman’s son, say (it) outright”. When he had so spoken, as he
+had turned out to be the son of the gentle puller, (she) carried off
+the boy’.
+
+
+
+
+
+
+
+
+APPENDIX.
+
+
+A COLLECTION OF PHRASES FROM DAILY LIFE, IN THE MODERN DIALECTS,
+ROMANIZED.
+
+
+WT kʽyod gá-na̤ yoṅ,                     Where do you come from?
+CT kʽyöʼ gʽá-na̤ yoṅ.
+W  kʽyod su yin, C kʽyöʼ s. y.          Who are you?
+W  kʽyod (C kʽyöʼ) sṳ̄ [36] yin. [37]   Whose (man, servant) are you?
+W  kʽyod ráṅi miṅ c̀i zer,               What is your name? (rule 34.
+C  kʽyöʼ-kyi míṅ-la gʽaṅ zér-gi         2. c is not always observed)
+   yöʼ-dʽam.
+W  kʽyód-di kʽáṅ-pa gá-na yod,          Where is your house?
+C  kʽyöʼ-kyi kʽaṅ-pa gʽá-na yöʼ(-pa).
+W  kʽyod c̀i-la yoṅ,                     Why do you come?
+C  kʽyöʼ gʽaṅ-la yoṅ.                   (What do you want?)
+W  c̀i-la ’i-ru dug.                     Why are you here?
+W  ṅa s̀ruṅ-te dad.                      I sit here to watch.
+W  dī yúl-li miṅ c̀i zer,                What is the name of this
+C  yul dī miṅ-la gʽaṅ zér-ra [38]       village?
+   yim-pa.
+W  kʽyod-la ḍel-wa [39] z̀ig yód-da,     Have you any errand
+C  kʽyöʼ la dʽo̤n z̀ig yöʼ-dʽam.          (business)?
+W  c̀aṅ med; c̀ʽón-la yoṅ(s),             Not any; I have come to no
+C  c̀aṅ mĕ́ʼ; dʽo̤n-mĕ́ʼ-la yoṅ.            purpose.
+W  da tʽug pa tʽuṅ-c̀e-la                Then go home to eat (drink)
+   kaṅ-pa-la-soṅ.                       your soup.
+W  yod: ṅá-la man [40] z̀ig sal [41],    Yes: please give me some
+C  yöʼ: ṅá-la ma̤n z̀ig naṅ [42]-rog.     medicine.
+W  ṅá-la zug [43] yod, Ts sug gyág      I am ill (I have got, am
+   [44]-gī,                             befallen with, an illness).
+Ü  ṅá-la ná-tʽsa toṅ [45]-gi dug.
+W  zúr-mo rag, C - - dug.               I feel pain.
+W  gá-na, C gʽá-na.                     Where?
+W  ḍód-pa [46]-la, C ḍʽöʼ-pa-la.        In the stomach.
+W  gó-la zug rag, C - - - yöʼ.          I have headache.
+W  ṅa-z̀a yaṅ-pa-la c̀ʽa-c̀e-la            We should have taken a walk,
+   tʽsan-te rag.                        but it is too hot.
+WC di len.                              Take this!
+W  di kʽyer, C di kʽur soṅ.             Take this with (you)!
+W  di kʽyoṅ, C di kʽur s̀og.             Bring this!
+W  di gá-zug c̀o-c̀e,                     How shall I do this?
+C  di gʽán-ḍa̤ [47] j̀ĕʼ toṅ (or j̀ĕʼ
+   gyu) yin (yim-pa).
+W  dí-zug c̀o mi gos (goi, gō̤),          You must not do it in this
+C  dí-ḍā̤ j̀ĕʼ mi gō̤.                     way.
+W  ṅá-la da-ruṅ ó-ma z̀ig gos,           I want some more milk.
+C  ṅá-la dʽa-ruṅ wó-ma s̀ig gō̤.
+W  i lág-mo c̀o, C di lég-mo j̀ā̤.         Clean this!
+W  bé-ma daṅ ṭu [48]-c̀e,                 Wash it with sand!
+C  j̀é-mā̤ ṭʽṳ̄.
+W  ṅa-la c̀ʽu c̀uṅ zad (C säʼ) c̀ig naṅ     Give me some water, please!
+   [49] z̀ig (C s̀ig).
+W  lág-pa lág-mo yód-da,                 Are (your) hands clean?
+C  lág-pa lég-mo (lā-mo, or tsaṅ-wa) é
+   yöʼ.
+W  o-ma tʽsag-rā̤́-la tʽsag toṅ,           Filter the milk through the
+C  wo-ma - - - tʽsag s̀og.                filtering cloth!
+W  tʽab c̀ʽuṅ-se dḗ c̀ʽog-la bor-toṅ,      Put the little stove there!
+C  - - - dʽḗ c̀ʽog (c̀ʽö)-la z̀ag
+   [50]-c̀ig.
+W  pʽàn-dil sá-la pʽob [51] (pʽab-toṅ),  Put the pot (degc̀i) down on
+C  saṅ [52] sá-la pʽáb-s̀ig.              the ground!
+W  zaṅ(-bu) me daṅ ñe-mo bor,            Put the pot near the fire!
+C  saṅ me dʽaṅ ñe-mo z̀ag.
+W  pʽog ton.                             Take it off!
+W  ñí-ma gás [53]-sa (gā̤-a)              As soon as the sun sets, light
+   tsám-z̀ig-ga me pʽu [54],              a fire!
+C  - - gā̤ tsam-s̀ig-la - -.
+W  kar-yol kʽyoṅ-ṅa son.                 Go to fetch the china!
+   - - len-na s̀og.                       Come to take away - -.
+W  c̀ʽu ḍáṅ-mo [55] daṅ ṭú-na              If you wash with cold water,
+   kar-yól [56] mi dag (or               the china does not become
+   kar-yol lag-mo mi c̀ʽa-yin);           clean; wash it well with some
+   tʽsán-te z̀ig láṅ-te                   hot (water)!
+   gyal-la ṭu gos (gō̤),
+C  c̀ʽu dʽáṅ mō̤ tṳ̄ na kar-yól
+   mi dag; tʽsám-mo s̀íg
+   gī lég (lā̤)-pa-ṭṳ̄ s̀og.
+W  lás (lā̤)-ka tʽsaṅ-ma tʽsar-na̤         Unless all the work is done,
+   mán-na ma c̀ʽa,                        don’t go! (or) you must not
+C  - - - ma̤m-pa ḍo [57] mi c̀ʽog.         go.
+W  sol-c̀óg [58] ṭʽal-ḍig [59] c̀o-a,      Shall I make the table ready?
+C  - - - - j̀ĕʼ gyu yin-na(m).
+W  o-ná; c̀og-tán tiṅ [60] toṅ,           Yes; lay (spread) the cloth!
+C  yā-ya; c̀og-tá̤n tíṅ-c̀ig.
+W  tib-ríl li naṅ-na c̀ʽu máṅ-po yód-da   Is there much water in the
+   ñúṅ-ṅu yód,                           teapot, or little?
+C  - - gyi-naṅ-na c̀ʽu máṅ-po yöʼ-dʽam
+   ñúṅ-ṅu yöʼ.
+W  ñúṅ ṅu z̀ig yod (a-tʽsig man-na        (But) a little.
+   med),
+C  ñúṅ ṅu s̀ig yöʼ.
+W  tib-ril c̀ʽu kaṅ [61]-te kʽyoṅ,        Fill the teapot with water,
+C  - - c̀ʽṳ̄ káṅ-nā̤ kʽur s̀og.             and bring it!
+W  tib-ril dzag dug.                     The kettle leaks.
+W  kár-yā [62] daṅ j̀ar [63] gos (gō̤),    It must be soldered (fastened
+C  kár-yā̤ (or s̀a-kar-gyī) j̀ar gō̤.        with pewter).
+W  gar-wa̤ [64] tsar [65] kʽyer,          Take it to the blacksmith’s.
+C  kʽur soṅ.
+W  s̀el-kor gas (gā̤) soṅ,                 The tumbler (glass-cup) has
+C  s̀el-pʽor gā̤ soṅ.                      got a crack.
+W  ṅā̤ ma zer-na s̀iṅ ma kʽyoṅ,            Unless I tell you, do not
+C  - - ser-na - - kyal [66].             bring wood!
+W  sab mol-na kʽyoṅ yin,                 When master commands, I shall
+C  sa-hib suṅ [67]-na kyal gyu yin.      bring.
+W  sab gá-zug mol,                       What did you say, sir (did the
+C  sa-hib gʽaṅ suṅ wa yin.               gentleman say)?
+W  ma pʽaṅ [68]; bud ma c̀ug [69],        Don’t cast it away! Do not let
+C  ma bʽor-wa j̀ʽĕʼ; bʽüʼ ma c̀ug.         it slip!
+WC rig-pa ḍim [70],                      Take care! Cautiously!
+W  kʽa-dar c̀o.
+W  nán [71]-c̀e man,                      You must not press!
+C  ná̤n gyu min.
+W  ḍás [72]-si (ḍā̤́-i) lág-ma ṭí           Put by the remainder of the
+   [73]-te bor,                          rice!
+C  ḍā̤́-kyi lhág-ma tʽsag j̀ʽā̤.
+W  lag-ma mi dug, c̀aṅ ma                 There is no remainder; nothing
+   lus (lṳ̄).                            is left.
+W  o-ma lud ma c̀ug,                      Do not let the milk run over!
+C  wo-ma lüʼ ma c̀ug.
+W  c ̀ʽín-pa [74] ma túb [75]-te són-te   Not cutting the liver, bring
+   kʽyoṅ,                                it as a whole!
+C  - - - - - tʽsáṅ-ma (or gʽáṅ-mo)
+   kʽur-s̀og.
+W  a-lu s̀u-te tub toṅ,                   Peel the potatoes, and cut
+C  kyi-u (or ḍo-ma [76]) s̀u-te           them in pieces!
+   tub-c̀ig.
+   maṅ-po (or yun riṅ-mo) ma gor.        Don’t tarry much!
+W  gyog-pa (C gyog-po, gyō-po) s̀og.      Come soon!
+W  ma j̀ed [77],                          1. Do not forget! 2. (I) did
+C  ma j̀ĕʼ.                               not forget.
+W  yid-la zum [78] tʽub-ba,              Can you remember it (bear it
+C  sem-la ṅē tʽub-ba.                    in mind)?
+W  yid-la zum gos (gō̤),                  You must bear it in mind,
+C  ṅē-pa j̀ʽĕʼ gō̤.                        (make it certain).
+   naṅ-du soṅ; naṅ-du s̀og.               Go in! Come in!
+W  naṅ-du kyod [79],                     Go (or come) in, sir!
+C  naṅ-du pʽeb.
+W  dod [80], C däʼ.                      Sit down!
+   z̀ug [81].                             Please sit down, sir!
+
+
+
+
+
+
+
+
+READING EXERCISE.
+
+THE STORY OF YUG-PA-C̀AN THE BRAHMAN [82].
+
+
+༄༅ ༎ཡུལ་ཞིག་ [83]ན་ [84]བྲམ་ཟེ་དབྱུག་པ་ཅན་ཞེས་བྱ་བ་ [85]ཞིག༌འདུག་ [86]སྟེ [87]།
+རབ་ཏུ་དབུལ་འཕོངས་པ་བཟའ་བ་དང༌། བགོ་བ་མེད་པ་ [88]ཞིག་གོ [89]། དེས་ཁྱིམ་བདག་ཅིག་ལས་
+[90]བ་གླང་ཞིག་བརྙས་ཏེ། ཉིན་པར་སྤྱད་ནས་བ་གླང་དེ་ཁྲིད་དེ་ཁྱིམ་བདག་དེའི་ཁྱིམ་དུ་སོང་བ་དང༌།
+དེ་ན་ [91]ཁྱིམ་བདག་ནི་ཟན་ཟ་སྟེ། དབྱུག་པ་ཅན་གྱིས་བ་གླང་དེ་ཁྱིམ་གྱི་ནང་དུ་བཏང་ [92]བ་དང༌།
+བ་གླང་སྒོ་གཞན་དུ་སོང་ནས་སྟོར་རོ༎ ཁྱིམ་བདག་དེ་ཟན་དེ་ཟོས་ནས་ལངས་ [93]པ་དང༌།
+དེ་ན་བ་གླང་མ་མཐོང་ནས་དེས་དབྱུག་པ་ཅན་ལ་གླང་ག་རེ་ཞེས་བྱས་པ་ [94]དང༌། ཏེས་སྨྲས་པ།
+ཁྱོད་ཀྱི་ཁྱིམ་དུ་བཏང་ངོ༌། །ཁྱོད་ཀྱིས་ངའི་གླང་བོར་གྱིས་ [95]སློར་བྱིན་ཅིག་ [96]ཅེས་སྨྲས་པ་དང༌།
+དེས་སྨྲས་པ། ངས་མ་བོར་རོ༎ དེ་ནས་དེ་གཉིས་འགྲོགས་ཏེ། རྒྱལ་པོའི་ཐད་དུ་འདོང་བ་དང༌།
+འུ་བུ་ཅག་གི་རིགས་པ་དང་མི་རིགས་པ་རྟོག་པར་འགྱུར་རོ་ [97]ཞེས་སྨྲས་ནས་དེ་གཉིས་དོང་བ་དང༌།
+མི་གཞན་ཞིག་གི་རྟ་རྒོད་མ་ཞིག་བྲོས་ནས། དེས་དབྱུག་པ་ཅན་ལ་སྨྲས་པ། རྒོད་མ་མ་བཏང་
+[98]ཞེས་སྨྲས་པ་དང༌། དེས་རྡོ་ཞིག་བླངས་ [99]ཏེ་འཕངས་
+[100]པ་དང་རྟའི་རྐང་པ་ལ་ཕོག་ནས་རྐང་པ་བཅག་ [101]གོ །དེས་སྨྲས་པ། ཁྱོད་ཀྱིས་ངའི་རྟ་བསད་ཀྱིས་
+[102]ངའི་རྟ་བྱིན་ཅིག །ཅིའི་ཕྱིར་རྟ་སྦྱིན། དེས་སྨྲས་པ་ཚུར་ཤོག །རྒྱལ་པོའི་དྲུང་དུ་ [103]འདོང་དང༌།
+འུ་བུ་ཅག་གི་ཞལ་ཆེ་གཅོད་དུ་འོང་ངོ་ཞེས་སྨྲས་ནས། དེ་དག་དེར་སོང་བ་དང༌།
+དབྱུག་པ་ཅན་དེས་འབྲོས་པར་བརྩམས་ [104]ཏེ། དེས་ [105]རྩིག་པ་ཞིག་གི་སྟེང་ནས་
+[106]མཆོངས་པ་དང༌། དེའི་དྲུང་ན་ཐ་ག་པ་ཞིག་ཐགས་འཐག་ཅིང་འདུག་པ་དེའི་སྟེང་དུ་ལྷུང༌
+[107]ནས་ཐ་ག་པ་དེ་ཚེ་འཕོས་པ་དང༌། ཐ་ག་པའི་ཆུང་མས་དབྱུག་པ་ཅན་དེ་བཟུང༌ [108]ནས།
+ཁྱོད་ཀྱིས་ངའི་ཁྱོ་བསད་ཀྱིས་ངའི་ཁྱོ་བྱིན་ཞིག་ཅེས་སྨྲས་པ་དང༌། ངས་ཁྱོད་ཀྱི་ཁྱོ་ཅི་ལྟར་
+[109]སྦྱིན་ཞེས་སྨྲས་ནས། ཚུར་ཤོག་རྒྱལ་པོའི་དྲུང་དུ་འདོང་ངོ༌༎
+དེས་འུ་བུ་ཅག་གི་ཞལ་ཅེ་གཅད་དོ་ཞེས་དོང་བ་ལས། [110] ལམ་གྱི་བར་ན་ཆུ་བོ་གཏིང་ཟབ་པོ་
+[111]ཞིག་ཡོད་དེ། ཆུ་དེའི་ནང་ནས་ཚུར་ [112]ཤང་མཁན་ [113]ཞིག་སྟེའུ་ཁ་ན་འཁྱེར་ཏེ་འོང་ངོ༌།
+།དེ་ལ་དབྱུག་པ་ཅན་གྱིས་ཆུའི་གཏིང་ཅི་ཙམ་ཞེས་དྲིས་ [114]པ་དང༌། ཆུའི་གཏིང་ཟབ་བོ་
+[115]ཞེས་སྨྲས་པས་ [116]སྟེའུ་ཆུར་ལྷུང་སྟེ། སྟེའུ་མ་རྙེད་པ་དང༌། དེས་དབྱུག་པ་ཅན་བཟུང་ནས།
+ཁྱོད་ཀྱིས་ངའི་སྟེའུ་ཆུར་བསྐྱུར་རོ [117]༎ དེས་སྨྲས་པ་ངས་མ་བསྐྱུར་ཏོ།
+།ཚུར་ཤོག་རྒྱལ་པོའི་དྲུང་དུ་འདོང་དང༌། དེས་འུ་བུ་ཅག་གི་ཞལ་ཆེ་གཅད་དོ་ཞེས་སྨྲས་ནས་དོང་ངོ༌།
+།དེ་དག་སོང་བ་ལས་ [118] རྒྱལ་པོའི་དྲུང་དུ་ཕྱིན་པ་དང༌།
+དེ་དག་རྒྱལ་པོའི་རྐང་པ་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། ཕྱོགས་གཅིག་ཏུ་འདུག་གོ [119]
+།དེ་ནས་རྒྱལ་པོས་དེ་དག་ལ་ཁྱོད་ཅི་ལ་འོངས་ཤེས་དྲིས་པ་དང༌།
+དེ་དག་གིས་དབྱུག་པ་ཅན་དང་ཁྱིམ་བདག་རྩོད་པ་ [120]དེ་དག་ཐམས་ཅད་སྨྲས་སོ།
+།རྒྱལ་པོས་དབྱུག་པ་ཅན་ལ་སྨྲས་པ། ཁྱོད་ཀྱིས་གླང་བརྙས་སམ། །བརྙས་སོ། །འོ་ན་ཕྱིར་བྱིན་ནམ༎
+བདག་གིས་མཐོང་བར་ [121]བྱིན་ཏེ། ཁས་ [122]ནི་མ་བཏང་ངོ༌། །རྒྱལ་པོས་སྨྲས་པ།
+དབྱུག་པ་ཅན་དེས་གླང་ཕྱིར་བྱིན་ཏེ་མ་སྨྲས་པས་ན [123]། ལྕེ་ཆོད་ཅིག །ཁྱིམ་བདག་ཀྱང་གླང་འོངས་པར་
+[124]མཐོང་ལ་ [125]མ་བཏགས་ [126]པས་ནི། མིག་ཕྱུང་ [127]ཞིག་ཅེས་བརྗོད་དོ།
+།ཁྱིམ་བདག་གིས་སྨྲས་པ། དབྱུག་པ་ཅན་གྱིས་གཅིག་ཏུ་ [128]ནི་བདག་གི་ [129]གླང་ཕྲོགས། གཉིས་སུ་
+[130]བདག་གི་མིག་ཕྱུང་བ་བས [131] དབྱུག་པ་ཅན་རྒྱལ་བར་འགྱུར་ཡང་བླའོ [132]། མི་གཅིག་གིས་ལྷ
+[133]། དབྱུག་པ་ཅན་གྱིས་བདག་གི་རྟ་རྒོད་མ་བཀུམ་ [134]མོ་ཞེས་སྨྲས་པ་དང༌།
+རྒྱལ་པོས་དབྱུག་པ་ཅན་ལ་ཁྱོད་ཀྱིས་རྟ་ཅི་ལྟར་བསད་ཅེས་དྲིས་ནས། །བདག་ལམ་དུ་ཞུགས་
+[135]ཏེ་མཆིས་པ་ལས། མི་འདིས་རྟ་མ་བཏང་ཞེས་མཆི་ [136]བ་ལས། བདག་གིས་རྟོ་ཞིག་བླངས་ཏེ།
+འཕངས་པ་ལ་ [137]རྟ་བཀུམ་མོ། །རྒྱལ་པོས་སྨྲས་པ། རྟ་བདག་གིས་རྟ་མ་བཏང་ཞེས་སྨྲས་པས་ལྕེ་ཆོད་ཅིག
+།དབྱུག་པ་ཅན་ནི་ [138]རྡོ་འཕངས་པས་ལག་པ་ཆོད་ཅིག །མི་དེས་སྨྲས་པ། གཅིག་ཏུ་བདག་གི་རྟ་བསད།
+གཉིས་སུ་བདག་གི་ལྕེ་གཅད་པ་བས། དབྱུག་པ་ཅན་རྒྱལ་བར་འགྱུར་ཀྱང་བླའོ། །ཐ་ག་པའི་ཆུང་མས་སྨྲས་པ།
+དབྱུག་པ་ཅན་གྱིས་བདག་གི་ཁྱོ་བཀུམ་མོ། །དབྱུག་པ་ཅན་གྱིས་སྨྲས་པ། བདག་ལ་དགྲ་མངས་པས་
+[139]འཇིགས་ཏེ་རྩིགས་པ་ལས་བརྒལ་ནས་བྲོས་པ་ལས། ཕག་ན་མི་ཡོད་པ་ [140]མ་མཐོང་སྟེ་གུམ་མོ།
+།རྒྱལ་པོས་སྨྲས་པ། སོང་ལ་ [141]འདི་ཉིད་ [142]ཀྱི་ཁྱོ་གྱིས་ [143]ཤིག །དེས་སྨྲས་པ།
+གཅིག་ཏུ་བདག་གི་ཁྱོ་བསད། གཉིས་སུ་འདི་ཁྱོ་བྱས་པ་བས [144]། དབྱུག་པ་ཅན་རྒྱལ་པར་འགྱུར་ཀྱང་བླའོ།
+།ཤིང་མཁན་གྱིས་སྨྲས་པ། དབྱུག་པ་ཅན་དེ་ [145]བདག་ལ་ཆུའི་གཏིང་ཅེ་ཙམ་ཞེས་དྲིས་པས།
+ཁ་ནས་སྟེའུ་ཐོགས་པ་ [146]ཆུར་ལྷུང་ངོ༌། །རྒྱལ་པོས་སྨྲས་པ།
+རྫ་ཇི་ཁྱེར་ཡང་ཕྲག་པ་ལ་བཀུར་བའི་རིགས་ཀྱི་ [147]ཁ་ན་ཁྱེར་བས།
+ཤིང་མཁན་གྱི་མ་དུན་སོ་གཉིས་ཆོག་ཅིག །དབྱུག་པ་ཅན་ནི་ཆུའི་གཏིང་ཟབ་བམ་ཞེས་པས་ [148]ལྕེ་ཆོད་ཅིག
+།ཤིང་མཁན་གྱིས་སྨྲས་པ། གཅིག་ཏུ་བདག་གི་སྟེའུ་སྟོར། གཉིས་སུ་བདག་གི་སོ་བཅག་པ་བས།
+དབྱུག་པ་ཅན་རྒྱལ་བར་འགྱུར་ཀྱང་བླའོ། །དེ་དག་སོ་སོ་ནས་ [149]ཞལ་ཆེ་བཅད་དེ།
+དབྱུག་པ་ཅན་ཉེས་པ་ཀུན་ལས་ཐར་རོ༎   ༎
+
+
+
+
+
+
+
+
+A LIST OF THE MORE FREQUENT VERBS [150].
+
+
+a) Four-rooted verbs.
+
+Pres.  Perf.    Fut.     Imperv.             WT
+འགེགས་པ་   བཀག་      དགག་      ཁོག་       stop,      kag-c̀e
+                                             hinder.
+འགེངས་པ་   བཀང་       དགང་      ཁོང་       fill.      kaṅ-c̀e
+འགེལ་བ་    བཀལ་      དགལ་      ཁོལ་       lade,      kal-c̀e
+                                  put on
+                                  ...
+གཅོད་པ་    བཅད་       གཅད་      ཆོད་      cut.        c̀ad-c̀e
+                                              imprv. c̀od
+འཆིང་བ་    བཅིངས་      བཅིང་      ཆིང་       tie, bind.
+འཆོ་བ་  } བཅོ(ས)༌      བཅོ་      ཆོས་       make.       c̀o-c̀e pf. and
+འཆོས་པ་ }                                        imp. c̀os
+འཇིག་པ་    (བ)ཤིག་    གཞིག་      ཤིགས་      destroy.    s̀ig-c̀e
+འཇུག་པ་    བཅུག་      གཞུག་      ཆུག་       put in.     c̀ʽug-c̀e
+འཇོག་པ་    བཞག་      གཞག་      ཞོག་       put, place. (C: z̀ag-pa)
+འཇོག་པ་    བཞོགས་     གཞོག་      ཞོག་       cut.        z̀og-c̀e
+གཏོང་བ་    བཏང་       གཏང་      ཐོང་       give.       taṅ-c̀e imp. toṅ
+ལྟ་བ་      བལྟས་      བལྟ་      ལྟོས་       look.       (l)ta-c̀e
+འདེགས་པ་   བཏེག་      གདེགས་     ཐེག་       lift; weigh. tag-c̀e imp. tog
+འདེབས་པ་   བཏབ་       གདབ་      ཐོབ་       throw.      tab-c̀e imp. tob
+འདོགས་པ་   བཏགས་      གདགས་     ཐོགས་      tie, bind.  tag-c̀e imp. tog,
+                                               tag toṅ
+འདོན་པ་    བཏོན་       གདོན་      ཐོན་       get, drive,  ton-c̀e always
+                                  out.         for འབྱིན་པ་
+འཕེན་པ་    འཕངས་      འཕང་      ཕོང་       throw, hurt.  pʽaṅ-c̀e
+བྱེད་པ་     བྱས་       བྱ་       བྱོས་        do, make.    for it c̀o-c̀e
+འབེབས་པ་   ཕབ་        དབབ་      ཕོབ་       bring, let,  pʽab-c̀e
+                                  down.
+འཚག་པ་ {  འཚགས་ }   བཙག་      ཚོག་       filter, sift. tʽsag-c̀e
+བཙགས་ {       }
+འཚོང་བ་    བཙོངས་      བཙོང་      ཚོང་        sell.        tsoṅ-c̀e
+འཛིན་པ་    གཟུང་, ཟིན་   གཟུང་      ཟུང་        seize.       zum-c̀e
+ལེན་པ་     བླངས་       བླང་      ལོང(ས)༌, ལོན་  take.        len-c̀e, laṅ-c̀e
+སློབ་པ་     བསླབ(ས)༌    བསླབ་     སློབ་        learn; teach. lab-c̀e
+
+
+b) Three-rooted verbs.
+
+Pres.   Perf.       Fut.    Imperv.                WT
+འཁུར་བ་     བཀུར་                 ཁུར་      carry.         kʽur-c̀e
+འཁྱོང་བ་     ཁྱོངས་                 ཁྱོང་      bring.         kʽyoṅ-c̀e for འཁྱེར་བ་
+རྒྱབ་པ་      བརྒྱབ་                 རྒྱོབ་      throw, cast.   gyab-c̀e imp.
+                                                   gyob for འདེབས་པ་
+རྒྱུག་པ་      (བ)རྒྱུག(ས)༌            རྒྱུག་      run.          gyug-c̀e
+གཅོག་པ་     བཅག་                 ཆོག་      break.         c̀ag-c̀e, imp. c̀og
+འཆད་པ་     བཤད་                  ཤོད་     tell, explain. s̀ad-c̀e
+རྟེན་པ་      བརྟེན་                  རྟོན་      hold.          ten-c̀e
+འདྲེན་པ་     དྲང་                   དྲོངས་     draw.          to lead: ran-c̀e
+                                                    to remove: ḍeṅ-c̀e
+འབབ་པ་     བབ(ས)༌                བོབ(ས)༌   descend.
+འབུད་པ་     ཕུ(ས)༌        དབུ་       ཕུས་      blow (act.).   pʽu-c̀e
+འབུད་པ་     ཕུད་          དབུད་      ཕུད་      put off,        pʽud-c̀e
+                                     drop (act.).
+འབྱིན་པ་     ཕྱུང་          དབྱུང་       ཕྱུང་      take, pull out. pʽin-c̀e
+འབྱེད་པ་     ཕྱེ(ས)༌        དབྱེ་       ཕྱེ(ས)༌    open (act.).    pʽe-c̀e, imp. pʽe(s).
+
+སྨྲ་བ་       སྨྲས་                  སྨྲོས་      say.            s. ཟེར་བ་
+ལང་བ་      ལངས་                  ལོང་      rise.           laṅ-c̀e
+
+
+c) Two-rooted verbs.
+
+Pres.  Perf.   Imperv.                        WT
+སྐྱེ་བ་     སྐྱེས་                be born.            skye-c̀e
+སྐྱེད་པ་     བསྐྱེད་               bear, beget.        skye-c̀e
+འཁྱེར་བ་    ཁྱེར་      ཁྱེར་        carry.              kʽyer-c̀e
+འགྱུར་བ་    གྱུར་      གྱུར་        become.             gyur-c̀e
+འགྲོ་བ་     སོང་      སོང་        go; become. [only   ḍo-c̀e
+                          in certain sentences.
+སྒྱུར་བ་     བསྒྱུར་     སྒྱུར་        alter.              gyur-c̀e
+ངུ་བ་      ངུས་                weep.               ṅu-c̀e
+འཆི་བ་     ཤི་                 die.                s̀i-c̀e
+འཆོར་བ་     ཤོར་               flee.               s̀or-c̀e
+འཇུག་པ་     ཞུགས་    ཞུགས་        enter.              z̀ug-c̀e
+ཉོ་བ་      ཉོས་                buy.                ño-c̀e
+སྡོད་པ་     བསྡད་     སྡོད་         sit; stay.          dad-c̀e imp. dod
+འཕེལ་བ་    ཕེལ་                 increase (neutr.)   pʽel-c̀e
+བླུག་པ་     བླུག(ས)༌   བླུག(ས)༌      pour.               lug-c̀e
+འབུད་པ་    བུད་                 blow (neutr.)       pʽu-c̀e
+འབོད་པ་     བོས་     བོས་         call.               bo-c̀e, imp. bos (boi, bō̤).
+འབྱུང་བ་     བྱུང་                appear, originate.  j̀uṅ-c̀e
+མྱོང་བ་      མྱང་                enjoy.              ñaṅ-c̀e
+རྩིག་པ་     བརྩིགས་    བརྩིགས་       build up.           tsig-c̀e
+ཞུ་བ་      ཞུས་     ཞུས་         ask.                z̀u-c̀e (j̀u-c̀e)
+སླེབ་པ་     བསླེབས་               arrive.             leb-c̀e
+
+
+
+d) One-rooted verbs.
+
+                                            WT
+   དགའ་བ་     be glad, to like.      Ld.   γa-c̀e, W besides འཐད་པ་
+   འགྲིལ་བ་     fall, drop.                  ḍil-c̀e, also འདྲིལ་(བ་)
+   མཆོང་བ་,    leap, jump.                  c̀ʽoṅ-c̀e
+   མཆོངས་པ་
+   ཉལ་བ་      lie down.                    ñal-c̀e
+   ཐུག་པ་      meet.                        tʽug-c̀e
+   ཐུབ་པ་      be able.                     tʽub-c̀e
+   ཐོབ་པ་      find, get.                   tʽob-c̀e
+   ཐོས་པ་      hear.                        (tʽsor-c̀e)
+   མཐོང་བ་     see.                         tʽoṅ-c̀e
+   འཐད་པ་     be glad, to like.            tʽad-c̀e, nearly always
+                                         for དགའ་བ་ and འདོད་པ་
+   འཐོན་པ་     come out, go out.            tʽon-c̀e, usual for འབྱུང་བ་
+   འདོད་པ་     wish, like, desire.          rare.
+   ནུས་པ་      be able.               s.    ཐུབ་པ་
+   གནས་པ་     stay, dwell, remain.         nas (nai, nā̤)-c̀e, but
+                                         usually: dad-c̀e
+   འབར་བ་     burn.                        bar-c̀e
+   ཚོར་བ་      perceive.                    tʽsor-c̀e, and usual for
+                                         ཐོས་པ་
+   མཛད་པ་     do, make (resp.).            dzad-c̀e, imp. dzod.
+   ཟེར་བ་      say.                         zer-c̀e, usual for
+                                         སྨྲ་བ་
+   ལུས་པ་      remain, be left.             lus-c̀e
+   ལོག་པ་      turn back, return.           log-c̀e
+   ཤེས་པ་      know.                        s̀es (s̀ē)-c̀e
+   (ཧ་)གོ་བ་    understand.                  há-go-c̀e
+
+
+
+
+
+
+
+
+NOTES
+
+
+[1] A very clear exposition of the ramification of Indian alphabets by
+Dr. Haas is to be found in the Publications of the Palaeographical
+Society Oriental Series IV, pl. XLIV.
+
+[2] This is the form in which the word, chosen by the missionaries to
+express the Christian “God” (cf. dict.), has found its way into several
+popular works.
+
+[3] This will be indicated in the following examples by including the s
+in parentheses, as (s)kom.
+
+[4] The concurrence of superadded ས་ with a consonant already compound
+produces in WT some irregularities, which cannot all be specified here
+(see the diction.). The custom of CT, according to which the ས་ is
+entirely neglected is in this instance easier to be followed.
+
+[5] But the vulgar language has a predilection for certain forms of
+Adjectives 1. those with the gerundial particle ཏེ་, as: ཚན་ཏེ་ for the
+more classical ཚན་ ‘warm’; these seem to be particularly in use in
+Tsaṅ: མཛའ་སྟེ་ ‘friendly’, less so in Ü. 2. compound adjectives either by
+simple reiteration of the root: རིལ་རིལ་ for རིལ་པོ་ ‘round’, or changing
+the vowel at the same time: ཁྲག་ཁྲུག་ ‘complicate’, གཙང་གཙོང་ ‘awry’ etc.
+Often they are quadrisyllables after this form: མལ་ལ་མུལ་ལེ་ ‘lukewarm’,
+ཆག་ག་ཆོག་གེ་ ‘medley’.
+
+[6] Some Mscr. and wood-prints, however, prefer, even after these
+consonants, the form བས་.
+
+[7] ཕྲག་ is used especially if the number counting the hundreds,
+thousands etc. follows: thus, སྟོང་ཕྲག་ཉི་ཤུ་ ‘of thousands: twenty, 20
+000’; ཁྲི་ཕྲག་དུ་མ་ ‘many ten-thousands’.
+
+[8] The objects of ཟ་བ་ and འཐུང་བ་ often assume the dative-sign, cf.
+English ‘to feed on’.
+
+[9] This is not very carefully observed even in good mscr. and prints,
+where ཡང་ will occur sometimes after ག་ etc., and ཀྱང་ after the other
+consonants and even after vowels.
+
+[10] འཆའ་བ་, perf. བཅའ་ ‘to make’ esp. ‘institute, arrange’; gerund.
+
+[11] i.o. བཟང་པོ་ལ་.
+
+[12] ‘to cut’, but ཆད་པ་ (or པས་) གཅོད་པ་ ‘to inflict a punishment’.
+
+[13] གཏན་ལ་འབེབས་པ་ ‘to set in order, arrange’; perf. ཕབ་.
+
+[14] སློབ་པ་, perf. བསླབས་ ‘to learn’.
+
+[15] 42. 3.
+
+[16] indefin. art. after numerals s. 13.
+
+[17] Accus. modal., 49.
+
+[18] རྟོག་པ་, perf. བརྟག་.
+
+[19] 27. 2.
+
+[20] འདྲེན་པ་, perf. དྲངས་, imp. དྲོངས་; cf. 41. 5.
+
+[21] 29.
+
+[22] འཁྱེར་བ་, perf. and imp. ཁྱེར་.
+
+[23] 43. 1.
+
+[24] 42. 1.
+
+[25] 41. 8.
+
+[26] the object of the fear usually in the instrumental.
+
+[27] termin. of inf. used as adverb, 41. B. 2. b.
+
+[28] 44.
+
+[29] 42. 2.
+
+[30] 42. 1.
+
+[31] ཤོས་ ‘other’, almost always with the indefin. article; 13. fin.
+
+[32] ན་ is sometimes pleonastically added to པས་ (བས་), to strengthen
+its meaning.
+
+[33] 43.2.
+
+[34] སྨྲ་བ་, perf. སྨྲས་, imp. སྨྲོས་.
+
+[35] འགྱུར་བ་, perf. གྱུར་ properly ‘as he has come to be’.
+
+[36] སུའི་
+
+[37] The numbers refer to the notes at the end of the collection,
+exhibiting the spelling of some of the words that are most disfigured
+in pronunciation.
+
+[38] vulgar supine 41, Note 1.
+
+[39] བྲེལ་བ་
+
+[40] སྨན་
+
+[41] སྩལ་
+
+[42] གནང་
+
+[43] གཟུག་
+
+[44] རྒྱག་
+
+[45] གཏོང་
+
+[46] གྲོད་
+
+[47] ག་འདྲས་
+
+[48] འཁྲུ་
+
+[49] གནང་
+
+[50] བཞག་
+
+[51] འབེབས་པ་ iprv.
+
+[52] ཟངས་
+
+[53] རྒས་
+
+[54] འབུད་པ་ iprv.
+
+[55] གྲང་མོ་
+
+[56] དཀར་ཡོལ་
+
+[57] འགྲོ་
+
+[58] གསོལ་ལྕོག་
+
+[59] འཕྲལ་འགྲིག་
+
+[60] བཏིང་ prf. of འདིང་བ་
+
+[61] བཀང་ prf. of འགེངས་པ་
+
+[62] དཀར་གཡའ་
+
+[63] སྦྱར་ prf. of སྦྱོར་བ་
+
+[64] མགར་བའི་
+
+[65] རྩར་
+
+[66] བསྐྱལ་ prf. of སྐྱེལ་བ་
+
+[67] གསུང་
+
+[68] འཕང་ iprv. of འཕེན་པ་
+
+[69] བཅུག་ prf. of འཇུག་པ་
+
+[70] འགྲིམ་
+
+[71] གནན་
+
+[72] འབྲས་
+
+[73] དཀྲི་
+
+[74] མཆིན་པ་
+
+[75] བཏུབ་ prf. of འཐུབ་པ་
+
+[76] གྲོ་མ་
+
+[77] རྗེད་
+
+[78] ཟུམ་ i.o. བཟུང་ from འཛིན་པ་
+
+[79] སྐྱོད་
+
+[80] སྡོད་
+
+[81] བཞུགས་
+
+[82] From the Dzaṅ-lun (མཛངས་བླུན་).
+
+[83] 13.
+
+[84] 15, 5.
+
+[85] བྱེད་པ་, perf. བྱས་, fut. བྱ་, iv. བྱོས་ ‘to make, do’, in some cases:
+‘to say, call’, ཞེས་བྱ་བ་ ‘so to be called, so called’.—དབྱུག་པ་ཅན་ is a
+translation of the Sanscrit name दण्डिन्‌.
+
+[86] 40. 1. c.
+
+[87] 41. A. 1.
+
+[88] 40. 1. b and 47. 3. b.
+
+[89] 34. 1. and 40. 1. g.
+
+[90] 15. 5.
+
+[91] 42. 3.
+
+[92] perf. of གཏོང་བ་ ‘to give; to send, let go’.
+
+[93] perf. of ལང་བ་ ‘to rise’.
+
+[94] s. 4).
+
+[95] 41. A. 7.
+
+[96] imp. of སྦྱིན་པ་ ‘to give’, སླར༌༌༌ ‘to return’.
+
+[97] 37. 2.
+
+[98] གཏོང་བ་ s. 11); ‘don’t let pass’; 38. 2.
+
+[99] perf. of ལེན་པ་ ‘take, seize’.
+
+[100] perf. of འཕེན་པ་ ‘to throw, fling’.
+
+[101] perf. of གཅོག་པ་ ‘to break’.
+
+[102] s. 14).
+
+[103] 43. 2.
+
+[104] perf. of རྩོམ་པ་ ‘to prepare, purpose’.
+
+[105] rule 30. is not always strictly observed.
+
+[106] 43. 2.
+
+[107] perf. of ལྟུང་བ་ ‘to fall’.
+
+[108] perf. of འཛིན་པ་ ‘to seize’.
+
+[109] 43. 2. b.
+
+[110]  41. 6. b41. A. 6. b; ཞེས་ = ཞེས་སྨྲས་ནས་.
+
+[111] 49.
+
+[112] ‘from the inner (i.e. other) to this’, ‘across’.
+
+[113] carpenter (lit. ‘lakṛiwālā’, cf. 12. 1.).
+
+[114] perf. of འདྲི་བ་ ‘to ask’.
+
+[115] 40. 1. g.
+
+[116] 41. A. 8.
+
+[117] perf. of སྐྱུར་བ་ ‘to throw down’.
+
+[118] s. 29).
+
+[119] ‘sat down’.
+
+[120] if the verb is in the infv., the subject is usually put in the
+accus., when we use the genitive.
+
+[121] ‘returning it so that the owner saw it’; 41. B. 2. b.
+
+[122] ‘I did not return it with the mouth i.e. by saying anything’.
+
+[123] ‘because (41. A. 8) that Yugp. did not say it (viz: I give
+back)’.
+
+[124] 41. B. 2. a.
+
+[125] 41. A. 5.
+
+[126] perf. of འདོགས་པ་ ‘to tie, fasten’.
+
+[127] impv. of འབྱིན་པ་ ‘to take out, pull out’ etc.
+
+[128] ‘firstly’, less frequent and somewhat different from དང་པོར་ (22).
+
+[129] ‘my’ (24).
+
+[130] ‘secondly’.
+
+[131] 17. 1.
+
+[132] ‘it is better that Y. should be the winner, than that besides
+having been robbed of my ox, I should lose my eyes into the bargain’.
+
+[133] ‘another said: O god! etc.’ (ལྷ་ used in addressing a king like
+Sanscr. देव).
+
+[134] perf. of འགུམ་པ་ ‘to kill’; འགུམ་པ་ ‘to die’ has perf. གུམ་; an
+elegant word (24, Note).
+
+[135] perf. of འཇུག་པ་ ‘to enter’.
+
+[136] མཆི་བ་, perf. མཆིས་ ‘to go, walk’; eleg. ‘to say’.
+
+[137] 41. A. 5. b.
+
+[138] Nomin. for Instrum., s. 30 fin.
+
+[139] perf. of མང་བ་ ‘to be much, many; to become m.’.
+
+[140] partic., ‘that a man was concealed (behind it)’.
+
+[141] 41. A. 5.
+
+[142] 27. 1.
+
+[143] imper. of བགྱིད་པ་ eleg. for བྱེད་པ་; ‘go and make the husband of
+this same (woman)’.
+
+[144] ‘than that he should be (my) husband’.
+
+[145] s. 57).
+
+[146] partic., ‘the axe which I held from (i.e. with) my mouth’.
+
+[147] 40. 3 ‘whatever things be carried, it being right to carry them
+on the shoulder’.
+
+[148] for ཞེས་སྨྲས་པས། s. 29).
+
+[149] ༌༌སོ་སོ་ ‘different, several’, ༌༌ནས་—‘separately, each for
+himself’.
+
+[150] They are here arranged according to the number of the roots,
+though these are in many instances, not so strictly observed, even in
+printed books, as they ought to be. It should especially be remarked
+that the mute ས་ in the perf. and imp. is in most cases either put or
+omitted very arbitrarily.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK TIBETAN GRAMMAR ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
