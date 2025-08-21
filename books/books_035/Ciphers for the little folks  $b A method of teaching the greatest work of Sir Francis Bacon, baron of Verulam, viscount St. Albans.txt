@@ -1,0 +1,1227 @@
+The Project Gutenberg eBook of Ciphers for the little folks
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Ciphers for the little folks
+        A method of teaching the greatest work of Sir Francis Bacon, baron of Verulam, viscount St. Albans
+
+Author: Dorothy Crain
+
+Contributor: Helen Louise Ricketts
+
+Release date: March 15, 2012 [eBook #39149]
+
+Language: English
+
+Credits: Produced by Chris Curnow and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This file was
+        produced from images generously made available by The
+        Internet Archive.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CIPHERS FOR THE LITTLE FOLKS ***
+
+
+
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive.)
+
+
+
+
+
+
+
+
+
+  THE DOROTHY CRAIN SERIES
+
+
+  Ciphers
+  For the Little Folks
+
+  A Method of Teaching
+  The Greatest Work of Sir Francis Bacon
+  Baron of Verulam, Viscount St. Alban
+
+
+  Designed to Stimulate Interest in Reading, Writing and Number Work,
+  by Cultivating the Use of an Observant Eye
+
+
+  With an
+  Appendix on the Origin, History and Designing of the Alphabet
+  _By_ Helen Louise Ricketts
+
+
+  RIVERBANK LABORATORIES
+  EDUCATIONAL DEPARTMENT
+  DOROTHY CRAIN, _Director of Kindergarten_
+  GENEVA, ILLINOIS
+
+
+
+
+  Copyright, 1916
+  GEORGE FABYAN
+
+
+
+
+INTRODUCTION
+
+
+These lessons are presented as suggestions with the idea that the teacher
+or parent will adapt, lengthen, shorten, or remake, as the needs of the
+little folk demand. Their value will depend on the way in which they are
+brought before the children.
+
+The aim is not to impose on children adult knowledge and accomplishments,
+but to afford them experiences that on their own account appeal to them,
+and at the same time have educational value and significance.
+
+Children should have a great deal of handwork; they do their best thinking
+when they are planning something to do with their hands. Their attention
+is much more easily focused upon something they are doing with their hands
+than upon something which they hear or read. Building with the blocks,
+paper folding and cutting, painting and drawing, and what is known as
+constructive work, are all means of self-expression.
+
+An explanatory paragraph will accompany each lesson. In order that the
+workings of the Biliteral Cipher, from which these lessons were derived,
+may be more readily understood, a short explanation will follow for the
+guidance of the teacher or parent, to whom it is left to choose the best
+methods of explaining the Cipher to the children, step by step.
+
+The Biliteral Cipher devised by Francis Bacon and explained in detail in
+his Advancement of Learning (see Spedding's English edition of Bacon's
+Works, Vol. IV, pages 444-447) is based upon the mathematical fact that
+the transposition of two objects (blocks, letters, etc.) will yield 32
+dissimilar combinations, of which only 24 would be necessary to represent
+all the letters in our alphabet (_i_ and _j_, _u_ and _v_ being used
+interchangeably in the 16th Century). Lesson I of this series shows the 24
+combinations used by Bacon, and constitutes the "Code" or "Key."
+
+By reference to Lesson I it will be seen that variations in the grouping
+of _a_'s and _b_'s, five at a time, are made to represent each letter of
+the alphabet, except that _i_ and _j_ and _u_ and _v_ are regarded as
+interchangeable. In all the succeeding lessons, objects are chosen to
+represent _a_ or _b_, and the order or succession of their grouping, when
+compared with the code (Lesson I), will determine the letter they
+represent.
+
+Words in a language being made up simply of combinations of letters, it is
+clear that as long as only two differences are available, words can be
+built up by making the proper combinations according to the code. Any
+differences will do, and to this fact are due the possibilities for the
+exercise of the thinking powers, imagination, and skill on the part of
+children in this work. Lesson VI, for example, combines elements of
+instruction and play in an interesting manner. The transmission of words
+and sentences can be accomplished even without the use of objects, for two
+different motions of the fingers or hands will do; likewise two different
+sounds--in fact any differences perceptible to any of the five senses can
+be used. "Wig-wagging" as used by the U. S. Army Signal Service is based
+upon this Cipher. Thus many games can be planned which will have an
+educational value in training to a higher efficiency every faculty the
+child possesses.
+
+The lessons have been arranged in a sequence according to their increasing
+order of complexity, leading up gradually to the presentation of the
+possibility of sending hidden messages in an open communication without
+arousing any suspicion as to the presence of anything secret. In Lesson
+XIV the phrase "Biliteral Cipher" is made to contain the hidden word "Key"
+by the use of a capital letter for the _a_ form and a small letter for the
+_b_ form. Of course the differences between the _a_ form and the _b_ form
+can be made much less apparent than the differences between capital and
+small letters; in fact the differences can be made so small that they
+would be imperceptible to the casual observer, but it still would be
+possible to distinguish them. It is in this phase of the work that
+accuracy and care in the formation of letters may be taught, not only in
+script or handwriting, but also in printing, both of which are now fast
+becoming lost arts. Cipher writing, if properly taught, will give practice
+in penmanship that will be interesting and not onerous to children.
+
+The adaptability of the Biliteral Cipher to the manifold uses to which it
+can be put makes its pedagogical possibilities far-reaching; and the field
+for the exercise of the faculties of both teacher and pupil, parent and
+child, is one of the broadest, most instructive and entertaining that has
+ever been opened to the little folks of primary age.
+
+Any further information which the instructor may care to secure will be
+furnished on application to the Riverbank Laboratories.
+
+Dorothy Crain
+
+
+
+
+TRAINING THE EYE TO SEE
+
+
+That the faculty of sight needs training will be admitted by every
+reasonable person, but how best to give the eye this advantage is a
+question which has never been settled. An English hunter, the author of a
+book on Norway, gives some interesting hints upon the matter:
+
+    The reason that the different characteristics of tracks are not
+    observed by the untrained eye is not because they are so very small as
+    to be invisible, but because they are--to that eye--so inconspicuous
+    as to escape notice. In the same way the townsman will stare straight
+    at a grouse in the heather, or a trout poised above the gravel in the
+    brook, and will not see them; not because they are too small, but
+    because he does not know what they look like in those positions. He
+    does not know, in fact, what he is looking for, and a magnifying glass
+    would in no wise help him. To the man who does not know what to look
+    for, the lens may be a hindrance, because it alters the proportions to
+    which his mind is accustomed, and still more because its field is too
+    limited.--Youth's Companion.
+
+
+LESSON I
+
+This lesson is intended to teach the code or key. Attention is called to
+the mathematical regularity of its construction, which will enable the
+teacher to demonstrate it in a very simple manner. First write the column
+of numbers from 1 to 24. Then opposite number 1 place five red circles in
+a row. Under the last one in this row, and on a line with number 2 place a
+blue circle, and continue alternating red and blue down the column. Then
+under the 4th red circle in the 1st row place another red one, then two
+blue ones, alternating 2 reds with 2 blues down the column. In the 3rd
+column the reds and blues alternate in sets of four; in the 2nd column, in
+sets of eight, and in the 1st column, in sets of 16. Since only 24
+combinations are necessary, the last eight of the possible 32 have been
+omitted. Now opposite these 24 combinations place the letters of the
+alphabet in regular order, remembering that I and J, U and V are used
+interchangeably.
+
+To facilitate the use of the code the red and the blue circles may be
+designated by small _a_ and small _b_ respectively. The right hand section
+of this lesson gives the code worked out on this plan and makes future
+reference easy. In all the succeeding lessons one form (whether it be
+blocks, beads, yarn or what not) will be called the _a_ form, and the
+other will be called the _b_ form. On account of the nature of the code,
+the _a_ forms always predominate; and in getting together materials for
+this work, the teacher should be guided accordingly.
+
+[Illustration:
+
+   1  o  o  o  o  o   A  = a a a a a
+   2  o  o  o  o  o   B  = a a a a b
+   3  o  o  o  o  o   C  = a a a b a
+   4  o  o  o  o  o   D  = a a a b b
+   5  o  o  o  o  o   E  = a a b a a
+   6  o  o  o  o  o   F  = a a b a b
+   7  o  o  o  o  o   G  = a a b b a
+   8  o  o  o  o  o   H  = a a b b b
+   9  o  o  o  o  o  I-J = a b a a a
+  10  o  o  o  o  o   K  = a b a a b
+  11  o  o  o  o  o   L  = a b a b a
+  12  o  o  o  o  o   M  = a b a b b
+  13  o  o  o  o  o   N  = a b b a a
+  14  o  o  o  o  o   O  = a b b a b
+  15  o  o  o  o  o   P  = a b b b a
+  16  o  o  o  o  o   Q  = a b b b b
+  17  o  o  o  o  o   R  = b a a a a
+  18  o  o  o  o  o   S  = b a a a b
+  19  o  o  o  o  o   T  = b a a b a
+  20  o  o  o  o  o  U-V = b a a b b
+  21  o  o  o  o  o   W  = b a b a a
+  22  o  o  o  o  o   X  = b a b a b
+  23  o  o  o  o  o   Y  = b a b b a
+  24  o  o  o  o  o   Z  = b a b b b
+]
+
+
+LESSON II
+
+[Illustration]
+
+Short lines represent the _a_ form, long lines, the _b_ form. The cipher
+word is "the." Various forms of sewing cards, or yarns of different colors
+may be used.
+
+
+LESSON III
+
+[Illustration]
+
+In this weaving mat the light squares represent the _a_ form, the dark
+ones, the _b_ form. The arrow marks the starting point, and the reading
+proceeds from left to right in each line. The cipher message is "Mary had
+a little lamb." Any sentence containing the requisite number of letters
+can be inserted on the same principle.
+
+
+LESSON IV
+
+[Illustration]
+
+This lesson embodies what may be designated as a symbolic cipher design.
+This design conveys the idea of the setting sun, and hence the cipher word
+contained within is "sunset." Red sticks represent the _b_ form, orange
+sticks, the _a_ form. The arrow marks the starting point, and the reading
+proceeds in a clockwise direction.
+
+
+LESSON V
+
+[Illustration]
+
+This is another symbolic cipher design picturing "Humpty-Dumpty." The blue
+squares represent the _a_ form, the red squares the _b_ form. The cipher
+message is "sat on a wall." The blank squares can be filled by colored
+crayons or blocks, and the children can thus practice the building of the
+message by referring to the code in Lesson I.
+
+
+LESSON VI
+
+[Illustration]
+
+Another symbolic cipher design in which the hens represent the _b_ form,
+the chicks the _a_ form. The cipher word is "egg," reading from left to
+right.
+
+This sort of symbolic cipher designing is susceptible of endless
+variation, and gives a hint of the possibility of drawing cipher pictures.
+
+A sufficient supply is furnished so that when cut out, the hens and chicks
+may be utilized to spell out various words under the direction of the
+teacher.
+
+
+LESSON VII--THE TIME-TEACHING CLOCK
+
+In this clock the movable colored dots indicating the minutes are used to
+spell out the time in cipher. In the working cards to be provided for the
+child the colored dots are to be inserted in the holes made for the
+purpose around the face of the clock. There being sixty dots, any phrase
+expressive of time not exceeding twelve letters in length (that is, twelve
+times five dots for each letter equals 60) is available for indicating the
+time in cipher. That is to say, any phrase such as "half-past ten,"
+"nine-thirty," etc., can be indicated on the clock by using five times as
+many dots as there are letters in the phrase selected. Should there be
+less than twelve letters in the phrase, the holes remaining are to be left
+blank.
+
+This lesson is extremely flexible in respect to the many combinations
+which it makes possible. The teacher or parent should bear in mind that
+the most effective use of the clock is to be attained by first choosing a
+phrase designating some time of the day which is significant in the daily
+experience of the child--such as the opening or closing hour of school,
+the play hour, the dinner hour, or "bed-time." This phrase is converted
+into cipher by having the child place the dots representing the letters of
+the phrase, beginning at the figure twelve, around the clock face. After
+this has been done the child should be asked to "decipher" the phrase by
+naming the letter which each group of five dots stands for. When this is
+accomplished, the ability to read the time becomes an unconscious
+achievement, since the hands of the clock are then placed by the parent or
+teacher, or by the child under her direction, in the proper position to
+indicate the deciphered phrase. If, for example, the phrase "half-past
+nine" is selected and the child has extracted this from the colored dot
+combination, the hands of the clock are moved to nine-thirty. The child,
+with the phrase fresh in his mind, learns from this the position of the
+hands of the clock representing the time, since the mental image of the
+clock face with the hands in the required position establishes an
+association which becomes indelibly impressed on the child's mind.
+
+The method here described is the best for young children. With children of
+more advanced age and greater ability to use their own minds, the reverse
+practice may be followed. The teacher may name the phrase designating the
+time, and direct the child to put in place the colored dots representing
+the letters of the phrase by referring for each letter to the code. This
+requires an intelligence of a higher order than the method first
+described.
+
+[Illustration]
+
+By reference to the code the arrangement of the dots on the clock will be
+found to spell the time indicated by the hands, i. e., "five past four."
+The red dots represent the _a_, the blues the _b_.
+
+
+LESSON VIII
+
+[Illustration]
+
+On this cipher necklace the square beads represent the _a_ form, the round
+beads the _b_ form. The cipher words are "Yankee Doodle." For working this
+or any other appropriate phrase, the child should string the beads on one
+of the laces provided.
+
+
+LESSON IX
+
+[Illustration]
+
+This is similar to the preceding lesson except that in this case the blue
+beads represent the _a_ form, the orange beads, the _b_ form. The cipher
+words are "A Cipher Chain."
+
+
+LESSON X
+
+[Illustration]
+
+This cipher necklace combines both Lessons VIII and IX, and shows how two
+ciphers may be infolded at once. Reading the beads first as regards their
+shape and using the same system as in Lesson VIII, the necklace still
+spells out the word "Yankee Doodle." Then reading the beads as regards
+color, the words "A Cipher Chain" are deciphered, as in Lesson IX. This
+lesson gives a hint of the possibility of enfolding three, four, or five
+cipher messages at once.
+
+
+LESSON XI
+
+[Illustration]
+
+In this lesson comes the first step in showing how a cipher message may be
+hidden within an ordinary architectural example. The red circles represent
+the _a_ form, the blue ones the _b_ form; the reading proceeds in exactly
+the same way in which the figure is written. The cipher phrase is "United
+States." Any figures can be selected for the children to form, provided,
+when formed, they contain the requisite number of circles of each color.
+
+
+LESSON XII
+
+[Illustration]
+
+The cipher word is "pasture," the red circles being the _a_ form, the blue
+ones the _b_ form.
+
+
+LESSON XIII
+
+[Illustration]
+
+The cipher word is "Barking," the red circles being the _a_ form, the blue
+ones the _b_ form.
+
+
+LESSON XIV
+
+[Illustration]
+
+The word "CIPHER" contains the hidden name "Sir Francis Bacon," the red
+circles being the _a_ form, the blue ones, the _b_ form. The reading
+proceeds in the same manner as the strokes of the letters would be made by
+the hand. The design in the margin contains a double cipher, similar in
+construction to the necklace in Lesson X. The red and blue pieces still
+represent the _a_ and the _b_ forms respectively, as before, and the
+cipher word is "alphabet." This constitutes the first cipher. The second
+cipher is based upon the difference in shape of these pieces, the long
+ones being the _a_ form, the circles, the _b_ form. The cipher word is
+"decipher."
+
+
+LESSON XV
+
+[Illustration]
+
+The phrase "Biliteral Cipher" is made to contain the hidden word "key" by
+the use of a capital letter for the _a_ form, and a small letter for the
+_b_ form. The borders to the lines contain the cipher word "letter," the
+blue sticks being the _a_ form, the red ones the _b_ form. The reading
+proceeds from left to right in each line, beginning with the line at the
+top. The children may be directed to cut out any set of letters of
+appropriate size to form any desired phrase, using capital and small
+letters on the same principle as in the example.
+
+
+LESSON XVI
+
+[Illustration: Design for Peacock Lodge. For Col. George Fabyan.]
+
+  CIPHER CODE
+
+  a a a a a =  A
+  a a a a b =  B
+  a a a b a =  C
+  a a a b b =  D
+  a a b a a =  E
+  a a b a b =  F
+  a a b b a =  G
+  a a b b b =  H
+  a b a a a = I-J
+  a b a a b =  K
+  a b a b a =  L
+  a b a b b =  M
+  a b b a a =  N
+  a b b a b =  O
+  a b b b a =  P
+  a b b b b =  Q
+  b a a a a =  R
+  b a a a b =  S
+  b a a b a =  T
+  b a a b b = U-V
+  b a b a a =  W
+  b a b a b =  X
+  b a b b a =  Y
+  b a b b b =  Z
+
+Explanation
+
+This architect's sketch presents an interesting method of making use of
+the Biliteral Cipher. The white bricks are supposed to represent the _a_
+form letters, the shaded bricks the _b_ form. Begin with the top of the
+wall, at the left-hand, below the tower, read the lines from left to
+right, and assign an _a_ or _b_ to each brick on that principle, dividing
+off the resultant _a_'s and _b_'s into groups of five. Then refer to the
+accompanying cipher code which will show you for which letter of the
+alphabet each group stands. The result will be amusing as well as
+interesting and instructive.
+
+
+
+
+The Origin, History and Designing of the Alphabet
+
+By HELEN LOUISE RICKETTS
+
+
+
+
+THE STORY OF THE ALPHABET
+
+
+
+
+CHAPTER I
+
+
+I want to tell you a story about something you use every day, something
+you could not get along without, and yet that you never think about or are
+glad to have. I do not believe that even after I tell you several things
+about it you can guess what it is.
+
+It is one of the oldest things in the world, so old that no one knows when
+it was first used.
+
+It is a more wonderful thing, a great many people think, than the
+invention of steamboats and steamcars, or of airships and submarines.
+
+It is so important that you could not have any books without it, and if
+there were no books, you would not go to school, and then how could you
+learn all the things you want to know?
+
+It is so common that you see it and hear it and use it almost every minute
+of the day.
+
+It is made of twenty-six different parts. You can make me know what these
+are with a pencil or crayon. With them you speak and write and read. There
+are machines which hold these parts separately or form them in groups, and
+then leaving their likeness on paper give us books and stories to read.
+
+Now I am afraid that I have told you too much! Have you guessed what these
+twenty-six little tools are called? We call them, and so did your
+grandfather and greatgrandfather and all the people that lived hundreds
+and hundreds of years ago--the _Alphabet_.
+
+You never knew before that the Alphabet was such a wonderful thing, did
+you? Would you like now to hear the story about it?
+
+Long, long ago in a country called Egypt, which is far across the sea (you
+may find it on your map, and that will make it more interesting for you)
+they had a very curious way of writing. They had no letters like our A, B,
+C's, but did what we call picture writing; that is, they drew pictures
+instead of writing letters and words as we do today. Their writing looked
+like this--
+
+[Illustration]
+
+That does not look much like writing, does it? You do not know what it
+means, either, do you? Yet the people at that time could read their
+picture writing just as easily as we can the Alphabet writing. This is the
+way they sent messages to each other and wrote down the things they wanted
+to remember. Do you know that they did not have any paper in those days
+long ago, either? What do you think they used? They cut their pictures on
+stone, on walls of buildings, and sometimes on wood and the bark of trees.
+They also had a material called papyrus, which was made from reeds growing
+in the swamps of Egypt. Think what a long time it must have taken them to
+write in this way, and how much easier and quicker it is for you and me
+today!
+
+To the north of Egypt there is a small country called Phoenicia. If you
+will look on your map you will find that the sea comes to the very shores
+of this country. In Phoenicia there were many beautiful things that
+people in other countries wanted to buy. So the Phoenicians built big
+ships and filled them full of the beautiful things and sailed away. Across
+the water they came to a land by the name of Greece, the country you know
+about where Hercules and Ulysses lived, and here they unloaded their
+ships. Of course the Phoenicians brought the picture writing they had
+learned from the Egyptians with them. By this time they were beginning to
+think pictures took too long to draw, and they gradually changed the
+pictures into signs so that they could write easier and quicker. So the
+writing they brought to Greece was quite different from the picture
+writing they had learned from the Egyptians. It looked like this--
+
+[Illustration]
+
+We cannot understand this either, can we? But you can see it is much
+better than the way they wrote before.
+
+The Greek people were very happy that the Phoenicians brought such a
+wonderful way of writing with them and soon began to copy it, and use it
+in their country, too. When the Phoenicians went back to their own
+country the Greeks continued to use the sign writing, but changed it and
+made it more beautiful. They gave it a name, too, and called it by the
+names of the first two signs, _Alpha_ which means "ox," and _Beta_ which
+means "house." If you put these two words, _Alpha_ and _Beta_, together,
+what do you have? ALPHA-BET--the word we use today.
+
+Now the Greeks were an adventurous people, and one day they set sail in
+their ships, and went to the land of the Romans, which is now called
+Italy. They liked this new country, and some of them settled there. Like
+the Phoenicians long ago, they brought their new Alphabet with them. The
+Romans were a great and wonderful people, but they did not know the easy
+way of writing by signs that the Greeks used. They saw right away what a
+fine thing this Alphabet was, and began to use it for their writing, too.
+At first they wrote the signs exactly the way the Greeks did, but soon
+they changed them, and made them simpler and better.
+
+
+
+
+CHAPTER II
+
+
+You know the story of the Alphabet from its beginning so long ago in far
+Egypt to the time when it came to the Romans and how it changed from
+pictures to signs and from signs at last to the letters of the Alphabet.
+You know, too, how hard it was for the people to write in those days when
+they had no better material than papyrus, wood and stone. That was a long,
+long time ago. Would you like to hear a story about what has happened to
+writing since the time of the Romans and the changes that have taken place
+in the Alphabet in its travels through the countries of Europe?
+
+The first great thing of importance was the discovery of a new material to
+write on. What do you think it was?--the skins of sheep and calves! That
+seems strange to us and we like the paper we use today better, but think
+what a great improvement this discovery was then and how much easier
+writing could be done on the smooth surface of the skin with a pen and
+ink. In all of the countries except Italy this change of writing material
+brought about a change in the style of lettering too. The Romans alone
+kept to the simple form of lettering they had always used and did not
+change it when writing on the skins. The other European countries
+gradually came to vary this style and make the letters more pointed,
+heavier and blacker and in some cases more elaborate. This style of
+lettering was called the Gothic. Do you see the difference between these
+two alphabets?
+
+[Illustration]
+
+The Alphabet had not been in these countries long enough yet for all the
+people to have learned to write. Only a very few knew the letters, and as
+all the writing was done by hand, it took a long time to write a whole
+book. The few books that were written were so precious that they were
+chained in the churches and monasteries and the people were only allowed
+to read them there. At last in the country of Germany a man by the name
+of Gutenberg thought of a way to make more books and make them faster. And
+this way was by printing. Just as the Alphabet spread to the different
+countries so this new way of writing spread, until all of the people of
+Europe were using printing machines and making many books.
+
+In Germany the Gothic lettering had been used when the writing was done by
+hand and Gutenberg copied this style in printing the first book. When the
+art of printing spread to the different countries the Gothic alphabet, of
+course, came with it and was accepted as the correct style of letter. The
+Romans, however, still believed their Alphabet to be the better and cut
+their printing type after the Roman model. So a great quarrel sprang up
+between the different countries as to which Alphabet should be used, the
+Roman or the Gothic. In Italy a man called Manutius tried to settle the
+quarrel by making a letter which all the printers would use and he called
+his style of lettering the Italic. The printers who used the Gothic and
+Roman letters also used these Italic letters, but were not willing to give
+up their own style and use the Italic entirely.
+
+We are so used to seeing and using the Alphabet today that we never ask
+ourselves how the letters came to look the way they do now. Look at Plate
+I, which shows a beautiful Alphabet of Gothic letters made by a famous
+German artist, Albert Dürer. There are twenty-nine of them, all entirely
+different, but still you can see that they are all brothers and sisters in
+one big family. Do you wonder how this came about? Look at Plate II and
+you will learn. The first letter _i_ is made by putting together a number
+of small squares in a certain way. Can you see the way the other letters
+are made from this letter _i_?--the _n_ is made by putting two _i_'s
+together; the _m_, three _i_'s, and the _r_, one _i_ and an extra square
+at the top. Go through the rest of the Alphabet and see if you can find
+out the way it is made.
+
+Now look at Plates III, IV, V, VI, and VII showing another Alphabet by the
+same artist, which he patterned after the Roman letters. He found that
+they were made according to a certain rule and proportion, and it was
+these he worked out in making his Alphabet. Here you see the pattern is a
+large square, and the letters are drawn very carefully in them. Did you
+know before there was as much figuring and measuring done in the making of
+the Alphabet as there is in building a house? Look at the letter _E_, for
+example, and all the circles and squares that have been measured and drawn
+to make it. You will find that every letter is made just as carefully.
+
+Here are the three _A_'s that you see in Plate III. You will find that
+they are not exactly alike. Can you see the difference between them?--_A_,
+1, is cut off in a curve at the top, _A_, 2, goes straight up in a sharp
+point, and _A_, 3, is cut off flat. Do you notice, too, the difference in
+the thickness of the letters?
+
+[Illustration]
+
+Look at the other letters in this Alphabet (Plates III, IV, V, VI, and
+VII) and see if you can tell me about them in the way I have told you
+about the _A_'s.
+
+For many, many years, the printers in the different countries used
+Alphabets the artists had made for them, without being able to decide
+which they liked the best, the Roman, Gothic or Italic. On Plate VIII you
+will find a little poem by Shakespeare printed in these three Alphabets.
+Which one do you like the best? I am sure you will choose the one that is
+the simplest, the easiest to read and at the same time the most
+beautiful--the Roman. In the quarrel which had been going on for so many
+years, the Roman alphabet won the victory, and that is how it came about
+that the Roman is used in printing all our newspapers and books today. At
+last after so many hundreds of years it has traveled through the other
+countries to us. Many times you cannot recognize the letters, and they
+look very different from the Roman models from which they were patterned,
+but that is because we are not as careful with the measurements and
+proportions as were Albert Dürer and the other Masters in that time long
+ago.
+
+
+
+
+CHAPTER III
+
+
+You know now the beginning of the Alphabet, the careful way it was planned
+and made, and how finally after so many years it has come to be used in
+the form in which we have it today. Do you remember that when Albert Dürer
+made his Alphabet of Roman letters he made more than one form of each
+letter--there were three _A_'s, for example. Would you like to know why he
+did this? Plate IX shows you two other kinds of Alphabets made long ago by
+a Spanish artist, Francisco Lucas. Look at the Italic capital letters in
+the upper part of this Plate. You can easily see that there are two
+different forms of the same letters, can you not? But now look at the
+small letters. You still see that there are two examples of each letter,
+but they are so much alike that you will have to look very carefully to
+see the difference between the two forms. Why do you suppose this artist
+went to the trouble to make these letters so much alike, and yet
+different? Do you not think that this would be a very strange thing to do
+unless there was a good reason for it? Look at the lower part of the Plate
+and you will see that there are two different forms of the small Roman
+letters also. Now turn back to Lesson XV. You see that by using a capital
+letter for the _a_ form and a small letter for the _b_ form you were able
+to hide within the phrase "_Biliteral Cipher_" the word, "_key_." You can
+easily see that this would not be a good way to hide a secret, for the
+difference between the large and small letters is not only easy to see,
+but looks so strange that it is the first thing you notice. Now suppose
+that instead of using a capital letter for the _a_ form and a small letter
+for the _b_ form you use for each letter of the Alphabet, both capital and
+small, two forms which were very much alike but still were different. In
+the following line--
+
+[Illustration]
+
+you see the same phrase "_Biliteral Cipher_," but it does not look strange
+to you, does it? Still, if you will study it carefully you will see that
+the first _i_ is different from the second, and that the first _l_ in
+"_Biliteral_" is different from the second _l_. You have guessed by this
+time that the phrase "_Biliteral Cipher_," as it stands here, also
+contains a hidden word. The word is "_the_." This phrase was made to
+contain the word "_the_" by using the two forms of letters which you see
+in the upper part of Plate IX and which were called "_doubles_" by the
+printers who used them several hundred years ago. Now do you begin to see
+how important these two forms are?
+
+Look again at the little Shakespeare poem in the Italic alphabet on Plate
+VIII. Now that you know about _doubles_ you can see, if you have learned
+to use your eyes, that we have hidden a secret within this poem too. Would
+you like to know what it is? We will help you to work it out by giving you
+what is called a _Classifier_ which will make it easy to _decipher_ the
+verse. On this Classifier, which you will find on Plate X, the very same
+Italic letters that you saw in Plate IX have been arranged so that all the
+_a_ form letters are above the shaded part and all the _b_ form letters
+below. Now if you will tear out this whole page and carefully cut out
+these shaded parts you can place this page over the lines of the poem in
+italic letters. This will help you to decide to which form the letters of
+the poem belong. Place the Classifier over the poem so that the first
+letter, the capital =H= of _Have_, is between the _a_ form and the _b_
+form capital =H= on the Classifier. You will see that this capital =H= of
+_Have_ is the _a_ form. Now below the Classifier has been placed something
+which will help you still more. All the words of the poem have been
+divided and have been placed into groups of five letters. As we decided
+that the =H= of _Have_ belongs to the _a_ form, we have placed an _a_
+beneath the =H= in the first group of five letters. Now move the
+Classifier so that the =a= in _Have_ comes between the _a_ form =a= and
+the _b_ form =a= on the Classifier. You will see that this letter also
+belongs to the _a_ form. If you will do the same to the rest of the
+letters of this first group you will find that they are all _a_ form
+letters. Now what letter of the Alphabet does a group of five _a_'s stand
+for?--=A=, does it not? So the first letter in our secret is =A=. Now
+place the Classifier over the rest of the letters of the poem and see to
+what form they belong, just as we have done for you in the first group. If
+you do your work carefully you will find the hidden secret.
+
+If we can hide one word in "_Biliteral Cipher_" and a sentence in a short
+poem, do you not see how a whole story could be hidden so carefully within
+a book that it might not be discovered for many, many years?
+
+Helen Louise Ricketts
+
+
+
+
+[Illustration: PLATE I
+
+ALPHABET by ALBERT DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE II
+
+CONSTRUCTION OF ALPHABET]
+
+
+[Illustration: PLATE III
+
+ALPHABET, with construction: A. DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE IV
+
+ALPHABET, with construction: A. DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE V
+
+ALPHABET, with construction: A. DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE VI
+
+ALPHABET, with construction: A. DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE VII
+
+ALPHABET, with construction: A. DÜRER (A. D. 1525)]
+
+
+[Illustration: PLATE VIII
+
+  Have more than thou showest,
+  Speak less than thou knowest,
+  Lend less than thou owest,
+  Learn more than thou trowest,
+  Set less than thou throwest.
+                    --SHAKESPEARE.
+]
+
+
+[Illustration: PLATE IX
+
+ITALIC ALPHABET, BY FRANCISCO LUCAS
+
+ROMAN ALPHABET, BY FRANCISCO LUCAS]
+
+
+[Illustration: PLATE X
+
+THE BI-FORMED ALPHABET CLASSIFIER
+
+For Use with the Lucas Alphabets, 1577
+
+_a_ forms above the shaded parts, _b_ forms below
+
+COPYRIGHTED, 1916. GEORGE FABYAN
+
+CUT OUT SHADED PART WITH SHARP KNIFE
+
+
+TRANSCRIPTION
+
+  Havem oreth antho ushow estSp eakle sstha nthou knowe
+  aaaaa
+    A
+
+  stLen dless thant houow estLe arnmo retha nthou trowe
+
+  stSet lesst hanth outhr owest Shake spear e]
+
+
+
+
+Transcriber's Notes:
+
+Passages in italics are indicated by _italics_.
+
+Passages in bold are indicated by =bold=.
+
+
+
+
+
+
+End of Project Gutenberg's Ciphers For the Little Folks, by Dorothy Crain
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK CIPHERS FOR THE LITTLE FOLKS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,5678 @@
+The Project Gutenberg eBook of Rules for compositors and readers at the University Press, Oxford
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Rules for compositors and readers at the University Press, Oxford
+
+Creator: Oxford University Press
+
+Compiler: Horace Hart
+
+Contributor: Henry Bradley
+        Sir James Augustus Henry Murray
+
+Release date: July 14, 2023 [eBook #71188]
+
+Language: English
+
+Original publication: United Kingdom: Henry Frowde, 1893
+
+Credits: Richard Tonsing, John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK RULES FOR COMPOSITORS AND READERS AT THE UNIVERSITY PRESS, OXFORD ***
+
+
+
+
+
+  TRANSCRIBER’S NOTE
+
+  This was a reference book for typesetters and proofreaders at the
+  University Press, Oxford. While primarily covering English words and
+  grammar, it also addresses French, German, Latin and Greek
+  text in UP books.
+
+  This etext simplifies the original text by using common Unicode
+  characters, so that a wide variety of display devices will present
+  a more readable book to readers. A few less common characters remain,
+  and some devices may not display them correctly.
+
+  Footnote anchors are denoted by [number], and the footnotes have been
+  placed at the end of each major section. Many footnotes have more
+  than one anchor; in these cases the second and third anchors have been
+  denoted by {number}.
+
+  In this etext italic text is denoted by _underscores_.
+
+  A superscript is denoted by ^x or ^{xx}, for example y^e or
+  C^{10}H^{12}.
+
+  A subscript is denoted by _{x}, for example P_{1}.
+
+  The original book had many German words and phrases in Fraktur
+  (blackletter) font, primarily in Appendix III. This etext has
+  replaced each Fraktur letter with the corresponding roman letter,
+  and the Fraktur text string is denoted by =equalsigns=.
+
+  Appendix III addresses printing of German Fraktur text. There are
+  many digraphs (a pair of letters printed as one type-letter) in the
+  Fraktur text in the original book. They are shown in this etext as
+  a pair of letters in roman, for example ch, ck, ff, ſſ, ſt, ſz. The
+  printed long-s character, ſ, has been retained and _not_ changed to
+  the modern short s character. In the original book a Fraktur
+  word-division was indicated by an = (for example an=fangen); in this
+  etext a tilde ~ is used instead (an~fangen).
+
+  Page 98 shows a page of printed text with dozens of handwritten
+  proofreading correction marks and notes. These are not reproduced in
+  this etext, but can be seen in the web and ereader versions of this
+  book. Page 99 has the corrected version of that marked-up text.
+
+
+
+
+                        RULES FOR COMPOSITORS
+                             AND READERS
+
+                   AT THE UNIVERSITY PRESS, OXFORD
+
+                                  BY
+                          HORACE HART, M.A.
+                 PRINTER TO THE UNIVERSITY OF OXFORD
+
+
+                   THE ENGLISH SPELLINGS REVISED BY
+         SIR JAMES A. H. MURRAY, M.A., D.C.L., LL.D., D.LITT.
+                                 AND
+                      HENRY BRADLEY, M.A., PH.D.
+                   EDITORS OF THE OXFORD DICTIONARY
+
+
+                        TWENTY-SECOND EDITION
+                     (THE EIGHTH FOR PUBLICATION)
+
+
+                                LONDON
+                   HENRY FROWDE, AMEN CORNER, E.C.
+                       OXFORD: 116 HIGH STREET
+                                 1912
+
+
+
+
+These Rules apply generally, and they are only to be departed from
+when the written instructions which accompany copy for a new book
+contain an express direction that they are _not_ to be followed in
+certain specified cases.
+
+[Illustration: (light bulb; end of section marker)]
+
+
+          _First Edition, April 1893. Reprinted, Dec. 1894._
+                    _Reprinted with alterations_—
+
+         _Jan. 1895_; _Feb. 1895_; _Jan. 1896_; _July 1897_;
+        _Sept. 1898_; _April 1899_; _Aug. 1899_; _Jan. 1901_;
+         _Feb. 1901_; _Jan. 1902_; _March 1902_; _May 1903_.
+               _Fifteenth Edition, revised and enlarged
+                the first for publication March 1904._
+                   _Sixteenth Edition, April 1904._
+                  _Seventeenth Edition, April 1904._
+        _Eighteenth Edition, revised and enlarged July 1904._
+                   _Nineteenth Edition, July 1905._
+                   _Twentieth Edition, July 1907._
+                _Twenty-first Edition, January 1909._
+                _Twenty-second Edition, January 1912._
+
+
+
+
+_PREFACE_
+
+
+_It is quite clearly set out on the title-page in previous editions
+of these Rules and Examples, that they were intended especially_
+for Compositors and Readers at the Clarendon Press. _Consequently
+it seems necessary to explain why an edition or impression is now
+offered to so much of the General Public as is interested in the
+technicalities of Typography, or wishes to be guided to a choice
+amidst alternative spellings._
+
+_On the production of the First Edition at the Oxford Press, copies
+were placed at the disposal of all Readers, Compositors, and
+Compositor-apprentices; and other copies found their way into the
+possession of Authors and Editors of books then in the printers’
+hands. Subsequently, friends of authors, and readers and compositors
+in other printing-offices, began to ask for copies, which were
+always supplied without charge. By and by applications for copies
+were received from persons who had no absolute claim to be supplied
+gratuitously; but as many of such requests came from Officials of
+the King’s Government at Home, in the Colonies, and in India, it
+was thought advisable, on the whole, to continue the practice of
+presentation._
+
+_Recently, however, it became known that copies of the booklet were_
+on sale _in London. A correspondent wrote that he had just bought
+a copy ‘at the Stores’; and as it seems more than complaisant to
+provide gratuitously what may afterwards be sold for profit, there is
+no alternative but to publish this little book._
+
+_As to the origin and progress of the work, it was begun in 1864,
+when the compiler was a member of the London Association of
+Correctors of the Press. With the assistance of a small band of
+fellow members employed in the same printing-office as himself, a
+first list of examples was drawn up, to furnish a working basis._
+
+_Fate so ordained that, in course of years, the writer became in
+succession general manager of three London printing-houses. In each
+of these institutions additions were made to his selected list
+of words, which, in this way, gradually expanded—embodying what
+compositors term ‘the Rule of the House’._
+
+_In 1883, as Controller of the Oxford Press, the compiler began
+afresh the work of adaptation; but pressure of other duties deferred
+its completion nearly ten years, for the first edition is dated 1893.
+Even at that date the book lacked the seal of final approval, being
+only part of a system of printing-office management._
+
+_In due course, Sir J. A. H. MURRAY and Dr. HENRY BRADLEY, editors
+of the_ Oxford Dictionary, _were kind enough to revise and approve
+all the English spellings. Bearing the stamp of their sanction, the
+booklet has an authority which it could not otherwise have claimed._
+
+_To later editions Professor ROBINSON ELLIS and Mr. H. STUART JONES
+contributed two appendices, containing instructions for the Division
+of Words in Latin and Greek; and the section on the German Language
+was revised by Dr. KARL BREUL, Reader in Germanic in the University
+of Cambridge._
+
+       *       *       *       *       *
+
+_The present issue is characterized by many additions and some
+rearrangement. The compiler has encouraged the proofreaders of the
+University Press from time to time to keep memoranda of troublesome
+words in frequent—or indeed in occasional—use, not recorded in
+previous issues of the ‘Rules’, and to make notes of the mode of
+printing them which is decided on. As each edition of the book
+becomes exhausted such words are reconsidered, and their approved
+form finally incorporated into the pages of the forthcoming edition.
+The same remark applies to new words which appear unexpectedly,
+like new planets, and take their place in what Sir JAMES MURRAY
+calls the ‘World of Words’. Such instances as air-man, sabotage,
+stepney-wheel, will occur to every newspaper reader._
+
+_Lastly, it ought to be added that in one or two cases, a particular
+way of spelling a word or punctuating a sentence has been changed.
+This does not generally mean that an error has been discovered in
+the ‘Rules’; but rather that the fashion has altered, and that it is
+necessary to guide the compositor accordingly._
+
+                                                                 H. H.
+
+  _January 1912._
+
+[Illustration: (light bulb)]
+
+
+
+
+CONTENTS
+
+                                                      _Page_
+
+  SOME WORDS ENDING IN -ABLE                              9
+
+  SOME WORDS ENDING IN -IBLE                             11
+
+  SOME WORDS ENDING IN -ISE OR -IZE                      12
+
+  SOME ALTERNATIVE OR DIFFICULT SPELLINGS, ARRANGED
+      IN ALPHABETICAL ORDER                              15
+
+  SOME WORDS ENDING IN -MENT                             24
+
+  HYPHENED AND NON-HYPHENED WORDS                        25
+
+  DOUBLING CONSONANTS WITH SUFFIXES                      29
+
+  FORMATION OF PLURALS IN WORDS OF FOREIGN ORIGIN        31
+
+  ERRATA, ERRATUM                                        33
+
+  PLURALS OF NOUNS ENDING IN -O                          34
+
+  FOREIGN WORDS AND PHRASES, WHEN TO BE SET IN ROMAN
+      AND WHEN IN ITALIC                                 35
+
+  SPELLINGS OF FIFTEENTH TO SEVENTEENTH CENTURY
+      WRITERS                                            38
+
+  PHONETIC SPELLINGS                                     38
+
+  A OR AN                                                39
+
+  O AND OH                                               39
+
+  NOR AND OR                                             40
+
+  VOWEL-LIGATURES (Æ AND Œ)                              41
+
+  CONTRACTIONS                                           41
+
+  POETRY: WORDS ENDING IN -ED, -ÈD, &C.                  45
+
+  CAPITAL LETTERS                                        46
+
+  LOWER-CASE INITIALS                                    47
+
+  SMALL CAPITALS                                         47
+
+  SPECIAL SIGNS OR SYMBOLS                               48
+
+  SPACING                                                49
+
+  ITALIC TYPE                                            50
+
+  REFERENCES TO AUTHORITIES                              52
+
+  DIVISION OF WORDS—ENGLISH, ITALIAN, PORTUGUESE,
+      AND SPANISH                                        53
+
+  PUNCTUATION                                            55
+
+  FIGURES AND NUMERALS                                   68
+
+  APPENDIX I                                          }
+    POSSESSIVE CASE OF PROPER NAMES                   }  71
+                           BY SIR J. A. H. MURRAY     }
+
+  APPENDIX II                                         }
+    WORKS IN THE FRENCH LANGUAGE                      }  73
+
+  APPENDIX III                                        }
+    WORKS IN THE GERMAN LANGUAGE                      }  88
+
+  APPENDIX IV                                         }
+    DIVISION OF LATIN WORDS                           }  95
+                           BY PROF. ROBINSON ELLIS    }
+
+  APPENDIX V                                          }
+    DIVISION OF GREEK WORDS                           }  97
+                           BY MR. H. STUART JONES     }
+
+  MARKS USED IN THE CORRECTION OF PROOFS                 98
+
+  SOME ENGLISH NAMES OF TYPES                           100
+
+  GENERAL INDEX                                         103
+
+
+[Illustration: (light bulb)]
+
+
+
+
+RULES FOR SETTING UP ENGLISH WORKS[1]
+
+
+
+
+SOME WORDS ENDING IN -ABLE
+
+
+Words ending in silent _e_ generally lose the _e_ when -able is
+added, as—
+
+  adorable
+  arguable
+  desirable
+  excusable
+  indispensable
+  leisurable
+
+But this rule is open to exceptions upon which authorities are not
+agreed. The following spellings are in _The Oxford Dictionary_, and
+must be followed:
+
+  advisable
+  analysable
+  ascribable
+  atonable
+  baptizable
+  believable
+  blameable
+  bribable
+  chaseable
+  confinable
+  conversable
+  creatable
+  datable
+  debatable
+  defamable
+  definable
+  delineable
+  dilatable
+  dissolvable
+  drivable
+  endorsable
+  evadable
+  excisable
+  exercisable
+  finable
+  forgivable
+  framable
+  giveable
+  hireable
+  immovable
+  improvable
+  indispensable
+  inflatable
+  irreconcilable
+  lapsable
+  likeable
+  linable
+  liveable
+  losable
+  lovable
+  malleable
+  movable
+  nameable
+  overcomable
+  palatable
+  partakable
+  pleasable
+  provable
+  rateable
+  rebukeable
+  receivable
+  reconcilable
+  removable
+  saleable
+  solvable
+  tameable
+  tuneable
+  unmistakable
+
+If -able is preceded by _ce_ or _ge_, the _e_ should be retained, to
+preserve the soft sound of _c_ or _g_, as—
+
+  bridgeable
+  changeable
+  chargeable
+  knowledgeable
+  lodgeable
+  manageable
+  noticeable
+  peaceable
+  pledgeable
+  serviceable
+
+Words ending in double _ee_ retain both letters, as—agreeable.
+
+In words of English formation, a final consonant is usually doubled
+before -able, as—
+
+  admittable
+  biddable
+  clubbable
+  conferrable
+  deferrable
+  forgettable
+  gettable
+  incurrable
+  rebuttable
+  regrettable[2]
+
+
+FOOTNOTES:
+
+[1] At Oxford especially, it must always be remembered that the Bible
+has a spelling of its own; and that in Bible and Prayer Book printing
+the Oxford standards are to be exactly followed.—H. H.
+
+[2] For an authoritative statement on the whole subject see _The
+Oxford Dictionary_, Vol. I, p. 910, art. _-ble_.
+
+
+
+
+SOME WORDS ENDING IN -IBLE
+
+
+The principle underlying the difference between words ending in
+-able and those ending in -ible is thus stated by _The Oxford
+English Dictionary_ (s.v. _-ble_): ‘In English there is a prevalent
+feeling for retaining _-ible_ wherever there was or might be a Latin
+_-ibilis_, while _-able_ is used for words of distinctly French or
+English origin.’ The following are examples of words ending in -ible:
+
+  accessible
+  addible
+  adducible
+  admissible
+  audible
+  avertible
+  collapsible
+  comprehensible
+  controvertible
+  credible
+  discernible
+  discerpible
+  edible
+  eligible
+  existible
+  expressible
+  extendible
+  feasible
+  fencible
+  flexible
+  forcible
+  incomprehensible
+  incorruptible
+  incredible
+  indefeasible
+  indefensible
+  indelible
+  indestructible
+  indigestible
+  intangible
+  intelligible
+  irresistible
+  legible
+  negligible
+  ostensible
+  permissible
+  persuasible
+  plausible
+  producible
+  reducible
+  remissible
+  reprehensible
+  reversible
+  tangible
+  vendible
+  visible
+
+
+
+
+SOME WORDS ENDING IN -ISE or -IZE
+
+
+The following spellings are those adopted for _The Oxford Dictionary_:
+
+  actualize
+  advertise
+  advise
+  affranchise
+  aggrandize
+  agonize
+  alcoholize
+  alkalize
+  anathematize
+  anatomize
+  anglicize
+  apologize
+  apostrophize
+  apprise (_to inform_)
+  apprize (_to appraise_)
+  authorize
+  baptize
+  brutalize
+  canonize
+  capitalize
+  capsize
+  carbonize
+  catechize
+  categorize
+  catholicize
+  cauterize
+  centralize
+  characterize
+  chastise
+  christianize
+  cicatrize
+  circumcise
+  civilize
+  collodionize
+  colonize
+  communize
+  comprise
+  compromise
+  contrariwise
+  conventionalize
+  corporealize
+  criticize
+  crystallize
+  demise
+  demoralize
+  deodorize
+  desilverize
+  despise
+  devise
+  discolorize
+  disfranchise
+  disguise
+  disorganize
+  dogmatize
+  dualize
+  economize
+  emphasize
+  emprise
+  enfranchise
+  enterprise
+  epigrammatize
+  epitomize
+  equalize
+  eternize
+  etherealize
+  etymologize
+  eulogize
+  euphonize
+  evangelize
+  excise
+  exercise
+  exorcize
+  experimentalize
+  extemporize
+  familiarize
+  feminize
+  fertilize
+  formalize
+  fossilize
+  franchise
+  fraternize
+  gallicize
+  galvanize
+  generalize
+  germanize
+  gormandize
+  gothicize
+  graecize
+  harmonize
+  hebraize
+  hellenize
+  hibernize
+  humanize
+  hydrogenize
+  hypnotize
+  idealize
+  idolize
+  immortalize
+  improvise
+  incise
+  italicize
+  jacobinize
+  japanize
+  jeopardize
+  kyanize
+  laicize
+  latinize
+  legalize
+  legitimatize
+  liberalize
+  localize
+  macadamize
+  magnetize
+  mainprize
+  manumise
+  materialize
+  memorialize
+  memorize
+  merchandise
+  mesmerize
+  methodize
+  minimize
+  misadvise
+  mobilize
+  modernize
+  monetize
+  monopolize
+  moralize
+  nasalize
+  nationalize
+  naturalize
+  neutralize
+  neologize
+  normalize
+  organize
+  ostracize
+  oxidize
+  ozonize
+  paganize
+  particularize
+  patronize
+  pauperize
+  penalize
+  philosophize
+  plagiarize
+  pluralize
+  polarize
+  popularize
+  premise
+  prise up (_to_)
+  prize (_a_)
+  pulverize
+  rationalize
+  realize
+  recognize
+  reorganize
+  reprise
+  revolutionize
+  rhapsodize
+  romanize
+  satirize
+  scandalize
+  scrutinize
+  secularize
+  seise (_in law_)
+  seize (_to grasp_)
+  sensitize
+  signalize
+  silverize
+  solemnize
+  soliloquize
+  specialize
+  spiritualize
+  sterilize
+  stigmatize
+  subsidize
+  summarize
+  supervise
+  surmise
+  surprise
+  syllogize
+  symbolize
+  sympathize
+  syndicalize
+  synthesize
+  systematize
+  tantalize
+  temporize
+  terrorize
+  theorize
+  tranquillize
+  tyrannize
+  utilize
+  ventriloquize
+  victimize
+  villanize
+  visualize
+  vitalize
+  vocalize
+  vulgarize
+
+[Illustration: (light bulb)]
+
+
+
+
+SOME ALTERNATIVE OR DIFFICULT SPELLINGS
+
+MORE OR LESS IN DAILY USE, ARRANGED IN ALPHABETICAL ORDER FOR EASY
+REFERENCE
+
+
+  abetter
+  abettor (_law_)
+  accepter (-or _in law_)
+  adaptable
+  adapter
+  addorsed
+  adjutants-general[3] _pl._
+  adjudgement
+  admonitor
+  aerate
+  aerial
+  aerie
+  aeronaut
+  aeroplane
+  aetiological, -logist
+  aetiology
+  ageing
+  aides-de-camp{3} _pl._
+  aline, -ment[4]
+  allineation
+  almanac[5]
+  ambidexterity
+  analyse
+  aneurysm
+  ankle
+  apanage
+  apophthegm
+  apostasy
+  apparelled
+  archetype
+  archidiaconal
+  arcking[6]
+  armful
+  artisan
+  ascendancy, -ant
+  assessable
+  aught (_anything_)
+  automobile
+  aweing
+  awesome
+  axe[7]
+  ay (_always_)
+  aye (_yes—‘the ayes have it’_)
+  bandoleer
+  banns
+  banyan
+  Barbadoes
+  bark (_ship_)
+  basin
+  basses (_pl._)
+  battalion
+  befall
+  beldam
+  bethrall
+  blouse
+  bluish
+  bodice
+  bogie (_a truck_)
+  bogy (_apparition_)
+  bothy
+  brand-new
+  brier
+  brooch (_ornament_)
+  browse
+  bryony
+  bulrush
+  buncombe
+  by and by
+  by-election
+  by-lane
+  by-law
+  byname
+  bypath
+  by-play
+  by-plot
+  by-product
+  by-street
+  by the by
+  by-way
+  byword
+  caddis
+  calendar
+  calligraphy
+  calliper
+  caltrop
+  camlet
+  camomile
+  canst
+  canvas (_cloth_)
+  canvass (_political_)
+  carcass
+  carriable
+  cartography
+  catarrhine
+  cat’s-paw
+  cauldron (_a vessel_)
+  caulk
+  celluloid
+  censer (_a vessel_)
+  censor (_an official_)
+  centigram
+  centipede
+  chaldron (_measure_)
+  chalet
+  chant
+  chaperon
+  cheque (_on a bank_)
+  chequered (_career_)
+  chestnut
+  chillness
+  chock-full
+  choroid
+  cider
+  cipher
+  clangor
+  clarinet
+  clench (_fists_)
+  clerestory
+  clinch (_argument_)
+  clinometer
+  cloak (_not_ cloke)
+  clue (_but_ clew _for part of a sail_)
+  coalesce
+  coco-nut
+  cognizance
+  colander
+  coloration
+  colourist
+  commonplace
+  confidante (_fem._)
+  conjurer
+  conjuror (_law_)
+  connexion
+  connivence
+  conscience’ sake
+  consensus
+  contemporary
+  conterminous
+  contestor
+  cony
+  copier
+  corrupter
+  corslet
+  corvette
+  cosy
+  cotillion
+  cottar
+  couldst
+  couldn’t
+  coulter
+  courts martial (_pl._)
+  cousins-german (_pl._)
+  craftsman
+  crenellate
+  crosier
+  curtsy
+  cyst
+  debarkation
+  debonair
+  decrepit
+  deflexion
+  demeanour
+  dependant (_noun_)
+  dependence
+  dependent (_adj._)
+  desiccate
+  detector
+  develop, -ment
+  devest (_law_)
+  dexterously
+  diaeresis[8]
+  dialyse
+  dike
+  dinghy
+  discoloration
+  discolour
+  disk
+  dispatch (_not_ despatch)
+  distension
+  distil
+  disyllable
+  doggerel
+  doily
+  Domesday Book
+  dote
+  draft (_prepare_)
+  draftsman (_one who drafts documents_)
+  draught-board
+  draughtsman (_one who makes drawings_)
+  draughtsmen (_in game of draughts_)
+  dryly
+  dullness
+  duress
+  dyeing (_cloth_)
+  ecstasy
+  eloin, -ment
+  embargo
+  embarkation
+  embassage
+  embed
+  embroil
+  empanel
+  encase
+  enclasp
+  enclose
+  encrust
+  endorse
+  enroll
+  enrolment
+  ensconce
+  ensure (_make safe_)
+  enthral
+  entreat
+  entrench, -ment
+  entrust
+  envelop (_verb_)
+  envelope (_noun_)
+  erector
+  ethereal
+  exorrhizal
+  expense
+  faecal
+  faeces
+  faggot
+  fantasy
+  favour
+  feldspar
+  fetid
+  filigree
+  finicking
+  fledgeling
+  fleurs-de-lis (_pl._)
+  floatage
+  floatation
+  fluky
+  flyer
+  foetal
+  foetus
+  fogy, _pl._ -ies
+  forbade
+  foregone (_gone before_)
+  foretell
+  forgather
+  forgo[9]
+  forme (_printer’s_)
+  fount (_of type_)
+  frenzy
+  frowzy
+  fuchsia
+  fulfil
+  fullness
+  fusilier
+  fusillade
+  gage (_a pledge_)
+  gaily
+  gauge (_a measure_)
+  genuflexion
+  gewgaw
+  gibe
+  gillie
+  gimlet
+  gipsy
+  goodness’ sake
+  gourmand
+  gramme
+  grammetre
+  gramophone
+  grandam
+  granddaughter
+  granter (_one who grants_)
+  grantor (_in law: one who makes a grant_)
+  grey
+  grisly (_terrible_)
+  grizzly (_grey_)
+  grizzly bear
+  gruesome
+  guerrilla
+  gullible
+  hadst
+  haematite
+  haematology
+  haemorrhage
+  haemorrhoids
+  ha! ha! (_laughter_)
+  ha-ha (_a fence_)
+  hairbreadth
+  halberd
+  hallo
+  handful
+  handiwork
+  hare-brained
+  hauler
+  haulm
+  havoc
+  hearken
+  hectogram
+  hectolitre
+  hectometre
+  he’ll (_no space_)
+  honour
+  horehound
+  hornblende
+  horsy
+  humorist
+  humorous
+  humour, -less
+  hyena
+  hypotenuse
+  icing
+  I’d, I’ll (_no space_)
+  idiosyncrasy
+  idolater
+  impermeable
+  inferable
+  inflexion
+  innocuous
+  inoculate
+  inquire, -quiry[10]
+  install
+  instalment
+  instil
+  insure (_in a society_)
+  Inverness-shire, &c.
+  inweave
+  ipecacuanha
+  jail
+  jam, _v._ (_not_ jamb)
+  jamb (_noun_)
+  janizary
+  jewellery
+  jews’ harp _and_
+  jews’ harps
+  judgeship
+  jugful
+  kilogram
+  kilogrammetre
+  kilolitre
+  kilometre
+  kilowatt
+  kinematograph
+  kleptomania
+  knick-knack
+  lachrymal
+  lachrymose
+  lackey
+  lacquer
+  lamb’s-wool
+  lantern
+  largess
+  lateish
+  latten
+  laverock
+  leaf-mould
+  lettuce
+  licence (_noun_)
+  license (_verb_)
+  licensee
+  lich-gate
+  lineament
+  Linnaean[11]
+  linsey-woolsey
+  liny
+  liquefy
+  liquorice
+  litre
+  loadstone
+  loath (_adj._)
+  loathe (_verb_)
+  lodestar
+  lour (_frown_)
+  macintosh
+  maelstrom
+  maharaja
+  mamma
+  mandolin
+  manikin
+  manyplies
+  marquess
+  mattress
+  mayst
+  mediaeval
+  men-of-war[12] (_pl._)
+  metamorphose
+  mightst
+  mileage
+  millennium
+  millepede
+  milligram
+  millimetre
+  miscall
+  misdemeanour
+  misspelling
+  mistletoe
+  mizen, -mast
+  moccasin
+  Mohammedan
+  mollusc
+  moneyed
+  moneys
+  mould, -ing (_v. & n._)
+  naught (_nothing_)
+  negotiate
+  net (_profits_)
+  newsvendor
+  novitiate
+  nursling
+  octet
+  omelet
+  oneself
+  orangeade
+  orgy
+  osculatory
+  osier
+  ought (_cipher_)
+  ouzel
+  overalls
+  oyez!
+  ozone
+  pannikin
+  parakeet
+  parallelepiped
+  paralyse
+  parsnip
+  parti-coloured
+  partisan
+  party-wall
+  pasha
+  pastille
+  paten
+  pavilion
+  paviour
+  pedagogy
+  pedlar
+  peewit
+  pendant
+  peony
+  petrify
+  picnicking
+  plaguy
+  pomace
+  poniard
+  portray
+  postilion
+  posy
+  pot (_size of paper_)
+  potato, _pl._ -es
+  practice (_noun_)
+  practise (_verb_)
+  prehistoric
+  premises (_no sing._, _conveyancing_)
+  premiss, premisses (_logic_)
+  primaeval
+  printer’s error, _but_ printers’ errors[13]
+  programme
+  proletariate
+  prophecy (_noun_)
+  prophesy (_verb_)
+  pundit
+  pupilage
+  putrefy
+  pyjamas
+  quartet
+  quinine
+  quinsy
+  quintet
+  racket (_bat_)
+  rackets (_game_)
+  racoon
+  radical (_chemistry_)
+  radicle (_botany_)
+  radium (_small_ r)
+  ragi (_grain_)
+  raja
+  rarefaction
+  rarefy
+  rase (_to erase_)
+  raze (_to the ground_)
+  react
+  rearward
+  recall
+  recompense (_v. & n._)
+  recompose
+  referable
+  refill
+  reflection[14]
+  rhyme (_verse_)[15]
+  ribbon
+  rigorous
+  rigors (_in med._)
+  rigour
+  rime (_hoar-frost_)
+  rodomontade
+  rout (_verb_)
+  secrecy
+  sergeant (_military_)
+  serjeant (_law_)
+  Shakespeare[16]
+  Shakespearian, -iana
+  she’ll (_no space_)
+  shouldst
+  show (_v. & n._)
+  shrillness
+  sibyl
+  sibylline
+  siliceous
+  singeing
+  siphon
+  siren
+  skilful
+  skilless
+  slyly
+  sons-in-law (_pl._)
+  spadeful
+  sphinx
+  sponge
+  spoonful
+  stanch
+  stationary (_standing still_)
+  stationery (_paper_)
+  steadfast
+  stillness
+  story (_of a house_)
+  stupefy
+  suggester
+  swingeing (_blow_)
+  sycamore[17]
+  sylvan
+  syndicalism
+  synonymous
+  syrup
+  tallness[18]
+  tease
+  tenor
+  thyme (_herb_)
+  tire (_of a wheel_)[19]
+  tiro
+  toboggan, -ing
+  toilet
+  tranquillity
+  transcendent
+  transferable
+  tranship, -ment
+  transplendent
+  trousers
+  Tuileries
+  tumour
+  unmistakably
+  vender (_as generally used_)
+  vendor (_in law_)
+  vermilion
+  villany
+  visor
+  wabble
+  wagon
+  weasand
+  we’ll (_no space_)
+  whilom
+  whisky
+  whitish
+  wilful
+  woe, woful
+  wooed, woos
+  wouldst
+  zoogloea
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[3] Compound words of this class form their plurals by a change in
+the first word.—H. H.
+
+[4] ‘The Eng. form _alinement_ is preferable to _alignment_, a bad
+spelling of the French.’—_O.E.D._
+
+[5] But the _k_ is retained in _The Oxford Almanack_, following the
+first publication in 1674.—H. H.
+
+[6] ‘In derivatives formed from words ending in _c_, by adding
+a termination beginning with _e_, _i_, or _y_, the letter
+_k_ is inserted after the _c_, in order that the latter may
+not be inaccurately pronounced like _s_ before the following
+vowel.’—WEBSTER.
+
+[7] In _The Oxford Dictionary_, Vol. I, p. 598, Sir James Murray
+says, ‘The spelling _ax_ is better on every ground ... than _axe_,
+which has of late become prevalent.’ (But as authors generally still
+call for the commoner spelling, compositors must follow it.—H. H.)
+
+[8] The sign [¨] sometimes placed over the second of two vowels in an
+English word to indicate that they are to be pronounced separately,
+is so called by a compositor. By the way, this sign is now used
+only for learned or foreign words; not in _chaos_ or in _dais_, for
+instance. _Naïve_ and _naïveté_ still require it, however (see pp.
+35, 37).—H. H.
+
+[9] In 1896, Mr. W. E. Gladstone, not being aware of this rule,
+wished to include, in a list of errata for insertion in Vol. II of
+_Butler’s Works_, an alteration of the spelling, in Vol. I, of the
+word ‘forgo’. On receipt of his direction to make the alteration,
+I sent Mr. Gladstone a copy of _Skeat’s Dictionary_ to show that
+‘forgo’, in the sense in which he was using the word, was right,
+and could not be _corrected_; but it was only after reference to
+Sir James Murray that Mr. Gladstone wrote to me, ‘Personally I am
+inclined to prefer forego, on its merits; but authority must carry
+the day. _I give in._’—H. H.
+
+[10] ‘This is now usual. See _O.E.D._, s.v. Enq-.’—J. A. H. M.
+
+[11] But Linnean Society.
+
+[12] Compound words formed of two nouns connected by a preposition
+form their plurals by a change in the first word.—H. H.
+
+[13] Sir James Murray thinks that where there is any ambiguity a
+hyphen may also be used, as ‘bad printers’-errors,’—H. H.
+
+[14] ‘Etymology is in favour of _reflexion_, but usage seems to be
+overpoweringly in favour of the other spelling.’—H. B.
+
+[15] The older form ‘rime’ is occasionally used by modern writers,
+and in such cases the copy should be followed.—H. H.
+
+[16] ‘Shakspere is preferable, as—The New Shakspere Society.’—J.
+A. H. M. (But the Clarendon Press is already committed to the more
+extended spelling.—H. H.)
+
+[17] The ‘sycomore’ of the Bible is a different tree—the
+fig-mulberry.—H. H.
+
+[18] It is generally agreed that words ending in _ll_ should drop one
+_l_ before _less_ (as in _skilless_) and _ly_; but there is not the
+same agreement in dropping an _l_ before _ness_.—H. H.
+
+[19] ‘But the bicycle-makers have apparently adopted the
+non-etymological _tyre_.’—J. A. H. M.
+
+
+
+
+SOME WORDS ENDING IN -MENT
+
+
+In words ending in -ment print the _e_ when it occurs in the
+preceding syllable, as—abridgement, acknowledgement, judgement,
+lodgement.[20] But omit the _e_ in development, envelopment, in
+accordance with the spelling of the verbal forms develop, envelop.
+
+
+FOOTNOTES:
+
+[20] ‘I protest against the unscholarly habit of omitting it
+from “abridg_e_ment”, “acknowledg_e_ment”, “judg_e_ment”,
+“lodg_e_ment”,—which is against all analogy, etymology, and
+orthoepy, since elsewhere _g_ is hard in English when not followed
+by _e_ or _i_. I think the University Press ought to set a scholarly
+example, instead of following the ignorant to do ill, for the sake of
+saving four _e_’s. The word “judgement” has been spelt in the Revised
+Version correctly.’—J. A. H. M.
+
+
+
+
+HYPHENED AND NON-HYPHENED WORDS[21]
+
+
+The hyphen need not, as a rule, be used to join an adverb to the
+adjective which it qualifies: as in—
+
+  a beautifully furnished house,
+  a well calculated scheme.
+
+When the word might not at once be recognized as an adverb, use the
+hyphen: as—
+
+  a well-known statesman,
+  an ill-built house,
+  a new-found country,
+  the best-known proverb,
+  a good-sized room.
+
+When an adverb qualifies a predicate, the hyphen _should not_ be
+used: as—
+
+  this fact is well known.
+
+Where either (1) a noun and adjective or participle, or (2) an
+adjective and a noun, in combination, are used as a compound
+adjective, the hyphen _should_ be used:
+
+  a poverty-stricken family, a blood-red hand, a nineteenth-century
+  invention.
+
+A compound noun which has _but one accent_, and from familiar use has
+become one word, requires no hyphen. Examples:
+
+  bláckbird
+  býname
+  býword
+  háirbrush
+  háirdresser
+  háirpin
+  hándbook
+  hándkerchief
+  mántelpiece
+  nówadays
+  schóolboy
+  schóolgirl
+  seáport
+  téapot
+  tórchlight
+  upstáirs
+  wátchcase
+  whéelbarrow
+
+The following should also be printed as one word:
+
+  aglow
+  anybody
+  anyhow
+  anything
+  anywhere
+  bedroom
+  childbed
+  coeval
+  coexist
+  coextensive
+  coheir
+  cornfield
+  downhill
+  downstairs
+  evermore
+  everyday (_as adj._)
+  everything
+  everyway (_adverb_)
+  everywhere
+  eyewitness
+  fairyland
+  fatherland
+  footsore
+  footstep
+  freshwater (_as adj._)
+  godlike
+  goodwill
+  harebell
+  hopscotch
+  horseshoe
+  indoor
+  ladylike
+  lambskin
+  lifetime
+  maybe
+  meantime
+  meanwhile
+  midday
+  motherland
+  newfangled
+  noonday
+  offprint
+  offsaddle
+  offshoot
+  onrush
+  outdoor
+  overleaf
+  oversea
+  percentage
+  reappear
+  reimburse
+  reinstate
+  reopen
+  seaweed
+  selfsame
+  uphill
+  wellnigh
+  widespread
+  wrongdoing
+  zigzag
+
+Compound words of _more than one accent_, as—ápple-trée, chérry-píe,
+grável-wálk, wíll-o’-the-wisp, as well as others which follow,
+require hyphens:
+
+  aide-de-camp
+  air-man
+  air-ship
+  a-kimbo
+  alms-house
+  arm-chair
+  battle-field
+  bird-cage
+  bi-weekly
+  by-law
+  by-way
+  child-birth
+  come-at-able
+  common-sense (_as adj._)
+  co-adjust
+  co-declination
+  co-operate
+  co-ordinate
+  court-plaster
+  cousin-german
+  death-bed
+  death-rate
+  ding-dong
+  dumb-bell
+  ear-rings
+  farm-house
+  farm-yard
+  first-hand
+  foot-note
+  foot-stone
+  foot-stool
+  free-will
+  get-at-able
+  good-bye
+  good-day
+  good-humoured
+  good-natured
+  guide-book
+  gutta-percha
+  half-crown
+  half-dozen
+  half-hour
+  half-way
+  handy-man
+  harvest-field
+  head-dress
+  head-foremost
+  head-quarters
+  hey-day
+  high-flyer
+  hill-side
+  hill-top
+  hoar-frost
+  hob-a-nob
+  hour-glass
+  hymn-book
+  ill-fated
+  india-rubber
+  jaw-bone
+  key-note
+  knick-knack
+  life-like
+  looking-glass
+  man-of-war
+  never-ending
+  new-built
+  new-comer
+  new-mown
+  note-book
+  note-paper
+  off-hand
+  oft-times
+  one-and-twenty
+  one-eighth
+  ore-weed
+  out-and-out
+  out-of-date
+  out-of-door
+  over-glad
+  pre-eminent
+  quarter-day
+  race-course
+  re-bound[22] (_as a book_)
+  re-cover (_a chair_)
+  re-enter
+  re-form (_form again_)
+  rolling-pin
+  sea-breeze
+  sea-shore
+  second-hand
+  small-pox
+  son-in-law
+  starting-point
+  step-father
+  such-like
+  table-land
+  text-book
+  title-deeds
+  title-page
+  to-day
+  top-mast
+  topsy-turvy
+  up-to-date[23]
+  water-course
+  week-day
+  year-book
+
+Half an inch, half a dozen, &c., require no hyphens. Print the
+following also without hyphens:
+
+  any one
+  cast iron
+  common sense (_adj. and noun together_)
+  court martial
+  dare say
+  easy chair
+  every one
+  fellow men
+  for ever
+  good humour
+  good nature
+  good night
+  head master[24]
+  high priest
+  high road
+  ill health
+  ill luck
+  ill nature
+  no one
+  plum pudding
+  post office
+  revenue office
+  some one
+  union jack
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[21] See _Oxford Dict._, Vol. I, page xiii, art. ‘Combinations’,
+where Sir James Murray writes: ‘In many combinations the hyphen
+becomes an expression of unification of sense. When this unification
+and specialization has proceeded so far that we no longer analyse
+the combination into its elements, but take it in as a whole, as in
+_blackberry_, _postman_, _newspaper_, pronouncing it in speech with a
+single accent, the hyphen is usually omitted, and the fully developed
+compound is written as a single word. But as this also is a question
+of degree, there are necessarily many compounds as to which usage has
+not yet determined whether they are to be written with the hyphen or
+as single words.’
+
+And again, in _The Schoolmasters’ Year-book_ for 1903 Sir James
+Murray writes: ‘There is no rule, propriety, or consensus of usage in
+English for the use or absence of the hyphen, except in cases where
+grammar or sense is concerned; as in a day well remembered, but a
+well-remembered day, the sea of a deep green, a deep-green sea, a
+baby little expected, a little-expected baby, not a deep green sea, a
+little expected baby.... Avoid Headmaster, because this implies one
+stress, Héadmaster, and would analogically mean “master of heads”,
+like schoolmaster, ironmaster.... Of course the hyphen comes in at
+once in combinations and derivatives, as head-mastership.’
+
+[22] ‘The hyphen is often used when a writer wishes to mark the
+fact that he is using not a well-known compound verb, but _re-_ as
+a living prefix attached to a simple verb (_re-pair_ = pair again);
+also usually before _e_ (_re-emerge_), and sometimes before other
+vowels (_re-assure_, usually _reassure_); also when the idea of
+repetition is to be emphasized, especially in such phrases as _make_
+and _re-make_.’—_The Concise Oxford Dictionary_ (1911), p. 694.
+
+[23] As, up-to-date records; but print ‘the records are up to
+date’.—H. H.
+
+[24] See note on page 25.
+
+
+
+
+DOUBLING CONSONANTS WITH SUFFIXES
+
+
+Words of one syllable, ending with one consonant preceded by one
+vowel, double that consonant on adding -ed or -ing: e.g.
+
+  drop    dropped    dropping
+  fit     fitted     fitting
+  stop    stopped    stopping
+
+Words of more than one syllable, ending with one consonant preceded
+by one vowel, and accented on the last syllable, double that
+consonant on adding -ed or -ing: e.g.
+
+  allot     allotted     allotting
+  commit    committed    committing
+  infer     inferred     inferring
+  trepan    trepanned    trepanning
+
+But words of this class _not_ accented on the last syllable, _do not
+double the last consonant_[25] on adding -ed, -ing: e.g.
+
+  balloted,  -ing
+  banqueted, -ing
+  bayoneted, -ing
+  benefited, -ing
+  biased,    -ing
+  billeted,  -ing
+  bishoped,  -ing
+  blanketed, -ing
+  bonneted,  -ing
+  bracketed, -ing
+  buffeted,  -ing
+  carpeted,  -ing
+  chirruped, -ing
+  combated,  -ing
+  cricketing
+  crocheted, -ing
+  crotcheted, -ing, -y
+  discomfited, -ing
+  docketed,  -ing
+  faceted,   -ing
+  ferreted, -ing
+  fidgeted, -ing, -y
+  filleted, -ing
+  filliped, -ing
+  focused,  -ing
+  galloped, -ing
+  gibbeted, -ing
+  gossiped, -ing, -y
+  initialed, -ing
+  junketed, -ing
+  marketed, -ing
+  packeted, -ing
+  paralleled, -ing
+  pelleted, -ing
+  picketed, -ing
+  piloted,  -ing
+  profited, -ing
+  rabbeted, -ing
+  rabbiting
+  rickety
+  riveted,  -ing
+  russeted, -ing, -y
+  scolloped, -ing
+  tennising
+  trinketed, -ing
+  trousered, -ing
+  trumpeted, -ing
+  velvety
+  visited,  -ing
+  wainscoted, -ing
+
+In words ending in _-l_, the final consonant is generally doubled,
+whether accented on the last syllable or not: e. g.
+
+  annulled, -ing
+  appalled, -ing
+  apparelled, -ing
+  barrelled
+  bethralled, -ing
+  caballed, -ing
+  channelled, -ing
+  compelled, -ing
+  cudgelled, -ing
+  dishevelled, -ing
+  empanelled, -ing
+  extolled, -ing
+  forestalled, -ing
+  grovelled, -ing
+  impelled, -ing
+  installed, -ing
+  kennelled, -ing
+  levelled, -ing
+  libelled, -ing
+  marshalled, -ing
+  parcelled, -ing
+  quarrelled, -ing
+  revelled, -ing
+  rivalled, -ing
+  shovelled, -ing
+  trammelled, -ing
+  travelled, -ing
+  tunnelled, -ing
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[25] ‘We must, however, still except the words ending in _-el_, as
+levelled, -er, -ing; travelled, -er, -ing; and also worshipped, -er,
+-ing.’—J. A. H. M.
+
+
+
+
+FORMATION OF PLURALS IN WORDS OF FOREIGN ORIGIN
+
+
+Plurals of nouns taken into English from other languages sometimes
+follow the laws of inflexion of those languages. But often, in
+non-technical works, additional forms are used, constructed after
+the English manner. Print as below, in cases where the author does
+not object. In scientific works the scientific method must of course
+prevail:
+
+  SING. addendum       PL. addenda[26]
+        alkali             alkalis
+        alumnus            alumni
+        amanuensis         amanuenses
+        analysis           analyses
+        animalculum        animalcula
+        antithesis         antitheses
+        apex               apices
+        appendix           appendices
+        arcanum            arcana
+        automaton          automata
+        axis               axes
+        bandit             banditti
+        basis              bases
+        beau               beaux
+        bronchus           bronchi
+        calculus           calculi
+        calix              calices
+        chrysalis          chrysalises
+        coagulum           coagula
+        corrigendum        corrigenda{26}
+        cortex             cortices
+        crisis             crises
+        criterion          criteria
+        datum              data
+        desideratum        desiderata
+        dilettante         dilettanti
+        effluvium          effluvia
+        elenchus           elenchi
+        ellipsis           ellipses
+        ephemera           ephemerae
+        epithalamium       epithalamia
+        equinox            equinoxes
+        erratum            errata
+        focus              focuses (_fam._)
+        formula            formulae
+        fungus             fungi
+        genius             geniuses[27]
+        (_meaning a person or persons of genius_)
+        genus              genera
+        helix              helices
+        hypothesis         hypotheses
+        ignis fatuus       ignes fatui
+        index              indexes[28]
+        iris               irises
+        lamina             laminae
+        larva              larvae
+        lemma              lemmas[29]
+        libretto           libretti
+        matrix             matrices
+        maximum            maxima
+        medium             mediums (_fam._)
+        memorandum         memorandums[30]
+        (_meaning a written note or notes_)
+        metamorphosis      metamorphoses
+        miasma             miasmata
+        minimum            minima
+        nebula             nebulae
+        nucleus            nuclei
+        oasis              oases
+        papilla            papillae
+        parenthesis        parentheses
+        parhelion          parhelia
+        phenomenon         phenomena
+        radius             radii
+        radix              radices
+        sanatorium         sanatoria
+        scholium           scholia
+        spectrum           spectra
+        speculum           specula
+        stamen             stamens
+        stimulus           stimuli
+        stratum            strata
+        synopsis           synopses
+        terminus           termini
+        thesis             theses
+        virtuoso           virtuosi
+        volsella           volsellae
+        vortex             vortexes (_fam._)
+
+
+FOOTNOTES:
+
+[26] See reference to these words for another purpose on p. 33.—H. H.
+
+[27] Genius, in the sense of a tutelary spirit, must of course have
+the plural genii.—H. H.
+
+[28] In scholarly works, indices is often preferred, and in the
+mathematical sense must always be used.—H. H.
+
+[29] But lemmata in botany or embryology.—H.H.
+
+[30] But in a collective or special sense we must print
+memoranda.—H. H.
+
+
+
+
+ERRATA, ERRATUM
+
+
+Do not be guilty of the absurd mistake of printing ‘Errata’ as a
+heading for a single correction. When a list of errors has been dealt
+with, by printing cancel pages and otherwise, so that only one error
+remains, take care to alter the heading from ‘Errata’ to ‘Erratum’.
+The same remarks apply to Addenda and Addendum, Corrigenda and
+Corrigendum.
+
+
+
+
+PLURALS OF NOUNS ENDING IN -O
+
+
+The plurals of nouns ending in -o, owing to the absence of any
+settled system, are often confusing. _The Concise Oxford Dictionary_
+says (p. vi): ‘It may perhaps be laid down that on the one hand
+words of which the plural is very commonly used, as _potato_, have
+almost invariably _-oes_, and on the other hand words still felt to
+be foreign or of abnormal form, as _soprano_, _chromo_, have almost
+invariably _-os_.’ The following is a short list, showing spellings
+preferred:
+
+  altos
+  banjos
+  buffaloes
+  calicoes
+  cantos
+  cargoes
+  centos
+  chromos
+  curios
+  duodecimos
+  electros
+  echoes
+  embargoes
+  haloes
+  heroes
+  manifestoes
+  mosquitoes
+  mottoes
+  negroes
+  octavos
+  porticoes
+  potatoes
+  provisos
+  quartos
+  ratios
+  solos
+  sopranos
+  tiros
+  tomatoes
+  volcanoes
+
+[Illustration: (light bulb)]
+
+
+
+
+FOREIGN WORDS & PHRASES WHEN TO BE SET IN ROMAN AND WHEN IN ITALIC
+
+
+Print the following anglicized words in roman type:
+
+  aide-de-camp
+  al fresco
+  alibi
+  à propos
+  aurora borealis
+  beau idéal
+  bézique
+  bizarre
+  bona fide
+  bouquet
+  bravos
+  bric-à-brac
+  bulletin
+  café
+  carte-de-visite
+  chargé d’affaires
+  chauffeur
+  chiaroscuro
+  cliché
+  connoisseur
+  cul-de-sac
+  débris
+  début
+  dépôt[31]
+  détour
+  diarrhoea
+  dilettante
+  dramatis personae
+  éclat
+  employé[32]
+  ennui
+  entrée
+  entrepôt
+  etiquette[33]
+  facsimile
+  fête
+  fleur-de-lis
+  garage
+  gratis
+  habeas corpus
+  hors-d’œuvre
+  innuendo, -es
+  levée
+  littérateur
+  litterati
+  manœuvre
+  menu
+  morale
+  naïve
+  omnibus
+  papier mâché
+  per annum
+  personnel
+  post-mortem (_adj. and n._)
+  poste restante
+  précis
+  prestige
+  prima facie
+  procès-verbal
+  protégé
+  provenance
+  régime
+  rendezvous[34]
+  rôle
+  sabotage
+  savants
+  seraglio
+  sobriquet
+  soirée
+  versus
+  via
+  vice versa
+  virtuoso
+  viva voce
+  Zollverein
+
+The following to be printed in italic:
+
+  _ab extra_
+  _ab origine_
+  _ad nauseam_
+  _ad valorem_
+  _a fortiori_
+  _amende honorable_
+  _amour propre_
+  _ancien régime_
+  _anglice_
+  _a priori_
+  _au courant_
+  _au revoir_
+  _bête noire_
+  _billet doux_
+  _bonhomie_
+  _bon ton_
+  _bourgeoisie_
+  _carte blanche_
+  _casus belli_
+  _chef-d’œuvre_
+  _chevaux de frise_
+  _con amore_
+  _confrère_
+  _cortège_[35]
+  _coup d’état_
+  _coup de grâce_
+  _coup de main_
+  _coup d’œil_
+  _débâcle_
+  _dénouement_
+  _de quoi vivre_
+  _déshabillé_
+  _édition de luxe_
+  _élan_
+  _élite_
+  _en bloc_
+  _en masse_
+  _en passant_
+  _en rapport_
+  _en route_
+  _entente cordiale_
+  _esprit de corps_
+  _ex cathedra_
+  _ex officio_ (adv. and adj.)
+  _ex parte_ (adv. and adj.)
+  _facile princeps_
+  _factum est_
+  _felo de se_
+  _garçon_
+  _grand monde_
+  _habitué_
+  _hors de combat_
+  _imprimis_
+  _in camera_
+  _in propria persona_
+  _jeu d’esprit_
+  _laisser-faire_
+  _lapsus linguae_
+  _lèse-majesté_
+  _mêlée_
+  _mise en scène_
+  _modus operandi_
+  _more suo_
+  _multum in parvo_
+  _naïveté_
+  _née_
+  _nemine contradicente_
+  _ne plus ultra_
+  _noblesse oblige_
+  _nolens volens_
+  _non est_
+  _par excellence_
+  _pari passu_
+  _per contra_
+  _pièce de résistance_
+  _plébiscite_
+  _pro forma_
+  _pro tempore_
+  _raison d’être_
+  _rapprochement_
+  _réchauffé_
+  _répertoire_
+  _résumé_
+  _sang-froid_
+  _sans cérémonie_
+  _sans-culotte_
+  _sine qua non_
+  _sotto voce_
+  _sub rosa_
+  _tabula rasa_
+  _tête à tête_ (adv.)
+  _tête-à-tête_ (noun)
+  _tour de force_
+  _vis-à-vis_
+
+The modern practice is to omit accents from Latin words.
+
+For further directions as to the use of italic in foreign words and
+phrases see pp. 50-1.
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[31] For this and nearly all similar words, the proper accents are to
+be used, whether the foreign words be anglicized or not.—H. H.
+
+[32] Employee is more legitimate when it is used in contrast with the
+English word employer.—H. H.
+
+[33] Omit the accent from étiquette.—H. H.
+
+[34] Omit the hyphen from rendez-vous.—H. H.
+
+[35] For a statement as to this and other French words now printed
+with a grave accent, see pp. 78-9.—H. H.
+
+
+
+
+SPELLINGS OF FIFTEENTH TO SEVENTEENTH CENTURY WRITERS
+
+
+When it is necessary to reproduce the spellings and printed forms of
+old writers the following rules should be observed:
+
+Initial _u_ is printed _v_, as in vnderstande. Also in such
+combinations as wherevpon.
+
+Medial _v_ is printed _u_, as in haue, euer.
+
+Initial and medial _j_ are printed _i_, as in iealousie, iniurie.
+
+In capitals the U is non-existent, and should always be printed with
+a V, initially and medially, as VNIVERSITY, FAVLCONRIE.
+
+In y^e and y^t the second letter should be a superior, and without a
+full point.
+
+[Illustration: (light bulb)]
+
+
+
+
+PHONETIC SPELLINGS
+
+
+Some newspapers print phonetic spellings, such as program, hight (to
+describe altitude), catalog, &c. But the practice has insufficient
+authority, and can be followed only by special direction.
+
+
+
+
+A OR AN
+
+
+  a European
+  a ewe
+  a ewer
+  a herb
+  a herbal
+  a heroic
+  a hospital
+  a humble
+  a unanimous
+  a uniform
+  a union
+  a unique
+  a universal
+  a university
+  a useful
+  a usurper
+  an habitual[36]
+  an heir
+  an heirloom
+  an historical{36}
+  an honest
+  an honour
+  an hotel
+  an hour
+
+Print _a_, not _an_, before contractions beginning with a consonant:
+e.g. a L.C.C. case, a MS. version.
+
+
+FOOTNOTES:
+
+[36] This is in accordance with what seems to be the preponderance of
+modern usage. Originally the cover of _The Oxford Dictionary_ had ‘a
+historical’, and the whole question will be found fully treated in
+that work, arts. A, An, and H.—H. H.
+
+
+
+
+O AND OH
+
+
+When used in addressing persons or things the vocative ‘O’ is printed
+with a capital and without any point following it; e.g. ‘O mighty
+Caesar! dost thou lie so low’; ‘O world! thou wast the forest to this
+hart’; ‘O most bloody sight!’ Similarly, ‘O Lord’, ‘O God’, ‘O sir’.
+But when not used in the vocative, the spelling should be ‘Oh’, and
+separated from what follows by a punctuation mark; e.g. ‘Oh, pardon
+me, thou bleeding piece of earth’; ‘For if you should, oh! what would
+become of it?’
+
+
+
+
+NOR AND OR
+
+
+Print: (1) Neither one nor the other; neither Jew nor Greek; neither
+Peter nor James. (2) Either one or the other; either Jew or Greek;
+either Peter or James.
+
+Never print: Neither one or the other; neither Peter or James;—but
+when the sentence is continued to a further comparison, _nor_ and
+_or_ must be printed (in the continuation) according to the sense.[37]
+
+Likewise note that the verb should be in the singular, as ‘Neither
+Oxford nor Reading is stated to have been represented’.
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[37] The necessity of giving strict attention to this rule was once
+exemplified in my experience, when the printing of a fine quarto was
+passing through my hands in 1882. The author desired to say in the
+preface, ‘The writer neither dares nor desires to claim for it the
+dignity or cumber it with the difficulty of an historical novel’
+(_Lorna Doone_, by R. D. Blackmore, 4to, 1883). The printer’s reader
+inserted a letter _n_ before the _or_; the author deleted the _n_,
+and thought he had got rid of it; but at the last moment the press
+reader inserted it again; and the word was printed as _nor_, to the
+exasperation of the author, who did not mince his words when he found
+out what had happened.—H. H.
+
+
+
+
+VOWEL-LIGATURES[38] (Æ AND Œ)
+
+
+The combinations _ae_ and _oe_ should each be printed as two letters
+in Latin and Greek words, e.g. Aeneid, Aeschylus, Caesar, Oedipus;
+and in English, as mediaeval, phoenix. But in Old-English and in
+French words use the ligatures _æ_, _œ_, as Ælfred, Cædmon, manœuvre.
+
+
+
+
+CONTRACTIONS
+
+
+_NOTE.—Some abbreviations of Latin words such as_ ad loc., _&c., to
+be set in roman, are shown on page 51._
+
+Names of the books of the Bible as abbreviated where necessary:
+
+
+_Old Testament._
+
+  Gen.
+  Exod.
+  Lev.
+  Num.
+  Deut.
+  Joshua
+  Judges
+  Ruth
+  1 Sam.
+  2 Sam.
+  1 Kings
+  2 Kings
+  1 Chron.
+  2 Chron.
+  Ezra
+  Neh.
+  Esther
+  Job
+  Ps.
+  Prov.
+  Eccles.
+  Song of Sol.
+  Isa.
+  Jer.
+  Lam.
+  Ezek.
+  Dan.
+  Hos.
+  Joel
+  Amos
+  Obad.
+  Jonah
+  Mic.
+  Nahum
+  Hab.
+  Zeph.
+  Hag.
+  Zech.
+  Mal.
+
+
+_New Testament._
+
+  Matt.
+  Mark
+  Luke
+  John
+  Acts
+  Rom.
+  1 Cor.
+  2 Cor.
+  Gal.
+  Eph.
+  Phil.
+  Col.
+  1 Thess.
+  2 Thess.
+  1 Tim.
+  2 Tim.
+  Titus
+  Philem.
+  Heb.
+  Jas.
+  1 Pet.
+  2 Pet.
+  1 John
+  2 John
+  3 John
+  Jude
+  Rev.
+
+
+_Apocrypha._
+
+  1 Esdras
+  2 Esdras
+  Tobit
+  Judith
+  Rest of Esth.
+  Wisd. of Sol.
+  Ecclus.
+  Baruch
+  Song of Three Childr.
+  Susanna
+  Bel and Dragon
+  Pr. of Manasses
+  1 Macc.
+  2 Macc.
+
+Abbreviate the names of the months:
+
+  Jan.
+  Feb.
+  Mar.
+  Apr.
+  May
+  June
+  July
+  Aug.
+  Sept.
+  Oct.
+  Nov.
+  Dec.
+
+Where the name of a county is abbreviated, as Yorks., Cambs., Berks.,
+Oxon., use a full point; but print Hants (no full point) because it
+is not a modern abbreviation.
+
+4to, 8vo, 12mo,[39] &c. (sizes of books), are symbols, and should
+have no full point. A parallel case is that of 1st, 2nd, 3rd, and so
+on, which also need no full points.
+
+Print lb. for both sing. and pl.; not lbs. Also omit the plural _-s_
+in the following: cm., cwt., dwt., gr., grm., in., min., mm., oz.
+
+When beginning a footnote, the abbreviations e.g., i.e., p. or pp.,
+and so on, to be all in lower-case.
+
+Use ETC. in a cap. line and ETC. in a small cap. line where an
+ampersand (&) will not range. Otherwise print &c.; and Longmans,
+Green & Co.; with no comma before ampersand in the name of a firm.
+
+Print the symbolic letters I O U, without full points.
+
+The points of the compass, N. E. S. W., when separately used, to have
+a full point: but print NE., NNW. These letters to be used only in
+geographical or similar matter: do not, even if N. is in the copy,
+use the contraction in ordinary composition; print ‘Woodstock is
+eight miles north of Carfax’.
+
+MS. = manuscript, MSS. = manuscripts, to be spelt out when used in
+a general sense. But in printing bibliographical details, and in
+references to particular manuscripts, the contracted forms should be
+used; e.g. the Worcester MS., the Harleian MSS., Add. MS. 25642.
+
+Print PS. (not P.S.) for postscript or postscriptum; MM. (messieurs),
+SS. not S.S. (steamship); but H.M.S. (His Majesty’s Ship); H.R.H.;
+I.W. (Isle of Wight); N.B., Q.E.D., and R.S.V.P., because more than
+one word is contracted.
+
+Print ME. and OE. in philological works for Middle English and Old
+English. When an author prefers M.E., O.E., do not put a space
+between the letters.
+
+Abbreviations of titles, such as M.P., D.D., M.A., or of occupations
+or parties, such as I.C.S., I.L.P., to have no space between the
+letters.
+
+When titles of books are represented by initials, put a thin space
+only between each letter; e.g. _J. T. S._, _S. B. E._
+
+Mr., Mrs., Dr., &c. must be printed with a full point, but not Mme,
+Mlle.
+
+In printing S. or St. for Saint, the compositor must be guided by the
+manuscript. Ordinarily St. should be used, but if S. is consistently
+written this must be assumed as the form in which the author wishes
+it printed.
+
+Print Bt. for Baronet, and Kt. for Knight.
+
+Apostrophes in similar abbreviations to the following should
+join close up to the letters—don’t, ’em, haven’t, o’er, shan’t,
+shouldn’t, ’tis, won’t, there’ll, I’d, I’ll, we’ll.[40]
+
+An apostrophe should not be used with hers, ours, theirs, yours.
+
+_Apostrophes in Place-Names._[41]—1. Use an apostrophe after the ‘s’
+in Queens’ College (Cambs.). But
+
+2. Use an apostrophe before the ‘s’ in Connah’s Quay (Flints.),
+Hunter’s Quay (N.B.), Orme’s Head (Carn.), Queen’s Coll. (Oxon.),
+St. Abb’s Head (N.B.), St. John’s (Newfoundland), St. John’s Wood
+(London), St. Mary’s Loch (N.B.), St. Michael’s Mount (Cornwall), St.
+Mungo’s Well (Knaresboro’), St. Peter’s (Sydney, N.S.W.).
+
+3. Do not use an apostrophe in—All Souls (Oxon.), Bury St. Edmunds,
+Husbands Bosworth (Rugby), Johns Hopkins University (U.S.A.), Millers
+Dale (Derby), Owens College (Manchester), St. Albans, St. Andrews,
+St. Bees, St. Boswells, St. Davids, St. Helens (Lancs., and district
+in London), St. Heliers (Jersey), St. Ives (Hunts. and Cornwall),
+St. Kitts (St. Christopher Island, W.I.), St. Leonards, St. Neots
+(Hunts., but St. Neot, Cornwall), Somers Town (London).
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[38] The separately written _oe_, _ae_ are ‘digraphs’, because the
+sounds they represent are in modern pronunciation _not_ diphthongs,
+though they were such in classical Latin; but _ch_, _ph_, _sh_ are
+also digraphs. _Æ_, _æ_, _Œ_, _œ_, are rather single letters than
+digraphs, though they might be called ligatured digraphs.—H. B.
+
+[39] To justify the use in ordinary printing of these symbols (as
+against the use of 4^o, 8^o, 12^o, a prevailing French fashion
+which is preferred by some writers), it may suffice to say that
+the ablative cases of the ordinal numbers _quartus_, _octavus_,
+_duodecimus_, namely _quarto_, _octavo_, _duodecimo_, are according
+to popular usage represented by the forms or symbols 4to, 8vo, 12mo;
+just as by the same usage we print 1st and 2nd as forms or symbols of
+the English words _first_ and _second_.—H. H.
+
+[40] See page 49 for an exception to this rule.
+
+[41] The selection is arbitrary; but the examples are given on
+the authority of the Oxford University and Cambridge University
+Calendars, the Post Office Guide, Bartholomew’s Gazetteer, Bradshaw’s
+Railway Guide, Crockford’s Clerical Directory, Keith Johnston’s
+Gazetteer, and Stubbs’s Hotel Guide.
+
+
+
+
+POETRY
+
+
+Words ending in -ed are to be spelt so in all cases; and with a grave
+accent when the syllable is separately pronounced, thus—èd. (’d is
+not to be used.)
+
+This applies to poetical quotations introduced into prose matter, and
+to new works. It must not apply to reprints of standard authors, nor
+to quotations in works which reproduce old spellings, &c.
+
+Whenever a poetic quotation, whether in the same type as the text
+or not, is given a line (or more) to itself, it is not to be placed
+within quotation marks; but when the line of poetry runs on with the
+prose then quotation marks are to be used.
+
+On spacing poetry, see p. 49.
+
+
+
+
+CAPITAL LETTERS
+
+
+Avoid beginning words with capitals as much as possible; but use them
+in the following and similar cases:
+
+Act, when referring to Act of Parliament or Acts of a play; also in
+Baptist, Christian, Nonconformist, Presbyterian, Puritan, Liberal,
+Conservative, and all denominational terms and names of parties.
+
+His Majesty, Her Royal Highness, &c.
+
+The King of England, the Prince of Wales.
+
+The Duke of Wellington, Bishop of Oxford, Sir Roger Tichborne, &c.
+
+British Army, German Navy.
+
+Christmas Day, Lady Day, &c.
+
+Dark Ages, Middle Ages.
+
+House of Commons, Parliament, &c.
+
+Government, Cabinet, Speaker.
+
+In geography: Sun, Earth, Equator, the Continent.
+
+In geological names: Upper Greensand, London Clay, Tertiary, Lias, &c.
+
+In names of streets, roads, &c., as—Chandos Street, Trafalgar
+Square, Kingston Road, Addison’s Walk, Norreys Avenue.
+
+Figure, Number, Plate (Fig., No., Pl.), should each begin with a
+capital, whether contracted or not, unless special instructions are
+given to the contrary.
+
+Pronouns referring to the Deity should begin with capitals—He, Him,
+His, Me, Mine, My, Thee, Thine, Thou; but print—who, whom, and whose.
+
+Also capitalize the less common adjectives derived from proper names;
+e.g. Homeric, Platonic.
+
+
+
+
+LOWER-CASE INITIALS
+
+FOR ANGLICIZED WORDS, ETC.
+
+
+christianize, frenchified, herculean, italic, laconic, latinize,
+puritanic, quixotic, roman, satanic, tantalize, vulcanize.
+
+Also for the more common words derived from proper names,
+as—boycott, doily, guernsey, hackney, hansom-cab, holland,
+inverness, japanning, latinity, may (blossom), morocco, russia,
+stepney-wheel.
+
+When ‘In the press’ occurs in publishers’ announcements, print
+‘press’ with a lower-case initial.
+
+
+
+
+SMALL CAPITALS
+
+
+Put a hair space between the letters of contractions in small
+capitals:
+
+  A.U.C. Anno urbis conditae
+  A.D. Anno Domini
+  A.H. Anno Hegirae
+  A.M. Anno mundi
+  B.C. Before Christ.
+
+a.m.[42] (ante meridiem), p.m.{42} (post meridiem), should be
+lower-case, except in lines of caps. or small caps.
+
+When small caps, are used at foot of title-page, print thus: M DCCCC
+IV[43]
+
+Text references to caps. in plates and woodcuts to be in small caps.
+
+The first word in each chapter of a book is to be in small caps. and
+the first line usually indented one em; but this does not apply to
+works in which the matter is broken up into many sections, nor to
+cases where large initials are used. (See p. 50 as to indentation.)
+
+
+FOOTNOTES:
+
+[42] It is a common error to suppose that these initials stand for
+ante-meridian and post-meridian. Thus, Charles Dickens represents one
+of his characters in _Pickwick_ as saying ‘Curious circumstance about
+those initials, sir,’ said Mr. Magnus. ‘You will observe—P.M.—post
+meridian. In hasty notes to intimate acquaintance, I sometimes
+sign myself “Afternoon”. It amuses my friends very much, Mr.
+Pickwick.’—DICKENS, _Pickwick Papers_, p. 367. Oxford edit.,
+1903.—H. H.
+
+[43] ‘Or better M CM IV’—J. A. H. M.
+
+
+
+
+SPECIAL SIGNS OR SYMBOLS
+
+
+The signs + (plus), - (minus), = (equal to), > (‘larger than’, in
+etymology signifying ‘gives’ or ‘has given’), < (‘smaller than’,
+in etymology signifying ‘derived from’), are now often used in
+printing ordinary scientific works, and not in those only which are
+mathematical or arithmetical.
+
+In such instances +, -, =, >, <, should in the matter of spacing be
+treated as words are treated. For instance, in—
+
+  spectabilis, _Bœrl. l. c._ (= Haasia spectabilis)
+
+the = belongs to ‘spectabilis’ as much as to ‘Haasia’, and the sign
+should not be put close to ‘Haasia’. A thin space only should be used.
+
+In Philological works an asterisk * prefixed to a word signifies a
+reconstructed form, and must be so printed; a dagger † signifies
+an obsolete word. The latter sign, placed before a person’s name,
+signifies deceased.
+
+In Medical books the formulae are set in lower-case letters, j being
+used for i both singly and in the final letter, e.g. gr.j (one
+grain), ℥viij (eight ounces), ʒiij (three drachms), ℈iij (three
+scruples), ♏︎iiij (four minims).
+
+
+
+
+SPACING
+
+
+Spacing ought to be even. Paragraphs are not to be widely spaced
+for the sake of making breaklines. When the last line but one of a
+paragraph is widely spaced and the first line of the next paragraph
+is more than thick-spaced, extra spaces should be used between the
+words in the intermediate breakline. Such spaces should not exceed en
+quads, nor be increased if by so doing the line would be driven full
+out.
+
+In general, close spacing is to be preferred; but this must be
+regulated proportionately to the manner in which a work is leaded.
+
+Breaklines should consist of more than five letters, except in narrow
+measures. But take care that bad spacing is not thereby necessitated.
+
+Poetical quotations, and poetry generally when in wide measure,
+should be spaced with en quadrats. But this must not be applied to
+reprints of sixteenth and seventeenth century books: in such cases a
+thick space only should be used.
+
+Avoid (especially in full measures) printing at the ends of lines—a,
+l., ll., p. _or_ pp., I (when a pronoun).
+
+Capt., Dr., Esq., Mr., Rev., St., and so on, should not be separated
+from names; nor should initials be divided: e.g. Mr. W. E. |
+Gladstone; _not_ Mr. W. | E. Gladstone.
+
+Thin spaces before apostrophes, e.g. that’s (for ‘that is’), boy’s
+(for ‘boy is’), to distinguish abbreviations from the possessive case.
+
+In Greek, Latin, and Italian, when a vowel is omitted at the end of a
+word (denoted by an apostrophe), put a space before the word which
+immediately follows.
+
+Hair spaces to be placed between lower-case contractions, as in e.g.,
+i.e., q.v.
+
+Indentation of first lines of paragraphs should be one em for full
+measures in 8vo and smaller books. In 4to and larger books the
+indentation should be increased.
+
+Sub-indentation should be proportionate; and the rule for all
+indentation is not to drive too far in.
+
+Quotations in prose, as a rule, should not be broken off from the
+text unless the matter exceeds three lines.
+
+Use great care in spacing out a page, and let it not be too open.
+
+Underlines, wherever possible, to be in one line.
+
+
+
+
+ITALIC TYPE
+
+_NOTE.—A list of foreign and anglicized words and phrases, showing
+which should be printed in roman and which in italic, is given on pp.
+35-7._
+
+
+In many works it is now common to print titles of books in italic,
+instead of in inverted commas. This must be determined by the
+directions given with the copy, but the practice must be uniform
+throughout the work.
+
+Words or phrases cited from foreign languages (unless anglicized)
+should be in italic.
+
+Short extracts from books, whether foreign or English, should not be
+in italic but in roman (between inverted commas, or otherwise, as
+directed on p. 63).
+
+Names of periodicals should be in italic. Inconsistency is often
+caused by the prefix _The_ being sometimes printed in italic, and
+sometimes roman. As a rule, print the definite article in roman, as
+the _Standard_, the _Daily News_. _The Times_ is to be an exception,
+as that newspaper prefers to have it so. _The_, if it is part of the
+title of a book, should also be in italic letters.
+
+Print names of ships[44] in italic. In this case, print ‘the’ in
+roman, as it is often uncertain whether ‘the’ is part of the title
+or not. For example, ‘the _King George_’, ‘the _Revenge_’; also put
+other prefixes in roman, as ‘H.M.S. _Dreadnought_’.
+
+ad loc., cf., e.g., et seq., ib., ibid., id., i.e., loc. cit., q.v.,
+viz.[45], not to be in italic. Print _c._ (= _circa_), _ante_,
+_infra_, _passim_, _post_, _supra_, &c.
+
+Italic _s._ and _d._ to be generally used to express shillings and
+pence; and the sign £ (except in special cases) to express the pound
+sterling. But in catalogues and similar work the diagonal sign / or
+‘shilling-mark’ is sometimes preferred to divide figures representing
+shillings and pence. The same sign is occasionally used in dates, as
+4/2/04.
+
+In Mathematical works, theorems are usually printed in italic.
+
+
+FOOTNOTES:
+
+[44] Italicizing the names of ships is thus recognized by Victor
+Hugo: ‘Il l’avait nommé _Durande_. La Durande,—nous ne l’appellerons
+plus autrement. On nous permettra également, quel que soit l’usage
+typographique, de ne point souligner ce nom Durande, nous conformant
+en cela à la pensée de Mess Lethierry pour qui la Durande était
+presque une personne.’—V. HUGO, _Travailleurs de la mer_, 3rd (1866)
+edit., Vol. I, p. 129.—H. H.
+
+[45] This expression, although a symbol rather than an abbreviation,
+must be printed with a full point after the z.—H. H.
+
+
+
+
+REFERENCES TO AUTHORITIES
+
+
+Citation of authorities at the end of quotations should be printed
+thus: HOMER, _Odyssey_, ii. 15, but print HOR. _Carm._ ii. 14. 2;
+HOM. _Od._ iv. 272. This applies chiefly to quotations at the heads
+of chapters. It does not refer to frequent citations in notes, where
+the author’s name is usually in lower-case letters, and the title of
+the book sometimes printed in roman.
+
+As an example: Stubbs, _Constitutional History_, vol. ii, p. 98; or
+the more contracted form—Stubbs, _Const. Hist._ ii. 98, will do
+equally well; but, whichever style is adopted after an examination of
+the manuscript, it must be uniform throughout the work.
+
+References to the Bible in ordinary works to be printed thus—Exod.
+xxxii. 32; xxxvii. 2. (For full list of contractions see p. 41.)
+
+References to Shakespeare’s plays thus—_I Henry VI_, III. ii. 14;
+and so with the references to Act, scene, and line in other dramatic
+writings.
+
+Likewise in references to poems divided into books, cantos, and
+lines; e. g. Spenser, _Faerie Queene_, IV. xxvi. 35.
+
+References to MSS. or unprinted documents should be in roman.
+
+As to use of italic, see also above, p. 50.
+
+
+
+
+DIVISION OF WORDS
+
+
+I. ENGLISH
+
+Such divisions as en-, de-, or in- to be allowed only in very narrow
+measures, and there exceptionally.
+
+Disyllables, as ‘into’, ‘until’, &c., are only to be divided in very
+narrow measures.
+
+The following divisions to be preferred:
+
+  abun-dance
+  appli-cable
+  corre-spon-dence
+  depen-dent
+  dimin-ish
+  dis-connect
+  estab-lish-ment
+  impor-tance
+  inter-est
+  minis-ter
+  pun-ish
+  respon-dent
+
+Avoid such divisions as—
+
+  star-vation,
+  obser-vation,
+  exal-tation,
+  gene-ration,
+  imagi-nation,
+  origi-nally;
+
+but put starva-tion, &c.
+
+The principle is that the part of the word left at the end of a line
+should suggest the part commencing the next line. Thus the word
+‘happiness’ should be divided happi-ness, _not_ hap-piness.[46]
+
+Roman-ism, Puritan-ism; but Agnosti-cism, Catholi-cism, criti-cism,
+fanati-cism, tauto-logism, witti-cism, &c.
+
+The terminations -cial, -cian, -cious, -sion, -tion should not be
+divided when forming one sound, as in so-cial, Gre-cian, pugna-cious,
+condescen-sion, forma-tion.
+
+Atmo-sphere, micro-scope, philo-sophy, tele-phone, tele-scope,
+should have only this division. But always print episco-pal (not
+epi-scopal), &c.[47]
+
+A divided word should not end a page, if it is possible to avoid it.
+
+
+II. SOME ITALIAN, PORTUGUESE, AND SPANISH WORDS
+
+_Italian._—Divide si-gnore (gn = _ni_ in ‘mania’), trava-gliare (gli
+= _lli_ in ‘William’), tra-scinare (sci = _shi_ in ‘shin’), i.e.
+take over gn, gl, sci. In such a case as ‘all’ uomo’ Italians divide
+‘al-l’ uomo’ when occasion arises.[48]
+
+_Portuguese._—Divide se-nhor (nh = _ni_ in ‘mania’), bata-lha (lh =
+_lli_ in ‘William’), i.e. take over nh, ll.
+
+_Spanish._—Divide se-ñora (ñ = _ni_ in ‘mania’), maravi-lloso (ll =
+_lli_ in ‘William’), i.e. take over ñ, ll.
+
+
+III. For the division of French words, see p. 81; German, p. 90;
+Latin, p. 95; and Greek, p. 97.
+
+
+FOOTNOTES:
+
+[46] I was once asked how I would carry out the rule that part
+of the word left in one line should suggest what followed in the
+next, in such a case as ‘disproportionableness’, which, according
+to Sir James Murray, is one of the longest words in the English
+language; or ‘incircumscriptibleness’, used by one Byfield, a
+divine, in 1615, who wrote, ‘The immensity of Christ’s divine nature
+hath ... incircumscriptibleness in respect of place’; or again,
+‘antidisestablishmentarians’, quoted in the biography of Archbishop
+Benson, where he says that ‘the Free Kirk of the North of Scotland
+are strong antidisestablishmentarians’.—H. H.
+
+[47] ‘Even the divisions noted as preferable are not free from
+objection, and should be avoided when it is at all easy to do
+so.’—H. B.
+
+[48] Italians follow this rule, but it is better avoided in printing
+Italian passages in English books.—H. H.
+
+
+
+
+PUNCTUATION
+
+
+The compositor is recommended to study attentively a good
+treatise[49] on the whole subject. He will find some knowledge of
+it to be indispensable if his work is to be done properly; for most
+writers send in copy quite unprepared as regards punctuation, and
+leave the compositor to put in the proper marks. ‘Punctuation is
+an art nearly always left to the compositor, authors being almost
+without exception either too busy or too careless to regard it.’[50]
+Some authors rightly claim to have carefully prepared copy followed
+absolutely; but such cases are rare, and the compositor can as a rule
+only follow his copy exactly when setting up standard reprints. ‘The
+first business of the compositor’ says Mr. De Vinne, ‘is to copy and
+not to write. He is enjoined strictly to follow the copy and never to
+change the punctuation of any author who is precise and systematic;
+but he is also required to punctuate the writings of all authors who
+are not careful, and to make written expression intelligible in the
+proof.... It follows that compositors are inclined to neglect the
+study of rules that cannot be generally applied.’[51]
+
+It being admitted, then, that the compositor is to be held
+responsible in most cases, he should remember that loose
+punctuation,[52] especially in scientific and philosophical works,
+is to be avoided.[53] We will again quote Mr. De Vinne: ‘Two systems
+of punctuation are in use. One may be called the close or stiff,
+and the other the open or easy system. For all ordinary descriptive
+writing the open or easy system, which teaches that points be used
+sparingly, is in most favor, but the close or stiff system cannot
+be discarded.’[54] The compositor who desires to inform himself
+as to the principles and theory of punctuation will find abundant
+information in the works mentioned in the footnote on p. 55; in our
+own booklet there is space only for a few cautions and a liberal
+selection of examples; authority for the examples, when they are
+taken from the works of other writers, being given in all cases.
+
+
+_The Comma._
+
+Commas should, as a rule, be inserted between adjectives preceding
+and qualifying substantives, as—
+
+  An enterprising, ambitious man.
+
+  A gentle, amiable, harmless creature.
+
+  A cold, damp, badly lighted room.[55]
+
+But where the last adjective is in closer relation to the substantive
+than the preceding ones, omit the comma, as—
+
+  A distinguished foreign author.
+
+  The sailor was accompanied by a great rough Newfoundland dog.{55}
+
+Where _and_ joins two single words or phrases the comma is usually
+omitted; e.g.
+
+  The honourable and learned member.
+
+But where more than two words or phrases occur together in a sequence
+a comma should precede the final _and_; e.g.
+
+  A great, wise, and beneficent measure.
+
+The following sentence, containing two conjunctive _and_’s, needs no
+commas:
+
+  God is wise and righteous and faithful.{55}
+
+Such words as moreover, however, &c., are usually followed by a
+comma[56] when used at the opening of a sentence, or preceded and
+followed by a comma when used in the middle of a sentence. For
+instance:
+
+  In any case, however, the siphon may be filled.[57]
+
+It is better to use the comma in such sentences as those that
+immediately follow:
+
+  Truth ennobles man, and learning adorns him.[58]
+
+  The Parliament is not dissolved, but only prorogued.
+
+  The French having occupied Portugal, a British squadron, under
+  Rear-Admiral Sir Samuel Hood, sailed for Madeira.
+
+  I believed, and therefore I spoke.
+
+  The question is, Can it be performed?
+
+  My son, give me thy heart.
+
+  The Armada being thus happily defeated, the nation resounded with
+  shouts of joy.
+
+  Be assured, then, that order, frugality, and economy, are the
+  necessary supporters of every personal and private virtue.
+
+  Virtue is the highest proof of a superior understanding, and the
+  only basis of greatness.{58}
+
+When a preposition assumes the character of an adverb, a comma should
+follow it, to avoid awkwardness or ambiguity: ‘In the valley below,
+the villages looked very small.’
+
+
+_The Semicolon._
+
+Instances in which the semicolon is appropriate:
+
+  Truth ennobles man; learning adorns him.
+
+  The temperate man’s pleasures are always durable, because they
+  are regular; and all his life is calm and serene, because it is
+  innocent.
+
+  Those faults which arise from the will are intolerable; for dull
+  and insipid is every performance where inclination bears no part.
+
+  Economy is no disgrace; for it is better to live on a little than
+  to outlive a great deal.
+
+  To err is human; to forgive, divine.[59]
+
+  Never speak concerning what you are ignorant of; speak little of
+  what you know; and whether you speak or say not a word, do it with
+  judgement.{59}
+
+Semicolons divide the simple members of a compound sentence, and a
+comma and dash come after the last sentence and before the general
+conclusion:
+
+  To give an early preference to honour above gain, when they stand
+  in competition; to despise every advantage which cannot be attained
+  without dishonest arts; to brook no meanness, and stoop to no
+  dissimulation,—are the indications of a great mind, the presages
+  of future eminence and usefulness in life.[60]
+
+
+_The Colon._
+
+This point marks an abrupt pause before a further but connected
+statement:
+
+  In business there is something more than barter, exchange, price,
+  payment: there is a sacred faith of man in man.
+
+  Study to acquire a habit of thinking: no study is more
+  important.[61]
+
+  Always remember the ancient maxim: Know thyself.
+
+
+_The Period or Full Stop._
+
+Examples of its ordinary use:
+
+  Fear God. Honour the King. Pray without ceasing.
+
+  There are thoughts and images flashing across the mind in its
+  highest moods, to which we give the name of inspiration. But whom
+  do we honour with this title of the inspired poet?
+
+
+_The Note of Interrogation._
+
+Examples of its ordinary use:
+
+      Shall little, haughty ignorance pronounce
+      His work unwise, of which the smallest part
+      Exceeds the narrow vision of the mind?
+
+  Was the prisoner alone when he was apprehended? Is he known to the
+  police? Has he any regular occupation? Where does he dwell? What is
+  his name?
+
+  What does the pedant mean?
+
+Cases where the note of interrogation must not be used, the speaker
+simply stating a fact:
+
+  The Cyprians asked me why I wept.
+
+  I was asked if I would stop for dinner.
+
+
+_The Note of Exclamation._
+
+Examples of its ordinary use:
+
+      Hail, source of Being! universal Soul!
+      How mischievous are the effects of war!
+      O excellent guardian of the sheep!—a wolf![62]
+
+      Alas for his poor family!
+      Alas, my noble boy! that thou shouldst die!
+      Ah me! she cried, and waved her lily hand.
+      O despiteful love! unconstant womankind!
+
+
+_Marks of Parenthesis._
+
+Examples:
+
+  I have seen charity (if charity it may be called) insult with an
+  air of pity.
+
+  Left now to himself (malice could not wish him a worse adviser), he
+  resolves on a desperate project.[63]
+
+
+_The Bracket._
+
+These marks are used chiefly to denote an interpolation or
+explanation. For example:
+
+      Perhaps (alarming thought!), perhaps he [Death] aims
+      Ev’n now the fatal blow that ends my life.[64]
+
+  They [the Lilliputians] rose like one man.
+
+
+_The Dash._
+
+Em rules or dashes—in this and the next line an example is
+given—are often used to show that words enclosed between them are to
+be read parenthetically. Thus a verbal parenthesis may be shown by
+punctuation in three ways: by em dashes, by ( ), or by commas.[65]
+
+Omit the dash when a colon is used to preface a quotation or similar
+matter, whether at the end of a break-line or not.
+
+The dash is used to mark an interruption or breaking off in the
+middle of a sentence.[66]
+
+
+_Marks of Omission._
+
+To mark omitted words three points ... (not asterisks) separated
+by en quadrats are sufficient; and the practice should be uniform
+throughout the work. Where full lines are required to mark a large
+omission, real or imaginary, the spacing between the marks should
+be increased; but the compositor should in this case also use full
+points and not asterisks.
+
+
+_Punctuation Marks generally._
+
+The following summary is an attempt to define in few words the
+meaning and use of punctuation marks (the capitals are only given for
+emphasis):
+
+A Period marks the end of a sentence.
+
+A Colon is at the transition point of the sentence.
+
+A Semicolon separates different statements.
+
+A Comma separates clauses, phrases, and particles.
+
+A Dash marks abruptness or irregularity.
+
+An Exclamation marks surprise.
+
+An Interrogation asks a question for answer.
+
+An Apostrophe marks elisions or possessive case.
+
+Quotation marks define quoted words.
+
+Parentheses enclose interpolations in the sentence.
+
+Brackets enclose irregularities in the sentence.[67]
+
+
+_Quotation Marks, or ‘Inverted Commas’ (so-called)._
+
+Omit quotation marks in poetry, as instructed on p. 45. Also omit
+them in prose extracts broken off in smaller type, unless contrary
+instructions are given.
+
+Insert quotation marks in titles of essays: e.g. ‘Mr. Brock read a
+paper on “Description in Poetry”.’ But omit quotation marks when the
+subject of the paper is an author: e.g. ‘Professor Bradley read a
+paper on Jane Austen.’
+
+Single ‘quotes’ are to be used for the first quotation; then double
+for a quotation within a quotation. If there should be yet another
+quotation within the second quotation it is necessary to revert to
+single quotation marks. Sometimes, as in the impossible example in
+the footnote, quotation marks packed three deep must be omitted.
+
+All signs of punctuation used with words in quotation marks must be
+placed _according to the sense_. If an extract ends with a point,
+then let that point be, as a rule,[68] included before the closing
+quotation mark; but not otherwise. When there is one quotation within
+another, and both end with the sentence, put the punctuation mark
+before the first of the closing quotations. These are important
+directions for the compositor to bear in mind; and he should examine
+the examples which are given in the pages which follow:
+
+  ‘The passing crowd’ is a phrase coined in the spirit of
+  indifference. Yet, to a man of what Plato calls ‘universal
+  sympathies’, and even to the plain, ordinary denizens of this
+  world, what can be more interesting than ‘the passing crowd’?[69]
+
+  If the physician sees you eat anything that is not good for your
+  body, to keep you from it he cries, ‘It is poison!’ If the divine
+  sees you do anything that is hurtful for your soul, he cries, ‘You
+  are lost!’[70]
+
+  ‘Why does he use the word “poison”?’
+
+  But I boldly cried out, ‘Woe unto this city!’[71]
+
+  Alas, how few of them can say, ‘I have striven to the very
+  utmost’!{71}
+
+Thus, notes of exclamation and interrogation are sometimes included
+in and sometimes follow quotation marks, as in the sentences above,
+according to whether their application is merely to the words quoted
+or to the whole sentence of which they form a part. The sentence-stop
+must be omitted after ? or !, even when the ? or ! precedes the
+closing ‘quotes’.
+
+In regard to the use of commas and full points with ‘turned commas’,
+the general practice has hitherto been different. When either a comma
+or a full point is required at the end of a quotation, the almost
+universal custom at the present time is for the printer to include
+that comma or full point within the quotation marks at the end of
+an extract, _whether it forms part of the original extract or not_.
+Even in De Vinne’s examples, although he says distinctly, ‘The proper
+place of the closing marks of quotation should be determined by the
+quoted words only’, no instance can be found of the closing marks
+of quotation being placed to precede a comma or a full point. Some
+writers wish to exclude the comma or full point when it does not form
+part of the original extract, and to include it when it does form
+part of it; and this is doubtless correct.
+
+There seems to be no reason for perpetuating a bad practice. So,
+unless the author wishes to have it otherwise, in all new works the
+compositor should place full points and commas according to the
+examples that follow:
+
+  We need not ‘follow a multitude to do evil’.
+
+  No one should ‘follow a multitude to do evil’, as the Scripture
+  says.
+
+  Do not ‘follow a multitude to do evil’; on the contrary, do what is
+  right.
+
+When a number of isolated words or phrases are, for any reason,
+severally marked off by ‘turned commas’ (e.g. in order to show that
+they are not the expressions which the author would prefer to use, or
+that they are used in some technical sense), the closing quotation
+mark should precede the punctuation mark, thus:
+
+  ‘Such odd-sounding designations of employment as “scribbling
+  miller”, “devil feeder”, “pug boy”, “decomposing man”, occur in the
+  census reports.’
+
+  _in my voice_, ‘so far as my vote is concerned’. _parlous_,
+  ‘perilous’, ‘dangerous’, ‘hard to deal with’.
+
+But when a quotation is complete in itself, either as a sentence or
+a paragraph, the final quotation mark is to be placed outside the
+point. For example:
+
+  ‘If the writer of these pages shall chance to meet with any that
+  shall only study to cavil and pick a quarrel with him, he is
+  prepared beforehand to take no notice of it.’ (_Works of Charles
+  and M. Lamb_, Oxford edition, i. 193.)
+
+Where a quotation is interrupted by an interpolated sentence, the
+punctuation must follow the sense of the passage, as in the following
+examples:
+
+  1. ‘At the root of the disorders’, he writes in the Report, ‘lies
+  the conflict of the two races.’ In this example the comma is placed
+  _outside_ the quotation mark, as it forms no part of the original
+  punctuation.
+
+  2. ‘Language is not, and never can be,’ writes Lord Cromer, ‘as in
+  the case of ancient Rome, an important factor in the execution of a
+  policy of fusion.’ In this example the comma is placed _inside_ the
+  quotation mark, as it forms part of the original punctuation.
+
+In the case of dialogues, the punctuation mark should precede the
+quotation mark, as:
+
+  ‘You hear him,’ said Claverhouse, smiling, ‘there’s the rock he
+  splits upon; he cannot forget his pedigree.’
+
+
+_Punctuation in Classical and Philological Notes._
+
+In notes on English and foreign classics, as a rule[72] follow the
+punctuation in the following examples:
+
+  5. _Falls not_, lets not fall. (That is, a comma is sufficient
+  after the lemma where a simple definition follows.)
+
+  17. _swoon._ The spelling of the folios is ‘swound’. (Here a full
+  point is used, because the words that follow the lemma comprise a
+  complete sentence.)
+
+Note, as to capitalization, that the initial letter of the word or
+phrase treated (as in _Falls not_ above) should be in agreement with
+the text.
+
+The lemma should be set in italics or clarendon, according to
+directions.
+
+
+_Punctuation Marks and References to Footnotes in juxtaposition._
+
+The relation of these to each other is dealt with on p. 70. Examples
+of the right practice are to be found on many pages of the present
+work.
+
+
+_Points in Title-pages, Headlines, &c._
+
+All points are to be omitted from the ends of lines in titles,
+half-titles, page-headings, and main cross-headings, in Clarendon
+Press works, unless a special direction is given to the contrary.
+
+
+FOOTNOTES:
+
+[49] e.g. _Spelling and Punctuation_, by H. Beadnell (Wyman’s
+Technical Series); _The King’s English_ (Clarendon Press), containing
+a valuable chapter on Punctuation; _Stops; or, How to Punctuate_, by
+P. Allardyce (Fisher Unwin); _Correct Composition_, by T. L. De Vinne
+(New York, Century Co.); or the more elaborate _Guide pratique du
+compositeur_, &c., by T. Lefevre (Paris, Firmin-Didot).
+
+[50] _Practical Printing_, by Southward and Powell, p. 191.
+
+[51] De Vinne, _Correct Composition_, pp. 241-2.
+
+[52] How much depends upon punctuation is well illustrated in a
+story told, I believe, by the late G. A. Sala, once a writer in the
+_Daily Telegraph_, about R. B. Sheridan, dramatist and M.P. In the
+House of Commons, Sheridan one day gave an opponent the lie direct.
+Called upon to apologize, the offender responded thus: ‘Mr. Speaker I
+said the honourable Member was a liar it is true and I am sorry for
+it.’ Naturally the person concerned was not satisfied; and said so.
+‘Sir,’ continued Mr. Sheridan, ‘the honourable Member can interpret
+the terms of my statement according to his ability, and he can put
+punctuation marks where it pleases him.’—H. H.
+
+[53] Below is a puzzle passage from the _Daily Chronicle_, first with
+no points, and then with proper marks of punctuation: ‘That that is
+is that that is not is not is not that it it is.’ ‘That that is, is;
+that that is not, is not; is not that it? It is.’—H. H.
+
+[54] De Vinne, _Correct Composition_, p. 244.
+
+[55] Beadnell, pp. 99, 100.
+
+[56] Nevertheless the reader is not to be commended who, being told
+that the word however was usually followed by a comma, insisted upon
+altering a sentence beginning ‘However true this may be,’ &c., to
+‘However, true this _may_ be,’ &c. This is the late Dean Alford’s
+story. See _The Queen’s English_, p. 124, ed. 1870.—H. H.
+
+[57] Beadnell, p. 101.
+
+[58] Id., pp. 95-107.
+
+[59] Beadnell, pp. 109, 110.
+
+[60] Id., p. 111.
+
+[61] Id., p. 112.
+
+[62] All the examples are from Beadnell, pp. 113-17.
+
+[63] Beadnell, pp. 118-19.
+
+[64] Id., p. 120.
+
+[65] Some writers mark this form of composition quite arbitrarily.
+For instance Charles Dickens uses colons: ‘As he sat down by the old
+man’s side, two tears: not tears like those with which recording
+angels blot their entries out, but drops so precious that they use
+them for their ink: stole down his meritorious cheeks.’—_Martin
+Chuzzlewit_, Oxford ed., p. 581.
+
+[66] There is one case, and only one, of an em rule being used in
+the Bible (A.V.), viz. in Exod. xxxii. 32; where, I am told by the
+Rev. Professor Driver, it is correctly printed, to mark what is
+technically called an ‘aposiopesis’, i.e. a sudden silence. The
+ordinary mark for such a case is a two-em rule.—H. H.
+
+[67] De Vinne, _Correct Composition_, p. 288.
+
+[68] I say ‘as a rule’, because if such a sentence as that which
+follows occurred in printing a secular work, the rule would have to
+be broken. De Vinne prints:
+
+‘In the New Testament we have the following words: “Jesus answered
+them, ‘Is it not written in your law, “I said, ‘Ye are gods’”?’”’ [H.
+H.]
+
+[69] Beadnell, p. 116.
+
+[70] Id., p. 126.
+
+[71] Allardyce, p. 74.
+
+[72] There are exceptions, as in the case of works which have a
+settled style of their own.
+
+
+
+
+FIGURES AND NUMERALS
+
+IN ARABIC OR ROMAN
+
+
+Do not mix old-style and new-face figures in the same book without
+special directions.
+
+Nineteenth century, not 19th century.
+
+Figures to be used when the matter consists of a sequence of stated
+quantities, particulars of age, &c.
+
+Example:
+
+  ‘Figures for September show the supply to have been 85,690 tons, a
+  decrease on the month of 57 tons. For the past twelve months there
+  is a net increase of 5 tons.’
+
+  ‘The smallest tenor suitable for ten bells is D flat, of 5 feet
+  diameter and 42 cwt.’
+
+In descriptive matter, numbers under 100 to be in words; but print
+‘90 to 100’, not ‘ninety to 100’.
+
+Spell out in such instances as—
+
+  ‘With God a thousand years are but as one day’; ‘I have said so a
+  hundred times’.
+
+Insert commas with four or more than four figures, as 7,642; but
+print dates without commas, as 1908; nor should there be commas in
+figures denoting pagination or numbering of verse, even though there
+may be more than three figures. Omit commas also in Library numbers,
+as—British Museum MS. 24456.
+
+Roman numerals to be preferred in such cases as Henry VIII,
+&c.—which should never be divided; and should only be followed
+by a full point when the letters end a sentence. If, however, the
+author prefers the full title, use ‘Henry the Eighth’, not ‘Henry the
+VIIIth’.
+
+Use a decimal point · to express decimals, as 7·06; and print 0·76,
+_not_ ·76. When the time of day is intended to be shown, the full
+point . is to be used, as 4.30 a.m.
+
+As to dates, in descriptive writing the author’s phraseology should
+be followed; e.g. ‘On the 21st of May the army drew near.’ But in
+ordinary matter in which the date of the month and year is given,
+such as the headings to letters, print May 19, 1862; not May 19th,
+1862,[73] nor 19 May, 1862.
+
+To represent pagination or an approximate date, use the least number
+of figures possible; for example, print:
+
+  pp. 322-30; pp. 322-4, _not_ pp. 322-24. But print: pp. 16-18,
+  _not_ pp. 16-8; 116-18, _not_ 116-8.
+
+In dates: 1897-8, _not_ 1897-98 (use en rules); and from 1672 to
+1674, _not_ from 1672-74.
+
+Print: 250 B.C.; but when it is necessary to insert A.D. the letters
+should precede the year, as A.D. 250. In B.C. references, however,
+always put the full date, in a group of years, e.g. 185-122 B.C.
+
+When preliminary pages are referred to by lower-case roman numerals,
+no full points should be used after the numerals. Print:
+
+  p. ii, pp. iii-x; _not_ p. ii., pp. iii.-x.
+
+When references are made to two successive text-pages print pp. 6, 7,
+if the subject is disconnected in the two pages. But if the subject
+is continuous from one page to the other, then print pp. 6-7. The
+compositor in this must be guided by his copy. Print p. 51 sq. if the
+reference is to p. 51 and following page; but pp. 51 sqq. when the
+reference is to more than a single page following.[74]
+
+In a sequence of figures use an en rule, as in the above examples;
+but in such cases as Chapters III—VIII use an em rule.
+
+Begin numbered paragraphs: 1. 2. &c.; and clauses in paragraphs: (1)
+(2) (3), &c. If Greek or roman lower-case letters are written, the
+compositor must follow copy. Roman numerals (I. II. III.) are usually
+reserved for chapters or important sections.
+
+References in the text to footnotes should be made by superior
+figures—which are to be placed, as regards punctuation marks,
+according to the sense. If a single word, say, is extracted and
+referred to, the reference must be placed immediately after the word
+extracted and before the punctuation mark. But if an extract be made
+which includes a complete sentence or paragraph, then the reference
+mark must be placed outside the last punctuation mark. Asterisks,
+superior letters, &c., may be used in special cases. Asterisks and
+the other signs (* † ‡ &c.) should be used in mathematical works, to
+avoid confusion with the workings.
+
+In Mathematics, the inferior in P_{1}′ should come immediately
+after the capital letter.
+
+
+FOOTNOTES:
+
+[73] Sir James Murray says, ‘This is not logical: 19 May 1862 is.
+_Begin_ at day, _ascend_ to month, _ascend_ to year; not _begin_ at
+month, _descend_ to day, then _ascend_ to year.’ (But I fear we must
+continue for the present to print May 19, 1862: authors generally
+will not accept the logical form.—H. H.)
+
+[74] In references of this nature different forms are used, as—ff.,
+foll., et seq. Whichever form is adopted, the practice should be
+uniform throughout the work.
+
+
+
+
+APPENDIX I
+
+POSSESSIVE CASE OF PROPER NAMES
+
+
+Use ’s for the possessive case in English names and surnames whenever
+possible; i.e. in all monosyllables and disyllables, and in longer
+words accented on the penult; as—
+
+  Augustus’s
+  Charles’s
+  Cousins’s
+  Gustavus’s
+  Hicks’s
+  St. James’s Square
+  Nicodemus’s
+  Jones’s
+  Thomas’s
+  Zacharias’s
+  St. Thomas’s
+  Thoms’s
+
+In longer names, not accented on the penult, ’s is also preferable,
+though ’ is here admissible; e. g. Theophilus’s.
+
+In ancient classical names, use ’s with every monosyllable, e. g.
+Mars’s, Zeus’s. Also with disyllables not in -es; as—
+
+  Judas’s    Marcus’s    Venus’s
+
+But poets in these cases sometimes use s’ only; and Jesus’ is a
+well-known liturgical archaism. In quotations from Scripture follow
+the Oxford standard.[75]
+
+Ancient words in -es are usually written -es’ in the possessive, e. g.
+
+  Ceres’ rites    Xerxes’ fleet
+
+This form should certainly be used in words longer than two
+syllables, e.g.
+
+  Arbaces’
+  Aristides’
+  Miltiades’
+  Themistocles’
+
+To pronounce another ’s (= es) after these is difficult.
+
+This applies only to _ancient_ words. One writes—Moses’ law; and I
+used to alight at Moses’s for the British Museum.
+
+As to the latter example, Moses, the tailor, was a modern man, like
+Thomas and Lewis; and in using his name we follow modern English
+usage.
+
+                                                           J. A. H. M.
+
+French names ending in _s_ or _x_ should always be followed by _’s_
+when used possessively in English. Thus, it being taken for granted
+that the French pronunciation is known to the ordinary reader, and
+using Rabelais = Rabelè, Hanotaux = Hanotō, as examples, the only
+correct way of writing these names in the possessive in English is
+Rabelais’s (= Rabelès), Hanotaux’s (= Hanotōs).—H. H.
+
+[Illustration: (light bulb)]
+
+
+FOOTNOTES:
+
+[75] See p. 9 (note).—H. H.
+
+
+
+
+APPENDIX II
+
+WORKS IN THE FRENCH LANGUAGE
+
+
+The English compositor called upon to set works in the French
+language will do well, first of all, to make a careful examination
+of some examples from the best French printing-offices. He will find
+that French printers act on rules differing in many points from the
+rules to which the English compositor is accustomed; and he will not
+be able to escape from his difficulties by the simple expedient of
+‘following copy’.
+
+For works in the French language, such as classical text-books for
+use in schools, the English compositor generally gets reprint copy
+for text and manuscript for notes. It is, as a rule, safe for him
+to follow the reprint copy; but there is this difficulty, that when
+the work forms part of a series it does not always happen that the
+reprint copy for one book corresponds in typographical style with
+reprint copy for other works in the same series. Hence he should
+apply himself diligently to understand the following rules; and
+should hunt out examples of their application, so that they may
+remain in his memory.[76]
+
+1. _Capital and lower-case letters._—In the names of authors of
+the seventeenth century, which are preceded by an article, the
+latter should commence with a capital letter: La Fontaine, La
+Bruyère.[77] Exceptions are names taken from the Italian, thus: le
+Tasse, le Dante, le Corrège.[78] As to names of persons, the usage
+of the individuals themselves should be adopted: de la Bruyère (his
+signature at the end of a letter), De la Fontaine (end of fable ‘Le
+Lièvre et la Tortue’), Lamartine, Le Verrier, Maxime Du Camp. In
+names of places the article should be small: le Mans, le Havre, which
+the Académie adopts; la Ferté, with no hyphen after the article,
+but connected by a hyphen with different names of places, as la
+Ferté-sous-Jouarre.
+
+Volumes, books, titles, acts of plays, the years of the Republican
+Calendar, are put in large capitals: An IV, acte V, tome VI; also
+numerals belonging to proper names: Louis XII; and the numbers of the
+arrondissements of Paris: le XV^e arrondissement.
+
+Scenes of plays, if there are no acts, are also put in large caps.:
+_Les Précieuses ridicules_, sc. V; also chapters, if they form the
+principal division: _Joseph_, ch. VI. If, however, scenes of plays
+and chapters are secondary divisions, they are put in small capitals:
+_Le Cid_, a. I, sc. II; _Histoire de France_, liv. VI, ch. VII. The
+numbers of centuries are generally put in small capitals: au XIX^e
+(or XIX^{ème}) siècle.
+
+The first word of a title always takes a capital letter: J’ai
+vu jouer _Les Femmes savantes_; on lit dans _Le Radical_. If a
+substantive in a title immediately follows _Le_, _La_, _Les_, _Un_,
+_Une_, it is also given a capital letter, thus: _Les Précieuses
+ridicules_. If the substantive is preceded by an adjective, this
+also receives a capital letter: _La Folle Journée_; if, however,
+the adjective follows, it is in lower-case: _L’Âge ingrat_. If the
+title commences with any other word than le, la, les, un, une, or an
+adjective, the words following are all in lower-case: _De la terre à
+la lune_; _Sur la piste_.
+
+In titles of fables or of dramatic works the names of the characters
+are put with capital initials: Le Renard et les Raisins; Le Lion et
+le Rat; Marceau, ou les Enfants de la République.
+
+In catalogues or indexes having the first word or words in
+parentheses after the substantive commencing the line, the first
+word thus transposed has a capital letter: Homme (Faiblesse de l’);
+Honneur (L’); Niagara (Les Chutes du).
+
+If the words in parentheses are part of the title of a work, the
+same rule is followed as to capitals as above given: Héloïse (La
+Nouvelle); Mort (La Vie ou la).
+
+The words saint, sainte, when referring to the saints themselves,
+have, except when commencing a sentence, always lower-case initials:
+saint Louis, saint Paul, sainte Cécile. But when referring to names
+of places, feast-days, &c., capital letters and hyphens are used:
+Saint-Domingue, la Saint-Jean. (See also, as to abbreviations of
+Saint, Sainte, p. 82.)
+
+
+I. Use capital letters as directed below:
+
+(1) Words relating to God: le Seigneur, l’Être suprême, le Très-Haut,
+le Saint-Esprit.
+
+(2) In enumerations, if each one commences a new line, a capital is
+put immediately after the figure:
+
+  1^o L’Europe.
+  2^o L’Asie, &c.
+
+But if the enumeration is run on, lower-case letters are used: 1^o
+l’Europe, 2^o l’Asie, &c.
+
+(3) Words representing abstract qualities personified: La Renommée ne
+vient souvent qu’après la Mort.
+
+(4) The planets and constellations: Mars, le Bélier.
+
+(5) Religious festivals: la Pentecôte.
+
+(6) Historical events: la Révolution.
+
+(7) The names of streets, squares, &c.: la rue des Mauvais-Garçons,
+la place de la Nation, la fontaine des Innocents.
+
+(8) The names of public buildings, churches, &c.: l’Opéra, l’Odéon,
+église de la Trinité.
+
+(9) Names relating to institutions, public bodies, religious, civil,
+or military orders (but only the word after the article): l’Académie
+française, la Légion d’honneur, le Conservatoire de musique.
+
+(10) Surnames and nicknames, without hyphens: Louis le Grand.
+
+(11) Honorary titles: Son Éminence, Leurs Altesses.
+
+(12) Adjectives denoting geographical expressions: la mer Rouge, le
+golfe Persique.
+
+(13) The names of the cardinal points designating an extent of
+territory: l’Amérique du Nord; aller dans le Midi. (See II. (2).)
+
+(14) The word Église, when it denotes the Church as an institution:
+l’Église catholique; but when relating to a building église is put.
+
+(15) The word État when it designates the nation, the country: La
+France est un puissant État.
+
+
+II. Use lower-case initials for—
+
+(1) The names of members of religious orders: un carme (a Carmelite),
+un templier (a Templar). But the orders themselves take capitals:
+l’ordre des Templiers, des Carmes.
+
+(2) The names of the cardinal points: le nord, le sud. But see I.
+(13) above.
+
+(3) Adjectives belonging to proper names: la langue française, l’ère
+napoléonienne.
+
+(4) Objects named from persons or places: un quinquet (an argand
+lamp); un verre de champagne.
+
+(5) Days of the week—lundi, mardi; names of months—juillet, août.
+
+In plays the dramatis personae at the head of scenes are put in large
+capitals, and those not named in even small capitals:
+
+  SCÈNE V.
+
+  TRIBOULET, BLANCHE, HOMMES, FEMMES DU PEUPLE.
+
+In the dialogues the names of the speakers are put in even small
+capitals, and placed in the centre of the line. The stage directions
+and the asides are put in smaller type, and are in the text, if
+verse, in parentheses over the words they refer to. If there are two
+stage directions in one and the same line, it will be advisable to
+split the line, thus:
+
+    (Revenu sur ses pas.)
+  Oublions-les! restons.—
+                  (Il l’assied sur un banc.)
+                Sieds-toi sur cette pierre.
+
+Directions not relating to any particular words of the text are put,
+if short, at the end of the line:
+
+  Celui que l’on croit mort n’est pas mort.—Le
+  voici!      (Étonnement général.)
+
+
+2. _Accented Capitals._—With one exception accents are to be used
+with capital letters in French. The exception is the grave accent on
+the capital letter A in such lines as—
+
+  A la porte de la maison, &c.;
+  A cette époque, &c.;
+
+and in display lines such as—
+
+  FÉCAMP A GENÈVE
+  MACHINES A VAPEUR.
+
+In these the preposition A takes no accent; but we must, to be
+correct, print Étienne, Étretat; and DÉPÔT, ÉVÊQUE, PRÉVÔT in cap.
+lines.[79] Small capitals should be accented throughout, there being
+no fear of the grave accent breaking off.
+
+
+3. _The Grave and Acute Accents._—There has been an important
+change in recent years as to the use of the grave and acute accents
+in French. It has become customary to spell with a grave accent
+(`) according to the pronunciation, instead of with an acute accent
+(´), certain words such as collège (instead of collége), avènement
+(instead of avénement), &c. The following is a list of the most
+common:
+
+  allège
+  l’Ariège
+  arpège
+  avènement
+  barège
+  collège
+  le Corrège
+  cortège
+  évènement
+  florilège
+  grège
+  lège
+  Liège, liège[80]
+  manège
+  mège
+  la Norvège or Norwège
+  piège
+  privilège
+  sacrilège
+  sacrilègement
+  siège
+  solfège
+  sortilège
+  sphège[81]
+
+
+4. _Hyphens._—Names of places containing an article or the
+prepositions _en_, _de_, should have a hyphen between each component
+part, thus: Saint-Germain-des-Prés, Saint-Valery-en-Caux, although
+the Académie leaves out the last two hyphens.
+
+Names of places, public buildings, or streets, to which one or more
+distinguishing words are added, take hyphens: Saint-Étienne-du-Mont,
+Vitry-le-François, rue du Faubourg-Montmartre, le Pont-Neuf, le
+Palais-Royal, l’Hôtel-de-la-Monnaie.
+
+In numbers hyphens are used to connect quantities under 100: e. g.
+vingt-quatre; trois cent quatre-vingt-dix; but when _et_ joins two
+cardinal numbers no hyphen is used, e.g. vingt et un; cinquante et
+un. But print vingt-et-unième.
+
+
+5. _Spacing._—No spaces to be put before the ‘points de suspension’,
+i.e. three points close together, cast in one piece, denoting an
+interruption (...). In very wide spacing a thin space may be put
+before a comma,[82] or before or after a parenthesis or a bracket.
+Colons, metal-rules, section-marks, daggers, and double-daggers take
+a space before or after them exactly as words. Asterisks and superior
+figures, not enclosed in parentheses, referring to notes, take a thin
+or middle space before them. Points of suspension are always followed
+by a space. For guillemets see pp. 86, 87.
+
+A space is put after an apostrophe following a word of two or more
+syllables (as a Frenchman reckons syllables, e.g. bonne is a word of
+two syllables):—
+
+  Bonn’ petite...    Aimabl’ enfant!...
+
+Spaces are put in such a case as 10 h. 15 m. 10 s. (10 hours 15 min.
+10 sec.), also printed 10^h 15^m 10^s.
+
+Chemical symbols are not spaced, thus C^{10}H^{12}(OH)CO.OH.
+
+
+6. _Awkward divisions: abbreviated words and large numbers expressed
+in figures._—One should avoid ending a line with an apostrophe,
+such as: Quoi qu’ | il dise?
+
+If a number expressed in figures is too long to be got into a line,
+or cannot be taken to the next without prejudice to the spacing, a
+part of the number should be put as a word, thus: 100 mil- | lions.
+
+
+7. _Division of words._—Words should be divided according
+to syllables, as in what the French call épellation (i.e.
+syllabication). Therefore a consonant should never be separated from
+the vowel following. Thus divide: amou-reux, cama-rade; and always
+take over _vr_: li-vraison. If a consonant is doubled, the consonants
+may be divided: mil-lion, pil-lard, in-nocent. It is optional to
+divide ob-scurité or obs-curité, according to convenience. Vowels are
+divided only in compound words: e.g. extra-ordinaire; not Mo-abite,
+mo-yen.
+
+In compound words an apostrophe may be divided from a consonant
+following; thus: grand’-mère, grand’-route.
+
+Divide sei-gneur, indi-gnité (gn pronounced as _ni_ in ‘mania’), i.e.
+take gn over.
+
+The following divisions should be avoided: Ma-ximilien, soi-xante,
+Me-xique; é-légant. In a narrow measure a syllable of two letters
+may stand at the end of a line: ce-pendant, in-décis; but a syllable
+of two letters must not be taken over to the next line; therefore
+élégan-ce, adversi-té, are not permissible; but élégan-ces, mar-que,
+abri-cot, are tolerated.
+
+Avoid terminating a paragraph with only the final syllable of a word
+in the last line.
+
+Verbs taking the so-called euphonic _t_ should always be divided
+before the latter, thus: Viendra- | t-il?
+
+Avoid dividing abbreviated words.
+
+Etymological division finds no favour in French, unless it is in
+accord with épellation, or syllabication, as in trans-porter,
+trans-poser. But divide transi-tion, transi-ger.
+
+Mute syllables may be turned over to the next line, thus: ils
+mar-quent, les hom-mes.
+
+
+8. _Abbreviations._—Such words as article, chapitre, scène, titre,
+figure, are abbreviated only when in parentheses, as references; in
+the text they are put in full. If, in works divided into articles,
+the first article is put in full (thus: Article premier), those that
+follow may be in figures and abbreviated (as Art. 2).
+
+Saint, sainte, when they occur very often, as in religious works,
+may be abbreviated, taking a capital letter: S. Louis, Ste
+Marie. But not when they form part of the name of a place, e.g.
+Saint-Germain-des-Prés; in which case Saint- and Sainte- take a
+capital and are followed by a hyphen.[83] (See also p. 75.)
+
+The words monsieur, madame, monseigneur, messeigneurs, messieurs,
+mesdames, mademoiselle, mesdemoiselles, are written in full and all
+in lower-case when addressing a person: Oui, madame; Non, monsieur
+le duc. Also in the following instances: J’espère que monseigneur
+viendra; j’ai vu monsieur votre père. In most other cases M. (for
+monsieur), M^{me} (for madame), Mgr. or M^{gr} (for monseigneur), and
+so on, are used. The words Sa Majesté, Son Éminence, Leurs Altesses,
+when followed by another title, are put as initials, thus S. M.
+l’Empereur; but not otherwise.
+
+The name Jésus-Christ is abbreviated only when in parentheses after
+a date, thus: (337 avant J.-C.). This is more frequently printed 337
+A.J.C.
+
+Other examples of abbreviations:
+
+  liv.         (livre)
+  ch.          (chapitre)
+  t.           (tome)
+  d^o          (ditto)
+  f^o          (folio)
+  in-f^o       (in-folio)
+  in-8^o       (in-octavo)
+  in-4^o       (in-quarto)
+  ms.          (manuscrit)
+  mss.         (manuscrits)
+  n^o          (numéro)
+  P.-S.        (post-scriptum)
+  I^{er} }     (premier)
+  1^{er} }
+  II, 2^e      (deuxième)
+  etc.         (et cætera)
+  c.-à-d.      (c’est-à-dire)
+  C^{ie}       (compagnie)
+  D^r          (docteur)
+  M^e          (maître)
+  M^{lle}      (mademoiselle)
+  N.-S. J.-C.  (Notre-Seigneur Jésus-Christ)
+  C^{te}       (comte)
+  M^{is}       (marquis)
+  V^{ve}       (veuve)
+  S.A.         (Son Altesse)
+  LL. AA. II.  (Leurs Altesses Impériales)
+
+Abbreviations of metric signs:
+
+  [84]Mm.       (myriamètre)
+  {84}Km.       (kilomètre)
+  {84}Hm.       (hectomètre)
+  dam.         (décamètre)
+  m.           (mètre)
+  dm.          (décimètre)
+  cm.          (centimètre)
+  mq.          (mètre carré)
+  mm.          (millimètre)
+  mmq.         (millimètre carré)
+  mmc.         (millimètre cube)
+  ha.          (hectare)
+  a.           (are)
+  ca. or m^2.  (centiare)
+  das.         (décastère)
+  s. or m^3.   (stère)
+  ds.          (décistère)
+  t.           (tonne)
+  q.           (quintal métrique)
+  kg.          (kilogramme)
+  hg.          (hectogramme)
+  dag.         (décagramme)
+  g.           (gramme)
+  dg.          (décigramme)
+  cg.          (centigramme)
+  mg.          (milligramme)
+  kl.          (kilolitre)
+  hl.          (hectolitre)
+  dal.         (décalitre)
+  l.           (litre)
+  dl.          (décilitre)
+  cl.          (centilitre)
+  ml.          (millilitre)
+
+Put: 20 francs, 20 mètres, 20 litres, 20 milligrammes. If, however,
+followed by fractions, then put—20 fr. 50, or 20^{fr},50; 20 m. 50,
+or 20^m,50; 20 l. 50, or 20^l,50; 20 kilog. 5, or 20^{kilo},5.
+
+In works crowded with figures, one can even put—0^m,5 for 5
+décimètres; 0^m,15 for 15 centimètres; 0^m,008 for 8 millimètres.
+
+The cubic metre followed by a fraction is given thus: 4^{mc},005 or
+4^{m3},005 (= 4 mètres cubes 5 millimètres cubes); the square metre
+thus: 4^{mq},05 or 4^{m2},05 (= 4 mètres carrés 5 décimètres carrés).
+
+The French use a decimal comma instead of a decimal point—2,3 = 2·3.
+
+The words kilogrammes, kilomètres, and kilogrammètres, followed
+by fractions, are given thus: 50 kg. 3 or 50^{kg},3; 5 km. 3 or
+5^{km},3; 2 kgm. 4 or 2^{kgm},4.
+
+Per cent. is generally put 0/0, but pour 100, p. 100, and % are also
+used. In business letters pour cent is always pour %, e.g. A trente
+jours, 3 pour % d’escompte.
+
+9. _Numerals._—When cardinal numbers are expressed in Roman
+lower-case letters, the final unit should be expressed by a j, not an
+i, thus: ij, iij, vj, viij.
+
+Numbers are put in full if only occasionally occurring in the text.
+If used statistically, figures are used.
+
+Degrees of temperature are generally given thus: 15°, 15 (in English
+15° 15′).
+
+Age or the time of day must be given in full: huit ans, six heures
+(eight years, six o’clock).
+
+Dates, figures, &c., are put in full in legal documents: l’an mil
+neuf cent quatre (the year one thousand nine hundred and four).
+
+One should not put ‘de 5 à 6,000 hommes’, but ‘de 5,000 à 6,000
+hommes’.
+
+Commas in figures are used as in English, thus: 20,250 fr. 25 or
+20,250^{fr},25. But dates, and numbers in general, are always put
+without a comma: l’année 1466; page 1250; Code civil, art. 2000.
+
+Fractions with a horizontal stroke are preferred in mathematical and
+scientific works; but in ordinary works the diagonal stroke is used,
+thus: 1/2, 2/3 (½, ⅔).
+
+In logarithm tables the fractional part of a logarithm is printed
+with spaces, thus: Log. 2670 = 3, 426 5113; and also: Log. 2670 = 3,
+4 265 113.
+
+10. _Roman and italic._—In algebraical formulae the capital letters
+are always put in roman and the small letters in italic. If, however,
+the text is in italic, the small letters are put in roman type.
+
+The titles of works, of plays, of journals, names of ships, of
+statues, and titles of tables mentioned in the text, are put in
+italic; thus: La pièce _La Chatte blanche_; J’ai vu _Les Rois en
+exil_; On lit dans _Le Figaro_; le journal _Le Temps_; le transport
+_Bien-Hoa_.
+
+Foreign words[85] and quotations are, as in English, italicized: Agir
+_ab irato_; _Cave canem!_ lisait-on....
+
+Superior letters in words italicized should be in italic, thus:
+_Histoire de Napoléon I^{er}_.
+
+11. _Reference figures._—References to notes are generally rendered
+thus: (1), or thus: ^1. Sometimes an asterisk between parentheses (*)
+or standing alone *, or italic superior letters (^_a_), are used. The
+second example (^1) is the best from the English point of view.
+
+The figure in the note itself is put either 1. or (1) or ^1. In many
+works the reference figure is put ^1, and the note-figure 1.
+
+12. _Metal-rules._—These serve in French to denote conversational
+matter, and take a thick space (or more, if necessary) after them. In
+fact, metal-rules, as in German, always have a space before or after,
+and are never put close to a word as in English. They are likewise
+never put after colons.
+
+They are also used to give more force to a point: Il avait un cœur
+d’or, — mais une tête folle; et vraiment, — je puis le dire, — il
+était d’un caractère très agréable.
+
+They are likewise used, as in English, for intercalations: Cette
+femme — étrangère sans doute — était très âgée.
+
+13. _Quotation marks._—The French use special quotation marks « »
+(called guillemets). A guillemet is repeated at the head of every
+subsequent paragraph belonging to the quotation.
+
+In conversational matter, guillemets are sometimes put at the
+commencement and end of the remarks, and the individual utterances
+are denoted by a metal-rule (with a space after). But it is more
+common to dispense with guillemets altogether, and to denote the
+commencement of the conversation by only a metal-rule. This is an
+important variation from the English method.
+
+If the » comes after points de suspension, a middle space is put
+before and after it:
+
+  La cour a décrété qu’ « attendu l’urgence... » .
+
+If, in dialogues, a passage is quoted, the « is put before the
+metal-rule:
+
+  « — Demain, à minuit, nous sortirons enfin! »
+
+In tables and workings the » is used to denote an absent quantity:
+
+  125 . 15    130   »
+   10   »      15 . 25
+
+If a sentence contains a citation, the point at the end of the latter
+is put before the », and the point belonging to the sentence after:
+
+  « Prenez garde au chien! » , lisait-on à l’entrée des maisons
+  romaines.
+
+If the matter quoted ends with a full stop, and a comma follows in
+the sentence, the full stop is suppressed:
+
+  « C’est par le sang et par le fer que les États grandissent » , a
+  dit Bismarck.
+
+Also, if the point at the end of the citation is a full stop, and the
+sentence ends with a note of interrogation or exclamation, the full
+stop is suppressed:
+
+  A-t-il dit: « Je reviendrai » ?
+
+If citation and sentence end with the same point, or if the sentence
+ends with a full stop, only the citation is pointed:
+
+  Quel bonheur d’entendre: « Je vous aime! »
+  A-t-il dit: « Qui est ici? »
+  Il a dit: « Je viendrai. »
+
+But if the punctuation of the citation differs from that of the
+sentence, both points are put:—
+
+  A-t-il dit: « Quel grand malheur! » ?
+
+Guillemets should have before and after them the same space as
+between words.
+
+In the case of a citation within a citation, the « must stand at the
+commencement of each line of the enclosed citation:
+
+  On lit dans _Le Radical_: « Une malheureuse erreur a été commise
+  par un de nos artistes du boulevard. Ayant à dire: « Mademoiselle,
+  je ne « veux qu’un mot de vous! » , il a fait entendre ces paroles:
+  « Mademoiselle, je ne veux qu’un mou de « veau! »
+
+In passages quoted down the side put an en quad after the «
+commencing each line.
+
+Only one » is put at the end of two citations ending simultaneously.
+
+
+FOOTNOTES:
+
+[76] I am greatly indebted to M. Désiré Greffier, author of _Les
+Règles de la composition typographique, à l’usage des compositeurs,
+des correcteurs et des imprimeurs_, and to his publisher, M. Arnold
+Muller, of the Imprimerie des Beaux-Arts, 36 Rue de Seine, Paris,
+for permission to translate and make extracts from this useful
+brochure.—H. H.
+
+[77] M. Greffier carefully explains that in putting capitals to the
+articles in the case of these and similar names he differs from the
+Académie française.—H. H.
+
+[78] Many now write ‘Dante’ for ‘le Dante’; ‘Tasse’ is also met with
+for ‘le Tasse’.—H. H.
+
+[79] M. Reyne, proof-reader in the National Government
+Printing-Office, Paris, tells me that there is no uniformity of
+practice in French printing-offices in regard to the accentuation of
+capital letters generally, although there is a consensus of opinion
+as to retaining accents for the letter E. As to the grave accent on
+the capital letter A, the two extracts which follow are sufficient
+authority:
+
+‘The letter A, when a capital, standing for à, is never accented by
+French printers. This, I know, is a rule without exception; and one
+of the reasons given is that the accented capital is “ugly”. A better
+reason is that the accent often “breaks off”.’—Mr. LÉON DELBOS,
+M.A., _late Instructor in French to Royal Naval Cadets in H.M.S.
+‘Britannia’_.
+
+‘The practice of omitting the grave accent on the preposition A
+(whatever the reason of it may be) is all but universal.’—Mr. E. G.
+W. BRAUNHOLTZ, M.A., Ph.D., _Reader in the Romance Languages in the
+University of Cambridge_. [H. H.]
+
+[80] ‘The rule about è instead of é, as in collège instead of
+collége, should be strictly adhered to, as it now is by most French
+people. However, é cannot be changed into è unless it have that
+sound; hence it is not right to say Liègeois, for the sound is that
+of é; but Liège is correct. Note that Liégeois takes an e after the
+g.’—Mr. LÉON DELBOS.
+
+[81] The list is from Gasc’s _Dictionary of the French and English
+Languages_: G. Bell & Sons, 1889.
+
+[82] The English practice, never to put a space before a comma, is
+regarded by the best French printers as bad. ‘This vicious practice’
+(i.e. putting no space before a comma), says M. Théotiste Lefevre,
+‘which appears to us to have no other motive than the negligence of
+the compositor, tends unhappily, from day to day, to get introduced
+also into French composition.’—_Guide pratique du compositeur et
+de l’imprimeur typographes_ (p. 196 _n_.) par T. Lefevre. Paris,
+Firmin-Didot, 1883.—H. H.
+
+[83] St-Germain, Ste-Catherine, l’église de St-Sulpice, St-Hilaire,
+la St-Jean, are however met with in railway time-tables, &c.
+
+[84] Mm. Km. Hm. These capitals and all the metric contractions are
+authorized by the French Minister of Public Instruction.—H. H.
+
+[85] That is, words foreign to French.—H. H.
+
+
+
+
+APPENDIX III
+
+WORKS IN THE GERMAN LANGUAGE[86]
+
+
+English compositors called upon to set up German should have clear
+directions beforehand as to the founts to be used, whether English
+or German. If the manuscript is in well-written German script, and
+the compositor is acquainted with the German characters, he will find
+little difficulty in setting this up in German type. It is otherwise
+if he has to set German in its own characters from manuscript in
+Roman characters. This is owing principally to the numerous digraphs
+and the long and short s’s used. The following rules will be found of
+use in both cases:
+
+
+1. _Capitals and lower-case._—All German substantives are written
+with capital initial letters; and capital letters are also used for
+adjectives in geographical designations, e.g. =das Kaspische Meer=
+(the Caspian Sea), or in adjectives derived from proper names, e.g.
+=die Grimmschen Märchen= (_Grimm’s Fairy Tales_); but as a rule
+adjectives, even when relating to nationality, have lower-case
+initials, not excepting titles of books, &c., thus: =das deutsche
+Vaterland, die französische Revolution= (the German Fatherland, the
+French Revolution).
+
+The =von= in German names of persons begins with a small letter
+(unless of course when it commences a sentence), e.g. =Herr von
+Bülow=.
+
+The =von= in such cases requires only a thin space after it:
+=Geschrieben von von Richter= (written by von Richter).
+
+
+2. _The Reformed German Spelling of 1902._—All words of German
+origin ending in =th=, as =Muth=, =Rath=, now drop the =h= and
+become =Mut=, =Rat=, &c. =That= has become =Tat=, =Thor= is now
+=Tor=. =Willkühr= has become =Willkür=. =Thee= is now spelt =Tee=.
+But =Thron=, =Theater=, &c., being derived from Greek, keep =th=.
+Also =ph= in words of German origin is now supplemented by =f=, thus
+=Efeu= (for =Epheu=); =Adolf=, =Rudolf=, =Westfalen= (for =Adolph=,
+=Rudolph=, =Westphalen=). Likewise =Elefant=, =Fasan=, =Sofa=. But
+=Phonograph=, =Philosoph=, =Symphonie=, being learned words of Greek
+origin. =Z= is more and more used for =C=, thus: =Zentrum= for
+=Centrum=; =Zentner=, =Zirkus=. =Ae=, =Oe=, Ue, are always rendered
+=Ä=, =Ö=, =Ü=.
+
+Three identical letters should not come together before a vowel.
+Consequently print =Schiffahrt=, not =Schifffahrt= (but in dividing
+print =Schiff~fahrt=). =Mittag=, =dennoch= (from =Mitt~tag=,
+=denn~noch=), are invariable. The plural of =See= is no longer
+=Seeen=, but =Seen=; in narrow measure divide =See~en=.
+
+The suffix =niſz= is now =nis=: =Hindernis=.
+
+The verbal suffix =iren= is now uniformly written =ieren=, thus:
+=addieren=, =subtrahieren=, =multiplizieren=, =dividieren=,
+=marschieren=.
+
+A detailed list of the new German, Austrian, and Swiss
+orthographies[87] may be obtained through any bookseller. A few
+German writers still object to the modern spelling; in such cases, of
+course, copy should be followed.
+
+
+3. _Hyphens in German._—If two or more words follow one another,
+relating to a common part of speech with which they form a
+compound, all except the last take a hyphen, thus: =Hut- und
+Krawattenfabrikant= (hat and tie manufacturer). Compound words in
+German are now printed as one word.
+
+
+4. _Division of words in German._—Prefixes should of course remain
+intact, such as =an=, =auf=, =ent=, =emp=, =er=, =ver=, =vor=,
+=über=, =zer=. Thus: =an~fangen=, =auf~fahren=, =ent~zweien=,
+=emp~finden=, =er~fahren=, =ver~ändern=, =vor~rücken=, =über~reden=,
+=zer~ſtoſzen=. In narrow measure divide =ge~ben=, =tra~gen=,
+=he~bung=, =le~bend=, =mä~hen=, =ſa~gen=, =Tü~cher=, =lö~ſchen=. (See
+under paragraph 2 of this Appendix, ‘Reformed Spelling’, for three
+identical letters coming together. See also under 7, 11, 14.)
+
+
+5. _Spaced words._—In these the following compound letters should
+never be spaced: =ch=, =ck=, =ſt=, =ſz=, =tz=. The following are
+spaced: =ff=, =fi=, =fl=, =ll=, =ſi=, =ſſ=. That is, two different
+consonants coming together (except =f= and =l=) are not spaced; but a
+consonant and vowel, and double consonants, are to be spaced.
+
+
+6. _Prepositional and other prefixes in German._—When =auf= precedes
+a part of speech commencing with =f=, the two =f=’s should not form
+one letter. Print =auffahren=, not =auffahren=.
+
+So also, when =aus= is prefix to a part of speech beginning with
+an =ſ=, it should not form with the latter an =ſz= or =ſſ= if
+German type is used. Print =ausſprechen=, not =ausſzprechen= or
+=auſſprechen=.
+
+If =ent= precedes a part of speech beginning with =z=, the =t= and
+=z= do not form one letter, but remain separate: =entzweien=, not
+=entzweien=.
+
+
+7. _Suffixes_ =lich=, =zig=.—The letter =l= in the former should not
+be joined to a preceding =f=, nor the letter =z= in the latter to a
+preceding =t=. Print =verwerflich=, not =verwerflich=; =achtzehn=,
+=achtzig=, not =achtzehn=, =achttzig=. So also, in dividing, put
+=verwerf~lich= (or =ver~werflich=) and =acht~zehn=, =acht~zig=.
+
+
+8. _German in Roman type._—In Roman type =ſz= is now rendered =ß=
+(better than ſs)[88]; =ſſ= becomes ss; and in spaced words all
+letters (except =ß=) are separated. When Roman capital letters are
+used, =ſz= becomes SZ. Thus MASZE (=Maſze=, measures) (with long
+_a_), not MASSE (=Maſſe=, substance) (with short _a_).
+
+
+9. _Metal-rules in German._—Spaces are always put before and after a
+rule in a sentence, wide spaces in a widely spaced line, thin spaces
+in a narrowly spaced one, exactly as with words, thus: =Er sagte —
+nicht ohne Zaudern —, daſz er gehen müſſe=.[89]
+
+Rules are not put after colons.
+
+10. _Quotation marks in German._—The commencement of a quotation is
+indicated by commas followed by a thin space; the close by turned
+commas. A quotation within a quotation is usually rendered by a
+single Roman comma at commencement, and by a turned Roman comma at
+the end[90]; thus: =Er ſagte mir: „Gehe nicht hin, denn es heiſzt,
+daſz es dort von ,Geistern‛ spukt.‟=[91]
+
+11. =ll=.—This is always printed as one letter at the end of a
+syllable or word, as also in the body of a word if the latter is not
+a compound, thus: =Schaliloch= (now, however, written =Schalloch=,
+but divided =Schall~loch=); =will, ſoll=; =wollen, ſollen=. But in
+compound words, in which the first =l= ends a syllable and the second
+=l= commences the next one, the two =l=’s must be separated, thus:
+=vielleicht= (divided =viel~leicht=).
+
+12. =ſſ=, =sſ=.—Both in Roman type = ss. The first (=ſſ=) is used
+after short vowels, thus: =eſſen=, =müſſen=.
+
+The second (=sſ=) is employed when the first s ends one syllable
+and the second commences the next, each syllable giving sense
+taken singly, i. e. in compounds, thus: =Eisſcholle= (ice-block),
+=dasſelbe=, =desſelben=.
+
+13. =ſz=.—After long vowels or diphthongs and if followed by e or
+i of a less strongly accented syllable[92]: =ſpaſzen=, =grüſzen=,
+=heiſzen=, =Süſzigkeit=; also after short or long vowels or
+diphthongs if followed by =t=: =haſzt=, =ſpaſzt=, =küſzt=, =grüſzt=,
+=iſzt=, =genieſzt=, =heiſzt=; and also at the end of words or first
+part of compounds, whether the preceding vowel be long or short:
+=Schloſz=, =groſz=, =eſzbar=, =faſzlich=.
+
+
+14. _Double letters._—=ch=, =ck=, =ff=, =fi=, =fl=, =ll=, =ſi=,
+=ſſ=, =ſt=, =fz=, =tz=. No triple letters, like the English ffi, ffl,
+are used in German.—ffi, ssi, are usually printed =ffi=, =ſſi=, as
+=pfiffig=, =biſſig=; ffl is printed =ffl=, as =trefflich=.
+
+As regards =fl=, the =f= and =l= must be separated if the latter
+belongs to a suffix, thus: =ſchlaflos=, not =ſchlaflos=.
+
+
+15. =ſ, s.=—The long _s_ is used at the beginning, the short _s_ at
+the end of syllables (=ſagen=, =laſen=, =las=, =das=, =Häuschen=).
+
+
+16. _Abbreviations in German._—The most common are: =uſw=. (= =und
+so weiter=, and so on, et cetera); =z. B.= (= =zum Beiſpiel=, for
+example); =d. h.= (= =das heiſzt=, that is to say); =d. i.= (= =das
+iſt=, that is); =dgl.= (= =dergleichen=, such like, similar cases);
+=u. a. m.= (= =und andere mehr=, and others); =ſ.= (= =ſiehe=, see);
+=ſ. o.= (= =ſiehe oben=, see above); =ſ. u.= (= =ſiehe unten=, see
+below); =u. ö.= (= =und öfter=, _passim_); =ſog.= (= =ſogenannt=,
+so-called); =bzw.= (= =beziehungsweiſe=, respectively); =Aufl.=
+(= =Auflage=, unaltered edition); =Ausg.= (= =Ausgabe=, revised
+edition); =Abt.= (= =Abteilung=, division); =Abſchn.= (= =Abſchnitt=,
+section); =a. a. O.= (= =am angeführten Orte=, in the place cited);
+=Bb.= (= =Band=, volume); =Hs.= (= =Handſchrift=, manuscript);
+=hss.= (= =Handſchriften=, manuscripts)[93].
+
+After ordinal numbers a full point is put where we put ‘1st, 2nd’,
+&c., thus: 1. =Heft= (or 1. =H.=, = =erſtes Heft=, first number);
+2. =Band= (or 2. =Bd.=, = =zweiter Band=, second volume). This full
+point is often mistaken by compositors and readers for a full stop.
+
+For & in ‘&c.’ the Germans have a special character _&_, thus: _&c_.;
+but =uſw.= now generally takes its place.
+
+
+17. _The Apostrophe._—Print =iſt’s=, =geht’s= (for =iſt es=, =geht
+es=); but where a preposition and the article =das= are merged, omit
+the apostrophe; thus =ans= (for =an das=), =ins= (for =in das=),
+=durchs= (for =durch das=), =fürs= (for =für das=), (_not_ =an’s=,
+=in’s=, =durch’s=, =für’s=).
+
+After proper names ending in =s=, =ſs=, =z=, used possessively, put
+an apostrophe, omitting the apostrophal _s_; thus =Voſs’ Luiſe=,
+=Demoſthenes’ Reden=, =Horaz’ Oden= (Voss’s _Louise_, Demosthenes’
+_Speeches_, Horace’s _Odes_). But put =Schillers Gedichte=
+(Schiller’s Poems).
+
+
+18. _The Comma._—In German, commas must invariably be put before
+=daſs= and before relative clauses (beginning with =der=, =die=,
+=das=, =welcher=, =welche=, =welches=, =womit=, =wodurch=, =woran=,
+=woraus=, &c. &c.). This is frequently forgotten by English
+compositors.
+
+
+19. §.—This mark (in English, ‘section’) is called in German
+‘Paragraph’.
+
+
+FOOTNOTES:
+
+[86] For many useful suggestions in this section, bringing these
+rules up to date, I am much indebted to Karl Breul, M.A., Litt.D.,
+Ph.D., Reader in Germanic at Cambridge University.—H. H.
+
+[87] A very useful book is that by K. Duden, _Orthographisches
+Wörterbuch der deutschen Sprache_, 8th ed., Leipzig, 1906. Price
+2_s._—H. H.
+
+[88] Where these founts are not yet available, ss must, as hitherto,
+be put for =ſz=.
+
+[89] He said—not without hesitation—that he must depart.
+
+[90] Single German commas are, however, also used.
+
+[91] He said to me, ‘Do not go there, for they say that “ghosts” are
+haunting that place’.
+
+[92] After short vowels and before =e= and =i= of less strongly
+accented syllables print =ſſ=: =eſſen=, =wiſſen=, =laſſen=, =küſſen=,
+=Flüſſigkeit=.
+
+[93] A very full list of German abbreviations, with explanations, is
+given in Dr. Breul’s _New German Dictionary_ (Cassell & Co., London,
+1906).
+
+
+
+
+APPENDIX IV
+
+DIVISION OF LATIN WORDS
+
+
+The general rules are practically Priscian’s. They are well
+summarized in Gildersleeve’s _Latin Grammar_.
+
+1. ‘In dividing a word into syllables, a consonant between two vowels
+belongs to the second: _a-mo_, _li-xa_.
+
+2. ‘Any combination of consonants that can begin a word (including
+_mn_, under Greek influence) belongs to the following vowel; in other
+combinations the first consonant belongs to the preceding vowel:
+_a-sper_, _fau-stus_, _li-bri_, _a-mnis_.
+
+3. ‘The combinations incapable of beginning a word are (_a_) doubled
+consonants: _sic-cus_; (_b_) a liquid and a consonant: _al-mus_,
+_am-bo_, _an-guis_, _ar-bor_.
+
+4. ‘Compounds are treated by the best grammarians as if their parts
+were separate words: _ab-igo_, _res-publica_.’
+
+
+To take a page of Cicero:
+
+_con-sequi so-lent ex-ponimus a-criter cri-mi-no-se diligen-ter a-gi
+re-rum conse-quentium miseri-cor-dia com-movebitur au-di-to-ris
+a-ni-mus osten-demus com-modis cu-ius cu-i quo-rum qui-bus-que_ (not
+_qui-bu-sque_) _us-que_ (because the parts are separate) _ca-ptabimus
+pote-statem sub-i-ci-e-mus pa-renti-bus neces-sariis cle-men-tia_.
+
+
+Again:
+
+_eius-modi, cuius-modi, huius-modi_ (not _eiu-smodi_, &c.)
+_con-iun-ctim_ (I should suppose, not _con-iunc-tim_)
+_am-plifica-stis e-stis vetu-stas hone-stus onu-stus sus-cipere
+sub-trahit ad-trahit in-struit circu-it simul-tate re-ce-den-dum
+di-co di-xi-sti di-xe-rat di-ctum a-ctum au-ctus ma-gnus i-gnis
+mali-gnus pi-gnus li-gna pec-catum demon-stra-stis_ (I am rather
+doubtful about this) _ma-gis ma-xime dif-fi-cul-tas la-brum
+la-mna lar-gus lon-ge di-gnus sum-pserim su-mo sum-mus su-prema
+propter-ea_, and probably _pro-pter-ea_ (but again I am in some
+doubt) _dis-tin-ctus dis-tin-guo ad-spectus a-spectus tem-ptavit
+il-lu-stris_. Most of these are already adopted in editions of
+authority, e.g. Nobbe’s _Cicero_, Haase’s _Seneca_.
+
+                                                       ROBINSON ELLIS.
+
+[Illustration: (light bulb)]
+
+
+
+
+APPENDIX V
+
+DIVISION OF GREEK WORDS
+
+
+A syllable ends in a vowel EXCEPT—
+
+
+1. If a consonant is doubled, the consonants are divided.
+
+Συρακούσ-σας (Bacch.[94]), πολ-λῷ (Thuc.), and so Βάκ-χος, Σαπ-φώ,
+Ἀτ-θίς.
+
+
+2. If the first of two or more consonants is a liquid or nasal,[95]
+it is divided from the others.
+
+(Two consonants) ἄμ-φακες, ἐγ-χέσπαλον[96], τέρ-πον (Bacch.), πάν-τες
+(Thuc.), ἄλ-σος.
+
+(Three consonants) ἁν-θρώποις, ἐρ-χθέντος (Bacch.), ἀν-δρῶν (Thuc.).
+
+But βά-κτρον, κάτο-πτρον, ἐ-χθρός.
+
+(Four consonants) θέλ-κτρον, Λαμ-πτραί.
+
+
+3. Compounds. For modern printing the preference must be to divide
+the compounds παρ-όντος, ἐφ-ῃπημένος (Thuc.), but ἀπέ-βη may stand as
+well as ἀπ-έβη.
+
+                                                      H. STUART JONES.
+
+
+FOOTNOTES:
+
+[94] The references are to the papyri.
+
+[95] Or according to some if it is σ—ἕκασ-τος (Hyp. Blass{96},
+p. xvii), but the preference is for πλεῖ-στοι, ἐκομί-σθησαν,
+βουλεύε-σθαι (Thuc.), ἐ-στρέφθη (s. v. l., Bacch.).
+
+[96] γ is a nasal when it precedes γ κ or χ. The other consonants
+referred to are λ μ ν and ρ.
+
+
+
+
+MARKS USED IN THE CORRECTION OF PROOFS
+
+_From_ JOHNSON’S _Typographia_ (1824), Vol. II, p. 216.
+
+[Illustration: (page of text with numerous examples of handwritten
+proofing marks.)]
+
+
+THE OPPOSITE PAGE CORRECTED
+
+_From_ JOHNSON’S _Typographia_ (1824), Vol. II, p. 217.
+
+Though a variety of opinions exist as to the individual by whom the
+art of printing was first discovered; yet all authorities concur in
+admitting PETER SCHOEFFER to be the person who invented _cast metal
+types_, having learned the art of _cutting_ the letters from the
+Guttembergs: he is also supposed to have been the first who engraved
+on copperplates. The following testimony is preserved in the family,
+by Jo. Fred. Faustus of Ascheffenburg.
+
+‘PETER SCHOEFFER of Gernsheim, perceiving his master Faust’s design,
+and being himself ardently desirous to improve the art, found out
+(by the good providence of God) the method of cutting (_incidendi_)
+the characters in a _matrix_ that the letters might easily be singly
+_cast_, instead of being _cut_. He privately _cut matrices_ for the
+whole alphabet, and when he showed his master the letters cast from
+those matrices, Faust was so pleased with the contrivance that he
+promised Peter to give him his only daughter _Christina_ in marriage,
+a promise which he soon after performed. But there were as many
+difficulties at first with these letters, as there had been before
+with _wooden ones_; the metal being too soft to support the force
+of the impression: but this defect was soon remedied, by mixing the
+metal with a substance which sufficiently hardened it.’
+
+
+
+
+SOME ENGLISH NAMES OF TYPES
+
+WITH EXAMPLES OF THEIR RELATIVE SIZES
+
+
+DOUBLE PICA:
+
+  The Clarendon
+
+GREAT PRIMER:
+
+  The Clarendon Pre
+
+ENGLISH:
+
+  The Clarendon Press Ox
+
+PICA:
+
+  The Clarendon Press, Oxfo
+
+SMALL PICA:
+
+  The Clarendon Press, Oxford,
+
+LONG PRIMER:
+
+  The Clarendon Press, Oxford, w
+
+BOURGEOIS:
+
+  The Clarendon Press, Oxford, was n
+
+BREVIER:
+
+  The Clarendon Press, Oxford, was na
+
+MINION:
+
+  The Clarendon Press, Oxford, was named
+
+EMERALD:
+
+  The Clarendon Press, Oxford, was named
+
+MINION-NONPAREIL:
+
+  The Clarendon Press, Oxford, was named a
+
+NONPAREIL:
+
+  The Clarendon Press, Oxford, was named after
+
+RUBY-NONPAREIL:
+
+  The Clarendon Press, Oxford, was named after
+
+RUBY:
+
+  The Clarendon Press, Oxford, was named after the
+
+PEARL:
+
+  The Clarendon Press, Oxford, was named after the E
+
+SMALL PEARL:
+
+  The Clarendon Press, Oxford, was named after the Earl of
+
+DIAMOND:
+
+  The Clarendon Press, Oxford, was named after the Earl of Clarendo
+
+BRILLIANT:
+
+  The Clarendon Press, Oxford, was named after the Earl of Clarendon.
+
+LONG PRIMER ITALIC:
+
+  _The Clarendon Press, Oxford, was_
+
+BLACK-LETTER:
+
+  The Clarendon Press,
+
+EGYPTIAN:
+
+  The Clarendon Press, Oxford,
+
+ANTIQUE, MODERN FACE:
+
+  The Clarendon Press, Oxford,
+
+ANTIQUE, OLD FACE:
+
+  The Clarendon Press, Oxford,
+
+GROTESQUE:
+
+  The Clarendon Press, Oxfo
+
+The following is a list of type-bodies in more common use, the first
+column giving the name of the English type-body, and the second its
+designation under the American point-system.
+
+   _English_     _American_
+  Pearl           5 point
+  Ruby            5½  ”
+  Nonpareil       6   ”
+  Minion          7   ”
+  Brevier         8   ”
+  Bourgeois       9   ”
+  Long Primer    10   ”
+  Small Pica     11   ”
+  Pica           12   ”
+
+
+
+
+GENERAL INDEX
+
+_NOTE._—_The words ending in_ -able, -ible, -ise, -ize, _and_ -ment,
+_and also others, given in alphabetical order on pp. 9-37_ (q.v.),
+_are not repeated here_.
+
+
+  A or an, use of, 39.
+    before contractions, 39.
+
+  Abbreviations, _see_ Contractions.
+    in French, 82-4.
+    in German, 93-4.
+
+  -able, words ending in, 9.
+
+  Accented -èd in poetry, 45.
+
+  Accents in French, 78-9.
+
+  A.D., 47, 69.
+
+  Allardyce on _Stops_, &c., examples from, 64.
+
+  Alternative or difficult spellings, some, 15-24.
+
+  Ampersand (&), 43.
+
+  And (with and without comma), 57.
+
+  Anglicized words, set in roman, 35-6.
+
+  Apocrypha, contractions for books of, 42.
+
+  Aposiopesis, mark of, 62.
+
+  Apostrophe, in French names ending in -s or -x, 72.
+    in German, 94.
+    in place-names, 44.
+    in poetry, 45.
+    in possessive case of proper names, 71.
+    omitted in hers, ours, theirs, yours, 44.
+    thin space before, when to use, 49.
+    when to join close up, 44.
+
+  Asterisks, as reference signs, 70.
+    in philology, 48.
+    not to be used for marks of hiatus, 62.
+
+  Authors and their works, references to, 52.
+
+  Awkward divisions, &c., 53-4, 80-1.
+
+
+  B.C., 47, 69.
+
+  Beadnell on _Spelling_, &c., 55-61.
+
+  Bible and Prayer Book spellings, 9 (note).
+
+  Bible, contractions for books of, 41-2.
+    references to chapters and verses in, 52.
+
+  Book sizes—
+    4to, 8vo, 12mo, &c., need no full points, 42.
+
+  Book titles, italic or roman, 50, 52.
+
+  Brackets, 61.
+
+  Breaklines, length of, 49.
+
+
+  Capital letters, when to use in English, 46.
+    in French, 73-7.
+    in German, 88.
+    in lemmas, 67.
+    when accented in French, 78.
+
+  Chapter, first word in small caps., 48.
+    first line to be indented, 48, 50.
+
+  -ck preceding a suffix, 15.
+
+  Colon, the, 59.
+
+  Commas—
+    ‘inverted’, 63.
+    use of, with adjectives and adverbs, 57.
+    with ‘and’, 57.
+    with more than three figures, 68, 84-5.
+
+  Compass, points of the, 43.
+
+  Compound words, 25-8.
+    plurals of, 15, 21.
+
+  Consonants, double or single with a suffix, 29.
+
+  Contractions generally, 41-5.
+    of colloquial expressions, 44.
+    of Latin words not in italic, 51.
+    of names of counties, 42.
+    of personal titles, 44.
+    of philological terms, 43.
+    of points of the compass, 43.
+    of references in footnotes, 43.
+    of references to manuscripts, 43.
+    of Scripture references, 41-2.
+    of sums of money, 51.
+    of titles of books, 44.
+    of weights and measures, 43.
+
+  Correction of proofs, marks used in, 98.
+
+  Counties, names of, abbreviated, 42.
+
+
+  Dagger † (= obsolete or deceased), 48.
+
+  Dash, the, 61.
+
+  Date at foot of title-page, 47.
+
+  Dates, how to print, 69, 84.
+
+  Decimal points, 69.
+
+  Deity, pronouns referring to the, 46.
+
+  De Vinne on _Correct Composition_, 55-6, 63.
+
+  Diaeresis signs, when to use, 17.
+
+  Difficult or alternative spellings, 15-24.
+
+  Digraphs and diphthongs, 41.
+
+  Division of words, English, 53-4.
+    French, 80-1.
+    German, 90.
+    Greek, 97.
+    Italian, 54.
+    Latin, 95-6.
+    Portuguese, 54.
+    Spanish, 54.
+
+  Double letters, in German, 93.
+
+
+  e before -able and -ment, 9, 24.
+
+  -ed, -èd, in poetry, 45.
+
+  Ellipsis, 49, 62.
+
+  Em rules, various uses of, 61-2, 70.
+
+  English words, how to divide, 53-4.
+
+  En rules, when to use, 69-70.
+
+  Erratum and Errata, when to print, 33.
+
+  ETC., ETC., &c., when to use, 43.
+
+  Exclamation, the note of, 60.
+
+  Extracts, how to print, 50.
+
+
+  Figures, commas with, 68-9.
+
+  First line of chapter, 48.
+
+  Footnotes, abbreviations in, 43, 51.
+    superior figures to refer to, 67, 70.
+
+  Foreign words and phrases, 35-7.
+    in roman, 35-6.
+    in italic, 36-7.
+
+  Foreign words, formation of plurals of, 31-3.
+
+  French language, works in the, 73-87.
+    abbreviations, 80-1, 82-4.
+    accented capital letters in, 78.
+    accented small capitals, 78.
+    accents, 78-9.
+    capital and lower-case letters, 73-8.
+    division of words, 81-2.
+    hyphens, 79-80.
+    metal-rules, 80.
+    metric signs, 83.
+    names ending in -s or -x, 72.
+    numerals, 84-5.
+    quotation marks, 86-7.
+    reference figures, 85.
+    roman and italic, 85.
+    space before comma, 80.
+    spacing generally, 80.
+
+  Full points, examples of use, 60.
+    for contractions, 43-4.
+    to denote omissions, 62.
+    when not to use, 42, 43, 68, 69.
+
+
+  German language, works in the, 88-94.
+    abbreviations, 93.
+    apostrophes, 94.
+    capital and lower-case letters, 88-9.
+    commas, 94.
+    division of words, 90.
+    double letters, 93.
+    full points, 94.
+    hyphens, 90.
+    in roman type, 91.
+    =ll=, 92.
+    metal-rules, 91.
+    paragraph mark (§), 94.
+    prepositional and other prefixes, 90-1.
+    quotation marks, 92.
+    reformed spelling, 89-90.
+    =ſ=, =s=, 93.
+    spaced words, 90.
+    =ſſ=, =sſ=, 92.
+    =ſz=, 92-3.
+    suffixes =lich=, =zig=, 91.
+
+  Greek words, how to divide, 97.
+
+  Guillemets in French, 86, 87.
+
+
+  Headlines, omission of points at end of, 67.
+
+  Head Master, note on, 25.
+
+  Hers, no apostrophe, 44.
+
+  Hyphens, use of, in English, 25-8.
+    in French, 79-80.
+    in German, 90.
+
+
+  -ible, words ending in, 11.
+
+  I’d, I’ll, &c. (no space), 44.
+
+  Indentation of first lines, 48, 50.
+
+  Initials with dates, 47.
+
+  Interrogation, the note of, 60.
+
+  ‘Inverted commas’, 63.
+
+  -ise or -ize, words ending in, 12-14.
+
+  Italian words (some), how to divide, 54.
+
+  Italic type—
+    for mathematical theorems, 51.
+    names of books and periodicals in, 50.
+    names of ships in, 51.
+    words and phrases in, 36-7, 50-1.
+
+
+  Latin words, how to divide, 95-6.
+
+  lb., singular and plural form, 43.
+
+  Lefevre, T., _Guide pratique du compositeur_, referred to, 55.
+
+  Lower-case letters, for anglicized words, 47.
+    for contractions, 43, 47.
+    in French, 73-8.
+    in German, 88-9.
+
+
+  MS. = manuscript, contraction of, 43.
+
+  Marks used in the correction of proofs, 98.
+
+  Marks of omission, 62.
+
+  Marks of parenthesis, 61.
+
+  Mathematics, inferior in, 70.
+    theorems, in italics, 51.
+
+  Measures, contractions of, 43.
+
+  Medical signs, 48.
+
+  -ment, words ending in, 24.
+
+  Metal-rules in English, 61-2, 70.
+    in French, 86.
+    in German, 91.
+
+  Metric signs in French, abbreviations of, 83.
+
+  Money, contractions in sums of, 51.
+
+  Months, names of, contracted, 42.
+
+
+  New Testament, contractions for names of books of, 42.
+
+  Newspapers, in italic, 51.
+
+  Non-hyphened words, 25-8.
+
+  Nor and or, 40.
+
+  Note of exclamation, 60-1.
+    interrogation, 60.
+
+  Numbering of paragraphs, 70.
+
+  Numerals, arabic, 68-70.
+    in French, 84-5.
+    in German, 94.
+    roman, use of, 68-70.
+
+
+  O and Oh, 39.
+
+  -o, plurals of nouns ending in, 34.
+
+  Old Testament, contractions for names of books of, 41.
+
+  Omission marks, use full points for, 62.
+
+  Ours, no apostrophe, 44.
+
+
+  Page references, citation of, 69, 70.
+
+  Paragraphs, indentation of, 48, 50.
+    numbering of, 70.
+    spacing of last line, 49.
+
+  Parenthesis, marks of, 60-1.
+
+  Period or full stop, the, 60-1.
+
+  Periodicals, names of, italic, 50.
+
+  Philological works, contractions in, 43.
+    punctuation in, 67.
+    use of symbols in, 48.
+
+  Phonetic spellings, 38.
+
+  Place-names, use of apostrophes in, 44-5.
+
+  Plates, &c., references to, 47.
+
+  Plurals, formation of, in words of foreign origin, 31-2.
+    of nouns ending in -o, 34.
+
+  Poetry, ’d, -ed, and -èd in, 45.
+    quotations from, 45.
+    spacing of, 49.
+
+  Points (punctuation marks), 62.
+    decimal, 69.
+    full, when to omit, 42, 43, 68, 69.
+    in title-pages, &c., 67.
+
+  Points of the compass, 43.
+
+  Portuguese words (some), how to divide, 54.
+
+  Possessive case of proper names, 71-2.
+
+  Prefixes in German, prepositional and other, 90-1.
+
+  Pronouns, Deistic, capitalization of, 46.
+    omission of apostrophe in, 54.
+
+  Proofs, marks used in correcting, 98.
+
+  Proper names, adjectives derived from, 46.
+    common words derived from, 47.
+    possessive case of, 71-2.
+
+  PS. = postscript (one full point), 43.
+
+  Punctuation generally, 55-67.
+    colon, 59-60.
+    comma, 57-8.
+    dash, 61-2.
+    note of exclamation, 60-1.
+    note of interrogation, 60.
+    parenthesis, 61.
+    period or full stop, 60-1.
+    semicolon, 58-9.
+
+  Punctuation marks generally, 62-3.
+    in classical and philological notes, 67.
+    in relation to footnotes, 67.
+    quotation marks, 63.
+    when to precede, and when to follow, the closing quotation mark,
+        63-7.
+
+
+  Quotation marks, 63-7.
+    in essays, 63.
+    in French, 86-7.
+    in German, 92.
+    ‘inverted commas’ (so-called), 63.
+
+  Quotations from foreign books, &c., 50.
+    poetical, 45, 63.
+    prose, 63.
+    when to break off, 50.
+
+
+  Reference figures in French, 84-5.
+
+  References generally, 52.
+    to authors and their works, 52.
+    to the Bible, 41-2, 52.
+    to footnotes, 70.
+    to manuscripts, 43, 52.
+    to periodicals, 50.
+    to plates, woodcuts, &c., 47.
+    in relation to punctuation marks, 67.
+    to Shakespeare’s plays, &c., 52.
+    to ships, 51.
+
+  Roman and italics in French, 85.
+
+  Roman numerals, use of, 68-70.
+
+  Roman type, German works in, 91.
+    anglicized words in, 35-6.
+
+
+  =ſ=, =s=, 93.
+
+  ’s, thin space before apostrophe, when to use, 49.
+
+  Scripture references, 41-2, 52.
+
+  Semicolon, the, 58-9.
+
+  Shakespeare, spelling of the name, 23.
+
+  Shakespeare’s plays, references to, 52.
+
+  ‘Shilling-mark’, 51.
+
+  Ships, names of, italic, 51.
+
+  Signs for reference marks, use of, 70.
+    special, 48.
+
+  Small capitals, when to use, 47.
+
+  Southward’s _Practical Printing_, quoted, 55.
+
+  Space before comma allowed, in printing French, 80.
+
+  Spaced words in German, 90.
+
+  Spacing generally, 49-50.
+    in French, 80.
+    in Greek, Latin, and Italian, 49.
+    of last line in paragraph, 49.
+    of poetry, 49.
+
+  Spanish words (some), how to divide, 54.
+
+  Special signs or symbols, 48.
+
+  Spellings, alternative or difficult, 15-24.
+    Bible and Prayer Book, 9 (note).
+    of old writers, 38.
+    phonetic, 38.
+    reformed German, 89-90.
+
+  sq., sqq., 70.
+
+  =ſſ=, =sſ=, 92.
+
+  Streets, how to print names of, 46.
+
+  Suffixes, 29-30.
+    =lich=, =zig=, 91.
+
+  Superior figures and letters, 70.
+
+  =ſz=, 92-3.
+
+
+  Theirs, no apostrophe, 44.
+
+  Title-pages, date at foot of, 47.
+    points in, 67.
+
+  Titles, personal, contraction of, 44.
+
+  Types, English names of, 100-2.
+    American point-system, 102.
+
+
+  Underlines, 50.
+
+
+  Vowel-ligatures, 41.
+
+
+  Weights and measures, contractions of, 43.
+
+  Woodcuts, plates, &c., references to, 47.
+
+  Words—
+    common, derived from proper names, 46.
+    ending in -able, 9.
+    ending in -ible, 11.
+    ending in -ise or -ize, 12-14.
+    ending in -ment, 24.
+    ending in -o, plurals of, 34.
+    ending with -ed or -èd in poetry, 45.
+    foreign, in italic, 35-6.
+    foreign, in roman, 36-7.
+
+
+  Yours, no apostrophe, 44.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK RULES FOR COMPOSITORS AND READERS AT THE UNIVERSITY PRESS, OXFORD ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
