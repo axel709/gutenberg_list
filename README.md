@@ -1,7 +1,7 @@
 # Gutenberg List
 
 Automated archive of [Project Gutenberg](https://www.gutenberg.org/) books.  
-This repository contains a complete list of books in `books.txt` and the actual book texts stored in organized folders (`books_001`, `books_002`, …).
+This repository contains a complete list of books in `books.txt` and the actual book texts stored in organized folders (`books_001`, `books_002`, `…`).
 
 ## Features
 - 📚 **Full index**: `books.txt` contains book ID, title, author(s), download count, and the original Project Gutenberg link.  
