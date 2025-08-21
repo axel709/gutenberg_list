@@ -1,0 +1,2275 @@
+The Project Gutenberg eBook of Lasers
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Lasers
+
+Author: Hal Hellman
+
+Release date: June 4, 2021 [eBook #65512]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Credits: Stephen Hutcheson and the Online Distributed Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LASERS ***
+
+                                 Lasers
+
+
+                             by Hal Hellman
+
+
+                     U.S. ATOMIC ENERGY COMMISSION
+                   Division of Technical Information
+                    _Understanding the Atom Series_
+
+                        ATOMIC ENERGY COMMISSION
+                        UNITED STATES OF AMERICA
+
+
+The Understanding the Atom Series
+
+Nuclear energy is playing a vital role in the life of every man, woman,
+and child in the United States today. In the years ahead it will affect
+increasingly all the peoples of the earth. It is essential that all
+Americans gain an understanding of this vital force if they are to
+discharge thoughtfully their responsibilities as citizens and if they
+are to realize fully the myriad benefits that nuclear energy offers
+them.
+
+The United States Atomic Energy Commission provides this booklet to help
+you achieve such understanding.
+
+                                                  {Edward J. Brunenkant}
+                                          Edward J. Brunenkant, Director
+                                       Division of Technical Information
+
+  UNITED STATES ATOMIC ENERGY COMMISSION
+  Dr. Glenn T. Seaborg, Chairman
+  James T. Ramey
+  Wilfrid E. Johnson
+  Dr. Clarence E. Larson
+
+    [Illustration: LASERS]
+
+                                                          by Hal Hellman
+
+
+
+
+                                CONTENTS
+
+
+  INTRODUCTION                                                         1
+  THE ELECTROMAGNETIC SPECTRUM                                         5
+  RADIO WAVES                                                          9
+  LIGHT AND THE ATOM                                                  14
+  WHAT’S SO SPECIAL ABOUT COHERENT LIGHT?                             19
+  CONTROLLED EMISSION                                                 25
+  A LASER IS BORN                                                     29
+  LASING—A NEW WORD                                                   32
+  SOME INTERESTING APPLICATIONS                                       34
+  A MULTITUDE OF LASERS                                               42
+  COMMUNICATIONS                                                      48
+  A LASER IN YOUR FUTURE?                                             52
+  SUGGESTED REFERENCES                                                53
+
+
+                 United States Atomic Energy Commission
+                   Division of Technical Information
+
+           Library of Congress Catalog Card Number: 68-60742
+                            1968; 1969(rev.)
+
+    [Illustration: _Nothing about lasers is more astonishing than their
+    ability to produce holograms, under arrangements such as shown
+    above. Two laser beams (of different colors) emerge from the curtain
+    (rear). They are optically combined (left center) and the combined
+    beam is then divided by prisms, mirrors and lenses so that part of
+    it shines on the figurines (foreground) and part on the square
+    holographic plate (right center). When the plate is developed (like
+    an ordinary photographic film), it will seem to have only a dull
+    gray surface until it is viewed with spatially coherent light (such
+    as from a laser or a beam through a pinhole) shining through it.
+    Then an amazing, multi-colored, three-dimensional image of the
+    figurines will be visible. (See page 19 and Figure 13.)_]
+
+    [Illustration: LASERS]
+
+                                                          By HAL HELLMAN
+
+
+
+
+                              INTRODUCTION
+
+
+The transistor burst upon the electronic scene in the 1950s. Almost
+overnight the size of new models of radios, television sets, and a host
+of other electronic devices shrank like deflating balloons. Suddenly the
+hard-of-hearing could carry their sound amplifiers in their ears.
+Teenagers could listen to favorite music wherever they went. Everywhere
+we turned the transistor was making its mark. There was even a proposal
+before Congress to require that every home have a transistor radio in
+case of emergency.
+
+The next development to fire the imagination of scientists and engineers
+was the laser—an instrument that produces an enormously intense
+pencil-thin beam of light. Most of us have heard so much about this
+invention it seems hard to believe that the first one was built only a
+few years ago. We were told that the laser was going to have an even
+greater effect on our lives than the transistor. It was going to replace
+everything from dentists’ drills to electric wires. The whole world, it
+seemed, eventually would be nothing but a gigantic collection of lasers
+that would do everything anyone wanted. Roads would be blazed through
+jungles at one sweep; our country would be safe once and for all from
+intercontinental ballistic missiles; cancer would be licked; computers
+would be small enough to carry in a purse; and so on and on.
+
+Yet for the first couple of years the laser seemed able to do nothing
+but blaze holes in razor blades for TV commercials. Somehow the device
+never seemed to emerge from the laboratory, prompting one cynic to call
+it “an invention in search of an application”.
+
+Many of the wild claims came from misunderstandings on the part of the
+press, others from exaggerations by a few manufacturers who wanted free
+publicity. But with even less exotic devices than lasers, the road from
+the laboratory to the marketplace may often be long and hard. Price,
+efficiency, reliability, convenience—these are all factors that must be
+considered. It soon became clear that with something as new as the
+laser, much improvement was necessary before it could be used in science
+and medicine, and even more before it could be used in industry.
+
+It now seems, however, that the turning point has been reached. We have
+seen laser equipment put on the market for performing delicate surgery
+on the eye, spot-welding tiny electronic circuits (Figure 1), and
+controlling machine tools with amazing accuracy (Figure 2).
+
+    [Illustration: Figure 1 _A commercial laser microwelder. A
+    microscope is needed for accurate placement of beam energy._]
+
+The pace is quickening. At least a dozen manufacturers have announced
+that they are designing laser technology into their products. These are
+not laboratory experiments but practical products for measurement and
+testing, and for industrial, military, medical, and space uses. The
+Army, for example, has announced that it will purchase its first
+equipment for use in the field: a portable, highly accurate range finder
+for artillery observation.
+
+Still, this hardly accounts for the $100,000,000 spent in one recent
+year on laser research and development by some 500 laboratories in the
+United States. The U. S. Government alone has spent about $25,000,000 on
+laser research in a single year. Dozens, and perhaps hundreds, of other
+applications are on the fire—simmering or boiling as the case may be.
+Some require particular technical innovations such as greater power or
+higher efficiency. Others are entirely new applications. One of the most
+exciting of these is holography (pronounced ho LOG ra phy).
+
+Holography involves a completely different approach to photography. In
+addition to more immediate applications in microscopy, information
+storage and retrieval, and interferometry, it promises such bonuses as
+3-dimensional color movies and TV someday.
+
+You have to see the holographic process in operation to believe it. One
+moment you are looking at what appears to be an underexposed or lightly
+smudged photographic plate. Then suddenly a true-to-life image of the
+original object springs into being behind the negative—apparently
+suspended in midair! Not only is the full effect of “roundness” and
+depth there, but you can also see anything lying behind the object’s
+image by moving your head, exactly as if the original scene containing
+the object were really there.
+
+Still another important field of application is that of communications.
+Perhaps because it is less spectacular than burning holes in razor
+blades, we haven’t heard as much about it. Yet there are probably more
+physicists and engineers working on adapting the laser for use in
+communications than on any other single laser project.
+
+The reason for this is the fact that existing communications facilities
+are becoming overloaded. Space on transoceanic telephone lines is
+already at a premium, with waiting periods sometimes running into hours.
+Radio “ham” operators have been threatened with loss of some of their
+best operating frequencies to meet the demand of emerging nations of
+Africa for new channels. Television programs must compete for space on
+cross-country networks with telephone, telegraph, and transmission of
+data. The increasing use of computers in science, business, and industry
+will strain our facilities still further. Communication satellites will
+help, but they will not give us the whole answer; and much development
+work remains to be done on satellites.
+
+    [Illustration: Figure 2 _Precision control of a machine tool by
+    laser light._]
+
+Why the interest in the laser for communications? In a recent experiment
+all seven of the New York TV channels were transmitted over a single
+laser beam. In terms of telephone conversations, one laser system could
+theoretically carry 800,000,000 conversations—four for each person in
+the United States.
+
+In this booklet we shall learn what there is about the laser that gives
+it so much promise. We shall investigate what it is, how it works, and
+the different kinds of lasers there are. We begin by discussing some of
+the more familiar kinds of radiation, such as radio and microwaves,
+light and X rays.
+
+
+
+
+                      THE ELECTROMAGNETIC SPECTRUM
+
+
+Some 85% of what man learns comes to him through his vision in response
+to the medium of light. Yet, ironically, it wasn’t until the end of the
+17th century that he first began to get an inkling of what light really
+is. It took the great scientific genius Isaac Newton to show that
+so-called white light is really a combination of all the colors of the
+rainbow. A few years later the Dutch astronomer Christiaan Huygens
+introduced the idea that light is a wave motion, a concept finally
+validated in 1803 when the British physician Thomas Young ingeniously
+demonstrated interference effects in waves. Thus it was finally realized
+that the only difference between the various colors of light was one of
+wavelength.
+
+For light was indeed found to be a wave phenomenon, no different in
+principle from the water waves you have seen a thousand times. If you
+stand at the seashore, you can easily count the number of waves that
+approach the shore in a minute. Divide that number by 60 and you have
+the frequency of the wave motion in the familiar unit, cycles-per-second
+(cps).[1]
+
+You would have to count pretty quickly to do this for light, however.
+Light waves vibrate or oscillate at the rate of some 400 million million
+times a second. That’s the vibration rate of waves of red light; violet
+results from vibrations that are just about twice that fast.
+
+With frequencies of this magnitude, discussion and handling of data and
+dimensions are cumbersome and rather awkward. Fortunately there is
+another approach. Let’s look again at our ocean waves. We see that there
+is a regularity about them (before they begin to break on the shore).
+The distance from one crest to the next is significant and is called the
+_wavelength_. Water waves are measured in feet, and in comparable units
+light waves are recorded in ten-millionths of an inch—again a very
+cumbersome number. Scientists therefore use the metric system[2] and
+have standardized a unit called the angstrom[3], which is equal to the
+one-hundred-millionth part of a centimeter (10⁻⁸ cm). Thus we find, as
+shown in Figure 3, that the visible light range runs from the violet at
+about 4000 angstroms to red at about 7000 angstroms.
+
+    [Illustration: Figure 3 _The visible light spectrum ranges between
+    approximately 4000 and 7000 angstroms._]
+
+                                Wavelength
+                               (Angstroms)
+
+               Violet           4000-4300
+               Blue             4300-5000
+               Green            5000-5600
+               Yellow           5600-5800
+               Orange           5800-6100
+               Red              6100-7000
+
+At roughly the same time that the wavelength of light was being
+determined, the German-British astronomer William Herschel performed an
+interesting experiment. He held a thermometer in turn in the various
+colors of light that had been spread out by an optical prism. As he
+moved the thermometer from the violet to the red, the temperature
+reading rose—and it continued to rise as he moved the instrument
+_beyond_ the red area, where no prismatic light could be seen.
+
+Thus Herschel discovered infrared rays (the kind of heat we get from the
+sun) adjoining the visible red light, and at the same time found that
+they were merely a continuation of the visible spectrum. Shortly
+thereafter, ultraviolet rays were found on the other end of the visible
+light band.
+
+One of the most fascinating movements in science has been the constant
+expansion since then of both ends of the radiating-wave spectrum. The
+result has come to be called the _electromagnetic spectrum_, which, as
+we see in Figure 4, encompasses a wide variety of apparently different
+kinds of radiation. Above the visible band (the higher frequencies), we
+find ultraviolet light, X rays, gamma rays, and some cosmic rays; below
+it are infrared radiation, microwaves, and radio waves. Only a small
+proportion of the total spectrum is occupied by the visible band.
+Another point of interest is the inverse relationship between wavelength
+and frequency. As one goes up the other goes down.[4]
+
+    [Illustration: Figure 4 _Visible light region spans a tiny portion
+    of the total electromagnetic spectrum._]
+
+  Frequency (cps)                                            Wavelength
+                                                             Angstroms
+
+                                 Cosmic rays
+             10²²                                            0.0001
+                                                             0.001
+             10²⁰                 Gamma rays                 0.01
+                                                             0.1
+             10¹⁸                   X rays                   1
+                                                             10
+             10¹⁶           Ultraviolet radiation            100
+                                                             1,000
+                                Visible light
+             10¹⁴                                            10,000
+                              Infrared radiation             100,000
+
+                                                             Angstroms
+
+                                                             0.01
+             10¹²              Millimeter waves              0.1
+             10¹⁰             Microwaves, radar              1
+                                                             10
+              10⁸              TV and FM radio               100
+                                  Short wave                 1,000
+              10⁶                  AM radio                  10,000
+                         Low frequency communications        100,000
+     10,000 = 10⁴                                            1,000,000
+
+These many kinds of rays and waves vary tremendously in the ways they
+interact with matter. But they are all part of a single family. The only
+difference among them, as with the colors of the rainbow, lies in their
+wavelengths. In a few cases, as we shall see later, the mode of
+generation is also different.
+
+The band of radiation stretching from the infrared to cosmic rays has
+been, up to now, largely the concern of physical scientists. Because of
+their high frequencies, these radiations are generally handled, when
+calculations or measurements must be made, in terms of wavelength. Radio
+and microwaves[5], on the other hand, have been more in the domain of
+communications engineers and are more likely to be discussed in terms of
+frequency. Thus it is that your radio is marked off in kilocycles, or
+thousands of cycles per second, while light is described as radiation in
+the 4000 to 7000 angstrom band.
+
+The relative newness of the various radiations has kept scientists busy
+learning about them and, as information and experience have accumulated,
+putting them to work.
+
+
+
+
+                              RADIO WAVES
+
+
+One of the first of the newly discovered electromagnetic radiations to
+be put to work was the radio wave, which is characterized by long
+wavelength and low frequency.[6] The low frequency makes it relatively
+easy to produce a wave having virtually all its power concentrated at
+one frequency.
+
+The advantage of this capability becomes obvious after a moment’s
+thought. Think for example of a group of people lost in a forest. If
+they hear sounds of a search party off in the distance, all likely will
+begin to shout in various ways for help. Not a very efficient process,
+is it? But suppose all the energy going into the production of this
+noise could be concentrated in a single shout or whistle. Clearly, their
+chances of being found would be much improved.
+
+    [Illustration: Figure 5 _(a) Temporally coherent radiation. (b)
+    Temporally incoherent radiation._]
+
+The single frequency capability of radio waves has been given the name
+_temporal coherence_ (or coherence in time) and is illustrated in Figure
+5. Part _a_ shows a single sine wave, the common way of representing
+electromagnetic radiation, and particularly _temporally coherent
+radiation_. In _b_ we see what _temporally incoherent radiation_ (such
+as the mixed sounds of the stranded party) would look like.
+
+It was on Christmas Eve 1906 that music and speech came out of a radio
+receiver for the first time. Today the sight of someone walking, riding,
+or studying with an earpiece plugged into a transistor radio is common.
+But the early radio enthusiasts _had_ to wear earphones because it takes
+considerable power to activate a loudspeaker and the received signal was
+quite weak. Some means of increasing, or amplifying, the signal was
+needed if the process was to advance beyond this primitive stage.[7]
+
+The use of vacuum tube or electron tube amplifiers is so widespread that
+it is unnecessary to explain their operations here in any detail. It is
+important that the principle of amplification be understood, however.
+The input or information wave causes the grid to act as a sort of faucet
+as shown in Figure 6. That is, it controls the flow of electrons (the
+current in the circuit) from cathode to anode. A weak signal can
+therefore cause a similar, but much stronger, signal to appear in the
+circuit. The larger signal is subsequently used to power a loudspeaker
+in the radio set.
+
+    [Illustration: Figure 6 _Amplification by a three-element vacuum
+    tube._]
+
+  Power source
+  Cathode
+  Grid
+    Input wave
+  Anode
+  Output wave
+
+The amplification principle can be applied in another equally important
+way. Once a signal gets started in the circuit, part of it can be _fed
+back into the input_ of the circuit. Thus the signal is made to go
+“round and round”, continuously regenerating itself. The device has
+become an _oscillator_, that is, a frequency generator that produces a
+steady and temporally coherent wave. The frequency of the wave can be
+rigidly controlled by suitable circuitry.
+
+The oscillator plays a vital part in radio transmission, for a
+transmitter beams energy continuously, not just when sound is being
+carried. The oscillator generates what is called a “carrier wave”.
+Information, such as speech or music, is carried in the form of audio
+(detectable-by-ear) frequencies, which ride “piggyback” on the carrier
+wave. In other words, the carrier wave is _modulated_, or varied, in
+such a way that it can carry meaningful information. The familiar
+expressions AM and FM, for example, stand for Amplitude Modulation and
+Frequency Modulation—two different ways of impressing information on the
+carrier wave. Figure 7 shows a basic and an amplitude- (or height-)
+modulated wave.
+
+    [Illustration: Figure 7 _(a) Unmodulated radio wave._ _(b)
+    Amplitude-modulated wave carries information._]
+
+The electron tube made its giant contribution to radio, television, and
+other electronic devices by making it possible to generate, detect, and
+amplify radio waves.
+
+Because radio waves are easily controlled, something useful can be done
+with them. Suppose we set up five radio transmitters, all beaming at the
+same frequency. The waves might look like those shown in Figure 8.
+Although the waves are temporally (or time) coherent, they are out of
+step, and not _spatially coherent_. But since good control is possible
+in radio circuits, we can force each antenna to radiate in _phase_ (that
+is, in step) with the others, thus producing fully coherent radiation
+(Figure 8).
+
+    [Illustration: Figure 8 _(a) Spatially incoherent radiation._ _(b)
+    Spatially coherent radiation._]
+
+Such a process can increase the radiation _power_ to an almost unlimited
+degree. But it does nothing to solve the problem of the limited total
+carrying capacity of the radio spectrum.
+
+The most obvious and best way out of this difficulty is to raise the
+operating frequencies into the higher frequency bands. There are two
+reasons for this. First, it is clear that the wider the frequency band
+(the number of frequencies available) with which we work, the greater
+the number of communication channels that can be created.
+
+But second, and more important, the higher the frequency of the wave,
+the greater is its information-carrying capacity. In almost the same way
+that a large truck can carry a bigger load than a small one, the greater
+number of cycles per second in a high frequency wave permits it to carry
+more information than a low frequency wave.
+
+However, high frequencies must be generated in different ways than low
+frequency waves are; they require special equipment to handle them.
+Radio waves are transmitted by causing masses of free electrons to
+oscillate or swing back and forth in the transmitting antenna. (Any time
+electrons are made to change their speed or direction they radiate
+electromagnetic energy.)
+
+Each kind of oscillator has some limit to the frequencies at which it
+can operate. The three-element electron tube has been successfully
+developed to oscillate at frequencies up to, but not including, the
+vibration rate of the microwave region. Here ordinary tubes have trouble
+for the unexpected reason that free electrons are just too slow in their
+reactions to oscillate as rapidly as required in microwave transmission.
+
+To overcome this obstacle, two new types of electron tubes were
+developed: the klystron in 1938 and the traveling-wave tube some 10
+years later. These lifted operation well up into the microwave region;
+it was the klystron that made wartime radar possible. Today many
+communication links depend heavily upon microwave frequencies.
+
+At this point in our story we have a situation where low temporally
+coherent radio waves and microwaves can be generated, but nothing of
+higher frequency. Communications engineers have gazed wistfully, but
+almost hopelessly, at light waves, whose frequencies are millions of
+times higher than radio waves. Thus, just by way of example, some 15
+million separate TV channels could operate in the frequency range
+between red and orange in the visible band.
+
+What, then, is the problem?
+
+Why is light so much more difficult to handle?
+
+
+
+
+                           LIGHT AND THE ATOM
+
+
+Since light waves have such high frequencies, a different mode of
+generation comes into play. We can no longer count on the controlled
+movement of free electrons _outside_ atoms and molecules. Rather, light
+and all the radiations in the higher frequencies are generated by the
+movement of electrons _inside_ atoms and molecules.
+
+Let us review momentarily the modern, albeit highly simplified,
+conception of an atom. Remember that no one has yet seen one. We
+describe the atom on the basis of how it acts, as well as how it reacts
+to things scientists do to it.
+
+For the present purpose, the best model we have of the atom is that of a
+miniature solar system, with a nucleus or heavy part at the center and a
+cloud of electrons dashing around the nucleus in fixed orbits.
+
+The term “fixed orbits” is used advisedly.
+
+Our planet moves in a certain orbit around the sun. If we attached a
+large enough rocket to the earth we theoretically _could_ move it closer
+to or farther away from the sun. In the atom, we have learned, this
+cannot be done. An electron can only exist in one of a certain number of
+fixed orbits; different kinds of atoms have different numbers of orbits.
+
+We might think in terms of an elevator that can only stop at the various
+floors of an apartment building. Each upper floor is like an orbit of
+the electron. But you get nothing for nothing in the world of physics,
+and just as it takes energy to raise an elevator to a higher floor, it
+takes energy to move an electron to an outer orbit.
+
+Hence the atom is said to be raised to higher _energy_ levels when an
+electron is nudged to an outer orbit. The energy input can be of many
+different kinds. Examples are heat, pressure, electrical current,
+chemical energy, and various forms of electromagnetic radiation. If too
+much energy is put into the elevator it goes flying out the roof. If too
+much energy is put into the atom, one or more of its electrons will go
+flying out of the atom. This is called _ionization_, and the atom, now
+minus one of its negative electrons and therefore positively charged, is
+called a positive _ion_.
+
+But if the _right_ amount of energy is put into the atom, one of its
+electrons will merely be raised to a higher energy level. Shown in
+Figure 9, for instance, are the ground state (Circle No. 1) and two
+possible higher energy levels. As you can see there are three possible
+transitions.
+
+    [Illustration: Figure 9 _Schematic representation of the electron
+    orbits and energy levels of an atom. Each circle represents a
+    separate possible orbit and each arrow a possible energy level
+    difference._]
+
+The higher energy levels are abnormal, or excited, states, however, and
+the electron will shortly fall back to its normal (ground state) orbit
+(assuming some other electron has not fallen into it first). In order
+for the electron to do this (go back to its normal orbit), it must give
+off the energy it has acquired. This it does in the form of
+electromagnetic radiation.
+
+The energy difference between the two levels will determine what kind of
+radiation is emitted, for there is a direct correlation between energy
+and frequency.[8] If the energy difference between the two levels is
+such that the frequency of emitted radiation is roughly between 10¹⁴ and
+10¹⁵ cycles per second, we see the radiation as light. When more energy
+is added, the radiation emerges as ultraviolet or X rays. In other words
+the higher the energy difference, the higher the frequency, and vice
+versa. Thus it is that cosmic rays, with the highest frequencies known
+to man, can pass right through us as if we weren’t there.
+
+This simple picture of energy levels and associated frequencies doesn’t
+quite hold for ordinary white light, however. Such light is generally
+produced by a process called incandescence, which results from the
+heating of a material until it glows. True, the atoms of the
+incandescent material are being raised to higher energy levels by
+chemical energy (as in fire), electricity (light bulb), or nuclear
+energy (the sun). In a hot solid, however, the explanation becomes more
+complicated. Many different electronic configurations are possible and
+the differences in energy among the various levels (which can be many
+more than the three shown in Figure 9) vary only slightly from one
+another. The result is a wide band of radiation.
+
+Thus, while the incandescent electric bulb is a great advance over fire,
+it is still a very inefficient source of light. Because it depends upon
+incandescence, a considerable portion of the electrical input goes into
+the production of unwanted heat, for the bulb’s filament radiates in the
+infrared as well as the visible region.
+
+For providing illumination, the fluorescent tube is far more efficient
+than the incandescent lamp: a 40-watt fluorescent tube gives as much
+light as a 150-watt incandescent light. This is because its radiation is
+more controlled, operating more in accord with our description of
+electronic energy levels. Hence more of its output is in the desired
+visual region of the spectrum.
+
+In certain types of lighting, particular energy level changes may
+predominate, leading to the characteristic colors of neon tubes and
+vapor lamps. Although the resulting radiation bandwidth is narrow enough
+in these devices to appear as a definite color instead of the broad
+spectrum we know as white, it is still quite broad. In other words, the
+radiation is still frequency incoherent—and it is still spatially
+incoherent.
+
+To understand this, let us return for a moment to the group of radio
+antennas we showed in Figure 8. All of them, you will recall, could be
+made to radiate in phase. In the production of light, however, each
+antenna is replaced by a single atom!
+
+This creates two problems. First, because the energy stored in the atom
+is quite small, it comes out not as a continuous wave but as a tiny
+packet of radiation—a _photon_.[9] It has an effect more like the hack
+of an ax than the buzz of a power saw.
+
+Second, atoms are notoriously “individualistic”. When a batch of atoms
+in a material has been raised to higher energy levels there is no way to
+know in what order, or in what direction, they will release their
+energy.
+
+This kind of process is called _spontaneous emission_, since each atom
+“makes up its own mind”. All we know is that within a certain period of
+time—a short period, to be sure—a certain percentage of these higher
+energy atoms will release their photons.
+
+    [Illustration: Figure 10 _Ordinary light is a jumble of frequencies,
+    directions, and phases._]
+
+What we have, then, is incoherent radiation—a jumble of frequencies (or
+colors), directions, and phases. Such light, symbolized in Figure 10,
+works well enough in lighting up this page, but is almost worthless as a
+carrier of information (and in other ways, as we shall see shortly).
+About the best that can be done with it is to turn it on and off in a
+sort of visual Morse code, which is exactly what is done on the blinker
+communication systems sometimes used for ship-to-ship communication.
+
+In other words, ordinary light cannot be modulated as radio waves can.
+
+It is of interest to note, however, that ordinary white light _can_ be
+made coherent, to some extent, but at a very high cost in the intensity
+of the light. For example, we might first pass the light through a
+series of filters, each of which would subtract some portion of the
+spectrum, until only the desired wavelength came through. As can be seen
+in Figure 11, only a small fraction of the original light would be left.
+
+    [Illustration: Figure 11 _Obtaining coherent radiation the hard way.
+    Filters and pinhole block all but a small amount of the original
+    radiation._]
+
+    Incoherent
+  Filters
+    Coherent in time
+  Pinhole
+    Coherent in time and space
+
+We would then have monochromatic (one color) light, which is temporally
+coherent radiation, but it would still be spatially incoherent. In our
+diagram, we show three monochromatic waves. If we then passed this light
+through a tiny pinhole as shown, most of these few remaining waves would
+be blocked; the ones that got through would be pretty much in step. (In
+a similar manner, a true point source of light would produce spatially
+coherent radiation; but, as in the process described here, there
+wouldn’t be very much of it.)
+
+We have, finally, obtained coherent light.
+
+The important thing about the laser is that, by its very nature, it
+produces coherent light automatically.
+
+Now....
+
+
+
+
+                WHAT’S SO SPECIAL ABOUT COHERENT LIGHT?
+
+
+So desirable are the qualities of coherent light that the complicated
+filtering process described above has actually been used. For example,
+one British experimenter, Dennis Gabor, used it in the 1940s in an
+attempt to make a better microscope. But so great was the effort, and so
+meager the resulting light, that this project was abandoned.
+
+In the course of Dr. Gabor’s experiments, however, he did manage to make
+a special kind of picture, using coherent light, which he called a
+_hologram_. He derived the name from two Greek words meaning a _whole
+picture_. We shall see why in a moment.
+
+Ordinary black and white photographs merely record darks and lights, or
+the intensity of the illumination, thereby providing a scale of grays,
+nothing more. But because waves of coherent light consistently maintain
+their relative spacing, they can be used to record additional
+information, namely the distance from objects.
+
+For example, if we shine a beam of coherent (laser) light between two
+objects we can, knowing the light wavelength, determine the distance
+between them to a high degree of accuracy. The basic idea is diagramed
+in Figure 12. It can be seen that the number of waves times the
+wavelength gives the precise distance (to within 1 wavelength of light)
+from the laser source to each object. But this would be a difficult
+process to implement.
+
+A better way, and one that is already in operation, is to use
+conventional methods to measure the approximate distance and use the
+laser beam for precise or fine measurement. In the device shown in
+Figure 2, the beam is split into two parts. One part is kept in the
+instrument itself to act as a reference. The other is aimed at a
+reflector, which sends it back to a detector in the main device, where
+it is automatically compared with the reference beam. If the two beams
+are in phase (that is, if their crests are superimposed), the waves
+combine and produce a high intensity beam at the detector. As the
+reflector moves closer to or farther away from the laser source the beam
+intensity decreases and then increases again as the wave crests move in
+and out of phase. The instrument counts the changes and displays the
+distance the reflector moves, as a function of the wavelengths, on the
+control cabinet meters.
+
+    [Illustration: Figure 12 _Principle of distance measurement using
+    coherent light. Wavelength times number of waves gives precise
+    distance between laser and object._]
+
+  Distance to be measured
+  Laser
+  Object No. 2
+  1 Wavelength
+  Object No. 1
+
+Since the Word For the Interaction of the Waves in a System Like This
+Is “Interference”, the Measurement Process Is Called _interferometry_
+(Pronounced in Ter Fer Om E Try). Although Not New, It Can Now
+Be Applied For the First Time in Machine Tool Applications,
+Providing the Accuracy Needed in This Age of Space Technology and
+Microminiaturization. Measurements With a Laser Interferometer Can
+Be Made With an Accuracy of 0.5 Part Per Million at Distances Up to
+200 Inches. Such Precision Was Previously Unheard of in a Machine
+Shop Environment, Having Been Limited to Laboratory Measurements, and
+Only at A Range of a Few Inches. Under Similar Laboratory Conditions,
+Measurements by Laser Interferometry Now Detect Movements of 10⁻¹¹
+Centimeter, a Distance Approaching the Dimensions of an Atomic Nucleus.
+
+Now let us suppose we expand the laser beam as shown on page 22, and,
+with the aid of a mirror, direct part of it (the reference beam) at a
+photographic plate. The remaining portion of the diverging beam is used
+to illuminate the object to be photographed. Some of this light (the
+object beam) is reflected toward the plate and carries with it
+information about the object, as indicated by the wavy line. In the
+region where these two beams intersect, interference occurs, and a
+sample of this interference is recorded within the photographic
+emulsion. Where two crests meet a dark spot is recorded; where the waves
+are out of phase the processed plate is clear. The result is a hologram,
+a complex pattern of “fringes”, characteristic of the contour and light
+and dark areas of the object, as well as its distance from the plate.
+These fringes have the ability to diffract light rays. When light from a
+laser, or a point source of white light, is directed at the hologram
+from the same direction as the reference beam, part of the light is
+“bent” so that it appears to come from the place once occupied by the
+object. The result is a remarkably realistic 3-dimensional image.
+
+There, in a nutshell, is the incredible new technique of holography. The
+extreme order of laser light is illustrated by the regularity of the
+dots on the cover of this booklet.
+
+This strange kind of light provides us with yet other advantages.
+Indeed, one of the most important is the fact that the energy of the
+laser is not being sprayed out in all directions. All of it is
+concentrated in the narrow beam that emerges from the device. And it
+_stays_ narrow. Laser light has already been shone on the moon, the beam
+spreading out to only a few miles in traveling there from earth. The
+best optical searchlight beam would spread wider than the moon itself,
+thus dissipating its energy.
+
+It is for this reason, as well as its temporal coherence, that laser
+light is being considered for communications. A narrow beam is
+particularly important for space communications because of the long
+distances involved.
+
+But it is also possible to focus laser light as no light has ever been
+focused before. At close range a laser beam can be focused down to a
+circle just a few wavelengths across, concentrating its energy and
+making it possible to drill holes only 0.0002 inch in diameter. The
+photo on page 52 shows the exquisite control that can be exercised.
+
+Let us see what this focusability means in terms of power. Consider, by
+way of analogy, a dainty 100-pound lady in a pair of spike-heeled shoes.
+As she takes a step, her weight will be concentrated on one of those
+heels. If the area of the heel is, say, one quarter of a square inch (½
+× ½ inch), the pressure exerted on the poor tile or carpet rises to 400
+pounds per square inch (4 × 100) and if the heel is only ¼ inch on a
+side, the pressure will be 1600 pounds per square inch!
+
+    [Illustration: Making and Viewing a Hologram]
+
+  MAKING A HOLOGRAM
+    Object
+    Object beam
+    Holographic plate
+    Mirror
+    Reference beam
+    Laser
+  VIEWING A HOLOGRAM
+    Hologram
+    Image
+    Eye
+    Coherent light source
+
+What we are getting at, of course, is the fact that the coherence of the
+laser beam permits it to be concentrated into a tiny area. Thus whatever
+total energy is being sent out by the laser can be concentrated to the
+point where its effective energy is tremendous. The sun emits some 6500
+watts per square centimeter. Laser beams have already reached 500
+_million_ watts per square centimeter.
+
+But the power of the laser does not derive solely from its ability to be
+focused. Even an unfocused beam is several times more powerful than the
+sun’s output (per square centimeter).
+
+    [Illustration: Figure 13 _The typical hologram, looks like a
+    geometric design, but it contains more information than would an
+    ordinary photograph. The images below, made from a hologram, show
+    the detail, apparent solidity, and parallax effect of the
+    reconstructed light waves. The parallax effect is the ability to see
+    around the objects just as one could if they were really there. (See
+    frontispiece.)_]
+
+    [Illustration: Model tank]
+
+    [Illustration: Tank, from another angle]
+
+The crucial difference between the sun’s light or any ordinary kind of
+light and laser light lies in the extent to which the emission of energy
+can be controlled. In the production of ordinary light the atoms, as we
+know, emit spontaneously, or in an uncontrolled fashion. But if the
+atoms could be forced to take in the proper amount of energy, store it,
+and release it when we wanted them to, we would have _stimulated_,
+rather than spontaneous, emission.
+
+This, however, is practically the same as the amplification principle we
+discussed earlier. In that case, a small radio signal is jacked up into
+a large one by stimulating an available power source to release its
+energy at the same wavelength and in step with the smaller signal.
+
+The question is, how can we do this with light?
+
+
+
+
+                          CONTROLLED EMISSION
+
+
+The laser and its parent, the maser, can be traced back half a century
+to its theoretical beginnings. The great physicist Albert Einstein is
+most widely known for his work in relativity. But he did early and
+important work on that other gigantic 20th century scientific
+achievement, the quantum theory.[10] In one of his papers, published
+first in Zurich, Switzerland, in 1916, Einstein showed that controlled
+emission of light energy could be obtained from an atom under certain
+conditions. When an atom or molecule has somehow had its energy level
+raised, the release of this stored energy could be stimulated by
+subjecting the atom or molecule to a small “shot” of electromagnetic
+radiation of the proper frequency.
+
+Einstein wrote that when such a photon of energy caused an electron to
+drop from a higher to a lower orbit, the electron would emit another
+photon of the same frequency and in the same direction as the one that
+hit it.[11] In other words, the energy of the emitted photon would be
+added to that of the photon that stimulated the emission in the first
+place. Here, _potentially_, was light amplification. The three major
+factors, absorption of energy, spontaneous emission, and stimulated
+emission are diagrammed in Figure 14.
+
+There the matter lay for more than 30 years.
+
+In 1951 Charles H. Townes, then on the Columbia University faculty, was
+interested in ways of extending to still higher frequencies the range of
+microwaves available for use in communications and in other scientific
+applications. Townes and other scientists who were interested in the
+problem were to meet in Washington, D. C., on the 26th of April. The
+night before the meeting he slept in a small Washington hotel; but he
+awoke at 5:30—pondering, pondering the high frequency problem.
+
+He dressed and took a walk, then sat on a park bench and savored the
+beauty of azaleas in bloom. But all the while his mind was running over
+the various aspects of the problem.
+
+    [Illustration: Figure 14 _An atom can release absorbed energy
+    spontaneously or it can be stimulated to do so._]
+
+                                     Before    After
+
+                   Excited state      —–—       —•—
+  Absorption ~~→
+                   Relaxed state      —•—       —–—
+                   Excited state      —•—       —–—
+  Spontaneous emission
+                   Relaxed state      —–—       —•—     ~~→
+                   Excited state      —•—       —–—
+  Stimulated emission ~~→
+                   Relaxed state      —–—       —•—     ~~→
+                                                        ~~→
+
+Suddenly the answer came to him.
+
+Normally more of the molecules in any substance are in low-energy states
+than in high ones. He would change the natural balance and create a
+situation with an abnormally large number of high-energy molecules. Then
+he would stimulate them to emit their energy by nudging them with
+microwaves. Here was amplification.
+
+He could even take some of the emitted radiation and feed it back into
+the device to stimulate additional molecules, thereby creating an
+oscillator. This _feedback_ arrangement, he knew, could be carried out
+in a cavity, which would resonate (just like an organ pipe) at the
+proper frequency. The resonator would be a box whose dimensions were
+comparable with the wavelength of the radiation, that is, a few
+centimeters on a side.
+
+On the back of an envelope he figured out some of the basic
+requirements. Three years, and many experiments, later the maser
+(_m_icrowave _a_mplification by _s_timulated _e_mission of _r_adiation)
+was a reality. The original maser was a small metal box into which
+excited ammonia molecules were added. When microwaves were beamed into
+the excited ammonia the box emitted a pure, strong beam of high
+frequency microwaves, far more temporally coherent than any that had
+ever been achieved before. The output of an ammonia maser is stable to
+one part in 100 billion, making it an extremely accurate atomic
+“clock”.[12] Moreover, the amplifying properties of masers have been
+found to be very useful for magnifying faint radio signals from space,
+and for satellite communications.
+
+Ammonia gas was chosen for the first maser because molecules of ammonia
+have two individual energy states that are separated by a gap
+corresponding in frequency to 23,870 megacycles (23,870 million cycles)
+per second. Ammonia molecules also react to a nonuniform electric field
+in ways that depend on their energy level: low-level molecules can be
+attracted and high-level ones repelled by the same field. Thus it is
+possible to separate the low-energy molecules from the high, and to get
+the excited molecules into the cavity without too much trouble.
+
+This procedure for getting the majority of atoms or molecules in a
+container into a higher energy state, is called _population inversion_
+and is basic to the operation of both masers and lasers.
+
+It should be noted that two Russians, N. G. Basov and A. M. Prokhorov,
+were working along similar lines independently of Townes. In 1952 they
+presented a paper at an All-Union (U.S.S.R.) Conference, in which they
+discussed the possibility of constructing a “molecular generator”, that
+is, a maser. Their proposal, first published in 1954, was in many
+respects similar to Townes’s. In 1955, Basov and Prokhorov discussed, in
+a short note, a new way to obtain the active atomic systems for a maser,
+a method that turned out to be of great importance.
+
+Thus on October 29, 1964, the Nobel Prize in Physics was awarded, not
+only to Townes, but to Basov and Prokhorov as well. The award was for
+fundamental work in the field of quantum electronics, which has led to
+the construction of oscillators and amplifiers based on the “aser”
+principle.
+
+
+
+
+                            A LASER IS BORN
+
+
+Following the maser development, there was much speculation about the
+possibility of extending the principle to the optical region. Indeed the
+first lasers—_l_ight _a_mplification by _s_timulated _e_mission of
+_r_adiation—were called “optical masers”.
+
+The difficulty, of course, was that optical wavelengths are so
+tiny—about ¹/₁₀,₀₀₀ that of microwaves. The maser principle depended
+upon a physical resonator, a box a few centimeters (or even millimeters)
+in length. But at millimeter wavelengths, such resonators are already so
+small that they are hard to make accurately. Making a box ¹/₁,₀₀₀ that
+size was out of the question. Another approach was necessary.
+
+In 1958 A. L. Schawlow of Bell Telephone Laboratories and Dr. Townes
+outlined the theory and proposed a structure for an optical maser. They
+suggested that resonance could be obtained by making the waves travel
+back and forth along a relatively long, thin column of amplifying
+substance that had parallel reflectors at the ends.
+
+After their theory of the optical maser had been published, the race to
+build the first actual device began in earnest. The winner, in 1960, was
+Dr. T. H. Maiman, then with Hughes Aircraft Company. (He is now
+president of Maiman Associates.) The active substance he used was a
+single crystal of ruby, with the ends ground flat and silvered.
+
+Ruby is an aluminum oxide in which a small fraction of the aluminum
+atoms in the molecular structure, or lattice, have been replaced with
+chromium atoms. These atoms absorb green and blue light and hence impart
+a red color to the ruby. The chromium atoms can be boosted from their
+ground state into excited states when they absorb the green or blue
+light. This process, by which population inversion is achieved, has been
+given the name pumping.[13]
+
+Pumping in a crystal laser is generally achieved by placing the ruby rod
+within a spiral flash lamp (Figure 15) that operates like those used in
+high-speed (stroboscopic) photography. When the lamp is flashed, a
+bright beam of red light emerges from the ruby, shining out through one
+end, which has been only partially silvered.
+
+    [Illustration: Figure 15 _A ruby laser system._]
+
+  Ruby
+  Flash lamp
+  Partially silvered end
+  Laser output
+  Power
+  Cooling
+
+The duration of this flash of red light is quite brief, lasting only
+some 300 millionths of a second, but it is very intense. In the early
+lasers, such a flash reached a peak power of some 10,000 watts.
+
+When Maiman’s device was successfully built and operating, a public
+relations expert was called in to help introduce this revolutionary
+device to the world. He took one look at the laser and decided that it
+was too small and insignificant looking and would not photograph well.
+Looking around the lab, he spotted a larger laser and decided that that
+one was better.
+
+Dr. Maiman informed him in his best scientific manner that laser action
+had not been achieved with that one. But the world of promotion won out,
+and Dr. Maiman allowed the larger device to be photographed on the
+assumption—or was it hope?—that he would be able to get it to operate in
+the future. (He did.)
+
+The device shown in Figure 16 is the true first laser. The all-important
+crystal rod is seen at the center. These crystals, incidentally, must be
+quite free of extraneous material; hence they are artificially “grown”,
+as shown in Figure 17. The single large crystal is formed as it is
+pulled slowly from the “melt”, after which it is ground to size and
+polished.
+
+    [Illustration: Figure 16 _Dr. Maiman’s first laser. Output was
+    10,000 watts._]
+
+    [Illustration: Figure 17 _An exotic crystal of the garnet family is
+    “grown” from a melt at a temperature of 3400°F._]
+
+
+
+
+                           LASING—A NEW WORD
+
+
+Now we can begin to put together the various processes and equipment we
+have been discussing separately. Perhaps the best way to do this is to
+look again at the word _laser_ and recall its meaning: _l_ight
+_a_mplification by _s_timulated _e_mission of _r_adiation. Our objective
+is to create a powerful, narrow, coherent beam of light. Let us see how
+to do this.
+
+In Figure 18 we imagine a laser crystal containing many atoms in the
+ground state (white dots) and a few in the excited state (black dots).
+Pumping light (wavy arrows in _a_) raises most of the atoms to the
+excited state, creating the required population inversion.
+
+    [Illustration: Figure 18 _Sequence of operations in a solid crystal
+    laser. (a) Pumping light raises many atoms to excited state. (b)
+    Lasing begins when a photon is spontaneously emitted along the axis
+    of the crystal. This stimulates other atoms in its path to emit. (c)
+    The resulting wave is reflected back and forth many times between
+    the ends of the crystal and builds in intensity until finally it
+    flashes out of the partially silvered end._]
+
+  (a)
+    Ruby crystal
+    Pumping light
+    Atom in ground state
+    Excited atom
+    Partial reflecting mirror
+    Full reflecting mirror
+  (b)
+    Excited atom emits photon parallel to axis
+  (c)
+
+_Lasing_ begins when an excited atom spontaneously emits a photon
+parallel to the axis of the crystal (_b_). (Photons emitted in other
+directions merely pass out of the crystal.) The photon stimulates
+another atom in its path to contribute a second photon, in step, and in
+the same direction.
+
+This process continues as the photons are reflected back and forth
+between the ends of the crystal. (We might think of lone soldiers
+falling into step with a column of marching men.) The beam builds up
+until, when amplification is great enough (_c_), it flashes out through
+the partially silvered mirror at the right—a narrow, parallel,
+concentrated, coherent beam of light, ready for....
+
+
+
+
+                     SOME INTERESTING APPLICATIONS
+
+
+Application of lasers can be divided into two broad categories: (1)
+commercial, industrial, military, and medical uses, and (2) scientific
+research. In the first case, lasers are used to do something that has
+been done in another way up to now (but not as well). Sometimes a laser
+solves a particular problem. For example, one of the first applications
+was in eye surgery, for “welding” a detached retina. The laser is
+particularly useful here because laser light can penetrate transparent
+objects such as the eye’s lens (Figure 19), eliminating the need to make
+a cut into the eye.
+
+    [Illustration: Figure 19 _Diagram of human eye showing laser beam
+    focused on retina._]
+
+  Cornea
+  Lens
+  Optic Nerve
+  Beam angle
+  Fovea centralis
+  Iris
+  Image
+  Retina
+
+Surgeons have long wanted a better technique for treating extremely
+small areas of tissue. A laser beam, focused into a small spot, performs
+perfectly as a lilliputian surgical knife. An additional advantage is
+that the beam, being of such high intensity, can also sterilize or
+cauterize tissue as it cuts.
+
+The narrowness of the laser beam has made it ideal for applications
+requiring accurate alignment. Perhaps the ultimate here is the
+2-mile-long linear accelerator built by Stanford University for the
+United States Atomic Energy Commission. “Arrow-straight” would not have
+been nearly good enough to assure expected performance. A laser beam was
+the only technique that could accomplish the incredible task of keeping
+the ⅞ inch bore of the accelerator straight along its 2-mile length. A
+remote monitoring system, based on the same laser beam, tells operators
+when a section of the accelerator has shifted out of line (due for
+example to small earth movements) by more than about ¹/₃₂ inch—and
+identifies the section.[14]
+
+Figure 20 shows the 2-mile-long “klystron gallery” that generates the
+power for kicking the high-energy particles down the tube. The gallery
+parallels the accelerator housing and lies 25 feet beneath it (Figure
+21). The large tube houses the optical alignment system and supports the
+smaller accelerator tube above. Target patterns dropped into the large
+tube at selected points produce an interference pattern at the far end
+of the tube similar to the one in Figure 13. Precise alignment of the
+tube is achieved by aiming the laser at the center dot of the pattern.
+Then the section that is out of line is physically moved until the dot
+appears in the proper place at the other end of the tube. It is the
+extreme coherence of the laser beam that makes this technique possible.
+
+Having heard that laser light has bored through steel and is being used
+in microwelding, some have asked whether the laser will ever be used to
+weld bridge members and other structural girders. This is missing the
+whole point of the laser: It would be like washing your floor with a
+toothbrush (even one with extra stiff bristles)! There would be no
+advantage to using lasers for large-scale welding; present equipment for
+this operation is quite satisfactory and far less wasteful of input
+power. The sensible approach is to use lasers where existing processes
+leave something to be desired.
+
+Until the advent of the laser, for example, there was no good way to
+weld wires 0.001 inch in diameter. Nor was there a good way to bore the
+tiny hole in a diamond that is used as a die for drawing such fine wire.
+It used to take 2 days to drill a single diamond. With laser light the
+operation takes 2 minutes—and there is no problem with rapid wear of a
+cutting tool.
+
+So much for the first category of application. In the second category,
+namely use of the laser as a scientific tool, we enter a more
+theoretical domain. Here we use coherent light as an extension of
+ourselves, to probe into and to look at the world around us.
+
+    [Illustration: Figure 20 _A laser beam was used (and continues to be
+    used) for precise alignment of Stanford University’s 2-mile-long
+    linear accelerator. This view shows the aboveground portion during
+    construction._]
+
+Much experimental science is a matter of cooling, heating, grinding,
+squeezing, or otherwise abusing matter to see how it will react. With
+each new tool—ultrafast centrifuges, high- and low-pressure and
+extreme-temperature chambers, intense magnetic fields, atomic
+accelerators and so on—more has been learned about this still-puzzling
+world.
+
+Since coherent light is something new, we can do things to matter that
+have not been done before, and see how it reacts. The laser is being
+used to investigate many problem areas in biology, chemistry, and
+physics. For example, sound waves of extremely high frequency can be
+generated in matter by subjecting it to laser light. These intense
+vibrations may have profound effects on materials.
+
+    [Illustration: Figure 21 _Subterranean view of Stanford accelerator
+    housing. Alignment optics (laser systems) are housed in the large
+    tube, which also acts as support for the smaller accelerator tube
+    above it._]
+
+    [Illustration: Figure 22 _Laser beam spot as observed at the end of
+    the accelerator._]
+
+In the chemical field the sharp beam and monochromatic energy of the
+laser hold great promise in the exploration of molecular structure and
+the nature of chemical reactions. Chemical reactions usually are set off
+by heat, agitation, electricity, or other broadly applied means. None of
+these energizers allow the fine control that the laser beam does. Its
+extremely fine beam can be focused to a tiny spot, thus allowing
+chemical activity to be pinpointed. But there is a second advantage: The
+monochromaticity of coherent light also makes it possible to control the
+energy (in addition to the intensity) of the beam accurately by simply
+varying the wavelength. Thus it may be possible, for instance, to cause
+a reaction in one group of molecules and not in another.
+
+One application in chemistry that holds great promise is the use of
+laser energy for causing specific chemical reactions such as those
+involved in the making of plastics. Bell Telephone Laboratory scientists
+have changed the styrene monomer (a “raw” plastic material) to its final
+state, polystyrene, in this way. The success of these and similar
+experiments elsewhere opens for exploration a vast area of molecular
+phenomena.
+
+In another scientific application, the laser is being used more and more
+as a teaching tool. Coherence is a concept that formerly had to be
+demonstrated by diagrams, formulas, and inference from experiments. The
+laser makes it possible to see coherence “in action”, along with many of
+the physical effects that result from it. Such phenomena as diffraction,
+interference, the so-called Airy disc patterns, and spatial harmonics,
+always difficult to demonstrate to students in the abstract, can now be
+seen quite concretely.
+
+Other interesting things can also be seen more plainly now. At the Los
+Alamos Scientific Laboratory, laser light is being used to “look” at
+plasmas; the result of one such look is shown in Figure 23. Plasmas are
+ionized gaseous mixtures. Their study lies at the heart of a constant
+search by atomic scientists for a self-sustained, controlled fusion
+reaction that can be used to provide useful thermonuclear power. This
+kind of reaction provides the almost unlimited energy in the sun and
+other stars. It is more efficient and releases less radioactivity than
+the other principal nuclear process, fission, which is used in
+atomic-electric power plants.[15]
+
+    [Illustration: Figure 23 _Shadowgraph of deuterium discharge taken
+    in laser light. Turbulence of the plasma is clearly seen._]
+
+Westinghouse Electric Corporation scientists, on the other hand, have
+used the concentrated energy of the laser, not to look at, but to
+_produce_ a plasma (Figure 24). They blasted an aluminum target the size
+of a pinhead with a laser beam, thereby vaporizing it and creating a
+plasma. The calculated temperature in the electrically charged gas was
+3,000,000° centigrade. This is pretty hot, but still not hot enough for
+a thermonuclear reaction.
+
+    [Illustration: Figure 24 _Plasma heating by laser light._]
+
+  Diamagnetic loop
+  Laser beam
+  Vacuum chamber
+  Magnetic field
+  Magnetic coils
+  Electrostatic probe
+  Plasma
+  Lens
+  Mirror
+  To vacuum pump
+  Camera
+
+The temperature of a plasma necessary to sustain a thermonuclear
+reaction is so high (above 10,000,000°C) that any material is vaporized
+instantly on coming into contact with it. The only means developed so
+far to contain the plasma is an intense magnetic field, or “magnetic
+bottle”; containment has been accomplished for only a few thousandths of
+a second at most. The objective of the Westinghouse research, which was
+supported by the Atomic Energy Commission, was to study in detail the
+interaction of the plasma with a magnetic field.
+
+We do not have room to describe more applications in detail, but it may
+be interesting to list a few other uses of lasers—some commercial and
+some still experimental:
+
+
+—Earthquake prediction.
+
+—Measurement of “tides” in the earth’s crust under the sea.
+
+—Laser gyroscopes.
+
+—Highly accurate velocity measurement (useful in certain assembly line
+  and continuous manufacturing processes).
+
+—Scanner for analyzing photographs of bubble chamber tracks and
+  astronomical phenomena.
+
+—Computer output and storage systems; perhaps even complete optical data
+  processing systems.
+
+—Lightning-fast printing devices.
+
+—High-speed photography (Figure 25).
+
+—Missile tracking and accurate alignment of antennas.
+
+—Automatic flaw spotter for big radio antennas.
+
+—Aircraft landing aid for poor weather conditions.
+
+—Fast, painless dental drill.
+
+—Cancer research.
+
+
+    [Illustration: Figure 25 _Twenty-two caliber bullet and its shock
+    wave are photographed from the image produced by a doubly exposed
+    laser hologram. The original hologram was exposed twice by a ruby
+    laser within half a thousandth of a second as the bullet sped past
+    at 2½ times the speed of sound._]
+
+
+
+
+                         A MULTITUDE OF LASERS
+
+
+It is almost self-evident that no single device, even one as incredible
+as the laser, could accomplish all the feats mentioned in the preceding
+paragraphs. After all, some of these applications require high power but
+not extremely high monochromaticity, while in others the reverse may be
+true. Yet, by its very nature, any laser produces a beam with one, or at
+the most a few, wavelengths, and many different materials would be
+needed to provide the many different wavelengths required for all the
+tasks listed.
+
+Also, the first laser was a pulsed device. Light energy was pumped in
+and a bullet of energy emerged from it. Then the whole process had to be
+repeated. Pulsed operation is fine for spot-welding and for applications
+such as radar-type rangefinding, where pulses of energy are normally
+used anyway. With lasers smaller objects can be detected than when using
+the usual microwaves. But a pulsed process is not useful for
+communications. In other words, pulsing is good for certain applications
+but not for others.
+
+And of course solid crystals are difficult to manufacture. Hence, it was
+natural for laser pioneers to look hopefully at gases. Gas lasers would
+be easier to make—simply fill a glass tube with the proper gas and seal
+it.
+
+But other advantages would accrue. For one thing the relatively sparse
+population of emitting atoms in a gas provides an almost ideally
+homogeneous medium. That is, the emitting atoms (corresponding to
+chromium in the ruby crystal) are not “contaminated” by the lattice or
+host atoms. Since only active atoms need be used, the frequency
+coherence of a gas laser would probably be even better than that of the
+crystal laser, they reasoned.
+
+It was less than a year after the development of the ruby laser that Ali
+Javan of Bell Telephone Laboratories proposed a gas laser employing a
+mixture of helium and neon gases. This was an ingeniously contrived
+partnership whereby one gas did the energizing and the other did the
+amplifying. Gas lasers now utilize many different gases for different
+wavelength outputs and powers and provide the “purest” light of all. An
+additional advantage is that the optical pumping light could be
+dispensed with. An input of radio waves of the proper frequency did the
+job very nicely.
+
+But most significant of all, Javan’s gas laser provided the first
+continuous output. This is commonly referred to as CW (continuous wave)
+operation. The distinction between pulsed and CW operation is like the
+difference between baking one loaf of bread at a time and putting the
+ingredients in one end of a baking machine and having a continuous loaf
+emerge at the other.
+
+When a non-expert thinks of a laser, he is apt to think of
+power—blinding flashes of energy—as illustrated in Figure 26. As we
+know, this is only a small part of the capability of the laser.
+Nevertheless, since lasers are often specified in terms of power output
+it may be well to discuss this aspect.
+
+The two units generally used are _joules_ and _watts_. You are familiar
+with a watt and have an idea of its magnitude: think, for example, of a
+15-watt or a 150-watt bulb. A watt is a unit of _power_; it is the rate
+at which (electrical) work is being done.
+
+    [Illustration: Figure 26 _High power is demonstrated as a laser beam
+    blasts through metal chain._]
+
+The joule is a unit of _energy_ and can be thought of as the total
+capacity to do work. One joule is equivalent to 1 watt-second, or 1 watt
+applied for 1 second. But it can also mean a 10-watt burst of laser
+light lasting 0.1 second, or a billion watts lasting a billionth of a
+second.
+
+In general, the crystal (ruby) lasers are the most powerful, although
+other recently introduced materials, such as liquids (see Figure 27) and
+specially prepared glass, are providing competition. With proper
+auxiliary equipment, bursts of several _billion_ watts have been
+achieved; but the burst lasts only about 100 millionths of a second. For
+certain uses, that’s just what is wanted: a highly concentrated burst of
+energy that does its work without giving the material being “shot” a
+chance to heat up and spread the energy, perhaps damaging adjacent
+areas.
+
+    [Illustration: Figure 27 _Active substance for a modern liquid laser
+    is made in an uncomplicated 10-minute procedure. Bluish powder of
+    the rare earth, neodymium, is dissolved in a solution of selenium
+    oxychloride and sealed in a glass tube._]
+
+Since the joule gives a measure of the total energy in a laser burst it
+is not applicable to CW output. Power in this area began low—in the
+milliwatt (one thousandth of a watt) region—but has been creeping up
+steadily. A recent gas laser utilizing carbon dioxide has already
+reached 550 watts of continuous infrared radiation. This is the giant
+44-footer shown in Figure 28. An advantage of gas (and liquid) lasers is
+that they can be made just about as large as one wishes. By way of
+comparison, the smallest gas laser in use is shown in Figure 29.
+
+    [Illustration: Figure 28 _A giant 44-foot gas laser produces 550
+    watts of continuous power and is expected to reach 1000 watts.
+    Glowing of the tube comes from gas discharge, not from laser light,
+    which is in the infrared region and cannot be seen._]
+
+One of the least satisfactory aspects of the laser has been its
+notoriously low efficiency. For a while the best that could be
+accomplished was about 1%. That is, a hundred watts of light had to be
+put in to get 1 watt of coherent light out. In gas lasers the efficiency
+was even lower, ranging from 0.01% to 0.1%.
+
+In gas lasers this was no great problem since high power was not the
+objective. But with the high-power solid lasers, pumping power could be
+a major undertaking. A high-power laser pump built by Westinghouse
+Research Laboratories handles 70,000 joules. In more familiar terms, the
+peak power input while the pump is on is about 100,000,000 watts. For a
+brief instant this is roughly equal to all the electrical power needs of
+a city of 100,000 people.
+
+Two relatively new developments have changed the efficiency levels. One,
+the carbon dioxide gas laser, is quite efficient, with the figure having
+passed 15%. The second is the injection, or semiconductor laser, in
+which efficiencies of more than 40% have been obtained. Unless
+unforeseen difficulties arise this figure is expected to continue to
+rise to a theoretical maximum of close to 100%.
+
+    [Illustration: Figure 29 _A miniature gas laser produces continuous
+    output in visible red region._]
+
+The semiconductor laser is to solid and gas lasers what the transistor
+was to the vacuum tube; all the functions of the laser have been packed
+into a tiny semiconductor crystal. In this case, electrons and “holes”
+(vacancies in the crystal structure that act like positive charges)
+accomplish the job done by excited atoms in the other types. That is,
+when they are stimulated they fall from upper energy states to lower
+ones, and emit coherent radiation in the process. Aside from this the
+principle of operation is the same.
+
+The device itself, however, is vastly different. For one thing it is
+about the size of this letter “o” (Figure 30). For another, it is
+self-contained; since it can convert electric current directly into
+laser light—the first time this has been possible—an external pumping
+source is not required. This makes it possible to modulate the beam by
+simply modulating the current. (A different approach has been to
+modulate a magnetic field around the device. This, it turns out, can
+also be done with some newer solid crystal lasers.)
+
+An additional advantage offered by the semiconductor laser is
+simplicity. There are no gases or liquids to deal with, no glassware to
+break, and no mirrors to align. Although it will not deliver high power,
+it can already deliver enough CW power for certain communications
+purposes. Its simplicity, efficiency, and light weight make it ideal for
+use in space.
+
+    [Illustration: Figure 30 _A tiny injection laser works in infrared
+    region. The beam is visible because photo was taken with infrared
+    film. The laser itself is a tiny crystal of gallium arsenide inside
+    the metal mount being held between the fingers._]
+
+
+
+
+                             COMMUNICATIONS
+
+
+Future deep space missions are expected to require extremely high data
+transmission rates (on the order of a million bits[16] per second) to
+relay the huge quantities of scientific and engineering information
+gathered by the spacecraft. Higher data rates are necessary to increase
+both the total capacity and the speed of transmission. By comparison,
+the Mariner-4 spacecraft that sent back TV pictures of Mars had a data
+rate of only eight bits per second—a hundred thousand times too small
+for future missions. The use of lasers would mean that results could be
+transmitted to earth in seconds instead of the 8 hours it took for the
+photos to be sent from Mariner-4.
+
+One of the problems to be solved in using lasers for deep space
+communication, oddly enough, is that of pointing accuracy. Since the
+beam of laser energy is narrow, it would be possible for the radiation
+to miss the earth altogether and be lost entirely unless the laser were
+pointed at the receiver with extreme precision. Aiming a gun at a target
+50 yards away is one thing; aiming a laser from an unmanned spacecraft
+100 million miles away is quite another. It is believed, however, that
+present techniques can cope with the problem.
+
+Another peculiarity of laser communication is that it will probably be
+accomplished faster and more readily in space than here on earth.
+Powerful though laser light may be, it is light and is therefore impeded
+to some extent by our atmosphere even under good conditions. Data
+transmissions of 20 and 30 miles have already been accomplished in good
+weather with lasers.
+
+But if you have ever tried to force a searchlight beam or shine
+automobile headlights through heavy fog, rain, or snow, you will
+appreciate the magnitude of the problem under these conditions. The use
+of infrared frequencies helps to some extent, since infrared is somewhat
+more penetrating, but the poor-weather problem is a serious one.
+
+A possible solution is the use of “light pipes”, similar to the wave
+guides already in use for certain microwave applications over short
+distances. But as often happens, new developments create new needs; how,
+for example, can we get the laser beam to stay centered in the pipe and
+follow curves? A series of closely spaced lenses, about 1000 per mile,
+probably would accomplish this, but too much light would be lost by
+scattering from the many lens surfaces.
+
+Scientists are experimenting with a new kind of “lens”, one that uses
+variations in the density of gases to focus and guide the beam
+automatically. Since there are no surfaces in the path of the light
+beam, and since the gas is transparent and free of turbulence, the laser
+beam is not appreciably weakened or scattered as it travels through the
+pipe.
+
+    [Illustration: Figure 31 _Laser light beam being guided through a
+    “light pipe” by a gas “lens”. Heating coil (lower left) or mixture
+    of gases (lower right) are two possible ways of maintaining proper
+    density gradient in the gas._]
+
+Figure 31 shows how the gas focusing principle might be used to guide a
+beam through a curving pipe. The shading represents the density of the
+gas. Several means have been developed to keep the gas denser in the
+center than around the outside. When the pipe curves, the light beam
+starts moving off the axis of the pipe. The gas then acts like a prism,
+deflecting the light beam in the direction of the curvature of the
+“prism”.
+
+In communication between distant space and earth, a light pipe might be
+a little cumbersome; hence it may prove necessary to set up an
+intermediate orbiting relay station that will, particularly in cases of
+poor weather, intercept the incoming laser beam and convert it to radio
+frequencies that can penetrate our atmosphere with greater reliability.
+
+Powering space-borne lasers will, of course, be a problem. Indeed one of
+the major unsolved problems in production of spacecraft and long-term
+satellites is the provision of an adequate supply of power. Fuel cells
+and solar cells have helped but do not give the whole answer.[17]
+
+One other approach has already been developed: a sun-pumped laser.
+Sunlight focused onto the side of the laser (see Figure 32) provides the
+pumping power, enabling the device to put out 1 watt of continuous
+infrared radiation, enough for special space applications. Descendents
+of this device could produce visible light if this is deemed desirable.
+
+Another approach, using _chemical lasers_, is even more intriguing and
+may have greater consequences. Chemical lasers will derive their energy
+from their internal chemistry rather than from the outside. A mixture of
+two chemicals may be all that is needed to initiate laser action aboard
+a spacecraft or satellite. (Chemical lasers also offer the promise of
+even greater concentrations of power than have been achieved heretofore,
+which may make them useful in plasma research.)
+
+With all these possibilities, it may still be that spacecraft will need
+more power than is available on board. The narrow beam of the laser
+offers one more fascinating possibility, especially in the case of
+satellites relatively near earth. The light of a laser might actually be
+used to beam energy to a receiver, either for immediate use or storage.
+It would then become possible to “refuel” satellites at will, giving
+them much greater capabilities.
+
+If available laser power is great enough, laser beams might even be used
+to push satellites back into their proper orbits when they begin to
+wander off course, as they almost invariably do after a while.
+
+    [Illustration: Figure 32 _Artist’s rendering of sun-pumped laser as
+    it would operate in space. The sun’s rays are collected by a
+    parabolic reflector and are focused on the laser’s surface by two
+    cylindrical mirrors._]
+
+  Sun
+  Parabolic Collector
+  Hyperbolic-cylindric secondary mirror
+  Semi-circular-cylindric tertiary mirror
+  Laser beam
+
+
+
+
+                        A LASER IN YOUR FUTURE?
+
+
+Atomic energy, only a scientific dream a few short years ago, is now
+providing needed power in many parts of the world. In the same way, the
+laser, also an atomic phenomenon, has made its way out of the laboratory
+and into the fields of medicine, commerce, and industry. If it hasn’t
+touched your life as yet, you need only be patient. It will.
+
+Indeed the most exciting probability of all is that lasers undoubtedly
+will change our lives in ways we cannot even conceive of now.
+
+    [Illustration: Figure 33 _Tiny hole drilled in paper clip
+    demonstrates remarkable capability of laser beam. Paper clip is 1¼
+    inches long. Hole (top) was drilled by the laser microwelder shown
+    in Figure 1._]
+
+
+
+
+                          SUGGESTED REFERENCES
+
+
+Books
+
+  _ABC’s of Masers and Lasers_, Allan H. Lytel, Howard W. Sams and
+          Company, Inc., Publishers, Indianapolis, Indiana 46206, 1966,
+          96 pp., $2.25.
+  _The Laser: Light That Never Was Before_, Ben Patrusky, Dodd, Mead and
+          Company, New York 10016, 1966, 128 pp., $3.50.
+  _Masers and Lasers_, Manfred Brotherton, McGraw-Hill Book Company, New
+          York 10036, 1964, 224 pp., $8.50.
+  _Masers and Lasers_, H. Arthur Klein, J. B. Lippincott Company,
+          Philadelphia, Pennsylvania 19105, 1963, 184 pp., $3.95.
+  _The Story of the Laser_, John M. Carroll, E. P. Dutton and Company,
+          Inc., New York 10003, 1964, 181 pp., $3.95.
+  _Quantum Electronics: The Fundamentals of Transistors and Lasers_,
+          John R. Pierce, Doubleday and Company, Inc., New York 10017,
+          1966, 138 pp., $1.25.
+  _Lasers and Their Applications_, Kurt R. Stehling, The World
+          Publishing Company, Cleveland, Ohio 44102, 1966, 192 pp.,
+          $6.00.
+  _Understanding Lasers and Masers_, Stanley Leinwoll, Hayden Book
+          Companies, New York 10011, 1964, 96 pp., $1.95.
+  _Atomic Light: Lasers_, Richard B. Nehrich, Jr., Glenn I. Voran, and
+          Norman F. Dessel, Sterling Publishing Company, Inc., New York
+          10016, 1967, 136 pp., $3.95.
+
+
+Articles—General and Historical
+
+  Advances in Optical Masers, A. L. Schawlow, _Scientific American_,
+          209: 34 (July 1963).
+  The Evolution of the Physicist’s Picture of Matter, P. A. M. Dirac,
+          _Scientific American_, 208: 45 (May 1963).
+  Filling in the Blanks in the Laser’s Spectrum, F. M. Johnson,
+          _Electronics_, 39: 82 (April 18, 1966).
+  The Amateur Scientist—How a persevering amateur can build a gas laser
+          in the home, C. L. Stong, _Scientific American_, 211: 227
+          (September 1964).
+  The Amateur Scientist—Homemade Laser, C. L. Stong, _Scientific
+          American_, 213: 108 (December 1965).
+  The Amateur Scientist—How to make holograms and experiment with them
+          or with ready-made holograms, C. L. Stong, _Scientific
+          American_, 216: 122 (February 1967).
+  The Maser, James P. Gordon, _Scientific American_, 199: 42 (December
+          1958).
+  The Quantum Theory: Early Years to 1923, Karl Darrow, _Scientific
+          American_, 186: 47 (March 1952).
+  Laser’s Bright Magic, T. Meloy, _National Geographic Magazine_, 130:
+          858 (December 1966).
+  Infrared and Optical Masers (original paper), A. L. Schawlow and C. H.
+          Townes, _Physical Review_, 112: 1940 (December 15, 1958).
+  Laser Market Enters Era of Practicality, W. Mathews, _Electronic
+          News_, 11: 1 (April 18, 1966).
+  Lasers, A. K. Levine, _American Scientist_, 51: 14 (March 1963).
+  Lasers, A. L. Schawlow, _Science_, 149: 13 (July 2, 1965).
+  Lasers and Coherent Light, A. L. Schawlow, _Physics Today_, 17: 28
+          (January 1964).
+  The Laser’s Dazzling Future, L. Lessing, _Fortune_, 67: 138 (June
+          1963).
+  Optical Masers, A. L. Schawlow, _Scientific American_, 204: 52 (June
+          1961).
+  Optical Pumping, A. L. Bloom, _Scientific American_, 202: 72 (October
+          1960).
+  Research on Maser-Laser Principle Wins Nobel Prize in Physics, J. P.
+          Gordon, _Science_, 146: 897 (November 13, 1964).
+  Resource Letter MOP-1 on Masers (Microwave through Optical) and on
+          Optical Pumping, H. W. Moos, _American Journal of Physics_,
+          32: 589 (August 1964), extensive bibliography. Available from
+          American Institute of Physics, 335 East 45th Street, New York
+          10017. Enclose stamped return envelope.
+  Advances in Holography, K. S. Pennington, _Scientific American_, 218:
+          40 (February 1968).
+  Applications of Laser Light, D. R. Herriott, _Scientific American_,
+          219: 140 (September 1968).
+  Holography for the Sophomore Laboratory, R. H. Webb, _American Journal
+          of Physics_, 36: 62 (January 1968).
+  Laser Light, A. L. Schawlow, _Scientific American_, 219: 120
+          (September 1968).
+  The Modulation of Laser Light, D. F. Nelson, _Scientific American_,
+          218: 17 (June 1968).
+
+
+Articles—Special Subjects
+
+  Biological Effects of High Peak Power Radiation, S. Fine et al., _Life
+          Sciences_, 3: 209 (1964).
+  The Interaction of Light with Light, J. A. Giordmaine, _Scientific
+          American_, 210: 38 (April 1964).
+  Chemical Lasers, George C. Pimental, _Scientific American_, 214: 32
+          (April 1966).
+  Color Laser Stores Data, J. Eberhart, _Science News_, 90: 51 (July 23,
+          1966).
+  Communication by Laser, Stewart E. Miller, _Scientific American_, 214:
+          19 (January 1966).
+  Guidelines for Selecting Laser Materials, R. H. Hoskins, _Electronic
+          Design_, 13: _M_29 (July 19, 1965).
+  Holography: The Picture Looks Good, J. Blum, _Electronics_, 39: 139
+          (April 18, 1966).
+  How Dangerous Are Lasers?, L. H. Dulberger, _Electronics_, 35: 27
+          (January 26, 1962).
+  Injection Lasers, R. W. Keyes, _Industrial Research_, 6: 46 (October
+          1964).
+  Laser Potential in Deep-Space Link Grows, B. Miller, _Aviation Week
+          and Space Technology_, 84: 71 (January 31, 1966).
+  Laser Retinal Photocoagulator, N. S. Kapany et al., _Applied Optics_,
+          4: 517 (May 1965).
+  Laser Welding in Electronic Circuit Fabrication, J. P. Epperson,
+          _Electrical Design News_ (EDN), 10: 8 (October 1965).
+  The Light That Slices Inch into Millionths, (use of interferometry in
+          industry), _Steel_, 158: 38 (February 28, 1966).
+  The Optical Heterodyne—Key to Advanced Space Signaling, S. Jacobs,
+          _Electronics_, 36: 29 (July 12, 1963).
+  Photography by Laser, E. N. Leith and J. Upatnieks, _Scientific
+          American_, 212: 24 (June 1965).
+  Liquid Lasers, Alexander Lempicki and Harold Samelson, _Scientific
+          American_, 216: 81 (June 1967).
+  Plasma Experiments with a 570-kJ Theta-Pinch, F. C. Yahoda, et al.,
+          _Journal of Applied Physics_, 35: 2351 (August 1964).
+  A Sun-Pumped CW One-Watt Laser, C. G. Young, _Applied Optics_, 5: 993
+          (June 1966).
+  3-D Image Made at Home, _Science News_, 90: 185 (10 September 1966).
+  Scanning with Lasers, Robert A. Myers, _International Science and
+          Technology_, 65: 40 (May 1967).
+
+
+Booklets
+
+  _Applications of Lasers to Information Handling_, The Perkin-Elmer
+          Corporation, Norwalk, Connecticut 06852, 1966, 32 pp., free.
+          Reprint of five talks given by company personnel.
+  _Laser Interferometer_, Airborne Instruments Laboratory, Division of
+          Cutler-Hammer, Inc., Deer Park, Long Island, New York 11729,
+          1965, 20 pp., free. Collection of article reprints.
+  _Laser: The New Light_, Bell Telephone Laboratories, Murray Hill, New
+          Jersey 07971, 19 pp., free. Full color, nontechnical brochure
+          presents some background, principles, and applications of the
+          laser.
+
+    [Illustration: _Argon laser, which emits high-power blue-green beam
+    continuously, has application in signal processing, communications,
+    and spectroscopy. This unit is being beamed through prisms that
+    separate its several discrete wavelengths of light, displayed on
+    card at left foreground._]
+
+
+
+
+                               FOOTNOTES
+
+
+[1]Sometimes referred to as _hertz_ (abbreviated Hz), for the 19th
+    Century German physicist Heinrich Hertz; 1000 Hz = 1000 cps.
+
+[2]Devised in France and officially adopted there in 1799, the metric
+    system uses the meter as the basic unit of length and has been
+    proposed for all measurements in this country.
+
+[3]Named for the Swedish physicist Anders J. Angstrom.
+
+[4]The wavelength, indicated by the Greek letter λ (lambda) is related
+    to frequency (f) in the proportion λ (in meters) = 300,000,000/f.
+    (The number 300,000,000 is the velocity of light in meters per
+    second.)
+
+[5]Microwaves are radio waves with frequencies above 1000 megacycles per
+    second.
+
+[6]Ten to 30,000,000 kilocycles per second; this is low in the
+    electromagnetic spectrum, but not low in terms of the radio
+    spectrum, which has a low-frequency classification of its own.
+
+[7]Primitive as early radios were by today’s standards, they brought a
+    new era to communication at the time. Unmodulated CW (continuous
+    wave) transmissions and crystal receivers were used to summon
+    rescuers in the _Titanic_ disaster of 1912, for example.
+
+[8]Energy = h (Planck’s constant) × frequency. Planck’s constant is the
+    energy of 1 quantum of radiation, and equals 6.62556 × 10⁻²⁷
+    erg-sec.
+
+[9]Each photon carries 1 _quantum_ of radiation energy, which is a unit
+    equal to the product of the radiation frequency and Planck’s
+    constant (see footnote page 15).
+
+[10]Einstein was awarded the Nobel Prize in 1921 for his 1905
+    explanation of the photoelectric effect (in terms of quanta of
+    energy) and _not_ for his relativity theory.
+
+[11]Einstein’s theoretical explanation applies in the case of
+    stimulation of a single atom. In practical stimulation,
+    directionality is enhanced by stimulating many atoms in phase.
+
+[12]An atomic clock is a device that uses the extremely fast vibrations
+    of molecules or atomic nuclei to measure time. These vibrations
+    remain constant with time, consequently short intervals can be
+    measured with much higher precision than by mechanical or electrical
+    clocks.
+
+[13]The 1966 Nobel Prize in Physics was awarded to Prof. Alfred Kastler
+    of the University of Paris for his research on optical pumping and
+    studies on the energy levels of atoms.
+
+[14]See _Accelerators_, a companion booklet in this series, for a full
+    account of the Stanford “Atom Smasher”.
+
+[15]For descriptions of fission and fusion processes, see _Controlled
+    Nuclear Fusion_, _Nuclear Reactors_, and _Nuclear Power Plants_,
+    other booklets in this series.
+
+[16]A bit is a digit, or unit of information, in the binary
+    (base-of-two) system used in electronic data transmission systems.
+
+[17]See _SNAP_, _Nuclear Space Reactors_ and _Power from Radioisotopes_,
+    other booklets in this series, for descriptions of nuclear sources
+    of power for space.
+
+
+This booklet is one of the “Understanding the Atom” Series. Comments are
+invited on this booklet and others in the series; please send them to
+the Division of Technical Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545.
+
+Published as part of the AEC’s educational assistance program, the
+series includes these titles:
+
+  _Accelerators_
+  _Animals in Atomic Research_
+  _Atomic Fuel_
+  _Atomic Power Safety_
+  _Atoms at the Science Fair_
+  _Atoms in Agriculture_
+  _Atoms, Nature, and Man_
+  _Books on Atomic Energy for Adults and Children_
+  _Careers in Atomic Energy_
+  _Computers_
+  _Controlled Nuclear Fusion_
+  _Cryogenics, The Uncommon Cold_
+  _Direct Conversion of Energy_
+  _Fallout From Nuclear Tests_
+  _Food Preservation by Irradiation_
+  _Genetic Effects of Radiation_
+  _Index to the UAS Series_
+  _Lasers_
+  _Microstructure of Matter_
+  _Neutron Activation Analysis_
+  _Nondestructive Testing_
+  _Nuclear Clocks_
+  _Nuclear Energy for Desalting_
+  _Nuclear Power and Merchant Shipping_
+  _Nuclear Power Plants_
+  _Nuclear Propulsion for Space_
+  _Nuclear Reactors_
+  _Nuclear Terms, A Brief Glossary_
+  _Our Atomic World_
+  _Plowshare_
+  _Plutonium_
+  _Power from Radioisotopes_
+  _Power Reactors in Small Packages_
+  _Radioactive Wastes_
+  _Radioisotopes and Life Processes_
+  _Radioisotopes in Industry_
+  _Radioisotopes in Medicine_
+  _Rare Earths_
+  _Research Reactors_
+  _SNAP, Nuclear Space Reactors_
+  _Sources of Nuclear Fuel_
+  _Space Radiation_
+  _Spectroscopy_
+  _Synthetic Transuranium Elements_
+  _The Atom and the Ocean_
+  _The Chemistry of the Noble Gases_
+  _The Elusive Neutrino_
+  _The First Reactor_
+  _The Natural Radiation Environment_
+  _Whole Body Counters_
+  _Your Body and Radiation_
+
+A single copy of any one booklet, or of no more than three different
+booklets, may be obtained free by writing to:
+
+           USAEC, P. O. BOX 62, OAK RIDGE, TENNESSEE    37830
+
+Complete sets of the series are available to school and public
+librarians, and to teachers who can make them available for reference or
+for use by groups. Requests should be made on school or library
+letterheads and indicate the proposed use.
+
+Students and teachers who need other material on specific aspects of
+nuclear science, or references to other reading material, may also write
+to the Oak Ridge address. Requests should state the topic of interest
+exactly, and the use intended.
+
+In all requests, include “Zip Code” in return address.
+
+
+                Printed in the United States of America
+USAEC Division of Technical Information Extension, Oak Ridge, Tennessee
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Silently corrected a few typos.
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LASERS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
