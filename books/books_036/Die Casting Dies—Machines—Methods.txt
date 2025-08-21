@@ -1,0 +1,1879 @@
+The Project Gutenberg eBook of Die Casting: Dies—Machines—Methods
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Die Casting: Dies—Machines—Methods
+
+Author: Chester L. Lucas
+
+Release date: September 17, 2016 [eBook #53064]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by Chris Curnow, Charlie Howard, and the Online
+        Distributed Proofreading Team at http://www.pgdp.net (This
+        file was produced from images generously made available
+        by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK DIE CASTING: DIES—MACHINES—METHODS ***
+
+Transcriber’s Note: Subscripts are preceded by an acute accent mark `;
+italic text is enclosed in _underscores_.
+
+
+
+
+[Illustration]
+
+
+
+
+  MACHINERY’S REFERENCE SERIES
+
+
+  EACH NUMBER IS ONE UNIT IN A COMPLETE LIBRARY OF MACHINE DESIGN
+  AND SHOP PRACTICE REVISED AND REPUBLISHED FROM MACHINERY
+
+
+  NUMBER 109
+
+  DIE CASTING
+  DIES--MACHINES--METHODS
+
+  By CHESTER L. LUCAS
+
+
+
+
+CONTENTS
+
+
+    Die Casting                                      3
+
+    Making Dies for Die-Casting Machines            15
+
+    Van Wagner Mfg. Co.’s Die-Casting Practice      27
+
+
+  Copyright, 1913, The Industrial Press, Publishers of MACHINERY,
+  49-55 Lafayette Street, New York City
+
+
+
+
+CHAPTER I
+
+DIE CASTING
+
+
+Die-casting, a comparatively recent method for producing finished
+castings, is rapidly proving itself an important factor in the
+economical manufacture of interchangeable parts for adding machines,
+typewriters, telephones, automobiles and numerous other products where
+it is essential that the parts be nicely finished and accurate in
+dimensions. The term “die-casting” is self-explanatory, meaning “to
+cast by means of dies”; described briefly, the process consists of
+forcing molten metal into steel dies, allowing it to cool in them, and
+then opening the dies and removing the finished casting. It is the
+purpose of this treatise to give a general outline of the die-casting
+process, showing its possibilities and limitations, and also to give
+a description of the die-casting machinery and its operation, of
+the fundamental principles involved, and of the methods used in the
+die-making. Illustrative examples of the best types of dies, based on
+results obtained from actual experience, will also be given.
+
+
+Origin of Die Casting
+
+The origin of the die-casting process is somewhat difficult to
+ascertain. We may look into the history of type founding and find
+that away back in 1838, the first casting machine for type, invented
+by Bruce, was a machine that involved the principles of die-casting
+as it is practiced to-day. More recently, in 1885, Otto Mergenthaler
+brought out the linotype machine. This machine is a good example of
+a die-casting machine. However, as we interpret the word to-day,
+die-casting is a broader term than type-casting or linotyping, although
+its development without doubt is due to the success of the linotype
+machine. It is doubtful if die-casting, properly speaking, was
+originated until about fifteen years ago, and it is certain that it is
+only during the past few years that the activities in this line have
+been very noticeable.
+
+One of the first experiments in the direction of die-casting was
+undertaken to get out some rubber mold parts cheaply enough to leave a
+profit on a job that was beginning to look dubious from the financial
+side. The molds were for making rubber plates about three inches
+square and one-eighth inch thick, the top side of which was decorated
+with fine raised scroll work; it was this latter feature that gave
+the trouble. After wasting much time and money trying to stamp the
+mold parts, a metal-tight box was made as shown in Figs. 1 and 2 with
+a block screwed in it, the purpose of which was to shape the mold
+impression and impart to it the scroll design. As shown, the ends of
+the box were removable, being screwed on. This box was placed under
+a screw press and a straight plunger that just filled the top of the
+box was fitted to the head of the press. After the two were lined up,
+molten type metal was poured into the box, and as soon as the metal
+had cooled to the “mushy” state, the ram of the press was forced down
+as shown in Fig. 2. Next, the ends of the box were removed, the screw
+holding the block taken out, and the die-casting pushed from the box.
+The object in having the inclined side to the box was to produce a
+piece shaped with the proper inclination for its position in the final
+mold used for casting the rubber plates. The illustrations give an idea
+of the compression that took place. The die-casting was found to be
+sharp at the corners and free from flaws, and the scroll work came up
+in fine shape. Naturally the rest of the mold parts were made in the
+same way and the job turned from failure into success.
+
+[Illustration:
+
+  Fig. 1. An Early Experiment in Die Casting--Before Applying Pressure
+
+  Fig. 2. An Early Experiment in Die Casting--After Applying Pressure
+]
+
+From such simple experiments as these, the die-casting industry has
+developed to its present stage. In view of the advances that have been
+made in die-casting, it is singular that there are to-day only about
+a dozen concerns in the business in this country, but as the subject
+becomes better understood, and the possibilities of the process are
+realized, the demand for this class of castings will result in many
+other firms going into the work, and it is not improbable that a large
+number of factories will install die-casting plants of their own to aid
+them in producing better work in a more economical way.
+
+
+Advantages, Possibilities and Limitations of Die Casting
+
+The greatest advantage of die-casting is the fact that the castings
+produced are completely and accurately finished when taken from the
+dies. When we say completely, we mean that absolutely no machining is
+required after the piece has been cast, as it is ready to slip into its
+place in the machine or device of which it is to be a part. When we say
+accurately, we mean that each piece will come from the die an exact
+counterpart of the last one; and if the dies are carefully made, the
+castings will be accurate within 0.001 inch on all dimensions, whether
+they are outside measurements, diameters of holes or radii. All holes
+are cast and come out smoother than they could be reamed; lugs and gear
+teeth are cast in place; threads, external and internal, and of any
+desired pitch can be cast. Oil grooves can be cast in bearings, and, in
+a word, any piece that can be machined can be die-cast.
+
+The saving in machining works both ways; not only is all machine work
+eliminated by the one operation of casting, but the machine tools and
+the workmen necessary for their operation and up-keep are dispensed
+with, the expense of building jigs and fixtures is stopped; and no
+cutters, reamers, taps or drills are required for this branch of the
+production. In addition, the labor required for operating the casting
+machines may be classed as unskilled. No matter how intricate and
+exacting the machine work on a piece has been, and how skillful a
+workman was required to produce the work when machine-made, the same
+result may be brought about by die-casting, and usually the work is
+excelled, and, excluding the die-making, unskilled men can make the
+parts.
+
+From a metallurgical standpoint a die-casting is superior to a
+sand-casting on account of its density, strength and freedom from
+blow-holes. Also, when the hot metal comes in contact with the cool
+dies, it forms a “skin” similar to the scale on an iron sand-casting.
+As the die-casting requires no machining after leaving the dies, this
+skin increases the wearing qualities of the casting.
+
+The possibilities of die-casting are numerous. By this method of
+manufacturing it is possible and practical to cast pieces that could
+not possibly be machined. It is an every-day occurrence to make
+castings with inserted parts of another metal, as, for instance, a
+zinc wheel with a steel hub. It is also possible to make babbitt
+bearings that are harder and better than can be made in any other way.
+Often there are two or more parts of a device that have formerly been
+made separately, machined and assembled, that can be die-cast as one
+piece. In such cases the saving in production is very great. Figures
+and letters may be cast sunken or in relief on wheels for counting
+or printing, and of course ornamentation may be cast on pieces that
+require exterior finish. As to size, there is no definite limit to the
+work that can be cast. One job that is being done at the present time
+is a disk 16 inches in diameter with a round flange 1 inch in diameter,
+around the rim.
+
+[Illustration: Fig. 3. Examples of Die-castings]
+
+“There is no great gain without some small loss,” is just as true of a
+process like die-casting as it is of anything else. The limitations of
+this work are few, however, and they are here given so as to state the
+situation fairly. Generally speaking, a part should not be considered
+for die-casting if there are but few pieces required, because the cost
+of the dies would usually be prohibitive. Often, however, it happens
+that because of the large amount of accurate machine work being done on
+a machine part, it is economical to make a die for the comparatively
+small number of parts required and die-cast them. A case illustrating
+this phase of the matter recently occurred in actual practice. In
+getting out an order of two hundred vending machines, it was decided
+to try die-casting on a part that was difficult to machine. The dies
+were expensive, costing $200, and as there were only 200 pieces to be
+cast, the die cost per piece was one dollar; but even with that initial
+handicap, it was found that on account of the difficult machining that
+had formerly been required, the die-cast parts effected a large saving,
+and of course the results were superior.
+
+A rough part that would require little or no machining should not
+be die-cast, because pound for pound, the die-casting metals cost
+more than cast iron or steel. The casting machine cannot make parts
+as rapidly or of as hard metals as the punch press or the automatic
+screw machine. For this latter reason a part that necessarily must be
+made of brass, iron or steel, cannot be die-cast, although mixtures
+approximately equal in strength to iron and brass are readily die-cast.
+To give added strength to a die-cast part it is often advisable to
+add webs and ribs or to insert brass or iron pins at points that are
+weak or subject to hard wear. Roughly speaking, it is the part that
+has required a good deal of accurate machine operations that shows the
+greatest difference in cost when die-cast, and sometimes the saving is
+as great as 80 per cent.
+
+
+The Metals used in Die Casting
+
+The metals that produce the best die-castings are alloys of lead, tin,
+zinc, antimony, aluminum and copper, and the bulk of the die-castings
+made at the present time are mixtures of the first four of these
+metals. From them, compositions may be made that will meet the
+requirements of nearly any part.
+
+For parts that perform little or no actual work, save to “lend
+their weight,” such as balance weights, novelties and ornaments for
+show windows, etc., a mixture consisting principally of lead, often
+stiffened with a little antimony, is used. There is but little strength
+to this metal, but it is used because of its weight and low cost.
+For parts that are subject to wear, such as phonograph, telephone,
+gas-meter and adding machine parts, an alloy composed of zinc, tin and
+a small amount of copper is used. This alloy may be plated or japanned,
+and is a good metal to use on general work.
+
+Another metal, used chiefly for casting pieces that have delicate
+points in their design but are not subjected to hard wear, consists
+principally of tin alloyed with lead and zinc to suit the requirements
+of the work. This mixture casts freely, and the finished castings come
+out exceptionally clean. Still another metal, used chiefly for casting
+pieces that have letters and figures for printing, is similar to the
+standard type metal--5 parts lead and 1 part antimony; but if there are
+teeth cast on the sides of the printing wheel a harder mixture will be
+required to give longer life to the gears.
+
+The following mixtures are typical of die-casting or “white brass”
+alloys: copper, 10 parts; zinc, 83 parts; aluminum, 2 parts; tin, 5
+parts. Another is copper, 6 parts; zinc, 90 parts; aluminum, 3 parts;
+tin, 1 part. Another containing antimony is copper, 5 parts; zinc, 85
+parts; tin, 5 parts; antimony, 5 parts. Shonberg’s patented alloy is
+copper, 3 parts; zinc, 87 parts; tin, 10 parts. Alloys containing 15 to
+40 per cent copper and 60 to 85 per cent zinc are brittle, having low
+strength and low ductility. An alloy of 8 per cent copper, 92 per cent
+zinc has greater resilience and strength but not the ductility of cast
+zinc.
+
+Aluminum may be cast, but it is a difficult metal to run into thin
+walls and fine details; it plays, however, an important part in some
+good mixtures used for die casting. Experiments are now being conducted
+for die-casting manganese bronze, and it is said that some very good
+castings have already been made. Its wearing qualities are so valuable
+that it is particularly desirable for making die-castings.
+
+
+The Die-casting Machine
+
+The three important requisites for good die-casting are the machine,
+the dies and the metal. The casting machine is fully as essential as
+either of the other requisites, and although there are a number of
+different styles of casting machines in use, each of which has its
+advantages over the others, especially in the eyes of their respective
+designers, the fundamental principles upon which they all operate are
+the same. In each there is the melting pot and the burner, the cylinder
+and the piston for forcing the metal into the dies, and the dies with
+the opening and closing device. In some machines pressure is applied to
+the metal by hand, in others power is used, and in still another class
+the metal is forced into the dies with compressed air. The provisions
+for opening and closing the dies vary in the different machines; there
+are various means employed for cutting the sprue, and the styles of
+heaters are numerous.
+
+One or two of the largest firms in the die-casting industry have
+automatic casting machines for turning out duplicate work in large
+quantities very rapidly. These machines are complicated and are only
+profitable on large quantities of work, and for that reason their
+use is not extensive. In general, their operating principles are the
+same as in the case of the hand machines, but provision is made for
+automatically opening and closing the dies, compressing the metal, and
+ejecting the castings.
+
+
+The Soss Die-casting Machine
+
+The Soss die-casting machine, manufactured and sold by the Soss
+Manufacturing Co., Brooklyn, N. Y., was the first die-casting machine
+to be placed on the open market. This machine is shown in Figs. 4 and
+5, and in section in Fig. 6. The Soss Manufacturing Co. originally
+manufactured invisible hinges exclusively. At the advent of the
+die-casting era, they commenced to make these hinges from die-castings,
+and placed orders with a leading die-casting concern amounting to
+thousands of dollars each year. After the die-cast hinges had been on
+the market for a short time, complaints commenced to come in, some to
+the effect that the hinges were breaking and others that the hinges
+were corroding. Either of these faults was serious enough to blast the
+reputation of the hinge, but the first trouble, breakage, was the more
+important. Examination of the broken hinges showed that the castings
+were porous and full of flaws, and as the makers of the castings
+could not produce castings sufficiently strong for the hinges, Mr.
+Soss started to experiment for himself. This experimenting led to the
+production of the Soss die-casting machine.
+
+[Illustration: Fig. 4. General View of the Soss Die-casting Machine]
+
+Referring to the illustrations Figs. 5 and 6, _A_ is the base and frame
+of the machine, _B_ is the heating chamber located at one end of the
+machine, and within this heating chamber is the tank _C_, shown in Fig.
+6. This tank contains the metal from which the die-castings are made,
+and the metal is heated by the burners _D_. These burners are fed by
+air and gas through piping on the side of and beneath the furnace. To
+facilitate lighting the burners and inspecting their condition at any
+time, there is an opening (not shown) through the firebrick lining of
+the furnace and the outer iron wall, on a level with the top of the
+burners. There is also another opening through the furnace wall to
+allow the gases due to the combustion to escape. Through the bottom of
+the tank, well to the inner side of the furnace, runs the cylinder _E_.
+Below the bottom of the tank, the cylinder makes a right-angle turn,
+extending through the furnace wall and terminating just outside of the
+wall. The orifice of this cylinder is controlled by gate _F_. In that
+part of the cylinder that extends upward into the tank, there is an
+opening _G_ that allows the molten metal to run into the cylinder from
+the tank. Working in this cylinder, is the piston _H_, that is used in
+forcing the metal into the dies. The compression lever _I_, hinged over
+the inner furnace wall, is kept normally raised by spring pressure, and
+is connected to the piston by means of the link _J_.
+
+[Illustration: Fig. 5. Working Parts of the Soss Die-casting Machine]
+
+At the opposite end of the machine from the furnace, is the mechanism
+for operating the dies. This mechanism consists of a pair of square
+rods _K_, upon which are mounted the sleeves _L_. These sleeves have
+a long bearing surface and are attached to the die-plate _M_. Lever
+_N_ at the end of the operating mechanism controls the movement of
+these sleeves by means of links _O_. Upon these sleeves is mounted a
+secondary set of sleeves _P_, attached to the other die-plate _Q_,
+and whose movement is controlled by lever _R_, through links _S_.
+This second set of sleeves is free to travel with the first set, and
+in addition has an independent movement of its own on the primary
+sleeves. It is the function of lever _R_ to bring die-plate _Q_ up
+to die-plate _M_ by means of links _S_ and sleeves _P_; and it is
+the function of lever _N_ to bring both of the die-plates up to the
+outlet of the cylinder by means of links _O_ and sleeves _L_. This
+system of sleeve-mounting is one of the distinctive patented features
+of the Soss machine. The orifice of the cylinder _E_ is conical in
+shape and exactly fits the cup-shaped opening in die-plate _M_, so
+that when the two are brought together, the joint is metal tight. At
+the center of this opening, and extending through the die-plate _M_,
+is an opening that leads to the dies mounted on the inner faces of the
+two die-plates, and a continuation of this opening extends through
+die-plate _Q_ in which the sprue-cutter _U_ works. Attached to the
+outer side of this die-plate are two slotted brackets. In the slot of
+one of these is pivoted the lever _T_, and in the slot in the opposite
+bracket are bolted two stops that limit the motion of the lever. This
+lever operates the sprue cutter _U_, that works through the opening in
+die-plate _Q_. The sprue-cutting mechanism is best shown in Figs. 5 and
+6. At the left of Fig. 5 may be seen a rubber hose connected to the air
+piping. This hose is used for cleaning out the dies after each casting
+operation.
+
+
+Operation of the Die-casting Machine
+
+The metal for the die-casting machine is mixed in the proper
+proportions for the work in hand by means of a separate furnace, before
+being poured into the tank of the machine itself. The burners are
+lighted and the dies are set up on the two die-plates. As soon as the
+machine has “warmed up,” so that the metal is in a thoroughly melted
+condition, the sprue-cutting lever _T_ is thrown back, leaving a clear
+passageway to the die cavities. Lever _R_ is pulled backward, thus
+bringing die-plate _Q_ up to die-plate _M_, which operation closes
+the two halves of the die. Then lever _N_ is thrown forward, thereby
+bringing the closed die up to the body of the machine, with the nozzle
+in close contact with the outlet of the cylinder. Next, the gate _F_
+is opened, and the man at the compression lever _I_ gives the lever a
+quick, hard pull, forcing the metal in the cylinder downward and into
+the dies. The molten metal literally “squirts” into the dies. Gate _F_
+is now closed; lever _N_ is pulled back to remove the dies from the
+cylinder outlet; and the sprue-cutting lever _T_ is pushed forward,
+cutting off the sprue and pushing it out of the nozzle into the kettle
+placed beneath it. The lever _R_ is pushed forward, and a finished
+casting is ejected from the dies.
+
+An important advantage that this machine has over other die-casting
+machines is the fact that the metal for the castings is taken from the
+_bottom_ of the melting pot, whereas most other machines use metal from
+the top of the tank. At the bottom of the tank the metal is always the
+best, as it is free from impurities and dross; hence, there is little
+chance for the formation of blow-holes. A handful of rosin thrown
+into the melting tank occasionally helps to keep the metal clean,
+but the metal nearest the surface always contains more or less foreign
+matter.
+
+[Illustration: Fig. 6. Section of Soss Die-casting Machine]
+
+While this description of the operation of the die-casting machine may
+convey the idea that the process is a slow one, as a matter of fact,
+the time required is, on the average, not over a minute and a half
+for turning out a finished casting. With the ejection of the casting
+from the dies, the product is completed, in theory; but in practice
+there are always a few small thin fins, caused by the air vents or by
+improperly fitted portions of the dies. It is, however, but the work
+of a few seconds to break off these fins, and unless there are many of
+them, or they are excessively thick, they are detrimental neither to
+the quality nor the quantity of finished castings.
+
+
+Points on the Operation of the Die-casting Machine
+
+We have now taken up the description and general operation of the
+die-casting machine, but like every other machine, there are numerous
+little kinds and practices in its working the observing of which makes
+the difference between good and poor die-casting. Some of these points
+are here given.
+
+The casting machine is best operated by three men, one of whom attends
+to the compression lever and the metal supply in the tank. The other
+two men stand on each side of the die-end of the machine, and it is
+their duty to operate the sprue-cutter, open the dies and remove the
+finished casting, clean the dies with air and close them, throw back
+the die-plates to their casting position over the cylinder outlet, and
+do any other work incident to the operation of the machine. While it
+requires three men to operate a die-casting machine in the best manner,
+the man who attends to the compression lever has a good deal of spare
+time between strokes, and if two or even three of the machines are
+conveniently placed, one man can easily pull levers for all three.
+
+The metal should be kept just above the melting point and at a
+uniform temperature. If the metal is worked too cold, the result will
+manifest itself in castings that are full of seams and creases, and it
+will be difficult to “fill” the thin places in the dies. If, on the
+other hand the metal is allowed to get too hot, the die will throw
+excessively long fins, the castings will not cool as quickly in the
+die, and consequently they cannot be made as rapidly. On account of
+the importance of keeping the metal at a uniform heat, the fresh metal
+that is added to that in the tank from time to time, is kept heated in
+a separate furnace. Therefore, when the metal in the tank gets low, the
+new supply does not reduce the temperature of the metal being worked.
+Some casters use a thermometer to indicate the heat of the metal.
+
+Casting-dies require lubrication frequently. Just how often they should
+be lubricated depends on the shape of the die, the composition of the
+casting metal, and the general performance of the dies. Beeswax is
+the common lubricant, and the lubrication consists in merely rubbing
+the cake over the surfaces of the dies that come in contact with the
+casting metal. In die-casting large parts, the dies must be kept cool
+by some artificial means, for hot dies are conducive to slow work and
+poor castings. To reach this end, large dies are sometimes drilled and
+piped so that water may be circulated through them to keep them cool.
+
+In the Soss machine, the burners are so placed that the metal in the
+cylinder is kept at a slightly higher heat than that in the tank
+proper. This condition is brought about by having the cylinder directly
+over the burners. The value of this feature lies in the fact that
+gas is not wasted in heating the entire tank full of metal to this
+higher heat, but still the metal under compression is at the required
+temperature. The gas consumption of the average die-casting machine is
+about 100 cubic feet per hour.
+
+The speed at which die-castings may be produced varies with the size of
+the castings being made, the composition of the metal being cast, and
+the style of dies that must be employed. In many cases, in die-casting,
+separate brass or steel pieces are used, that must be placed in the
+dies before each operation so that they will be inserted in and become
+a part of the finished casting. The dies may be difficult of operation
+on account of draft problems or pins and screws that must be inserted
+in the dies and removed from each casting before another can be made.
+These different types of dies will be more fully described in the next
+chapter. Taken as a whole, from ten to sixty pieces per hour are the
+maximum limits for speed in die-casting, and with a well-working die,
+of simple construction, a speed of forty pieces per hour is considered
+good production. It is possible, however, when the castings to be
+produced are small in size and simple in shape, to gate a number of
+them together, or rather to construct the dies so that six or more
+castings may be made at once. By this means it is often possible to
+cast five or six thousand pieces per day of ten hours, on a hand
+die-casting machine.
+
+
+
+
+CHAPTER II
+
+MAKING DIES FOR DIE-CASTING MACHINES
+
+
+The making of casting-dies calls for ingenuity and skill of the highest
+order on the part of the die-maker. There is probably no class of
+die-making in which the work produced is more faithful to the dies,
+both in showing up the little details in the making that reflect credit
+on the dies, and in exposing the defects and shortcomings in the
+workmanship, if there be any. The castings from casting-dies or molds
+as they are sometimes called, may be produced in dimensions down to
+ten-thousandths for accuracy if necessary, and once the dies are made
+the castings will not vary in the slightest degree, if the working
+conditions are kept uniform.
+
+In spite of the close work required in making casting-dies, the work is
+very fascinating. Perhaps it is on account of this accuracy; possibly
+it is on account of the fact that they are made from machine steel;
+but most likely it is because there are no hardening troubles to be
+contended with. Another factor that makes the work interesting is the
+ingenuity required in the work, for almost every die-maker, if he is
+worthy of the name, likes to figure out and plan for the best way of
+building a die for a difficult job.
+
+
+General Principles of Casting-die Making
+
+Casting-dies, or molds, have little in common with sand molds. It
+is true that the dies for die-casting are composed of two parts
+corresponding to the cope and nowel of the sand mold, but they are
+so different in every other way that no benefit would result from a
+comparison.
+
+Generally speaking, casting-dies are made of machine steel; the parts
+which are exceptions are the heavy bases and frames, which are made of
+cast iron, and the dowel pins and small cores, usually made of tool
+steel. Except in rare instances, there are no hardened parts about a
+casting-die; this is the case because the melting points of some of the
+alloys that are die-cast are high enough to draw the temper from any
+hardened parts of the dies.
+
+The ideal die is simple in construction, with as few parts as
+practicable; the castings should be easily ejected and should come
+from the dies as nearly free from fins as possible. To meet these
+requirements in the best way is the proposition that confronts the
+ingenuity of the die-maker. As the die is primarily in two parts, there
+must be a parting line on the casting. This line is always placed at
+the point that will permit the casting to be ejected from the dies in
+the easiest manner possible, bearing in mind the effect the joint will
+have on the appearance of the finished casting; this is a point far
+less important than with sand casting, for, if the dies are properly
+made this seam will be barely perceptible. When it is practicable to
+do so, it is wise to have the parting line come on an edge of the
+die-casting. Draft is unnecessary on the straight “up-and-down”
+places, but of course it is impossible to draw any parts that are
+undercut. Means must be provided for ejecting the casting from the
+dies after completion and it is usually done by means of ejector pins,
+though frequently it is better to have the bottom of the die or some
+other section movable and do the ejecting on the same principle that
+is used on drawing dies of the compound type. On close work, shrinkage
+plays an important part, and the amount of shrinkage varies from 0.002
+to 0.007 of an inch per inch. Aluminum shrinks the greatest amount,
+Parsons white brass shrinks considerably, while tin shrinks but little.
+Thus, it may be easily seen that to figure the shrinkage allowance for
+an alloy that contains three or four metals with different shrinkages,
+requires judgment. To prevent the air from “pocketing,” air vents are
+necessary at frequent intervals around the die-cavity. These vents are
+made by milling a flat shallow cut from the die-cavity across the face
+of the die to the outside edges of the block. From ¼ inch to ½ inch
+is the usual width and from 0.003 to 0.005 of an inch, the customary
+depth, varying with the size and shape of the die in question.
+
+[Illustration: Fig. 7. Disk cast in Simple Casting-die]
+
+The dies or molds for die-casting are of various styles, as are also
+punch-press dies, and it would be difficult to lay down specific
+rules for their classification. There are the plain dies, without
+complications of any kind; slide dies with one or more slides; dies
+for bearings, both of the “half-round” and of the “whole-round” types;
+dies for gated work; and many other less important classes. Then there
+are dies that have features that belong to more than one of these
+types, so that it is easily seen that to decide upon the style of die
+that would be best for a given piece of work requires a good deal of
+experience. Some of the most important of these types can best be shown
+by illustrating dies made in the various styles, showing, step by step,
+how the dies are made and assembled. To begin with, consider the making
+of a casting-die of the very simplest form.
+
+In Fig. 7 is shown a plain flat disk made by die-casting. In actual
+practice, a die would not be made for such a simple piece, unless
+there were some features about it that would prevent it being made
+on a screw machine or with press tools. It might have a cam groove
+cut in one of its flat sides, the sides might be covered with scroll
+work, there might be gear teeth around its circumference, or a hundred
+and one other conditions to make die-casting a desirable method of
+manufacturing. All these complications are omitted for the sake of
+simplifying this initial description of a casting-die.
+
+[Illustration: Fig. 8. Simple Casting-die for Casting Block shown in
+Fig. 7]
+
+Fig. 8 shows the die for this piece in plan and sectional elevation.
+_A_ is a square cast-iron frame, made from a single casting. This frame
+or box, as it is generally called, is planed on the top and bottom
+only. Next, the two die-halves _B_ and _C_ are shaped up from machine
+steel. In this casting-die, and in the majority of others, these
+die blocks are square. The lower half of the die _B_ is held to the
+cast-iron frame by fillister head screws, set in counterbored holes,
+thus sinking the screw-heads under the surface of the block. The upper
+half of the die _C_ is located upon _B_ by dowel pins driven into _B_
+which have a sliding fit in the reamed holes in _C_. This being done,
+the die-half _B_ is fixed to the faceplate of the lathe and the recess
+bored for the die-cavity. This operation is a simple one in this case,
+for it is merely a straight hole one-half inch deep and three inches in
+diameter. Of course this recess must be carefully finished with a tool
+that has been stoned up to a sharp edge, using lard oil. Emery cloth
+should be used as little as possible. It is unnecessary to give this
+hole draft, but it must be free from ridges or marks that would prevent
+the casting from being pushed out. If the faces of the dies are spotted
+with a small piece of box wood or rawhide held in the drill press and
+kept charged with flour emery, the die-casting will reproduce this
+“bird’s-eye” finish and the appearance will well repay the few minutes
+additional time that it will take. The spotting should be done with dry
+emery (without oil) to get the brightest finish. The upper die-half _C_
+is simply ground on its working face. The outside corners and edges of
+the faces of both die-halves should be well rounded off so as to insure
+the absence of slight dents or rough places that might prevent the dies
+from fitting perfectly.
+
+The ejecting mechanism must next be considered. Lever _D_, pivoted
+from bracket _E_, has a steel pin _F_ that engages in the elongated
+hole in bracket _G_, so that an upward pull of the lever _D_ raises
+bracket _G_, which is attached to ejector-pin plate _H_. This plate is
+a loose fit over the guide screws _I_ that are attached to the lower
+die-half _B_. The ejector pins _J_, four in number, in this die, are
+riveted into the ejector-pin plate, and they work through holes drilled
+and reamed through the lower die-half. The ends of these pins must be
+finished off so as to lie perfectly flush with the inside of the die
+when ready for operation and, of course, they must be a sliding fit in
+the holes in the die.
+
+An important feature of a casting-die is the sprue cutter, shown in
+this die at _K_. If the disk for which this die was made, had had a
+hole or central opening of any kind, the sprue cutter would best be
+operated at that point; but, as this disk is plain, the sprue cutter
+must be placed at the edge. At the outside of the die-cavity, as shown
+in Fig. 8, the opening for the sprue cutter is laid out, drilled
+and filed to shape. It is obvious that the side of the sprue cutter
+adjacent to the die must fit the outline of the die perfectly, so that
+there will be no break in the appearance of the casting. The opening
+for it is extended through the upper die-half, and from a point ¼ of an
+inch from the inside face of the die this hole is flared out nearly as
+large as the opening through the die-plate of the machine. Of course
+the apperture in the upper die-half must be no larger than the opening
+through the die-plate; otherwise the sprue could not be pushed out. The
+sprue cutter itself is a long rod, whose section is of the same shape
+and size as the openings just made, and it is connected to the sprue
+cutting mechanism of the machine. Of course it is unnecessary to shape
+the entire length of the sprue cutter to size; after the working end is
+milled to shape for a distance of six or eight inches, the rest of the
+rod may be left round. The sprue cutter is finished first, after which
+both the openings in the die are fitted to it; and while the fit should
+be metal tight, it must be perfectly free to slide.
+
+The dies are mounted on the die-plates of the casting machine by means
+of straps, much the same as bolsters are held on punch press beds. The
+position of the die on the die-plate must be such that the opening for
+the sprue cutter will line up with the nozzle at the outlet of the
+cylinder. At the time of casting, the position of the sprue cutter is
+as shown in the illustration of this die, Fig. 8. In this position
+there is room for the metal to enter the die-cavity, and yet there is
+but a small amount of metal to be cut off and pushed back after the die
+has been filled with metal.
+
+With slight modifications, the above style of die may be used for
+die-casting any piece that will draw or pull out of a two-part die. If
+holes must be cast through the piece, it is only necessary to add core
+pins to the lower die _B_, a point that will be more fully described
+later. It is unnecessary to add that both halves of the die may be
+utilized in making the cavity for the die, should they be needed. Also,
+it is often easier to machine out the recess larger than is needed, and
+set in pieces in which parts of the outline of the die-casting have
+been formed. Gear teeth are put in the die in this way; a broach is cut
+similar to the gear desired, then hardened and driven through a piece
+of steel plate which is afterward fitted to its place in the die.
+
+
+Slide Dies
+
+The die illustrated in Fig. 9 is one of the most successful of the
+various types of casting-dies, and if properly made is an interesting
+piece of die work. The principal use of this particular style of die,
+called a slide die, is to cast parts like the one shown in Fig. 10,
+which is a disk similar to the one which the last die described was
+to cast, except that it has raised letters at the edge and a hole in
+the center. It is obvious that the die last described, (Fig. 8), would
+not do for disks or other pieces having projections or depressions
+around their edges, as, for instance, printing or counting wheels with
+raised or sunken characters, or grooved pulleys. Briefly, this style
+of die is similar to the simple casting-die, except that slides are
+provided, to the required number, which form the edge of the casting.
+A die for a plain grooved pulley would require but two slides, while
+a die for a printing wheel with forty letters around its edge would
+necessitate forty slides, one for each of the letters. The die about to
+be described, shown in Fig. 9, was made to cast a wheel with six raised
+letters.
+
+Referring to Fig. 9, _D_ is the cast-iron box or frame, _E_, the lower
+die, and _F_ the upper die. In making the lower die-half, the stock is
+first shaped to size and doweled to the blank for the upper die-half,
+and the holes for attaching to the frame are drilled. For the sake of
+clearness, these holes and screws are omitted from the illustration as
+are also the vents, since they have been fully explained. The lower
+die is next strapped to a faceplate, trued up, and bored out nearly
+to the diameter of the body of the piece to be cast, exclusive of the
+raised letters. The depth of this recess is equal to the thickness of
+the printing wheel plus 3/16 inch to allow for the cam ring _G_ that is
+used to reciprocate the slides of the die. The cam ring is made large
+enough to cover the die-cavity as well as the slides that surround
+it, with an allowance of an inch or two for the cam slots _H_. The six
+slides _I_ are made long enough to have good bearing surfaces. With the
+size of the cam ring determined, the die is next bored out to receive
+this cam ring and the last inch of the recess is carried down to the
+depth of the die cavity so as to make an ending space for the slots
+that the slides are to work in. The die is now taken from the faceplate
+and the slots for the slides laid out.
+
+[Illustration: Fig. 9. Slide Die for Casting the Printing Wheel shown
+in Fig. 10]
+
+These slots may be milled or shaped, but milling is to be preferred.
+The next step is the making and fitting of the slides, which are of
+machine steel, having a good sliding fit in the slots. The six slides
+are fitted in position and left with the ends projecting into the die
+proper. The slots _H_ are next profiled in the cam ring _G_, and the
+pins _J_ that work in them are made and driven into the holes in the
+slides. With the slides and cam ring in place, the cam ring is rotated
+to bring all the slides to their inner position where they are held
+temporarily by means of the cam ring and temporary screws. The die-half
+with the slides thus clamped in the inner or closed position, is set up
+on the lathe faceplate and the die-cavity indicated up and bored out to
+the finish size, which operation also finishes the ends of the slides
+to the proper radius. The die may now be taken down and the slides
+removed to engrave the letters upon their concave ends. The engraving
+can be done in the best manner on a Gorton engraving machine, but if
+such a machine is not available they may be cut in by hand. Stamping
+should never be resorted to for putting in the letters, because the
+stock displacement would be so great that it would be impossible to
+refinish the surface to its original condition. Before fitting the
+cam ring, an opening must be milled in the die to allow the handle to
+be rotated the short distance necessary. After the cam ring has been
+fitted, it is held in by the four small straps _K_, attached by screws
+to the lower die-half at the corners.
+
+[Illustration: Fig. 10. Printing Wheel cast in a Slide Die]
+
+The sprue cutter, which is not shown, is operated through the hole
+in the center of the piece and is, of course, round in this die.
+Its action is the same as was the one previously described, and the
+ejecting device is similar, with the exception that the brackets _L_
+that are attached to the ejector-pin plate M, are widely separated so
+as to make room for the sprue cutter that works through a hole in the
+plate _M_.
+
+
+Die for Casting with Inserted Pieces
+
+For making die-castings that are to have pieces of another metal
+inserted, it is necessary to have a die with provisions for receiving
+the metal blank and holding it firmly in position while the metal is
+being cast around it, and of course the piece must be held in such a
+manner that it can be easily withdrawn from the die with the finished
+casting.
+
+The die illustrated in Fig. 11 is for a part that is used as a swinging
+weight, shown in Fig. 12. The upper part of the piece is made from a
+sheet steel punching, so as to lighten this part of the piece as well
+as to give increased strength, especially at the hole at the pivoted
+end of the work. The cast portion of the piece is slotted lengthwise,
+as the illustration shows; and three holes pass through the casting,
+piercing the sides of the slot. In addition to showing the method of
+making dies for inserted pieces, this die shows the principles of
+simple coring.
+
+[Illustration: Fig. 11. Casting-die for Making Castings with Inserted
+Pieces like that shown in Fig. 12]
+
+In making this die, two machine-steel blanks are planed up for the
+upper and lower halves of the die, _A_ and _B_, the lower die being
+made nearly twice as thick as the upper die because it is in this part
+that the most of the die-cavity will be made. In this lower half of
+the die the stock is milled out to the same shape as the outline of
+the plan view of the casting, being carried down to the exact depth
+of the thickness of the casting. From the wide end of this recess the
+stock is milled or shaped out in a parallel slot to the outside of the
+die-block. At the bottom of the side of this wide slot are T-slots
+to guide the slide _E_ that is to work in this opening. The side is
+milled and fitted to the T-slots and opening in the die, but is left
+considerably longer than the finish size. Next, the slide is mounted
+on the faceplate of a lathe and turned out on the end with the proper
+radius and a tongue to form the slot that is to be in the curved end
+of the casting. At the outer end of the slide is left a lug that is
+drilled and tapped for the operating lever _F_ that reciprocates the
+slide, using the stud in bracket _K_ as a fulcrum.
+
+Two pieces of machine steel are next shaped and finished up to form the
+chamfered part of the casting and to locate the inserted steel punching
+in the die. The combined thickness of these pieces _C_ and _D_ is equal
+to the thickness of the casting, less the thickness of the inserted
+piece. It is now an easy matter to seat section _D_ in the bottom of
+the milled part of the lower die-half, and to locate section _C_ in its
+proper position on the upper half. A pilot pin _M_ is fitted in _D_ to
+hold the steel punching in position by means of the hole that is in the
+extreme upper end of the punching. The pilot pin extends through this
+hole into a corresponding hole in section _C_. At the lower end of the
+steel part that is inserted, there are two holes the object of which
+is to secure the punching to the die-casting, for the molten metal
+runs through these holes, practically riveting the die-casting to the
+inserted piece.
+
+[Illustration: Fig. 12. Die-cast Weight with Inserted Sheet-steel
+Punching]
+
+Provision has now been made for holding the sheet-metal part that is
+to be inserted, and the cavity has been completed for the casting,
+including the tongue at the end; it now remains to describe the manner
+of forming the holes that pierce the casting through the slotted
+portion. In the lower die-half the positions of the three holes _H_ are
+laid out, drilled and reamed. Then, with the two die-halves together
+and the slide clamped at its inner position, the holes are transferred
+through the slide and the upper die. This being done, it is an easy
+matter to make core pins and drive them into the upper die at the two
+end holes, the center hole being taken care of by the sprue cutter _L_
+that will be described later. The core pins should be a nice sliding
+fit through the slide and in the holes in the lower die, into which
+they should extend from a quarter to half an inch. In addition to
+coring the holes, these pins act as a lock to hold the slide _E_ in its
+proper position at the time of casting.
+
+The sprue cutter _L_ is most conveniently operated in the center hole,
+thus doing away with the core pin that would otherwise be required. The
+sprue cutter needs little description in this die, for as in the slide
+die, it is merely a plain round rod that fits closely in the holes
+through the dies and slide. The ejector mechanism is the same in this
+die as in the dies already described; therefore further description is
+unnecessary.
+
+[Illustration: Fig. 13. Casting-die for the Half-round Bearing shown in
+Fig. 14]
+
+The operation of this die is very simple. The sheet-steel piece is laid
+in the recess in the open die, being located by the pin _M_. Slide
+_E_ is thrown in by means of lever _F_, and the dies are closed. At
+the time of casting, the sprue cutter in is the position shown in
+the sketch, being nearly through the die-cavity. As before explained,
+this position admits the molten metal to pass into the die-cavity, but
+still leaves very little sprue to be cut off after the die-casting is
+completed. It should be stated that the steel piece that is inserted
+must be perfectly flat and free from burrs that would prevent the
+die-halves from coming together properly.
+
+
+Bearing Dies
+
+Bearing dies are one of the most important of the various classes of
+casting-dies. The bearings produced by die-casting are so far superior
+to those made by other casting methods and machining that their use is
+now very extensive. Dies are made for “half-round” and “whole-round”
+bearings. There is little out of the ordinary about a whole-round die,
+but the half-round die involves many interesting methods of die-making,
+and for that reason is here described.
+
+Fig. 13 shows a casting-die for half-round bearings. Half-round bearing
+dies are usually made to cast two bearings at a time, for the reason
+that it is just as easy to cast two pieces of such a shape as it is to
+cast one, and, in addition, the die is balanced in a better manner. As
+with other dies, the first step is to machine up the frame _A_ and the
+two die-halves _B_ and _C_. The pieces _D_ and _E_ that are to form
+the insides of the bearings are then turned up and one side of each
+shaped and keyed to fit the slots that have previously been milled in
+die-half _C_. These parts are held in place by dowels and screws. One
+of the bearings produced by this die is shown in Fig. 14, and it will
+be noticed that there is an oil groove within that covers the length
+of the bearing. To produce this groove in the die-castings, a shell
+must be turned up and bored out whose inside diameter is that of the
+inside of the bearing, and whose thickness equals the depth of the oil
+groove. This being done, the oil grooves are laid out upon the shell
+and cut out by drilling and filing. After rounding the outside corners,
+these little strips are pinned to the cores _D_ and _E_ in their proper
+places.
+
+[Illustration: Fig. 14. Die-cast Half-round Bearing, Showing the Cast
+Oil Grooves]
+
+Another little kink in this connection is worthy of noting. So many
+different styles and sizes of bearings are made by a concern doing much
+die-casting that it is essential that the die-cast bearings should
+bear some distinguishing number to identify them. As this number is
+of no consequence to the user it is well to have the number in an
+inconspicuous place, but it must be where it will not be effaced by
+scraping, etc. Bearing in mind that it is much easier to produce raised
+lettering by die-casting than to produce sunken lettering, it will be
+readily seen that the oil groove affords a good place in which to
+put the bearing number. This is easily done by stamping the figures
+upon the narrow strip that forms the oil groove. In this place on the
+bearing it may be easily found if needed, and of course there is no
+danger of its being taken out by machining.
+
+The lower die consists of two blocks _F_ and _G_, each of which
+contains an impression of a bearing. The best way to make these parts
+is to lay out the ends of each of the blocks with the proper radius,
+taking care to have the center come a little below the surface of the
+face of the block. Then the blocks should be shaped out to get the bulk
+of the stock out, before setting up in the lathe. After the lathe work
+is done on each piece, which of course is usually done separately, the
+faces of the two blocks are faced down just to the exact center of the
+impression. It will be noticed that two blocks are used for the lower
+part of the die. The reason is to facilitate the locating of the female
+parts of the die in proper relation to the male parts. After properly
+locating, they may be doweled and screwed to baseplate _B_.
+
+[Illustration: Fig. 15. Interesting Examples of Die-castings]
+
+The sprue cutter _H_, better shown in the plan view, is square in shape
+and connects with the die-cavities in a thin narrow opening on either
+side of the sprue cutter. The ejector pins, _I_, two to each die, are
+at the ends of the bearings. The ejector-pin plate _J_ is necessarily
+large, and is operated by lever _K_.
+
+Fig. 15 shows a number of interesting examples of die-castings.
+
+
+
+
+CHAPTER III
+
+VAN WAGNER MFG. CO.’S DIE-CASTING PRACTICE
+
+
+In 1907, Mr. E. B. Van Wagner, of Syracuse, N. Y., established the
+E. B. Van Wagner Mfg. Co. for the production of die-castings. The
+factory comprises the office section, the machine shop where the dies
+and casting machines are built, the metallurgical laboratory where the
+metals are alloyed, the casting department shown in Fig. 17 where the
+die-castings are made, and the trimming department.
+
+
+Possibilities and Limitations of Die Casting
+
+[Illustration: Fig. 16. Die-casting Constructions to be avoided]
+
+At the outset we may say that it is possible to die-cast almost any
+piece, but it is not by any means practicable to do so. It must be
+remembered that to die-cast on a practical basis the dies must be
+constructed in such a manner that the cost of their operation and
+up-keep will be light, or there will be no profit in die-casting. It
+is impracticable to produce under-cut work, that is, work having no
+draft and which is therefore impossible to draw from the die. Such
+an instance is that illustrated at _A_, Fig. 16, and by the internal
+section of _M_, Fig. 21, and the internal groove in _O_, also shown
+in Fig. 21. If absolutely necessary, work of this kind can be done by
+the use of collapsible cores; but here, again, we meet resistance in
+maintaining the dies in proper condition, and, moreover, this method
+is commercially impracticable, owing to the difficulty of operating
+these cores rapidly. Hollow work, requiring curved cores, like faucets
+and bent piping of the character illustrated at _C_ in Fig. 16, are
+difficult to produce. If, in designing the piece, it can be planned to
+have the parts of such a shape that the cores can be readily withdrawn,
+employing a two-piece core with a slight draft in each direction,
+the division coming as indicated by the core line of _C_ in Fig. 16,
+the problem becomes simpler. Oftentimes this work can best be done
+by casting in a straight piece, afterward bending the die-casting.
+It does not pay to cast rough heavy work that can be made just as
+efficiently by sand casting. Generally speaking, the greatest saving
+can be effected by die-casting small pieces which have previously
+required a large amount of machining to produce. On large plain work
+the amount of metal required for the casting makes the cost excessive
+on account of the difference in cost of the metals. If, however, the
+large work must be finely finished by polishing, etc., it is oftentimes
+found of advantage to die-cast. Corners, especially those joining thick
+and thin sections, as at _B_, Fig. 16, should be heavily filleted
+as shown on one side of this piece. Regarding the casting of thin
+sections, it is not practicable to try to cast sections under 3/64
+inch in thickness, as the metal runs with difficulty into such narrow
+places. A casting having walls 1/16 inch, like that shown at _X_, Fig.
+24, is easily cast. Threaded sections, if the threads are fine, say,
+under twenty-four to the inch, should not be die-cast, because under
+moderate pressure they will strip. A good way to treat constructions of
+this kind is to enclose brass or steel bushings in the die-castings in
+which the threads are required.
+
+[Illustration: Fig. 17. View of the Casting Room]
+
+As to the accuracy with which die-castings may be produced, it is
+possible to keep dimensions within 0.0005 inch of standard size, but to
+do so requires considerable expense in keeping the dies in condition.
+A limit of 0.002 inch, however, is entirely practicable, and can be
+maintained easily. In specifying the accuracy with which die-castings
+are to be made, only those parts which are absolutely essential should
+be held to size, in order to keep the cost of the work nominal. One of
+the great advantages of the use of die-castings is that no finishing is
+required after the pieces leave the molds. Finish requirements should
+be plainly stated in ordering die-castings, as the alloy must be suited
+to these requirements.
+
+[Illustration: Fig. 18. Methods of attaching Die-cast Gears, etc., to
+Shafts]
+
+Another great saving is effected on lettered work, either raised or
+sunken. One of these jobs is illustrated at _Q_, Fig. 22, which shows
+an example of die-cast lettering. Sunken lettering is to be preferred
+to raised lettering, as the latter is more easily injured. Knurled
+work may be produced easily, if straight knurls are used, and threaded
+sections over ¼ inch in size are entirely practicable, either internal
+or external. External die cast threads are illustrated at _R_ and _S_,
+Fig. 22. The casting of gears and segments is a familiar application
+of die-casting; this is illustrated by the large gear at _N_, Fig. 21,
+and the segment at _W_, Fig. 23, which give an idea of the general
+character of this class of work. The casting of pulleys, gears, and
+similar parts on shafts may be easily effected as shown by the gear on
+the shaft at _N_, in Fig. 21. The views shown in Fig. 18 are intended
+to convey an idea of three methods of die-casting around shafts. At
+_D_ is shown a die-casting cast around a steel shaft. If the surface
+of the shaft coming within the pulley has been previously knurled,
+the pulley will grip it much better, but for ordinary purposes the
+shrinkage of the die-cast metal around the shaft is sufficient. If any
+heavy strain is to be imposed on the work, it is better to provide
+anchor holes through the shaft, like those indicated at _E_. It will be
+readily seen that the die-cast metal runs through these holes in the
+shaft, forming rivets which are integral with the casting. For locating
+levers upon the ends of shafts, etc., a good way is to flatten opposite
+sides of the shaft and cast around them, as shown at _F_, Fig. 18. The
+screw seen projecting beneath the piece at _Q_, Fig. 22, was die-cast
+in place. Any of these methods are to be recommended, and a proper
+knowledge of possibilities of this kind will increase the scope of
+die-casting.
+
+[Illustration: Fig. 19. A Few Possibilities of Die Casting]
+
+Another phase of die-casting which can well be borne in mind is the
+possibility of inserting steel or other parts in the die-casting.
+Such an instance is shown at _G_ in Fig. 19--a die-casting which was
+made by the Van Wagner Co. as a part of an electrical apparatus, the
+steel inserts being contact points. Oftentimes it is found advisable
+to include brass bearing rings to give additional durability at points
+where the die-cast metal would not stand up. The die-casting shown at
+_U_, Fig. 23, in which the brass ring at _T_ has been incorporated,
+is typical of such cases. To die-cast pieces like those shown at
+_H_ in Fig. 19, and similarly at _V_ in Fig. 23, having inverted
+conical openings, might at first thought seem difficult, but this is
+entirely practicable. Similarly, split bushings like those shown at
+_I_, Fig. 19, and at _W_, Fig. 23, may be cast with projecting lugs
+for the reception of screws for clamping upon shafts, etc., but this
+construction should not be used if frequent tightening or loosening
+will be necessary.
+
+[Illustration: Fig. 20. Castings which illustrate Points of Shrinkage
+and Draft]
+
+[Illustration: Fig. 21. Die-castings showing Impractical Under-cut
+Sections; also a Large Gear die-cast on Shaft]
+
+[Illustration: Fig. 22. Die-castings which show Lettering and Thread
+Castings]
+
+The shrinkage problem manifests itself in die-casting in the same
+measure that it does in other casting operations. Different metals
+shrink in different degrees, as will be explained later on. However,
+one important point can be mentioned at this time: that is, the amount
+of shrinkage is often dependent upon the shape of the piece. For
+instance, pieces like those shown at _K_ in Fig. 20 or at _X_ in Fig.
+24, will shrink very little on account of the fact that the steel mold
+is of such shape that the central core will prevent the die-casting
+from shrinking. However, pieces like those shown at _L_ in Fig. 20,
+or at _V_ in Fig. 24, which have nothing to hold them from pulling
+together as they cool, will shrink to the greatest extent. All of
+these points must be taken into consideration when designing work for
+die-casting. Practically no draft is necessary on a die-casting, except
+on very deep sections, as indicated at _J_ in Fig. 20, where a draft
+of 0.001 inch to the inch is desirable. Perfectly straight sections,
+however, can be cast, as the shrinkage of the metal is usually enough
+to free it from the die.
+
+[Illustration: Fig. 23. Typical Die-castings illustrating Various
+Points]
+
+[Illustration: Fig. 24. Die-castings illustrating the Extremes of
+Shrinkage]
+
+It is the opinion of the Van Wagner Co. that die-casting costs can
+be materially reduced if designers will bear this point in mind when
+bringing out new designs. Even though it is often possible to cast
+special pieces, incorporating several parts in one, and thereby
+accomplishing what seems to be a great stunt to the designer, it is
+sometimes more practicable to make the piece in several sections and
+later assemble it. Not only is this simpler for the die caster, but it
+is also more economical for the customer. Such points as avoiding thin
+sections, including large fillets at corners, as well as taking account
+of the under-cut problem, are simply matters of common sense, but they
+can profitably be considered by the designer.
+
+
+The Van Wagner Die-casting Machine
+
+The first essential to good die-casting is a good casting machine.
+Perhaps the best known types of casting machines are of the familiar
+plunger type, of which there are several varieties, the pneumatic type
+and the rotary or automatic type. (For descriptions of various types of
+die-casting machines, see “Die Casting Machines,” MACHINERY’S Reference
+Book No. 108.) For the economical production of die-castings, however,
+the hand-operated machines are rather too slow, and automatic machines
+are applicable only to a class of work which may be made in very large
+quantities. For these reasons, therefore, the Van Wagner Co. employs
+the compressed air type of die-casting machine which was patented by
+Mr. E. B. Van Wagner in 1907. In the casting department of the Van
+Wagner shop, illustrated in Fig. 17, there are installed about thirty
+machines. Fig. 27 shows a die-casting machine in the open position.
+Fig. 26 shows a closer view of the die-operating mechanism and Fig. 25
+is presented to give a general idea of the construction of the entire
+machine.
+
+[Illustration: Fig. 25. Drawing illustrating Principle of Van Wagner
+Die-casting Machine]
+
+By referring to the line illustration Fig. 25, which shows the Van
+Wagner pneumatic die-casting machine in part, and comparing this
+illustration with Fig. 26, which shows the general appearance of the
+die-operating and other mechanism of the casting machine, a good idea
+may be obtained of its construction and working. At _A_ may be seen
+the base of the machine in which is located the melting pot _B_. This
+melting pot is heated by means of fuel oil passing through the supply
+pipe _C_ to the burners _C_`1. A vent pipe _D_ is provided to take
+away the gases incident to combustion. The pressure for “shooting” the
+metal into the die cavity is supplied by air through the supply pipe
+_E_. A valve controls this air supply. The pressure is regulated to
+suit the particular casting or die, the proper amount being determined
+by experiment. Similarly, an air exhaust pipe _F_, which may be seen
+directly above the supply pipe, sub-divides into two tubes which
+extend to the die cavity to exhaust the air before the metal is
+admitted. There are two methods of overcoming the presence of air in
+the die cavity--the exhaust method and the venting method, and it is
+the former that is here described.
+
+[Illustration: Fig. 26. View of Machine showing Die-operating Mechanism]
+
+A “goose-neck” _G_, shown in Fig. 25, serves to temporarily contain
+the metal which is forced into the mold. An amount of metal slightly
+in excess of that required for one die-casting is placed in this
+goose-neck with a hand-ladle, previous to each operation of the
+machine. One end of the goose-neck is connected to the air pipe, _E_,
+while the other end terminates in the nozzle _G_`1. This nozzle may
+best be seen by referring to the illustration of the machine shown in
+Fig. 27, in connection with Fig. 25. One of the advantages in using
+this goose-neck is that the entire air pressure is expended upon the
+metal in the goose-neck, and, by reason of its isolated position, the
+goose-neck and its contents are kept slightly hotter than the contents
+of the melting pot.
+
+
+The Die-operating Mechanism
+
+The die-operating mechanism of the machine is contained within a hinged
+framework, shown in position for the removal of the die-casting in Fig.
+27. Referring to Fig. 26, in connection with the line illustration Fig.
+25, it will be seen that the die-holding mechanism is all supported
+upon the lower die-holding plate _H_, which is hinged to the edge
+of the base of the machine. A lock _J_ serves to hold the dies and
+operating mechanism in the upright operating position, and by means
+of a counterbalance, suspended from an overhead rope which connects
+with the top of the mechanism at _P_, the changing of the position of
+this mechanism is easily effected, and when thrown into the horizontal
+position, as indicated in Fig. 27, it rests upon a support while the
+dies are being opened and the castings ejected.
+
+[Illustration: Fig. 27. Die-casting Machine in Position for Removal of
+Casting]
+
+The lower die is shown at _H_`1 and the upper die _K_`1 is mounted
+upon the upper die-holding plate _K_. Four rods _L_ act as guiding
+members for the upper die-holding plate to slide upon. These rods _L_
+are mounted in fixed positions at the corners of the lower die-holding
+plate _H_, and at their upper ends the operating shaft supporting plate
+_M_ is located in a fixed position, serving to support the upper ends
+of these rods. The position of this plate _M_ is adjustable upon the
+rods by means of check-nuts, thus providing for the accommodation of
+thick as well as thin dies. A shaft _O_ is supported in this top plate,
+and by means of the operating lever _N_ working through slotted levers
+_O_`1 and links _O_`2, the upper die-holding plate and die can thus
+be removed from contact with the lower die at will.
+
+The metal enters the die cavity through the nozzle _G_`1 and after
+setting, it is necessary to cut the sprue formed by the surplus metal
+that remains outside the die cavity. For this purpose, a sprue-cutter,
+operated by means of hand-lever _Q_`1, is employed. This sprue-cutting
+lever is hinged in the fulcrumed link _Q_`2, and is held in its
+casting position by means of an adjustable stop on bracket _Q_`3.
+
+[Illustration: Fig. 28. General View of Trimming Department]
+
+In many dies, it is necessary that water be circulated through the
+die-blocks to keep them cool during the die-casting operation. In
+Fig. 26, the water pipe may be seen at _R_, and hose pipes run from
+this supply to each side of the die-blocks, thus providing a cooling
+circulation. In this illustration, the pipes used for exhausting the
+air from the die cavity are apt to be confused with the cooling pipes,
+but by following the two pipes leading vertically down to the machine,
+the exhaust pipes may be seen and kept distinct from the water pipes.
+
+
+Making a Die-casting
+
+In order to clearly understand the operation of the die-casting
+machine, let us follow the sequence of events that takes place in
+producing a casting. Two men are required to operate the machine. In
+Fig. 27, the operators may be seen in their working positions. The
+first step is taken by the operator at the left who, with a hand-ladle,
+dips enough metal for one casting from the melting pot and pours it
+through nozzle _G_`1 into the goose-neck. The second operator in the
+meantime is replacing the cores in the dies, adjusting the position of
+the sprue-cutter and closing the dies preparatory to making a casting.
+This being done, he elevates the dies and their operating mechanism,
+which are hinged and counterbalanced, as previously described, bringing
+them to an upright position. The die operator now mounts the box,
+raises the sprue-cutter to its open position to admit the metal; after
+which the machine operator turns the air valve with his left hand. The
+operation of this air valve admits the air behind the metal, forcing it
+into the die, and the same movement opens the exhaust valve slightly in
+advance. The exhaust valve is located upon the second length of piping
+just above the air valve, and as a link connects the two valves, the
+single motion exhausts the air from the die cavity and immediately
+afterward the air is admitted behind the metal, thereby “shooting” the
+metal into the die. This being done, the air is shut off and the die
+operator cuts the sprue by means of lever _Q_`1, withdraws the cores
+in the die, throws the dies to the open position (which is indicated
+in Fig. 27), and operates the ejecting mechanism, thus removing the
+casting from the die. In the meantime, the machine operator is tending
+to his metal supply and getting a ladle full of metal ready for the
+next die-casting operation. By referring to the machines shown in Fig.
+17, it will be noticed that only a few are provided with exhaust piping
+for venting the dies. Another venting method will be described later.
+
+[Illustration: Fig. 29. Trimming Die-castings on a Filing Machine]
+
+The number of die-castings which can be made on one machine per day of
+ten hours varies with the character of the pieces being die-cast, the
+number of pieces made at each operation of the machine and the ease
+with which the dies may be worked, which depends, of course, upon the
+number of cores and parts to be handled at each die-casting operation.
+The dies shown in the machine in Fig. 26, produce four bearings at each
+operation.
+
+
+Trimming Die-castings
+
+At the end of each run the operators of the machines go over their
+work, breaking the castings from the sprues and throwing out all that
+are defective. No matter how carefully the die-casting molds have been
+made, there is always a certain amount of trimming to be done on the
+finished die-castings, on account of the crevices left in the die for
+air vents, or which exist from improper fitting of the parts of the
+dies. These “fins,” as they are called, are trimmed by hand operators
+in a special department. A general view of this trimming room is shown
+in Fig. 28. Usually it is sufficient to scrape these fins off with a
+scraping knife, but if the casting is especially difficult to produce,
+so that a large opening is required to admit the metal, it is sometimes
+necessary to trim unusually thick sprue sections by filing. Fig. 29
+illustrates the method of trimming such die-castings on a filing
+machine.
+
+[Illustration: Fig. 30. General View of E. B. Van Wagner Co.’s Die
+making Department]
+
+[Illustration: Fig. 31. A Typical Die-casting Mold]
+
+
+The Dies Used
+
+Next to the casting machine, the dies or molds are the most important
+necessary factor. A general view of the Van Wagner Co.’s die-making
+department is shown in Fig. 30. In order to gain a proper conception of
+the work required in producing a high-grade die-casting mold, we will
+follow the different steps which are necessary in making the mold. The
+first and most important step is the proper planning of the die. Before
+any work at all can be done, it is necessary to plan the die, _i. e._,
+to decide just where the parting lines will come; just what method
+will be used for ejecting the piece; what alloy will be used; where
+the casting will be gated; and a hundred and one minor points, all of
+which have a direct bearing upon the performance of the finished dies.
+All these decisions have to be made by the diemaker, and in Fig. 37 he
+is shown, micrometer in hand, computing the shrinkage allowances that
+he will make in the dies. This is a very important factor on accurate
+work as the shrinkage varies from 0.001 to 0.004 inch, according to the
+alloy and the general shape of the piece.
+
+[Illustration: Fig. 32. Die-casting Mold shown in Fig. 31, disassembled]
+
+Before taking up the actual machining operations of the mold-making
+as conducted in this factory, it will be well to take a typical
+die-casting mold and note its general construction. Fig. 31 shows a
+typical die-casting mold closed, while Fig. 32 shows the same mold
+disassembled on the bench to show its construction. The piece for
+which the mold has been made is also shown. Fig. 33 shows a similar
+die in section. From the three illustrations a good idea of an average
+die-casting mold can be obtained. Referring to these illustrations, the
+principal parts of this die are the ejector box _A_, and the ejector
+plate _B_ which is operated by the racks _C_. For operating the ejector
+plate, the pinion shaft _D_ having a handle suitable for turning, is
+furnished. This, of course, fits into a bored hole in the ejector box,
+bringing the pinion into mesh with the racks for raising the ejector
+plate. In the ejector plate are three ejector pins _E_ for removing
+the casting from the mold. The ejector pins operate through holes _F_.
+Beyond the pinion shaft may be seen the casting for which this mold
+has been made. It will be noticed that the top side of the casting has
+three projecting lugs through which are small holes. Provision for
+forming this side of the die-casting is made in the lower half of the
+mold _G_, while the upper half of the die-casting is taken care of
+by the top plate _H_. One of the toggles for operating the core pins
+through these three lugs is shown at _I_. These parts will be described
+more fully later. The sprue cutter is shown in position in the die at
+_J_.
+
+
+Machining the Die Cavities
+
+As will be noticed from Fig. 30, the machinery in the die-making
+department is of modern design, for no other class of work demands as
+good tool equipment and as much skill in the making as die-casting
+molds. The die-blocks are made of machinery steel. Fig. 34 illustrates
+the first step in making a die-casting mold after the die-block has
+been shaped approximately to size. This operation consists in carefully
+facing off the die surfaces on a vertical-spindle grinding machine.
+This, of course, is a quick method of surfacing the die-block, and
+it insures that the top and bottom surfaces of these plates will be
+parallel, permitting the die-faces to come together properly.
+
+[Illustration: Fig. 33. Section through a Die-casting Mold]
+
+The next step consists of laying out the die, as shown in Fig. 36. This
+is done in the usual manner, by working on a coppered surface, using
+dividers, scales, and a center punch. When laying out the die, the
+necessary allowances are made for shrinkage and finish, these points
+having been planned before actual work on the die has been started. As
+in other phases of die-work, the machining operations are performed,
+as far as possible, before any hand-work is done. In Fig. 38 may be
+seen a die-maker turning the cavity in a part of the die-casting mold.
+The highest type of skilled workmanship is called for on this machine
+work, and as may be surmised from Fig. 38, where the die-maker is shown
+measuring the die with a vernier caliper, the measurements must be
+exact, for no grinding operations follow the machine work.
+
+[Illustration: Fig. 34. First step in making the Mold--Grinding
+Surfaces of Blocks]
+
+[Illustration: Fig. 35. A Milling Operation on a Die]
+
+Figs. 35 and 39 show typical milling operations being performed on
+die-casting molds. In Fig. 39 the diemaker is shown indicating a pin in
+one corner of the mold cavity, preparatory to doing additional milling.
+The block is held in the usual manner by being clamped on the bed of
+the milling machine, and after it has been properly located under the
+cutter head, tools are substituted for the indicator and the milling
+of the cavity is completed. Fig. 35 shows one of the sections of the
+die-casting mold which is to be used in producing the casting shown at
+the right of the work. In this case the diemaker is milling the recess
+for the steel arbor which may be seen directly in the foreground. This
+will be fitted in place to provide for the forming of the hole in the
+side of the piece.
+
+[Illustration: Fig. 36. Laying out One of the Mold Parts]
+
+[Illustration: Fig. 37. Planning the Die-casting Mold]
+
+[Illustration: Fig. 38. Turning out a Die-casting Mold]
+
+[Illustration: Fig. 39. Indicating a Mold on the Milling Machine]
+
+Fig. 40 illustrates several important points in the making of a
+die-casting mold. This illustration shows the ejector box with the
+lower half of the mold on it, the ejector plate being held against the
+under side of the die-plate by means of the pinion shaft. The operation
+being done is the drilling of the ejector-pin holes. Referring back to
+Fig. 32, which by the way shows the die here illustrated disassembled,
+the holes being drilled are those shown at _F_ for the reception of the
+pins _E_. The method employed is to drill the holes through the die and
+into the ejector plate, afterward reaming all holes to size and driving
+the pins into position in the ejector plate, while they are allowed to
+slide freely through the die-plate. We will now assume that the ejector
+box and plate have been completed and fitted, a pinion shaft for
+operating this plate also fitted, the lower and upper dies completed
+by the machining operations previously described, and all assembled.
+The final operation of the fitting of the pins is shown in Fig. 41 in
+which the die-maker may be seen filing off the ends of these pins so
+that when dropped to the lower position they will lie flush with the
+surface. If of uneven lengths, these pins will cause irregular spots in
+the casting. It now remains to describe the toggles used for operating
+the cores which form the holes through the three lugs in the casting.
+One of these toggles, of which there are three, is shown at _I_, in
+Fig. 31, and also in Fig. 32. These toggles consist of brackets which
+are attached to the die-plate, and levers which are fulcrumed at the
+ends of the brackets so that their operation works the core pins. It is
+necessary to remove these core pins after each casting has been made
+and position them before another casting can be produced.
+
+[Illustration: Fig. 40. Drilling the Ejector-pin Holes]
+
+The fitting of the parts of a die-casting mold is one of the
+most important parts of the work. It demands the highest type of
+workmanship, for a poorly fitted die means a die which works hard
+in addition to producing poor castings. It is very important that
+all movable parts should work freely. Fig. 42 shows the assembling
+operation on a die-casting mold, the casting which is to be duplicated
+being shown in the immediate foreground. These parts must all be
+screwed into their respective places, making the joints as nearly
+air-tight as possible. One cause of poor die-castings arises from the
+trapping of air in the die, and different methods are employed for
+overcoming this trouble.
+
+
+Venting the Dies
+
+There are two methods of preventing air from being trapped in
+die-casting molds; either by constructing the dies so that the air
+may be exhausted from the mold cavity before admitting the metal, or
+by venting the die so that the air may be forced out by the inrushing
+metal. In the first of these methods it is necessary that the joints in
+the mold be made as close as possible, otherwise it will be impossible
+to produce anything like a vacuum in the mold cavity. If, however, it
+has many parts which must be fitted, it is usually considered advisable
+to provide the die with vents consisting of milled recesses a few
+thousandths inch deep. Several vents are provided, from which the air
+can escape when the metal is admitted to the dies. The hot metal, of
+course, “shoots” through them in thin ribbons, but not enough escapes
+to affect the pressure on the metal which goes into the casting.
+
+[Illustration: Fig. 41. Fitting Ejector-pins]
+
+No matter how carefully a die may have been constructed, or how
+carefully it has been assembled, there is always a certain amount of
+“babying” to be done before it will work satisfactorily. The casting
+may stick a little here, or there may be a rough spot there, and it
+is the successful elimination of these troubles which constitutes the
+production of a good die-casting.
+
+
+Die-casting Metals
+
+One of the purposes of this book is to correct several erroneous
+impressions which are prevalent in regard to die-casting possibilities.
+Many people seem to think that nearly all metals can be die-cast, but
+as a matter of fact, those metals which can be successfully die-cast
+can be numbered on the fingers of one hand, being alloys of lead, zinc,
+tin, copper and antimony. The tin base metals shrink very little, while
+the zinc base metals shrink considerably, and those with a large per
+cent of aluminum have a very high shrinkage. Without doubt, the most
+used die-casting metals are the zinc base metals. A typical metal of
+this class contains about 85 per cent zinc; 8 per cent tin; 4 per
+cent copper and 3 per cent aluminum. The melting point of this metal
+is about 850 degrees F. While this alloy is one of the most common,
+it is not by any means the best, as there is too little tin employed,
+but it is a comparatively cheap metal, which probably accounts for its
+large use. This metal is easily affected by heat and cold, and rapidly
+deteriorates with age. The lead base metals may be typified by an alloy
+containing 80 per cent lead; 15 per cent antimony; 4 per cent tin; and
+1 per cent copper. This composition melts at approximately 550 degrees
+F. and is used for castings subjected to little wear and where no
+great strength is required. The weight of this metal is its greatest
+objection, and it is also quite brittle because of the large percentage
+of antimony.
+
+[Illustration: Fig. 42. Assembling a Die-casting Mold]
+
+For the best class of die-castings, the tin base metals are employed.
+These range from 60 to 90 per cent tin, and from 2 to 10 per cent
+copper, together with a little antimony. The melting point of a
+mixture of this composition is about 675 degrees F. The castings have
+a good color and they are much better in quality than any of the other
+alloys. It is absolutely essential that tin base metals be used for
+carbureter parts or other parts coming in contact with gasoline. Also,
+the tin base metals must be used for parts which come in contact with
+food products, as the lead or zinc alloys have a contaminating effect.
+
+Aluminum alloys have been cast in France and Germany in limited
+quantities, but very seldom in this country on account of their high
+melting point, as well as their effect upon the die. After aluminum
+alloys have been run in the dies for a short time, the surfaces of the
+molds become pitted. Through some unexplained cause, the metal seems
+to flake out particles of the steel in the molds. When an aluminum
+alloy is to be used, a good mixture is 80 per cent aluminum, 3 per cent
+copper and 17 per cent zinc. This alloy has a high shrinkage and it has
+also the same deteriorating effect upon the dies, but to a much less
+degree than pure aluminum.
+
+
+
+
+Transcriber’s Notes
+
+
+Punctuation, hyphenation, and spelling were made consistent when a
+predominant preference was found in this book; otherwise they were not
+changed.
+
+Simple typographical errors were corrected; occasional unbalanced
+quotation marks retained.
+
+Ambiguous hyphens at the ends of lines were retained.
+
+Text uses “die-cavity” and “die cavity”, “die-maker” and “die maker”;
+none changed here.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIE CASTING: DIES—MACHINES—METHODS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
