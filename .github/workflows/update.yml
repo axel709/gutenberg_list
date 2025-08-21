@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+env:
+  ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
 jobs:
   fetch-and-push:
     runs-on: ubuntu-latest
@@ -13,32 +16,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout fetcher repo
+      - name: Checkout public repo (where workflow lives)
         uses: actions/checkout@v4
         with:
-          repository: axel709/book-fetch
-          token: ${{ secrets.ACCESS_TOKEN }}
-          ref: main
-          path: ./fetcher
-
-      - name: Checkout public repo
-        uses: actions/checkout@v4
-        with:
-          repository: axel709/gutenberg_list
-          token: ${{ secrets.ACCESS_TOKEN }}
           ref: main
           path: ./public
 
-      - name: Install dependencies
+      - name: Checkout private fetcher repo
+        uses: actions/checkout@v4
+        with:
+          repository: axel709/book-fetch
+          token: ${{ env.ACCESS_TOKEN }}
+          ref: main
+          path: ./fetcher
+
+      - name: Install dependencies for fetcher
         run: npm install --prefix ./fetcher
 
       - name: Run fetcher script
         run: node ./fetcher/src/server.js
 
-      - name: Commit and Push
+      - name: Commit and push updated books
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Automatic update
-          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           repository: ./public
-          token: ${{ secrets.ACCESS_TOKEN }}
+          commit_message: "Automatic book update"
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          branch: main
