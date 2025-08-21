@@ -1,0 +1,2569 @@
+The Project Gutenberg eBook of Printing Telegraphy... A New Era Begins
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Printing Telegraphy... A New Era Begins
+
+Author: Edward E. Kleinschmidt
+
+Release date: November 9, 2016 [eBook #53481]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by Stephen Hutcheson, MFR and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK PRINTING TELEGRAPHY... A NEW ERA BEGINS ***
+
+                        PRINTING TELEGRAPHY ...
+                            A NEW ERA BEGINS
+
+
+    [Illustration: Autograph, Edward E. Kleinschmidt—1967]
+
+                        _Edward E. Kleinschmidt
+                                 1967_
+
+
+
+
+                                PREFACE
+
+
+Having been associated with the printing telegraph for more than sixty
+years, I have felt the urge to write a résumé of the problems and the
+progress made during my time toward today’s wonderful achievements in
+the art of telegraphic communications.
+
+It is interesting to note that of all the old-time electric telegraph
+systems, it appears that only those using the Morse dot-dash code
+invented in 1837 and the permutation code devised by Gauss and Weber in
+1833 (now known everywhere as the Baudot code) have survived today.
+
+Samuel Morse’s code, which was modified somewhat in several letter code
+compositions to facilitate its use anywhere in the world, has become an
+audible, easily learned international language, loved by its users
+everywhere. It will no doubt continue to be used for some time to come,
+as long as we have our railroad telegraph operators, radio amateurs,
+police CW systems, certain branches of the Armed Forces, and any others
+who converse in dits and dahs.
+
+The permutation code has taken hold firmly, too. Its use of five pulses
+transmitted in varying combinations of on and off, or positive and
+negative, conditions has wide application in today’s printed
+communications systems. As in the Morse system, alphabets for the
+five-unit permutation code system have been modified as to letter code
+compositions for international correspondence. The permutation code uses
+the powers of two in progressively selecting a letter printing position.
+
+The binary code uses the same selective stops by yes or no designation
+in a system of counting by the powers of two. It is used where larger
+groups of yes or no positions are required, as in data processing and
+computer systems.
+
+This writing, then, is a bit of history that will put together the
+constructive developments that brought about the present era of the
+worldwide, telegraphically-transmitted printed word.
+
+I wish to acknowledge with great appreciation the informative material
+sent to me by my friends, both here and in foreign lands, who are
+associated with the telegraph industry.
+
+For assembling information we have gathered from various sources and for
+the most helpful assistance given me in writing this story, I also want
+to thank my secretary, Mrs. Doris Pompilio.
+
+                                                  Edward E. Kleinschmidt
+
+
+
+
+                        PRINTING TELEGRAPHY ...
+                            A NEW ERA BEGINS
+
+
+
+
+                               CHAPTER 1
+                              Introduction
+
+
+It is a major effort today to keep pace with the rapid advances in the
+field of printed communications. Hardly a day passes that we do not read
+of a new development in equipment that is more complex, farther
+reaching, more rapid in operation....
+
+This electrical, or electronic, transmission and interchange of the
+printed word might be said to be an evolvement of the old printing
+telegraph systems. Such systems, over the years, while not so rapidly as
+today, were also improved upon, modified, speeded up, but could be used
+only in the point-to-point transmission of messages.
+
+While the railroads had been using the Morse code system (key and
+sounder) satisfactorily, they would have preferred a system whereby a
+printed record could be obtained. In the industrial world, too, there
+was need for a businessman’s printing telegraph—a means to type out
+messages, directly and interchangeably, to far-off associates. And there
+was always that dream, starting with the earliest telegraph
+experimenters, of being able to correspond instantly with one another
+anywhere in the world. Indeed, the need for all this had been known for
+many years, but not the way.
+
+It was after the turn of the century that telegraph engineers began in
+earnest to think about a system of telegraphy that would permit direct
+intercommunication by the printed word, and direct circuit connection to
+any outlying subscriber as in the telephone communication system.
+
+Up until then, apparatus for transmitting telegrams, such as that of
+Wheatstone & Cooke, Morse, Hughes, Barclay, etc., also the step-by-step
+stock tickers and bulletin printers, used various types of
+code-signaling devices in which the code varied in length as to the
+transmission of more frequent or less frequent letters.
+
+Now in order to provide a practical telegraph system permitting the
+interconnection of apparatus throughout the world, the first basic
+requisite is a standard signaling code; this code, moreover, must be of
+such nature as to use the simplest form of electrical signaling (such as
+make and break signals, or positive and negative signals), and the code
+should be of equal length for all characters.
+
+The permutation code, where combinations of five plus and minus pulses
+will give thirty-two selective positions, was suggested as far back as
+1833 by Gauss and Weber. Whitehouse, in 1854, and Barnett, in 1860,
+experimented further, using the permutation code to operate a recording
+mechanism. However, no practical means for actually printing letters and
+figures was found until 1882 when Jean Maurice Emile Baudot designed a
+multiplex system to permit the transmission of four messages in each
+direction over a single line circuit. Later, Baudot designed a tape
+printer in which the selecting and printing mechanisms comprised an
+ingenious arrangement of cooperating parts, including a rotating
+typewheel associated with a coded combiner wheel and five stationary
+elements selectively movable to received code positions, each element
+having an extending finger to be brought into contact with the periphery
+of the coded combiner wheel upon the completion of a selective code
+setting. When the code combination of the set fingers matched a code on
+the wheel, a print roller was released to press the recording tape
+against the typewheel and print the selected letter.
+
+Although the Baudot Multiplex was used extensively in Europe, engineers
+and inventors in the United States had not produced a practical 5-unit
+permutation-code teleprinter system. They were constantly searching for
+a unit code system requiring a minimum number of electrical impulses to
+operate a telegraph printer. Various types of relay systems using
+distinctive signal pulses were proposed. A three-unit-code system that
+showed promise, and did not require synchronism, used four different
+electrical pulse conditions: a high voltage positive or negative pulse,
+and a low voltage positive or negative pulse. Records show that many
+inventors played with this code and that John Burry, C. L. Krum, G. A.
+Cardwell, and J. C. Barclay, among others, built operable equipment
+using such a code arrangement. The following excerpt from Cardwell’s
+patent No. 905,497 of December 1, 1908, may be of interest. It describes
+the code arrangement of four different line conditions in three signal
+groups to produce 36 different code combinations.
+
+  In order to energize the controller magnets in proper sequence to
+  position the type wheel for printing a desired letter, a predetermined
+  code or system of sending in the impulses is essential. In an
+  instrument constructed by me in accordance with the present invention
+  I have used the following:
+
+    1-2-1     letter space
+    1-2-3     carriage return
+    1-2-4     line space
+    1-3-1     type wheel shift
+    1-3-2     type wheel release
+    1-3-4     A
+    1-4-1     I
+    1-4-2     O
+    1-4-3     D
+    2-1-2     E
+    2-1-3     H
+    2-1-4     N
+    2-3-1     W
+    2-3-2     R
+    2-3-4     S
+    2-4-1     T
+    2-4-2     V
+    2-4-3     U
+    3-1-2     -
+    3-1-3     ,
+    3-1-4     ?
+    3-2-1     Y
+    3-2-3     C
+    3-2-4     F
+    3-4-1     G
+    3-4-2     Q
+    3-4-3     L
+    4-1-2     M
+    4-1-3     J
+    4-1-4     B
+    4-2-1     X
+    4-2-3     Z
+    4-2-4     .
+    4-3-1     K
+    4-3-2     P
+    4-3-4
+
+  The numerals in the above code or system indicate the sequence of the
+  impulses through the relay contacts 1, 2, 3 and 4.
+
+Cardwell’s backers formed the American Telegraph Typewriter Company and
+sold shares, claiming a great profitable future for their apparatus. A
+few printers were built, but, on extended service tests, the
+high-low-voltage feature proved to be impractical and the company
+folded.
+
+J. C. Barclay of the Western Union Telegraph Company designed printing
+apparatus and perforated tape transmitting equipment for this type of
+system, but, after limited use of the high-low-voltage principle, he
+changed this feature to long and short pulses with discriminating
+relays. With later improvements, this system was put into service on a
+number of Western Union message circuits.
+
+  _Note:_ Today, in the 1960s, the techniques of frequency division and
+  electronics could be used for transmitting three different line
+  conditions from a group of four different frequencies. In such a
+  system, synchronism between send and receive terminals, or the
+  start-stop method to control correct timing, is not needed. The
+  transmission of any selected group of three, when received in
+  succession at a teleprinter, will cause printing of a letter when the
+  third receiving relay completes a circuit to the selected printing
+  magnet. Transistor circuits with associated control elements could
+  replace the relays.
+
+Telegraph companies in the United States were mostly using the Morse and
+increased its efficiency through development of quadruplex operation and
+high-speed transmission systems. However, the quest for a more efficient
+printing telegraph system persisted and various types were proposed and
+tried. All made use of codes that were impractical for
+intercommunicating systems and, while some were used in message service
+by the telegraph companies, they did not appear to have any great
+advantage over the Morse telegraph.
+
+In 1911, Western Union began investigating systems used in Europe. The
+first to be tested was the Creed, a system for transmitting and printing
+Continental or Morse code signals at high speed. After observing several
+other systems, the Murray Multiplex, an improved and modernized version
+of the Baudot Multiplex, was found to show better operating features
+and, due to the use of the five-unit permutation code, more efficient
+use of telegraph lines.
+
+By agreement with Donald Murray, and with his cooperation, the so-called
+Western Union Multiplex was developed, using Murray’s phonic wheel drive
+and synchronous correction. Western Union engineers designed tape
+transmitters and an autocontrol device for transmitting service signals.
+A keyboard-operated, five-unit-code, tape punch was supplied by the
+Morkrum Company. A page printer, which was later converted to print on
+gummed tape, was supplied by the Kleinschmidt Electric Company. The
+Western Union Multiplex was effective in increasing operating efficiency
+and came into extensive use throughout the system.
+
+From that time on, development of the Baudot permutation-code printing
+telegraph apparatus was furthered by various companies, such as Bell
+Laboratories, Western Electric, the Morkrum Company, the Kleinschmidt
+Electric Company, as well as the companies of J. E. Wright, L. M. Potts,
+and others.
+
+It appears that all of these inventors experimented with the idea of
+operating all transmitting and receiving apparatus at identical speeds
+to transmit a five-unit-code combination by first transmitting a pulse
+to start both transmitter and the distant receiver at the same time.
+Synchronous operation was obtained by electric motors equipped with
+governors to maintain correct speed; some used tuning-fork-controlled
+impulse motors. A system of five relays with progressive contact
+arrangements to cause cascade operation was also used to provide correct
+timing. Later, when correctly-timed, 60-cycle alternating current became
+available (see page 27), synchronous motors did the job.
+
+Teleprinter apparatus using this synchronous method worked very well for
+point-to-point transmission as was used by the telegraph companies and
+news-distributing organizations to carry local traffic. It did not,
+however, solve the sought-for plan for a teleprinter intercommunicating
+system. When attempts were made to connect printers at different distant
+points in a telegraph intercommunicating circuit while using the
+synchronous principle, false reception and printing errors would occur,
+due to variation in line circuit conditions and to a variation of the
+mechanical start operation at outlying teleprinters. This required
+frequent overline adjustment to keep the connected apparatus in phase.
+
+The following is an excerpt from a patent application of Dr. Louis M.
+Potts (later to become research engineer for the Morkrum-Kleinschmidt
+Corporation), filed June 17, 1909, giving his idea for achieving a
+teleprinter intercommunicating system on the synchronous principle. Dr.
+Potts was a very capable telegraph engineer. His early association was
+with the telegraph system of the Rowland Telegraphic Company which had
+limited use in the early 1900s.
+
+  In those synchronous telegraph systems wherein the sending and the
+  receiving commutator brushes constantly rotate, it is necessary to
+  adjust these brushes so that they will approximately simultaneously
+  engage corresponding segments. To effect this adjustment there is
+  usually provided a special device embodying an additional segment on
+  each commutator, and the adjustment consists in causing the brushes to
+  arrive approximately simultaneously on this segment at the two ends of
+  the line. Such adjustment is known as “finding the letter” and has to
+  be made every time synchronism has been interrupted. According to the
+  present invention, the necessity of providing additional means for
+  performing the so-called operation of “finding the letter” is rendered
+  unnecessary, since the transmitting and receiving commutator brushes
+  at the two ends of the line start up afresh as it were for each
+  signal.
+
+In a later patent application, filed October 11, 1913, Dr. Potts stated:
+
+  This machine has also the advantage of being able to operate with a
+  very short code. In order to adapt it to Morse circuits, it should be
+  capable of operating with a code at least as short as the Morse code.
+  In the present machine, I preferably employ a five unit code which,
+  together with the starting impulse and the lag between signals, is
+  actually shorter than the Morse code. Counting the five code impulse
+  periods, the starting impulse period and the period of lag between
+  impulses, each signal in my case, may be considered in comparison with
+  the Morse code as being seven units long, whereas the Morse code is
+  8.5 units long. The average signal being shorter than the Morse, the
+  delicacy of adjustment will be less and the distance of operation
+  greater than a Morse telegraph for the same rate of transmission in
+  words per minute.
+
+Dr. Potts, however, still depended on like synchronous operation at both
+terminals, and dual start, so he did not have the answer after all!
+
+John E. Wright, who in the 1890s designed and built step-by-step
+printing apparatus, including the Wright-Negron bulletin printer, also
+turned his thoughts toward the five-unit permutation code for printer
+operation and built several variations using the synchronous principle.
+The Superintendent of Telegraphs for the Delaware, Lackawanna and
+Western Railroad thought well of Wright’s apparatus and placed some in
+operation. But, here again, reliable operation could be maintained only
+in point-to-point operation. As will be noted in Chapter 2, Mr. Wright’s
+patents were purchased by the Kleinschmidt Electric Company in 1922.
+
+A paper issued by Siemens-Halske of Germany in January of 1917[1] states
+that the Siemens Pendel Telegraph “is among the forerunners of the
+eventual worldwide start-stop system for intercommunication by the
+printed word.” The following excerpt translated from that description
+briefly explains the operation:
+
+  The Pendel Telegraph uses the five-unit permutation code to select
+  characters, and operates on a start-stop principle. It is intended for
+  station-to-station, one-way operation, the line current normally being
+  closed to the positive side of the line battery. Transmission is under
+  control of a keyboard with keys arranged as in a typewriter. Upon the
+  depression of a key, the line battery is reversed, thereby
+  transmitting a negative pulse to line which effects the start of both
+  transmitter and receiver at the same time. Thereafter,
+  five-code-combination pulses are transmitted, followed by positive
+  current to line, thus restoring the circuit system to a normally
+  closed line condition.
+
+  The name “Pendel Telegraph” would make one think that the timing of
+  the transmitter and receiver were under control of a swinging
+  pendulum. This is not the case. However, it does have a plan for
+  simulating the action of a pendulum by an arrangement of springs and
+  semi-rotating weights to effect synchronism for each printing cycle;
+  and energy is derived from a motor which intermittently winds a power
+  mainspring to an even tension. This arrangement is started in
+  operation at both terminals at the same time and provides isochronal
+  motion at both transmitter and receiver for each transmitted
+  character. Due to multiple operations of the springs and weights used
+  to provide synchronous action, the operating speed is limited to four
+  or five letters per second.
+
+In England, too, there was work being done along these same lines. Mr.
+H. H. Harrison, who is so well known for his contributions over the
+years in the telegraph field, devised printer apparatus using the
+five-unit code which is described in Herbert’s _Telegraphy_,[2] as
+follows:
+
+  The instrument is provided with a Baudot 5-key keyboard, and has a
+  step-by-step distributor which is mounted inside the casing. The
+  standard Baudot alphabet is used, but each letter or character is
+  prefixed by a positive starting impulse. Every time a key is depressed
+  a universal bar is actuated which closes contacts giving the starting
+  impulse and the distributors at both ends of the line step through six
+  spaces. The combiner is of the electrical type invented by Baudot, and
+  is similar to that used in Siemens’ new automatic printing telegraph.
+  Five relays of the class used for telephone purposes are set at the
+  receiving end, according to whether some of the stepping impulses are
+  positive or negative. The distributor is a trunk hunting switch as
+  used in automatic telephony, and consists of a ratchet wheel and
+  stepping electromagnet. On the shaft of the ratchet wheel is fixed a
+  wiper which sweeps over a semi-circular bank of contacts in response
+  to the stepping impulses. Two-way working is secured by means of the
+  differential balance.
+
+  (The article ends with the statement that a typewriter keyboard is
+  being constructed to replace the five keys.)
+
+It appears that all of these telegraph engineers and inventors
+envisioned a start-stop system and experimented with the idea of
+operating all transmitting and receiving apparatus at identical speeds
+by inserting a start signal before each group of letter code signals, to
+start both transmitter and distant receiver at the same time, and a stop
+condition between code groups.
+
+In the following chapters will be shown the contributions made by both
+the Kleinschmidt and the Morkrum companies in the printing telegraph
+field, and finally their joint efforts which were to lead up to the
+establishment of that now worldwide intercommunicating system, the
+TELEX.
+
+
+
+
+                               CHAPTER 2
+                              KLEINSCHMIDT
+
+
+Edward E. Kleinschmidt’s first direct contact with telegraph apparatus
+was during his employment as a young man, in 1893, by John E. Wright,
+whose firm had developed and was then manufacturing printing telegraph
+equipment known as the Wright-Negron bulletin printer for the Havas News
+Agency in Paris. These printers operated on the step-by-step principle
+at 30 words per minute. (To attest to their ruggedness, as late as 1951
+some of these machines were reported to be still in use!)
+
+Five years later, in 1898, Kleinschmidt started an experimental shop at
+122 Fulton Street in New York City. A sign over the door read,
+“Inventions Developed,” and he did experimental and developmental work
+for various customers (individuals as well as companies—including
+Western Union) on a time-and-material basis. In the beginning he had a
+project of his own going—a facsimile telegraph system. He submitted the
+system to Western Union in 1900 with the suggestion that it might be
+valuable for customer services, since a customer could write his
+telegram in longhand and insert the written message in the transmitting
+unit for transmission in facsimile to the telegraph central. The idea,
+however, was rejected. At that time the photoelectric cell for scanning
+the written message and electronic means for amplifying signals had not
+yet been developed; while the apparatus operated quite well over short
+circuits, evidently the time had not arrived for commercial facsimile
+telegraphy.
+
+The first telegraph apparatus job for the shop was brought in by Dr.
+George A. Cardwell, a dentist by profession. It was a partially
+developed printing telegraph using a three-unit code made up of
+combinations of plus-minus-high-and-low-voltage pulses (the code we have
+already discussed). The work for Dr. Cardwell was carried on until 1903
+when a working model was completed. It had a typewheel for printing and
+stops arranged in a circle; magnets under control of relay selection
+were used to set the stops according to the received code combinations.
+This arrangement operated well, and on a test over a Western Union
+circuit from New York to Baltimore it gave satisfactory results. As we
+have seen, however, the code arrangement proved unsatisfactory for
+general telegraphic use.
+
+Many customers came to the experimental shop with every type of idea
+imaginable; vacuum cleaners (The “Vacuna”), elevator signals, some early
+designs for Elmer Sperry’s gyrocompass were only a few. Kleinschmidt
+also set up a couple of side-line businesses, one for manufacturing
+automatic fishing reels under the trade name “Kelso,” another, the
+Aseptuloid Company, for making vaccination shields (some readers may
+well remember their childhood vaccinations being protected by a bubble
+of celluloid).
+
+Another customer was George M. Seely, who later was instrumental in
+bringing Kleinschmidt’s work to the attention of Charles B. Goodspeed
+and W. S. Moore (they were to become his financial backers—see page 14).
+Mr. Seely came to the shop in 1906 with a partially developed block
+system for electric trolley car railways. His plan was to use special
+devices attached to the trolley pole which would cooperate with
+stationary electrical controls at certain fixed points along the road.
+
+After working along these lines for awhile it became apparent that some
+inventive work would be required on Kleinschmidt’s part. Seely, in
+addition to time and material, then offered him a retainer for the
+assignment of any resulting patents.
+
+As plans and studies progressed, a number of railway signaling devices
+were developed, tested, and patented. A major item was the development
+of a telephone train dispatching system. A complete set of apparatus was
+exhibited in operation at the American Association of Railroads
+Communications Convention held in Los Angeles in 1910. The company name
+given this venture was the “National Telephone Selector Company,”
+located at 235 Greenwich Street, New York City. The telephone train
+dispatching system was installed on the Long Branch Railroad with 30
+stations connected with dispatcher headquarters at Red Bank, New Jersey.
+Another installation was made on the Baltimore and Ohio Railroad in West
+Virginia, connecting 38 stations with dispatcher headquarters at
+Fairbanks, West Virginia.
+
+Most of the patents assigned to Mr. Seely were eventually sold to the
+Hall Signal Company.
+
+Doing development work for others and assigning patents for a retainer
+did not satisfy Kleinschmidt’s ambitions. His interests being mainly in
+the telegraph, he set out to design and build a piece of apparatus that
+the telegraph companies could use. A keyboard-operated perforator to
+punch the Morse code in a tape for automatic transmission at high speed
+looked like a promising subject, since the tape punches in use at that
+time had a three-key arrangement—one each for dot, dash, and space.
+
+Kleinschmidt’s first keyboard-operated, Morse-code perforator was
+constructed in 1911 and exhibited to the Western Union Telegraph
+Company. Mr. G. R. Benjamin, their chief engineer, and Mr. Emmett R.
+Shute, a vice president, thought well of the machine and, after testing
+it, gave Kleinschmidt an order for fifty. This order spelled success. To
+celebrate the event, Kleinschmidt invited his brothers, Bernard, Fred
+and William, and their families to a dinner party at a distinguished
+restaurant. Soon thereafter (1913), the Kleinschmidt Electric Company
+was organized, with the brothers as incorporating officers.
+
+The Kleinschmidt Keyboard Perforator came into use by telegraph and
+cable companies throughout the world where Morse, Wheatstone, or Cable
+codes were used to transmit telegrams. It was also used with Western
+Union’s Barclay system which had its own code. The device was later
+manufactured by Teletype Corporation under the name “Teletype
+Perforator” and used by the U. S. Government where it served its purpose
+for high-speed Morse transmission during the war period (see figure 1).
+
+In the years 1911 and 1912, the Western Union Telegraph Company, in
+looking toward higher operating efficiency over their trunk circuits,
+decided to test the Creed high-speed Morse and the Murray Multiplex, and
+invited both companies to bring their apparatus to New York. It was on
+this occasion that Kleinschmidt became acquainted with Mr. F. G. Creed,
+who, upon observing the Kleinschmidt keyboard perforator at Western
+Union, was impressed by its performance and said that there would be a
+good market for it in England, especially as a keyboard punch for the
+Creed high-speed Continental-Morse-code system. As a result of that
+conference he asked for ten as a trial order. These perforators were
+shipped to London in due time and gave satisfactory service. The British
+Post Office Telegraph evidently had heard about this new perforator and
+sent a letter to the Kleinschmidt company asking for a demonstration at
+their London headquarters.
+
+Now it happened at that time that Kleinschmidt was extremely busy with
+the development of a five-unit-code typebar printer for the new
+Multiplex—and this was urgent since the first model was to be put on
+competitive test with a typewheel printer submitted by L. M. Potts and
+the Western Electric typewheel printer which was then in use. Therefore,
+he felt he should not lose a month or two in this developmental work for
+a trip to London. So, his answer to this important invitation was that
+he could not personally bring one of his perforators for exhibit but
+that he would ask Mr. F. G. Creed to do so. Mr. Creed agreed and set up
+a formal exhibit for the Post Office engineers; he consequently received
+an order for twenty Kleinschmidt perforators. Further correspondence
+with Creed resulted in an order for one hundred and a request that
+Kleinschmidt come to London the next year (1914) to negotiate a contract
+to supply his keyboard perforators for the Creed high-speed Morse and to
+set up a sales agency with Creed for certain territories.
+
+While in London in the summer of 1914, Kleinschmidt visited the Managing
+Director of the Post Office Telegraph at his office to apologize for
+having had Mr. Creed exhibit the Kleinschmidt perforator instead of
+bringing it personally as had been requested. The Managing Director
+replied that Mr. Creed had indeed given a very good operating exhibition
+of the device and that an order for twenty had been placed with him.
+“However,” he added, “you know, we sent you an official invitation and
+expected your appearance with your machine!”
+
+To continue: Upon observing the change in systems at Western Union
+(switching from the Barclay to the Murray Multiplex), the Kleinschmidt
+Electric Company, who had been experimenting in the development of a
+telegraph typewriter, built a receiving teletypewriter for the
+multiplex. It was a magnet-operated, five-unit-code typebar page
+printer, using the Underwood typewriter mechanisms as a basis; and it
+was completed in time for test and evaluation at Western Union in
+competition with the typewheel printers of both L. M. Potts and Western
+Electric.
+
+The Western Electric machine was given the number 1A, Mr. Potts’s, 2A,
+and the Kleinschmidt printer was 3A. The final outcome of the tests was
+the selection of the Kleinschmidt model, and the company received an
+order for five machines, to include a spare, to equip the New York
+terminal of a New York-to-Boston, four-channel multiplex system. The
+order was filled in a short time and the machines were put on test.
+
+    [Illustration: Fig. 1
+    Kleinschmidt Keyboard-Operated Morse-Code Perforator (_this machine
+    returned to author by a customer after being used thirty years!_)]
+
+    [Illustration: Fig. 2
+          3B Typebar Page Printer of Kleinschmidt Electric Company
+              _from Museum of Kleinschmidt Division of SCM Corporation_]
+
+Kleinschmidt watched the operation of his machines in service almost
+every day and was continually on the lookout for possible ways to
+improve and simplify the apparatus. The tests ran through to completion
+satisfactorily, and, upon submitting an improved design, numbered the
+3B, the Kleinschmidt Electric Company received an order for one hundred
+typebar page printers. The 3B thereafter became standard apparatus and
+additional orders were placed as the multiplex system at Western Union
+expanded (see figure 2).
+
+Several years later, Western Union efficiency engineers found that, due
+to circuit failures, certain parts of messages would have to be
+repeated. Because this meant retyping the message, they felt, and for
+other reasons as well, that printing the received messages on tape would
+be more economical, since corrections could be inserted without
+repeating the entire message. To meet this requirement, the typebar page
+printer was redesigned for printing on tape. This was accomplished by
+using the same selection controls and operating the typebars to print
+downward on the tape instead of upward against the platen as in the page
+printer. A tape gummer to attach the tape to a message blank was also
+designed. The 21A, later No. 22, tape printer was ordered in quantity
+thereafter.
+
+Seeing the possibility of using their typebar page printer for
+direct-line service, the Kleinschmidt company built a motor-driven
+send-receive unit having a single contact transmitter which operated
+under control of a code-perforated tape to transmit seven signals in
+succession: one start, five code, and a stop signal. The receiving unit
+had a seven-segment commutator, one segment for start, five for code,
+and one for stop, and a rotating brush to pick up and transmit the
+received code signals to the printing unit. This apparatus was installed
+at the United Press for news distribution to their connected newspapers.
+Another set was installed at the Louisville and Nashville Railroad for
+station communications, and still another in New York City at the
+Equitable Life Assurance Society between their downtown and uptown
+offices. In connection with the latter installation, the Equitable
+people asked permission to install the printing apparatus on the
+telephone line and there was objection from the telephone company.
+However, after some consideration they finally agreed that the apparatus
+could be installed but warning that should it create interference with
+the telephone line it would be removed immediately. As it turned out,
+the printer operation over this telephone circuit did not create any
+interference and the apparatus remained in service a long time (figure 3
+).
+
+    [Illustration: Fig. 3
+                       Kleinschmidt Electric Company
+             Teletypewriter Apparatus for Direct-Line Service]
+
+The Kleinschmidt Electric Company now began to have financial
+difficulties. Edward Kleinschmidt was borrowing wherever he could. There
+was no large quantity production and evidently his charges for the
+apparatus delivered were too low. At any rate, early in 1917, Mr. Seely
+suggested that he get financial help to carry on and it was here that
+the following gentlemen entered the picture: Charles B. Goodspeed of the
+Buckeye Steel Casting Company; Paul M. Benedict, assistant to the
+president of the C. B. & Q.; Edward Moore, son of Judge Moore of the
+American Can Company; Eldon Bisbee, a New York lawyer; and one of Mr.
+Bisbee’s clients, Albert Henry Wiggen, who was then president of the
+Chase National Bank. With their financial backing, the company was able
+to continue with further developmental work on simplified and more
+efficient apparatus. Orders for various types of equipment for the
+Western Union Multiplex and for the Morse code keyboard perforator came
+along, but developmental costs were high and still more capital
+investment was required; Kleinschmidt would then borrow from the Chase
+Bank. Every so often at the Kleinschmidt company’s directors’ meetings,
+Mr. Holly, cashier of the bank and also a director of the company, would
+state that the Kleinschmidt loan “stood out like a lighthouse,” so a
+vote for an additional stock issue was carried and the loan paid.
+
+Along about 1919 the Kleinschmidt company had completed a satisfactory
+keyboard-operated typebar teleprinter for intercommunication systems
+(see figure 4). The Kleinschmidt Telegraph Typewriter, as it was called,
+was installed at the New York City News, the Panama Canal, and at the
+Brooklyn Union Gas Company (fig. 5).
+
+In 1922, Edward Kleinschmidt, having learned that Mr. J. E. Wright had
+discontinued further developments in the telegraph field, proposed the
+purchase of his patents, stating that this acquisition would broaden the
+Kleinschmidt company’s patent situation. The proposal was carried, and,
+after negotiations, Mr. Wright’s patents were bought for 100 shares of
+the Kleinschmidt Electric Company’s common stock.
+
+In 1923, the Kleinschmidt Telegraph Typewriter was exhibited at the 20th
+Annual Business Show in New York and created a great deal of interest.
+In 1924, a complete telegraph system was engineered and set up for the
+Mexican government. (An engineer from Western Union was borrowed to help
+with this job.)
+
+One day, in 1923, after some correspondence with Samuel Samuel & Co.,
+Ltd., through whom the Kleinschmidt company received orders from Japan
+for the Morse code keyboard perforator, the Japanese Telegraph
+Administration sent one of their telegraph engineers, Mr. Y. Okomoto, to
+the company’s headquarters to assist in working out a keyboard
+arrangement of Japanese characters for a simplified alphabet consisting
+of 88 characters which the Japanese Telegraph Administration had
+devised. The five-unit code could not be used since only 64 selective
+positions could be had. So the telegraph typewriter mechanisms were
+changed to six-unit-code operation, which worked out very well. The
+Kleinschmidt company, and later Morkrum-Kleinschmidt, received
+continuing orders for the six-unit-code telegraph typewriters.
+
+    [Illustration: Fig. 4
+             Kleinschmidt Electric Company Telegraph Typewriter
+                 (_keyboard-operated typebar teleprinter_)]
+
+    [Illustration: Fig. 5
+                     Kleinschmidt Telegraph Typewriters
+                (_installation at Brooklyn Union Gas Co._)]
+
+
+
+
+                               CHAPTER 3
+                            KRUM AND MORTON
+                               (MORKRUM)
+
+
+Mark Morton, head of the Western Cold Storage Company in Chicago, and
+cold-storage engineer Charles L. Krum, the vice president of the firm,
+entered the telegraph field quite by accident. A young electrical
+engineer named Frank Pearne, in 1902, had some ideas for a printing
+telegraph machine and needed financial backing to carry on his
+experiments. One of his contacts happened to be Joy Morton, the founder
+of the Morton Salt Company. Joy Morton became interested enough to
+become Pearne’s backer, and prevailed upon brother Mark to set up a
+laboratory in the attic of the cold-storage plant for Pearne’s
+experiments.
+
+It seems that after a year or so, Pearne lost interest in his invention
+and went into the teaching field. He proved to be a very successful
+professor at Armour Tech where he remained until his death.[3] But
+Pearne’s work was not in vain, for Charles L. Krum had become intensely
+interested and carried on the work with further inventions of his own.
+Indeed, he filed his first patent application on August 20, 1903, which
+proposed the use of a code comprising four signals: a positive pulse or
+a negative pulse of low voltage, and a positive or negative pulse of a
+higher voltage. Four additional patents were filed, the last in 1906.
+
+C. L. Krum then set about building a machine which was demonstrated in
+1906 and looked promising enough to form a company to further develop
+it. This company was made up of the Mortons (brothers Joy and Mark) and
+the Krums (Charles L. and his son Howard who had just finished college).
+The combination of their names, of course, resulted in “The Morkrum
+Company,” which was incorporated in the State of Maine on October 7,
+1907. The charter stockholders were Joy Morton, who shouldered the
+greatest financial burden; Charles Krum; Joy Morton’s secretary, Daniel
+Peterkin (he later became an officer of the Morkrum Company); Mark
+Morton; and Sterling Morton (Joy’s son, of whom we shall be hearing more
+later on). The working capital of the new company amounted to
+$150,000.00.
+
+Charles Krum’s son Howard, after graduation, joined with his father in
+the developmental work of this new company and, due to his studies in
+electrical engineering, was able to help his father considerably. His
+first love and intended career was music, but he put this aside in favor
+of his father’s telegraph printer. However, a tune on the piano which he
+always kept in the laboratory would help him solve many a difficult
+problem.
+
+In 1908 the Krums developed and produced a working model of the
+four-unit-code, plus-minus, high-low-voltage system, which was applied
+to operate the mechanism of an Oliver typewriter. The system was then
+given an operative test on the wires of the Chicago and Alton Railroad,
+of which Joy Morton was a director.
+
+As their research work progressed, Howard studied the various systems in
+current use and, with his father, decided to abandon the plus-minus,
+high-low-voltage system. They turned instead to a system using the
+five-unit permutation code as employed by Baudot in his multiplex
+telegraph in which synchronized terminal apparatus with periodic
+correction was the controlling feature.
+
+Their first joint patent describes a plan for accomplishing synchronized
+reception with transmission using a system of five relays interconnected
+to operate in successive cascade form; thus, when the relays at both
+terminals are correctly timed for successive operation, they will
+transmit and receive the five pulse combinations of the Baudot code. For
+transmitting and receiving the code pulses, each of the five relays has
+an additional contact. To start the relay cascade operation, a start
+relay is added at both terminals and operated by a start pulse which
+precedes each code transmission. It seemed natural for the Krums to turn
+to a relay system at first, since, from his work with the
+three-unit-code, high-low-voltage system, C. L. Krum was experienced
+with the possibilities of relay operation.
+
+The system of the relay chain in cascade operation was employed to
+operate a page printer using the mechanisms of the Blickensdoerfer
+typewriter which had a three-row typewheel. The Postal Telegraph Company
+became interested and bought a number of these printers in 1910. This
+was the first sale of Morkrum apparatus and provided enthusiasm for the
+Krums for further research, which led to the substitution of a
+governed-motor-driven brush distributor to replace the relay cascade
+system. For this new plan the motor at the receiving printer operated at
+a slightly higher speed and was held in continuously synchronous
+operation with the transmitter by the periodic transmission of a
+correcting pulse. The new code selecting and printer control system was
+also adapted to operate the mechanism of the Blickensdoerfer typewheel
+typewriter. The idea worked out better than the cascade relay system,
+and a number of printers using this method were constructed and named
+the “Morkrum Blue Code.” A few were put in service at the Postal
+Telegraph Company.
+
+The Associated Press (AP) became interested in the Morkrum “Blue Code”
+printer system as a replacement for the low-speed Morse system which was
+being used to transmit news items to newspapers in many cities. Here,
+continuous transmission under control of a code-punched tape, as used in
+the Morse code system, was a requirement, so Messrs. Krum set to work
+and designed a keyboard-operated, five-unit, Baudot-code perforator and
+an automatic punched-tape-controlled transmitter. This apparatus was
+installed at the New York headquarters in 1915 and receiving printers
+were gradually installed throughout the Associated Press system. The
+following excerpt and picture (fig. 6) from Oliver Gramling’s book,
+_AP—The Story of News_,[4] describes the introduction of the system to
+the Associated Press:
+
+  The tide of news by telegraph had continued with the years. Facilities
+  had been improved, the Morse clicked into virtually every town in the
+  country, but the old method was the same. Day in and day out, sending
+  operators took dispatches, translated them into the dash-dot of code,
+  and the telegraph keys sent the signals on the circuits at a rate of
+  twenty-five to thirty-five words a minute. In member newspaper offices
+  along the line the Morse sounders clack-clacked busily and receiving
+  operators translated the code symbols back into words, copying the
+  stories in jerky spurts. The news of more than half a century had been
+  handled that way.
+
+  For some time, however, Charles L. Krum, a Chicago cold-storage
+  engineer, and his son Howard had been working to perfect an automatic
+  machine which would send the printed word by wire at greater speed
+  without the intermediary of code. They called their invention the
+  Morkrum Telegraph Printer—coining the word Morkrum by combining the
+  inventor’s name with the first syllable in the last name of Joy
+  Morton, a Chicago businessman who financed them.
+
+    [Illustration: Fig. 6
+      A SENDING OPERATOR SAT AT A KEYBOARD LIKE THAT OF A TYPEWRITER.
+     Reproduced from _AP—The Story of News_, by permission of Associated
+                                                                 Press.]
+
+  Several other automatic telegraphic devices were being promoted, but
+  (Kent) Cooper and engineers in the Traffic Department decided Krum’s
+  machine held the most promise for their purposes. Tests got under way.
+  In the Associated Press headquarters, which had been moved seven
+  blocks from the old Western Union building to 51 Chambers Street, a
+  sending operator sat at a keyboard similar to that of an ordinary
+  typewriter. As he struck the keys, copying the dispatches before him,
+  the machine perforated a paper tape with a series of holes, each
+  combination representing a letter. The tape fed into a box-like
+  transmitter which transformed the tape perforations into electrical
+  impulses and sent them along the wires into the receiving machines in
+  newspaper offices. These impulses actuated telegraph relays and set
+  the receiving Morkrum machines automatically reproducing the letters
+  which the sending operators were typing miles away.
+
+  The tests demonstrated that the Morkrum could transmit news hour after
+  hour at the rate of sixty words a minute and the copy was delivered
+  clean and uniform. Thus began the slow extension of Morkrum
+  transmission to the whole leased wire system, replacing the “brass
+  pounding” Morse keys. It was a transition that required years and
+  until it was completed both Morse and Morkrum worked side by side in
+  many places.
+
+An interesting story appeared recently in “The AP World,”[5] giving some
+recollections of AP’s first field maintenance man, Royal (Roy) Bailey,
+then aged 71 and living in retirement in California. He still remembers
+the AP’s first printing telegraph machines, the article says; in fact,
+he helped make them, for he was a mechanic in the Morkrum Company’s
+factory in Chicago. When the Morkrum Company shipped the first machines
+to AP headquarters, Bailey went along with the machines to install and
+maintain them, although he remained on the Morkrum Company’s payroll. He
+eventually installed AP printers all over New York City and Connecticut,
+in Newark, Philadelphia, Baltimore and Washington, and in Chicago, St.
+Louis and Kansas City. He recalls that Morse telegraphers “used to groan
+when they first saw him.” The early teleprinters were hard to keep
+synchronized, Bailey further recalls, and copy boys had to check the
+speed frequently by sighting the striped motor flywheel through a tuning
+fork. (Many of those copy boys, he says, including Mickey Burt and Henry
+Elling, became AP engineers.)
+
+As the experimental and developmental work continued at the Morkrum
+plant, Howard Krum studied all types of start-stop systems and found
+that synchronous control was the basis of all systems. After
+experimenting with various ideas his thoughts turned to a plan to make
+the start of the receiving unit somewhat independent of the transmitting
+unit start, thus avoiding irregularities then present in transmitter
+start devices. This idea led to the construction of a permutation-code,
+start-stop system, using segmented commutators with rotating brush
+distributors at both transmitting and receiving units and a start magnet
+for each to control start-stop operation.
+
+In this system the transmitter start magnet, when energized, releases
+the transmitting brush, which immediately contacts the first segment to
+transmit a start pulse to operate the receiver start magnet; the
+five-unit-code signal combination follows and both transmitting and
+receiving units are stopped. The apparatus was applied to control the
+selecting and printing mechanism of the Blickensdoerfer typewheel
+typewriter and named the “Morkrum Green Code.” This improved apparatus
+soon replaced the Blue Code printer at Associated Press and other
+installations (see figs. 7 and 7A).
+
+In this connection the following additional comments of Mr. Bailey may
+be of interest:[6]
+
+  In 1919 I installed the New York-Washington circuit, with drops at
+  Philadelphia and Baltimore. This was a new type of printer using what
+  we called the Green Code. This was considered an improvement over the
+  old Blue Code, which meant a rearrangement of the receiving mechanism,
+  but still the machines made use of a typewheel....
+
+  Our biggest job of all came in 1923 when we changed over all the old
+  Blue Code typewheel printers in the New York area to the new style L.
+  C. Smith typebar printers using Green Code. (Morkrum bought L. C.
+  Smith typewriters and added new machinery to them. Those printers
+  became the famous Model 12.)
+
+As we have seen, a number of inventors had patented ways and means to
+adopt the five-unit code for operating a telegraph printer system by the
+transmission of a start pulse to start both transmitting apparatus and
+the distant receiving apparatus at the same time, followed by
+transmission of a selected code and a stop pulse. To achieve successful
+operation, very close speed adjustment was required. At first, this was
+achieved by the use of governed motors and, later, when accurately
+timed, 60-cycle alternating current became available, the problem of
+synchronous operation of send and receive stations was solved by the use
+of synchronous motors.
+
+    [Illustration: Fig. 7
+             Morkrum Company’s Blue Code Typewheel Page Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+    [Illustration: Fig. 7A
+            Morkrum Company’s Green Code Typewheel Page Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+Telegraph printer systems of this type were used by telegraph companies
+for city-to-city transmission of telegrams and by news-gathering and
+-distributing organizations to transmit the news from headquarters to
+newspapers in different cities. While start-stop systems of this type
+were used successfully on press circuits and on telegraph message
+station-to-station circuitry, trouble was experienced when a number of
+printer send-receive units were set up in an intercommunicating system.
+Here it was found that the receiver start was not always in time with
+the transmitter start, due to varying line circuit conditions and a
+variation in the start release mechanism at connected stations.
+
+It seems odd that synchronous systems, where both transmitter and
+receiver were started at the same time (requiring both transmitter and
+receiver to maintain synchronism), held the field for so long a time,
+thus limiting telegraph transmission to one-way operation.
+
+It evidently took a mind not bound or hampered by the standard and
+accepted way of operating synchronous systems to discard such old ideas
+and to set forth boldly on a new pattern which, in reality, differed but
+slightly from the then-established synchronous systems, and to sow the
+seed for starting further developments leading to the present telegraph
+typewriter, TWX, and TELEX intercommunicating systems. Such a man was
+Howard L. Krum, who, in further thinking on the subject, came upon the
+almost simple idea of having the transmitter start the receiver rather
+than having them both start at the same time. This arrangement required
+higher speed operation of the receiver and therefore the receiving code
+pulse positions were spread over a shorter area, which meant
+progressively decreasing the angular division of the receiving members.
+Then, to set the received start pulse in the most favorable position
+with relation to the following code signal reception, an orientation
+adjustment of the receiver start position was provided.
+
+(Note: On June 20, 1961, Kleinschmidt wrote to Howard Krum—then in
+retirement in California—giving a short description of the Morkrum
+Company activities, including the wording of the above last two
+paragraphs, and asking him to write the Morkrum story. Howard Krum
+replied on July 3, 1961, indicating his approval and saying that he
+would be glad to put together some notes for Kleinschmidt. It was quite
+a shock, therefore, when a letter was received from Howard Krum’s son,
+Charles, in September of 1961, telling of his father’s sudden serious
+illness. Then, regretfully, it was not long afterwards that word was
+received of Howard Krum’s death on November 13, 1961.)
+
+    [Illustration: Fig. 8
+                Morkrum Company No. 12 Typebar Page Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+Howard Krum’s improved method for operating start-stop, permutation-code
+telegraph systems was first applied to the Morkrum Green Code apparatus
+to control the selecting and printing operations of the Blickensdoerfer
+typewheel typewriter.
+
+At this time the Kleinschmidt company and other manufacturers were
+starting to produce permutation-code, start-stop telegraph printers
+using typebar printing like the more modern typewriters which began
+rapidly to replace the Blickensdoerfer, the Hammond, and the other
+typewheel printing typewriters. Observing this situation, the Morkrum
+Company started intensive development work to produce the No. 12 typebar
+page printer, using the typebars and operating mechanism of the L. C.
+Smith typewriter and platen of a Woodstock typewriter (fig. 8).
+
+Further developments produced the Morkrum No. 11 tape printer which used
+the Baudot combiner method for selecting and printing characters under
+control of start-stop, send-receive devices. The No. 11 was a small,
+compact tape printer operating at fifty words per minute. Quite a number
+were put into service at hotels and elsewhere for local message service
+(fig. 9).
+
+    [Illustration: Fig. 9
+                    Morkrum Company No. 11 Tape Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+The new No. 12 typebar page printer found numerous applications. It
+replaced the Green Code and the earlier Blue Code wherever used. The new
+No. 12 was installed at Western Union, on some railroads, and in the
+Chicago Police telegraph system. The No. 12s were also installed by
+Postal Telegraph on intercity circuits and used as receiving units for
+the Postal Multiplex. The Postal Multiplex had been designed by Morkrum
+and Postal engineers with the consultant assistance of Donald Murray who
+was a friendly associate and had a license agreement with the Morkrum
+Company covering some of his patents. A few No. 12 Morkrums were shipped
+abroad for use with the Murray Multiplex; the British Post Office
+Telegraph and the Australian Telegraph Administration were customers.
+
+Late in 1924 the Morkrum Company and the Kleinschmidt Electric Company
+joined to form the Morkrum-Kleinschmidt Corporation. A story telling of
+the union of these two companies was published by _Fortune_ magazine in
+March of 1932.[7]
+
+Before going to that story, it may be of interest to describe an
+important event concerning the change in the supply of electric power
+from direct current to 60-cycle alternating current and the final timing
+to exactly 60 cycles per second of all A.C. power supplies so that our
+electric clocks may be connected to an A.C. outlet and give correct
+time.
+
+The advent of correctly timed, 60-cycle A.C. electric power, available
+throughout the nation, was a great boon to the designers of printing
+telegraph apparatus and some types of facsimile telegraph and picture
+transmitting systems. In prior years, overline synchronization of send
+and receive apparatus was always a problem and never perfect. Today,
+synchronizing apparatus between terminals becomes the simple matter of
+providing 60-cycle A.C. synchronous motors. Just plug into a power
+outlet and you have “sync”!
+
+Henry Ellis Warren, a clock maker, noting the change in electric power
+service from direct current to 60-cycle alternating current, set about
+to build a motor to operate at 60-cycle speed but found that the
+60-cycle frequency did not always hold to form, and when applied to
+running a clock, did not hold correct time.
+
+The following excerpt, from _The Romance of Time_,[8] tells of Warren’s
+activities which led to synchronizing 60-cycle alternating current to
+exact time:
+
+  _Synchronous Electric Time_
+
+  One of the most important of all contributions to horology is the work
+  of an American who has earned the title, “Father of Electric Time.”
+
+  Henry Ellis Warren was graduated from Massachusetts Institute of
+  Technology in 1894. In 1907 he married and settled in Ashland,
+  Massachusetts. Here it was that he began to work out his idea for
+  electrically operated timepieces.
+
+  His first product was an ingenious battery-operated clock. In 1914 he
+  organized the Warren Clock Company and set up production in a barn on
+  his farm. Yet he knew the battery clock was not his goal, for direct
+  current offered no means of accurate regulation. Direct current flows
+  constantly in one direction only, like water down a river or like the
+  passage of time. On the other hand, alternating current changes
+  direction regularly, like the oscillation of the balance wheel in a
+  watch. But instead of the usual five times a second of the balance
+  wheel, most alternating current completes its trip forward and
+  backward sixty times a second. Obviously, a clock “geared” to such a
+  frequency would run as reliably as the current.
+
+  In 1916, after several years of extensive experimentation, Warren
+  developed a motor which would start by itself, run on alternating
+  current, and carry without difficulty the load of reduction gears
+  driving the clock hands. It could also handle the cams and contacts of
+  an alarm clock or set in motion a striking or chiming mechanism.
+
+  Then came the test. He plugged the clock into the power socket. It
+  commenced to run. Weeks of observation and checking showed an
+  irregular error of as much as ten to fifteen minutes a day.
+
+  Convinced that his clock was right, Warren discovered that the
+  alternating current frequency delivered to his barn factory was off
+  half a cycle per second—59½ and not 60 cycles. This slight deflection
+  would produce that much time loss in a 24-hour run. When he informed
+  the electric company of this error, he was met at first with polite
+  disbelief. Yet he showed such a comprehensive knowledge of the subject
+  that the company began to recheck their standards.
+
+  Warren built several more synchronous clocks and a master regulator of
+  his own design for power-station use. On one dial of his master clock
+  there were two hands, black and gold. The black hand was connected to
+  an accurately adjusted pendulum clock, beating seconds. The gold hand
+  was driven by the gear train of one of his electric clocks. As long as
+  the two hands revolved together, the current cycles were exactly 60
+  per second. Set up in a power station, this allowed the operator to
+  adjust the turbine generators as needed to keep the two hands of the
+  master clock together. Thus all other properly set electric clocks on
+  the same system would keep the same time automatically.
+
+  The Edison Electric Illuminating Company of Boston tried out the
+  master clock on October 23, 1916. Since then this regulation has
+  continued.
+
+  Other power companies adopted Warren’s master clock. Today virtually
+  all alternating current furnished in America is similarly checked.
+  Practical electric time is available at the light socket almost
+  everywhere. But there are additional benefits.
+
+  Standardizing the frequency expanded the market for current to run the
+  increasing number of clocks in use. Yet, from the consumer’s point of
+  view, each clock draws little current, costing but a few pennies a
+  month. Uniform frequency also gave more even speeds in motor-driven
+  machinery, with a resultant improvement in product. It made easier the
+  joining of one power station to another. Synchronous motors used in
+  certain meters and recorders produced better, more accurate records at
+  lower cost.
+
+  The Warren enterprise expanded rapidly. The battery clock was
+  discontinued. The red barn was no longer large enough, and new space
+  was acquired. The trade mark “Telechron,” meaning “time from a
+  distance” (from two Greek words), was used to identify all products of
+  the company. The firm name was changed to stress the name Telechron,
+  and in 1952 a merger was made with the General Electric Company.
+  Plants are now operated in Worcester as well as in Ashland,
+  Massachusetts.
+
+And now back to the telegraph field....
+
+
+
+
+                               CHAPTER 4
+                    Morkrum-Kleinschmidt Corporation
+                 (later renamed “Teletype Corporation”)
+
+
+During and after the first world war, both the Morkrum Company and the
+Kleinschmidt Electric Company were progressively developing and
+producing telegraph apparatus and bringing out new and improved
+operating devices to a point where conflicting patents were at issue.
+This meant infringement litigation which might destroy both companies.
+Neither company could obtain orders in sufficient quantity to make the
+manufacturing of apparatus profitable, and, with costly development work
+at hand, more capital investment was a continuous requirement.
+
+The following excerpts from the March 1932 issue of _Fortune_[9] tells
+of the final joining of the two companies.
+
+  The Morkrum Co. had no profits to show for its efforts, and one can be
+  fairly safe in assuming that no other maker of telegraph printers made
+  profits. There were competitors, of course. Even the first telegraph
+  invented by Samuel Morse had a printer, but it printed in dots and
+  dashes instead of in letters of the English alphabet. That original
+  Morse printer was abandoned as far back as 1844 because a man who
+  could be trained to read dots and dashes could just as easily be
+  trained to listen to them. The problem of getting a printer to print
+  the alphabet was faced by inventors more than half a century ago, and
+  it was not really a difficult problem. The difficulty was to invent a
+  printer that was not too complicated and delicate to be reliable, that
+  was simple enough to be manufactured for a few hundred instead of a
+  few thousand dollars.
+
+  This difficulty occupied many minds other than the Morton-Krum
+  intelligences. The most noteworthy of Morkrum Co.’s rivals in
+  printer-making was Edward Kleinschmidt, an inventor who had all the
+  inventor’s legendary devotion to his task and to nothing else. His
+  creations included a vaccination shield, an automatic fishing reel,
+  and the perfection of the Wheatstone perforator. He had been tinkering
+  with a telegraph printer in one form and another since the beginning
+  of the century. In 1917 his project was revamped. It had the financial
+  backing of Charles B. Goodspeed, of the Buckeye Steel Casting Co.;
+  Paul M. Benedict, assistant to the president of the C. B. & Q.; Edward
+  Moore, son of Judge Moore of American Can fame; Eldon Bisbee, a New
+  York lawyer; and one of Mr. Bisbee’s legal clients, Albert Henry
+  Wiggin, then president of the Chase National Bank. It was Mr.
+  Goodspeed, a quiet, retiring gentleman, who supplied most of the
+  corporate (as distinct from inventive) energy of the Kleinschmidt
+  Electric Co....
+
+  In the years from 1917 to 1924 the Kleinschmidt and the Morkrum
+  companies became the leading makers of telegraph printers, but they
+  did not have an easy row to hoe. Their only possible customers were
+  the two great telegraph companies, the Telephone company, the
+  railroads, and an occasional outside business such as a press
+  association. The competition was disheartening, and it became keener
+  with the elevation of Sterling, son of Joy Morton, to the presidency
+  of the Morkrum Co., an elevation that was mainly a War-time accident,
+  for Sterling Morton had resigned from his father’s company to enlist
+  in the Army, had been rejected because of a small steel plate in his
+  anatomy, and had chosen the Morkrum Co. as an alternative. Engineering
+  progress was made, sometimes under ludicrous circumstances.
+
+  There was one occasion when Sterling Morton, about to sail for Europe,
+  heard that the Kleinschmidt Co. was about to bring out a simplex
+  printer. Up to that time both companies had been making printers for
+  use with multiplex machines. Mr. Morton was afraid that Mr.
+  Kleinschmidt was about to anticipate him in the simplex development
+  which was the forerunner of the present teletypewriter. This was a
+  contingency which Mr. Morton could not well permit. On the spur of the
+  moment, he called on Howard Krum, who happened to be in New York. They
+  bought a drawing board, hired a room at the Princeton Club, and worked
+  for twenty-four hours trying to design such a machine. Completely
+  baffled by one small detail, they gave up and took a bus for Coney
+  Island. On the way, Howard Krum doubled up in sudden ecstacy and
+  inspiration. They rushed from the bus at Coney Island, entered a soda
+  fountain, and on the spot designed the machine on the back of an
+  envelope. This simplex machine of the Morkrum Co. and the one
+  developed by Kleinschmidt at the same time are the machines which make
+  Teletype commercially important, the substance of the business today.
+
+  But engineering progress was not business progress. Both companies
+  from the standpoint of profits were failures. Their few customers
+  played them off against each other. In despair, they were both willing
+  to sell out. At one point Mr. Goodspeed offered the Kleinschmidt
+  company to Mr. Newcomb Carlton of Western Union for $412,000, the
+  amount invested in it. Mr. Morton sold his company in all but fact to
+  Mr. Charles G. du Bois, then president of Western Electric, but Mr. du
+  Bois went off to Europe, and his substitute refused to see any merit
+  in the deal. So it fell through. Unable to sell themselves to their
+  customers, they tried selling themselves to each other. In 1923
+  Messrs. Goodspeed and Morton came to terms. The Morkrum Co. signed the
+  agreement and, everything arranged, Mr. Goodspeed went off to bicycle
+  with his wife in South Africa—whereupon his company suddenly changed
+  its mind.
+
+  That was the situation of these two unfortunate companies in 1924 when
+  Mr. Morton started a suit for patent infringement against his rivals.
+  A counter suit was promptly filed. Mr. Goodspeed was quite right when
+  he said the suits would ruin both—there was every prospect that by the
+  time the courts had settled things, the patents would have been in
+  such a snarl that neither could do anything. The suit, in fact, was
+  Sterling Morton’s way of bringing matters to a head. So, figuratively
+  speaking, on the courthouse steps they merged.
+
+  The terms of the merger as embodied in the six-line agreement (it was
+  later made over into a twenty-five-page legal document which concluded
+  by saying that in case of dispute the six-line agreement should be the
+  final authority) were these: each of the old companies received a half
+  interest in the common stock (10,000 shares) of the new company;
+  15,000 shares (callable at 105) of the new company’s preferred stock
+  should be divided according to the assets of the old companies.
+  Actually, 13,979 shares of preferred were issued, the majority going
+  to the Morkrum group.
+
+And so it was that the agreement to join both companies under the name
+Morkrum-Kleinschmidt Corporation was consummated and chartered in the
+State of Delaware on December 29, 1924, with Sterling Morton as
+President, Howard L. Krum as Vice President in charge of manufacturing,
+and Edward E. Kleinschmidt as Vice President in charge of development,
+patents and foreign sales.
+
+One of the first decisions to make was whether the Kleinschmidt plant in
+Long Island City or the Morkrum plant in Chicago would be the
+headquarters for the new company. The Kleinschmidt company was on a
+27,000-foot leased floor in a building which R. H. Macy Company had just
+purchased to use for a warehouse, and negotiations had been going on for
+some time for the purchase of the Kleinschmidt lease—the sum of
+$25,000.00 having been offered. When the union of the two companies was
+decided upon, an agreement to vacate on the terms offered was signed,
+and the Kleinschmidt firm moved to the Morkrum-owned plant in Chicago.
+
+    [Illustration: Fig. 10
+  Morkrum-Kleinschmidt Corporation No. 14 Start-Stop Typebar Tape Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+Bringing together the engineering talent and patents of the two
+companies had an immediate effect toward further progress. The first
+thing the new company set out to do, through consolidation of their past
+efforts, was to perfect a satisfactory start-stop-operated tape printer
+for the Western Union Telegraph Company to use for circuit extension to
+customers who were extensively using the telegraph for immediate,
+written communication. (This was to speed up telegraphic communication
+and eliminate the need for messenger service which had been the custom.)
+The Morkrum company had submitted their start-stop-operated Baudot tape
+printer, and the Kleinschmidt company had proposed the Western Union No.
+22 tape printer in a redesign to start-stop operation. Now, the new
+company was able to combine both plans and as a result came up with
+their first development, a typebar, start-stop-operated, tape printer,
+the No. 14 (see figure 10). In the final design, Howard Krum and his
+production engineers took a large part. After tests and evaluation,
+Western Union’s first order was for 10,000 machines at $317.00 each.
+This amounted to a total of $3,170,000.00. No such quantity had ever
+been heard of before!
+
+It is quite evident that while the two companies were separated, each
+coming up with improved and new designs of telegraph apparatus, there
+was a lack of decision by telegraph companies as to which type of
+apparatus to adopt in expanding their operations, and therefore they did
+not buy in quantity. The largest previous order to the Kleinschmidt
+Electric Company was for 800 No. 22 typebar tape printers for the
+Western Union Multiplex.
+
+At Morkrum-Kleinschmidt more space was needed. The corner property on
+Wrightwood Avenue adjoining the Morkrum plant was purchased, and a
+four-story building was erected.
+
+The design of a telegraph typewriter that would be more efficient and
+require a minimum of maintenance service was the most important project,
+and Morkrum-Kleinschmidt was working with Bell Laboratories engineers
+endeavoring to meet all the requirements of the Bell Telephone system. A
+typebar printer with a stationary printing platen and moving typebar
+printing unit was specified. These requirements were finally met with
+the design of the No. 15 page printer to operate at 60 words per minute,
+and manufacture of this apparatus was started in 1927 (see figure 11).
+The No. 15 page printer became the standard for nationwide
+intercommunicating telegraph service for many years.
+
+In 1926, soon after the No. 14 tape printer was put into service,
+Morkrum-Kleinschmidt received a request from the police department of
+Berlin, Germany, for detailed information, stating that they were
+interested in the purchase of about sixty No. 14 printers. The letter
+asked if Morkrum-Kleinschmidt was represented by an agent in Germany
+whom they could contact. At an executive meeting, Mr. Morton and Mr.
+Krum asked Mr. Kleinschmidt to take care of this matter since his
+company, before joining them, had sold apparatus in some foreign
+countries. After further correspondence with the Berlin police
+officials, Kleinschmidt decided personally to take a No. 14 printer to
+Germany and arrange for a representative there. After visiting and
+conferring with several companies experienced in the telegraph and
+associated apparatus field, a satisfactory arrangement was consummated
+with the C. Lorenz Company, on October 25, 1926, for the manufacture and
+sale of Morkrum-Kleinschmidt equipment in Germany, on a
+royalty-licensing basis. At that time the Lorenz company manufactured
+telegraph and telephone equipment and railway signaling apparatus. Their
+engineering department was under the supervision of Dr. Gerhard Grimsen
+who took the matter in hand for further exploitation toward an
+intercommunicating printing telegraph system, using the No. 15 page
+teletypewriter. Siemens & Halske, the principal manufacturers of
+telegraph equipment in Germany, were also licensed by the
+Morkrum-Kleinschmidt Corporation, on June 1, 1929, with the consent of
+the Lorenz company.
+
+    [Illustration: Fig. 11
+                  Morkrum-Kleinschmidt No. 15 Page Printer
+                     _Picture through courtesy of Teletype Corporation_]
+
+(As may be seen in the following chapter, it was these licensing
+arrangements which led to the establishment of the TELEX
+intercommunicating teleprinter system in Europe.)
+
+In early 1927 the well-known newspaper publisher, Mr. Frank E. Gannett,
+came to Morkrum-Kleinschmidt, bringing his company’s engineer, Mr.
+Walter Morey, who had heard of various attempts to operate a typesetting
+machine, such as Linotype or Intertype, directly from the telegraph. Mr.
+Gannett said, “We have telegraph typewriters in our news rooms that
+record the news as transmitted from the Associated Press and the United
+Press, and that is fine. Now, why not go a step further and operate our
+typesetting machines directly from the telegraph circuit? If you can
+develop such a device, I will help finance the project.”
+
+Indeed, after some study of the matter, the possibility of devising such
+a system seemed entirely feasible and the development of suitable
+apparatus was turned over to the research and development department. A
+workable plan was soon put together and a separate company, the
+Teletypesetter Company, was organized, with Mr. Gannett joining
+financially. Edward Kleinschmidt was elected president. Development
+proceeded and a complete set of apparatus was set up and publicly
+demonstrated for the first time on December 6, 1928, at one of Mr.
+Gannett’s newspapers, _The Times Union_ of Rochester, New York.
+Teletypesetter equipment was subsequently manufactured for several
+installations. After the Western Electric Company purchased the Teletype
+Corporation in 1930, the Teletypesetter Company was sold to the
+Fairchild Company. Teletypesetter equipment is now in universal use by
+most newspapers and the larger printing companies.
+
+During the period that the United States’ business cycle was on a
+continuous upswing (during the late 1920s), securities sales on the New
+York Stock Exchange were going to constantly higher volume, and the old
+step-by-step stock ticker did not, by large margins, keep pace in
+recording stock share transactions. There was a cry for a higher speed
+stock ticker; in fact, the Stock Exchange officials told
+Morkrum-Kleinschmidt that they would be happy to convert the entire
+system if they could get higher speed.
+
+An adaptation of the five-unit-code, start-stop system seemed the
+solution and the Research and Development department set out to develop
+suitable apparatus. Several ideas were studied and, because of the
+frequent changes from letters to figures, requiring printing in separate
+rows on the tape, a six-unit code was adapted instead in which
+combinations for a figure included the sixth selecting pulse to operate
+the figures print hammer and block the letters print hammer.
+
+    [Illustration: Fig. 12
+               Morkrum-Kleinschmidt Corporation Stock Ticker
+                     _Picture through courtesy of Teletype Corporation_]
+
+The Morkrum-Kleinschmidt company was soon able to show the Stock
+Exchange people a stock ticker operating on a telegraph system that
+worked at twice the speed of the step-by-step-operated tickers then in
+use. A speed of 500 printing operations per minute could be obtained,
+thus attaining a one-hundred-percent increase in the transmitting and
+recording of stock quotations on the tape (see figure 12). The Stock
+Exchange ticker service company ordered 15,000 of these high-speed
+tickers and the Western Union Telegraph Company also ordered a quantity
+for their national stock quotations distributing systems.
+
+As business of the combined Morkrum and Kleinschmidt companies went
+along, it was thought that the name “Morkrum-Kleinschmidt Corporation”
+was a pretty big mouthful and that a simpler name more characteristic of
+its products would be better. The name “Teletype” was suggested, and in
+the year 1928 the name change to “Teletype Corporation” was made. The
+exact origin of the word “teletype” is not known but it is no doubt one
+of the abbreviated forms of the words “telegraph typewriter” which were
+used over the years. In literature, in the early 1900s, we find that the
+word “teletype,” in speaking of printing telegraph equipment, and other
+shortened forms, such as “telewriter” and “teletyper,” were used
+interchangeably.
+
+Kleinschmidt’s son, Edward F., who studied electrical engineering at
+Steven’s Institute and at Northwestern University, was employed as
+development engineer by the Morkrum-Kleinschmidt company where he
+assisted in the design of projects at hand, and, during 1929, produced a
+system and apparatus for transmitting and recording printed characters
+by the successive transmission of dots arranged in a pattern to form
+letters. While this system required a higher signaling frequency, it was
+thought to be superior to permutation-code transmission over radio
+circuits where electrostatic interference is experienced, since, in the
+dot pattern transmission, electrostatic interference up to a degree will
+not change the readability of a transmitted letter.
+
+The system was in test operation to prove its efficiency over radio
+circuits where considerable static interference was experienced. Upon
+hearing of this new telegraph for the radio, Mr. R. Stanley Dollar
+became interested in the use of this communicating system for his
+steamship line. There was considerable correspondence in this matter
+during mid-1930, just prior to the sale of Teletype; however, neither
+AT&T nor Western Electric was interested in further promoting this new
+radio telegraph, so the matter was dropped.
+
+Business activities of Teletype Corporation were now growing rapidly and
+with good profit. The capital structure of 10,000 shares was wholly
+inadequate, so by a 15-to-1 stock dividend the capital structure was
+raised to 150,000 shares, and dividends on an annual basis of $12.00
+were paid.
+
+The successful development of apparatus for different applications
+useful in the telegraph field was largely due to the close cooperation
+between the research-development and the manufacturing departments of
+the organization. Howard Krum had expert engineers and designers in his
+department, Kleinschmidt brought his leading engineers and designers
+from the Long Island City plant, and there was a definite spirit of
+cooperation all around.
+
+To quote again from the _Fortune_ magazine story:[10]
+
+  As the years up to 1925, when the Kleinschmidt-Morkrum merger took
+  place, were wanderings in a profitless desert, so the years from 1925
+  to 1930 found the teletype in a land of milk and honey. Mr. Morton,
+  however, was inclined to think that a company which had only two or
+  three major customers is not strongly placed. Furthermore (and by the
+  spring of 1930), at least one of those customers was actively in the
+  market as a Teletype purchaser. This buyer was Colonel Sosthenes Behn,
+  whose International Telephone & Telegraph Co. includes Postal
+  Telegraph at home in addition to many communication and manufacturing
+  companies abroad. With Colonel Behn wanting to buy and Mr. Morton
+  wanting to sell, negotiations rapidly proceeded to a point at which
+  Mr. Morton, at least, thought the deal was almost concluded. But while
+  Mr. Morton and the Colonel were discussing the prospective
+  acquisition, into the Colonel’s office walked a man who has no other
+  place in this story except that he happened to interrupt at this
+  moment. As this gentleman was introduced, he asked whether Mr. Morton
+  were related to Joy or Paul Morton. When Mr. Morton admitted that they
+  were his father and uncle, the man turned to Colonel Behn and said in
+  jest: “Better watch your step. That’s a smart family.” Only Colonel
+  Behn knows whether he gave that remark any weight, but the point is
+  that the negotiations suddenly collapsed, and that the visitor’s
+  remark about the smart family still lives vividly in Mr. Morton’s
+  memory.
+
+  This setback was not a setback at all to such a negotiator as Mr.
+  Morton. Two months later, in May, 1930, you find him walking into the
+  office of Clarence G. Stoll, vice president of Western Electric, A. T.
+  & T.’s manufacturing subsidiary. This time there had been no
+  preliminaries. Mr. Stoll rose from his desk and said: “Good morning.
+  What can I do for you?”
+
+  “Do you want to buy Teletype?”
+
+  “Is it for sale?”
+
+  “Yes, at a price.”
+
+  “All right. Let’s get down to business.”
+
+  They got down to business on the spot, and they remained at it for
+  three solid days in Mr. Stoll’s office. The agreement as reached
+  called for A. T. & T. to pay off the preferred stock of Teletype,
+  13,979 shares callable at 105, and to give one share of A. T. & T. in
+  exchange for each common share of Teletype. The A. T. & T. shares were
+  worth about $200, so the price came to upwards of $30,000,000—plus, of
+  course, the $1,467,795 for retiring the Teletype preferred.
+
+It should be noted here that this deal to take over Teletype on a
+share-for-share basis was exclusive of foreign patent rights but did
+include patent rights in Canada and Mexico.
+
+The sale to Western Electric was closed on September 30, 1930. Mr. Stoll
+of that company was made president. Howard Krum continued on as vice
+president and was a leader in developing a number of commendable
+devices, including a system for transmitting messages in scrambled,
+untranslatable code form and receiving such scrambled code in perfect
+message form. Mr. Morton was retained as consultant. Edward Kleinschmidt
+made an arrangement to do development work for the new organization in a
+laboratory of his own, assigning all inventions to the Teletype
+Corporation (see page 50).
+
+After Kleinschmidt left Teletype, his assistant, Albert H. Reiber,
+carried on as head of Research and Development for a short while before
+his untimely death. In the meantime, Walter J. Zenner had advanced and,
+in 1935, became Department Chief and later Vice President in Charge of
+Research and Development. Under Zenner’s direction a number of new
+devices in the teleprinter field were developed, including
+ultra-high-speed tape-perforating and tape-controlled transmitting
+devices, as well as a high-speed stock ticker operating at 900
+characters per minute (introduced in 1964) to replace the earlier
+Morkrum-Kleinschmidt ticker which operated at 500 characters per minute.
+Some 94 patents were issued in his name, which have contributed greatly
+to the growth of the Teletype Corporation.[11]
+
+On May 15, 1940, Howard Krum and Edward E. Kleinschmidt were both
+honored by The Franklin Institute and awarded the John Price Wetherill
+Medal, each one “For his Part in the Development of a Successful
+Electrically Operated Duplicate Typewriting Machine Now Known as the
+Teletypewriter,” (Quoted from the medal certificate.)
+
+    [Illustration: Teletype Corporation’s new Model 33 Automatic
+    Send-Receive Set
+                     _Picture through courtesy of Teletype Corporation_]
+
+Howard Krum later also received an award as Modern Pioneer from the
+National Manufacturers Association. Edward E. Kleinschmidt, on April 19,
+1958, was awarded the honorary degree of Doctor of Engineering at the
+Polytechnic Institute of Brooklyn.
+
+To continue: After the sale of patent rights in Canada, Mexico, and the
+United States to Western Electric, there remained the European and other
+foreign patent rights still with the original Morkrum and Kleinschmidt
+investors. The International Telephone and Telegraph Company wanted
+these rights, and, after negotiations in New York, a price was set for
+their purchase through the Creed Company in London, then owned by IT&T.
+Edward Kleinschmidt was sent to London in 1930 to close the deal. Some
+changes to the sales contract were requested by Creed which kept the
+cables busy by Kleinschmidt in asking for approval from A. T. & T. and
+Western Electric lawyers. Finally, upon all-around approval, the
+contract was signed at the previously-agreed-to price of one and a
+quarter million dollars.
+
+
+
+
+                               CHAPTER 5
+               Teletypewriter Intercommunication Expands
+
+
+                                _TELEX_
+
+As a result of the acquisition of patents of the Morkrum-Kleinschmidt
+Company by the Lorenz company, Siemens & Halske, and, later, the Creed
+company in England, all of which we have discussed briefly,
+teletypewriter intercommunicating expanded rapidly. In just a short
+time, through the cooperation of these companies, it spread over all of
+Europe and was named TELEX (_TEL_eprinter _EX_change Service).
+
+Dr. Gerhard Grimsen of the Lorenz company, in a letter to Edward E.
+Kleinschmidt, dated July 11, 1962, states, in part (slightly edited):
+
+  The story of printing telegraph apparatus using an equal length code
+  in the Lorenz Co. commences in 1927 with the acquisition of the most
+  important patents of the Morkrum-Kleinschmidt Co.
+
+  Before then, the Lorenz people were busy in manufacturing Morse
+  apparatus and delivering exchange tickers which used the Hughes code.
+  The transmitter had a piano keyboard, the receiver was a page printer
+  with a moving type wheel.... The biggest network of this kind was
+  installed in the Berlin Police service (with one transmitter and about
+  300 receivers). The connections between the headquarters and the
+  substations were built by using guttapercha cable lines owned by the
+  police administration. This broadcasting network was erected around
+  1907. By 1927 the cables had aged, by normal corrosion, to such a
+  degree that instead of 110-volt double current transmitting voltage,
+  little by little, up to 220 volts was necessary for a fairly
+  satisfying operation. Also, the maintenance of the apparatus became
+  more costly.
+
+  This was the situation when some communication experts of the police
+  and the post administration made the first studies about the newest
+  telegraph technique in the U. S. A.... They found that the start-stop,
+  five-unit tape printer, the Model 14, developed and manufactured by
+  the Morkrum-Kleinschmidt company, would be the best instrument to
+  replace the old ones in the police service as well as in the telegraph
+  business of the German post administration.
+
+  Of special importance to the police service was the fact that by
+  introducing this apparatus, it was not necessary to build a new
+  network because now it became possible to rent normal telephone lines
+  using single current, 40-milliampere, 60-volt current only.
+
+Siemens and Halske engineers, in 1925, had designed a teleprinter using
+the five-unit-code, start-stop principle. This was manufactured and
+improvements added, including the new start-stop method developed by
+Morkrum-Kleinschmidt. The Creed company, which had started manufacture
+of start-stop teleprinters before 1930, having purchased several Morkrum
+printers before the consolidation of that company with the Kleinschmidt
+company, also designed a teleprinter for the new five-unit-code,
+start-stop system.
+
+In another write-up, Dr. Grimsen states that after the Siemens company
+came into the picture, a fully automatic teleprinter network was started
+in 1933 with a trial installation between Berlin and Hamburg for about
+forty private subscribers. The results were so encouraging that the
+German Reichspost continued the work, and five years later the TELEX
+system contained about 10,000 subscribers.
+
+TELEX service was introduced in Great Britain in 1932 and was worked
+over the telephone network, using a single-tone voice frequency carrier
+signal which was keyed on and off by the teleprinter transmitter. (From
+Freebody’s _Telegraphy_.)[12]
+
+Interconnection for TELEX service was made by dialing a subscriber as in
+telephone operation. TELEX directories then, as now, gave the call
+numbers of subscribers. Types of answerback devices were designed in
+both England and Germany which finally developed into an arrangement
+whereby the calling subscriber would, after dialing a number, press a
+special key, the shifted D key—named the “Who-Are-You?” button—which
+would cause the transmission of a signal code automatically to activate
+the called teletypewriter mechanism into transmitting its TELEX number.
+
+Further apparatus, a device to punch the code in a tape and a
+punched-tape-controlled transmitter, was soon added.
+
+The Siemens company also developed and built completely automatic
+switching equipment for the TELEX system which is used by many telegraph
+administrations.
+
+Through the cooperation of the companies who were manufacturing
+teleprinters and associated equipment, the many problems that appeared
+were eventually solved to improve the apparatus and bring the TELEX
+system to eventual perfection for worldwide telegraph communications.
+(At the time of this writing, according to statistics, there are nearly
+1,000,000 TELEX subscribers throughout the world.)
+
+One of the problems faced in setting up such a worldwide system was that
+of standardizing the code and operating speed. At the time of
+Kleinschmidt’s stay in London in 1930 to close negotiations with Creed
+for the sale of Morkrum-Kleinschmidt’s foreign rights, he met Mr. Martin
+Feuerhahn of the German Telegraph Administration who at that time was in
+conference with Creed and representatives from the British Telegraph
+Administration as to standardizing on an alphabet and telegraph code for
+international communications. Mr. Feuerhahn argued for the adoption of
+the American Murray alphabet and code, stating that he already had the
+approval and consent of the French, Italian, and Belgian telegraph
+administrations.
+
+Mr. Feuerhahn and Kleinschmidt spent some hours together. After their
+return to their respective countries, Kleinschmidt received a letter
+from Mr. Feuerhahn referring to their talks and stating that he had been
+in correspondence with Mr. Benjamin of Western Union and Mr. Parker of
+Bell Laboratories with regard to code and other pertinent matters of
+standardization so that an International Teleprinter Exchange could be
+extended into the United States. Another letter dated October 10, 1931,
+reviewed the aforementioned standardization search.
+
+The Murray alphabet and 7½-unit code were soon adopted and are still in
+use today in TELEX.
+
+In later years, an association, the Consultative Committee on
+International Telegraph (CCIT—now the CCITT to include the telephone),
+was formed and met regularly to discuss problems and to set operating
+regulations for the TELEX apparatus in an intercommunicating system. The
+CCITT at this writing is still meeting regularly on worldwide
+standardization in both telegraph and telephone communications.
+
+
+                  _TELEX IN THE UNITED STATES AND TWX_
+
+In the United States, in November 1931, the Bell Telephone Companies
+announced an intercommunicating teletypewriter service, called TWX for
+short (_T_eletype_W_riter e_X_change), by which interconnections could
+be made by a switchboard operator as in telephone service. One of their
+first advertisements named it a “Telephone Typewriter Service, a service
+that typewrites by wire, a method of inter-office communication that has
+the quickness of the telephone, the flexibility of conversation, the
+accuracy of the typewriter, the authority of the printed word, the
+permanency of print.”[13] Tape-punching and tape-controlled transmitting
+apparatus was provided. This service allowed subscribers to carry on a
+typewritten conversation at a charge less than the cost of a telephone
+call, whether to local or to distant areas. The maximum speed of this
+equipment was limited to sixty words per minute.
+
+    [Illustration: Telephone Typewriter Service (early TWX apparatus)
+       _reproduced by permission of American telephone & Telegraph Co._]
+
+There are approximately 54,000 subscribers to TWX at this writing, and
+the TWX directory gets fatter with each new issue. In 1962 all TWX
+machines were converted to direct dialing operation, making the service
+easier to use. Instead of going through “Operator” by manually typing
+out the call letters of the party being called, one now merely depresses
+the Originate button, listens for the dial tone, and then dials the TWX
+number of the party wanted.
+
+RCA Communications, Inc., was the first to extend international TELEX
+service to Bell System teletypewriter subscribers (1955), enabling them
+to make and receive overseas calls on their domestic TWX machines.[14]
+As stated, the TWX machines were geared for 60-words-per-minute
+operation, whereas the TELEX system operated at 66 words per minute. It
+was therefore necessary for R.C.A. to use conversion apparatus to an
+error-detecting code for overseas radio transmission. This code was a
+seven-unit code, using three marking and four spacing elements, giving
+35 usable combinations. By using a special printer, when a faulty
+combination was received, a special error symbol was printed.
+
+Western Union, in May of 1958, introduced TELEX service between New York
+City and various Canadian points. By 1962 the service had been extended
+to 67 United States cities, and at this writing they expect to serve 180
+United States cities with an anticipated subscriber capacity of many
+thousands.[15]
+
+In addition to domestic service between U. S. cities, subscribers can
+dial automatic teleprinter connections to Canada and Mexico. Also, they
+can obtain direct TELEX connections to other parts of the world through
+the overseas facilities of RCAC (Radio Corporation of America
+Communications), AC&R (American Cable and Radio), and WUI (Western Union
+International). The operating speed of 66 words per minute and also the
+teleprinter keyboard in the U. S. TELEX network conform to international
+standards of the CCITT. This provides complete operating compatibility
+with other TELEX systems throughout the world without the need for speed
+and keyboard translators.[15]
+
+
+                    SOME OF TODAY’S TELEX APPARATUS
+
+    [Illustration: The SAGEM Electronic Teleprinter used in TELEX
+  _Picture by courtesy of Société d’Applications Générales d’Electricité
+                                                       et de Mécanique_]
+
+    [Illustration: Western Union TELEX
+              _Picture through courtesy of Western Union Telegraph Co._]
+
+    [Illustration: General Post Office TELEX Installation
+                              _by courtesy of H. M. Postmaster-General_]
+
+    [Illustration: (uncaptioned)]
+
+    [Illustration: Standard Elektrik Lorenz TELEX Apparatus
+                 _reproduced by permission of Standard Elektrik Lorenz_]
+
+    [Illustration: Siemens & Halske TELEX Apparatus
+                              _Picture by courtesy of Siemens & Halske_]
+
+
+
+
+                               CHAPTER 6
+                       KLEINSCHMIDT LABORATORIES
+
+
+As we have seen, Edward Kleinschmidt, upon resigning from Teletype
+Corporation as vice president when it was taken over by Western
+Electric, had agreed to do development work for them, working
+independently but assigning any inventions to the new Teletype
+Corporation.
+
+And so it was that Kleinschmidt Laboratories came into existence.
+Incorporated on March 21, 1931, under Delaware laws, for the immediate
+purpose of doing research and development work for Teletype, the
+principals of the new company were Edward E. as president, and his two
+sons, Edward F. as vice president and Bernard L. as secretary.
+
+Kleinschmidt had earlier proposed a comprehensive and completely
+automatic printing telegraph switching system in which messages are
+automatically routed from the subscriber printer through telegraph
+centrals of the addressee printer under control of address tape
+perforations. Under his development contract with Teletype he continued
+work on the system. Message storage in perforated tape was provided for
+at all central switching points, and an answerback arrangement was
+included in the system by the automatic return transmission of the
+addressee’s number to the sender.
+
+As the research and development work for Teletype continued, the
+switching system was completed, and various other devices of more or
+less importance were developed, with patents assigned to the Teletype
+Corporation. In late 1934 the contract with Teletype expired.
+
+At that time, son Bernard was operating a printing plant in rather close
+quarters in Highland Park, Illinois. The operations of the Laboratories
+had been carried on in rented quarters at the Merchandise Mart in
+Chicago. Seeing that there would be no work for Teletype, it was decided
+to set up working quarters in Highland Park where the family lived.
+Since rented space was not available, a building was constructed on
+Lincolnwood Road in the Braeside section of Highland Park to house both
+the B. L. Kleinschmidt Printing Company and the machinery and other
+equipment of the Laboratories. The Laboratories, now inactive, became a
+personal holding company with 2300 shares to cover a book value of
+approximately $230,000.00 (Kleinschmidt having distributed the major
+portion of these shares to his children and grandchildren).
+
+Son Edward F. turned his thoughts to other fields and carried on
+experimental work in the new building in devices not connected with the
+telegraph. Son Bernard was involved in his printing business. Their
+father’s thoughts lay dormant for a long time, but still there was the
+urge to continue with the telegraph, and a plan for operating a
+five-unit-code selecting mechanism, operating on a progressive stop
+principle to position a typewheel or to select a typebar for printing on
+tape or page, was worked out.
+
+When models of this new plan were completed and operating successfully,
+Edward E. Kleinschmidt immediately thought of Teletype Corporation and
+brought the apparatus to their attention, submitting models and patent
+applications for their evaluation. After numerous conferences and
+correspondence, however, his offer for the sale of patent rights and
+models was rejected. Discouraged, he left the completed models at the
+Highland Park lab and moved to Florida.
+
+During the second world war, son Bernard abandoned his printing
+establishment and started a tool and die shop, using the machinery and
+facilities of the Laboratories as well as space occupied by his printing
+shop. The B. L. Kleinschmidt Company was kept busy building tools, dies,
+and special devices for the war effort.
+
+Through Bernard’s associations he learned that the United States Signal
+Corps needed a light-weight, transportable teleprinter for tactical
+field use, and he asked his father if he could show the progressive stop
+printer to the Signal Corps at their Chicago headquarters. His father,
+in Miami at that time, gave his approval. Two days later, the telephone
+rang in Miami and it was Bernard saying, “Dad, they are interested and
+want you to bring the printer model to Army Headquarters in Washington.”
+Nothing could have pleased his father more!
+
+In February of 1944, Edward E. Kleinschmidt demonstrated a working model
+of his teleprinter in Washington at the office of the Chief Signal
+Officer. Officials of the Signal Corps were greatly interested in the
+unit, not only because of its extreme lightness and small bulk, but
+because of the representations that the basic design features of this
+tape printer, exclusive of the printing mechanism, could be incorporated
+in a page-type printer which could be constructed with a total weight of
+approximately thirty pounds. The machine was subsequently informally
+tested at the Signal Corps Engineering Laboratories and found to have
+excellent margins when working without an intermediate relay on very low
+line current, a highly desirable feature in a piece of tactical
+teletypewriter equipment.
+
+The exhibit at Headquarters was successful, and after operative tests at
+the Signal Corps’ Coles Signal Laboratories in Red Bank, New Jersey,
+where approval for further studies was given, the Kleinschmidt
+organization was asked to prepare plans toward a tactical light-weight
+printer for field use.
+
+It should be pointed out that teletypewriters at that time were heavy,
+cumbersome, and intended for use only at telegraph offices or at other
+plant or office fixed installations.
+
+The plans for a light-weight page printer were submitted to the Signal
+Corps as requested and were well received by their engineers. These
+engineers then wrote up specifications detailing their requirements for
+a rugged, light-weight portable set for hand-carrying through jungles
+and swamps, and operable under severe climatic conditions; the
+specifications were submitted to the Teletype Corporation, the Western
+Union Telegraph Company, and to the Kleinschmidt organization. Western
+Union did not take on the development job, but Teletype and Kleinschmidt
+accepted. A contract for the development of a teletypewriter according
+to Signal Corps specifications was closed with both companies in 1945.
+
+The Kleinschmidt Laboratories were not in active operation at this time,
+so the first development contract was closed with the B. L. Kleinschmidt
+Company which was fully equipped to carry on the work. Expert tool and
+model makers were in his employ, some of whom turned out to do well at
+the drawing board and were of great help in working out mechanical
+functions. As a matter of fact, five or six of Bernard’s employees are
+still with the Kleinschmidt Division of SCM Corporation at this writing,
+some having attained supervisory positions.
+
+Edward F. joined his father in further engineering and development work,
+and models of a typebar page printer and a typewheel page printer to
+operate at 60 words per minute were built. Upon evaluation by the Signal
+Corps and Army engineers, a printer with a higher operating speed, up to
+100 words per minute, was demanded. This new requirement meant a
+complete redesign of apparatus, but it was successfully carried through
+and experimental models were submitted by both companies. Thereupon both
+Kleinschmidt and Teletype were asked to build ten printers for field
+tests. This was done, and after extensive field testing, the
+Kleinschmidt-designed, keyboard-operated, 100-words-per-minute typebar
+page printer was accepted, and, by order of the then Secretary of War,
+it was made the standard for the Military, effective on January 1, 1949.
+(This printer was later to be known as the TT-4 tactical page printer,
+the principal component of Teletypewriter Set AN/PGC-1.) (See fig. 13.)
+
+An announcement from the Department of the Army, in a document released
+for publication on February 13, 1949,[16] read as follows:
+
+  _Portable Teletypewriter Developed by Signal Corps_
+
+  Portable teletypewriter equipment so light that a parachutist can
+  carry it on a jump from an airplane has been developed and adopted by
+  the Army, promising a major advancement in military communications,
+  the Signal Corps announced today.
+
+  Weighing but 45 pounds, compared with current field equipment that
+  weighs 225 pounds, the new portable teletypewriter is but one-fourth
+  the size of the old, has 300 fewer parts, is considerably stronger and
+  consequently requires far less maintenance. The new equipment is
+  capable of transmitting and receiving messages 66 per cent faster than
+  existing types and will operate on both wire and radio circuits. It is
+  waterproof and should it be used in amphibious operations, could be
+  floated onto a beach.
+
+  The development is the fruition of a 20-year-old project that did not
+  get under way in earnest, however, until World War II was nearly over.
+
+  Because of its light weight, the new teletypewriter can be used much
+  closer to the front lines than has been the case. During World War II,
+  teletyped messages could go only as far forward as a division
+  headquarters. How much farther forward the new equipment can be used,
+  will be determined in forthcoming field tests.
+
+  The portable teletypewriter was developed by the Signal Corps
+  Engineering Laboratories at Fort Monmouth, New Jersey, through a
+  research and development contract with Kleinschmidt Laboratories,
+  Incorporated, of Highland Park, Illinois.
+
+  There are three components to a complete field unit: the
+  teletypewriter itself, weighing 45 pounds; a power unit, and a case of
+  accessories. The three together weigh 116 pounds. All units are
+  waterproof, both to permit flotation in amphibious activities and to
+  provide complete protection from weather. One man can carry the
+  teletypewriter itself, while two men can carry all three units.
+
+  The field teletypewriter in current use weighs 225 pounds and—if a
+  vehicle is not available—requires four men to carry it. With power
+  unit and accessories, present field equipment totals more than 400
+  pounds and requires seven men to carry it.
+
+While development work for the Signal Corps was progressing, Bernard
+kept busy managing general operations and Edward F. took hold in the
+general design and devised important features that were patented in his
+name.
+
+Bernard died in March, 1948. However, development work went along with
+the B. L. Kleinschmidt facilities until 1949, when a production order
+for 2,000 teleprinters, conforming to the now approved Kleinschmidt
+design, was to be placed. Now that Bernard was no longer there to take
+over business details, and as a certain amount of basic capital was
+needed to operate a production establishment, arrangements were made to
+transfer Bernard’s equipment to Kleinschmidt Laboratories which
+thereafter closed a contract to manufacture the required quantity of
+teleprinters now designated as the TT-4 telegraph typewriter.
+
+Kleinschmidt senior, now seventy-four, was not eager to take over the
+management of production activities, and while manufacturers in the
+office equipment and radio field were ready and anxious to take on the
+manufacture of these new teleprinters, he sought to keep the future of
+this new development with the Kleinschmidt Laboratories—now owned by all
+members of his family. His son-in-law, Emerson E. (Bud) Mead, was
+operating a manufacturing plant, producing electrical control devices
+quite successfully, so, “Why not ask Bud, then Secretary of Kleinschmidt
+Laboratories, to take over? He could no doubt sell the Mead company at a
+profit.” Bud did find a buyer for his company and he was then made vice
+president of Kleinschmidt Laboratories; later, when Edward E.
+Kleinschmidt turned over full management to him, Mead became executive
+vice president.
+
+The immediate problem at the Laboratories was to find manufacturing
+space. The first thought was to rent, but then there would be no room to
+expand should larger orders follow, and this could be expected since
+Kleinschmidt teleprinter apparatus was now made standard equipment for
+all U.S. Armed Services. Upon further investigation, Bud Mead found a
+plot in Deerfield, Illinois, facing County Line Road, consisting of
+thirteen acres, which could be purchased at a reasonable price. This
+area would give plenty of building room and space for parking cars.
+Kleinschmidt Laboratories’ first building, 200 × 150 feet, was soon
+erected.
+
+    [Illustration: Fig. 13
+    Kleinschmidt Laboratories, Inc. Portable TT-4 Tactical Page Printer]
+
+    [Illustration: Fig. 14
+Kleinschmidt Laboratories, Inc. AN/FGC-20 Fixed-Station Teletypewriter Set]
+
+Preliminary work toward manufacturing, drawings, ordering of production
+machinery, special tools, standard parts, and other items was carried on
+at the Braeside laboratory.
+
+The efforts of all of the people of the Kleinschmidt organization,
+working with great enthusiasm and wonderful cooperation, sometimes
+around the clock, were rewarded when on April 17, 1950, preproduction
+samples of light-weight teletypewriter sets were delivered on schedule
+to the Signal Corps in Fort Monmouth for approval and acceptance.
+Immediately upon receipt of their approval, production began on the
+contract awarded in June of 1949.
+
+Kleinschmidt Laboratories subsequently received contracts and built
+thousands of their teleprinters, including the filling of orders for the
+AN/FGC-20 fixed station teleprinters (see fig. 14).
+
+Later, the Laboratories, together with the Automatic Electric Company,
+then of Chicago, now of Northlake, Ill., designed and built switching
+apparatus and set up high-speed, 100-words-per-minute, automatic
+teleprinter switching centers for the Military. These systems had trunk
+switching controls located at key distributing points in the United
+States and abroad, interconnected by microwave circuitry.
+
+As further orders for teleprinters and associated equipment came along,
+manufacturing facilities were expanded into more building area;
+additions to the first unit brought that building to 200 × 500 feet.
+Another building, 250 × 350 feet, of special design to house belt-line
+apparatus assembly and parts storage, also testing, inspection, and
+shipping, was erected in 1958.
+
+In August, 1956, Kleinschmidt Laboratories merged with Smith-Corona
+Inc., on an exchange-of-shares basis, which eventually gave Kleinschmidt
+Laboratories’ shareholders 60 shares of Smith-Corona (later Smith-Corona
+Marchant Inc., and then SCM Corporation) stock for one share of
+Kleinschmidt Laboratories’. Bud Mead was elected a director and a member
+of the executive committee. Later, he became vice president of
+operations. When Smith-Corona merged with Marchant Calculators, Inc.
+(June, 1958), he was made executive vice president; then, in October of
+1960, he was named president of Smith-Corona Marchant Inc. (now known as
+SCM Corporation).
+
+Kleinschmidt, as a Division of SCM Corporation, continues to supply the
+Military and also commercial users with teleprinter equipment. The
+conclusion of this chapter tells briefly the direction the Kleinschmidt
+Division is going in the printed communications field.
+
+Before the Kleinschmidt 100-words-per-minute teleprinter was put into
+service on intercommunicating circuits, the operating speed on standard
+circuits had been limited to 60 words per minute. Noting this important
+change in operating speed, other manufacturers had to redesign their
+teleprinter equipment to meet the new 100-words-per-minute speed.
+
+Teletype Corporation came up with a new design, the No. 28, in which all
+the type pallets are moveably mounted in a rectangular box that is
+positioned to move a selected type pallet into printing position by a
+system of levers operated in aggregate motions under control of the code
+selecting mechanisms (fig. 15). When so positioned, a print hammer
+strikes the type pallet to print the character.
+
+Creed, in England, later brought out a new design, their No. 75, using a
+segmented typewheel having four rows of type faces. The typewheel is set
+in the selected printing position by a lever and linkage system
+operating in aggregate motion under control of the code selecting
+mechanism. To print the selected character, the typewheel is struck
+against the printing paper (fig. 16).
+
+Siemens and Halske, in Germany, produced their No. 100, a redesign of
+the No. 15 Teletype, using lighter and faster moving parts for operation
+at 100 words per minute. Among other improved features were a type bar
+shift to replace the platen shift for printing letters or figures, and a
+two-color ribbon which is automatically shifted to print in red or black
+to distinguish between sent and received messages—a feature of
+convenience in TELEX communication. The Siemens No. 100 was designed
+especially for the TELEX system, operating at 66 words per minute, where
+it is used extensively (fig. 17).
+
+    [Illustration: Fig. 15
+     Teletype Corporation Model 28 100-words-per-minute Teletypewriter
+                     _Picture through courtesy of Teletype Corporation_]
+
+    [Illustration: Fig. 16
+         Creed & Company Ltd. Model 75 Teleprinter with attachments
+                              _Picture by courtesy of Creed & Co. Ltd._]
+
+    [Illustration: Fig. 17
+                   Siemens & Halske Model 100 Teleprinter
+                              _Picture by courtesy of Siemens & Halske_]
+
+The Kleinschmidt printer, designed to operate at 100 to 150 words a
+minute, employs a new method for operating a typebar printing mechanism,
+comprising a type basket movable across the printed page and carrying
+the required set of type bars. Each type bar has a connected push rod
+extending to the rear of the type basket and is made operative to cause
+printing when a rotating finger, selectively positioned by a coded stop
+cage, is struck against the push rod. To meet the requirements of the
+Military for a teleprinter operable in any angular position, the letter
+spacing and carriage return with deceleration to the stop position is
+under positive control of the motor drive.
+
+    [Illustration: Kleinschmidt Division of SCM Corporation AN/FGC-25
+    Send-Receive Fixed-Station Teletypewriter Set (used by the
+    Military)]
+
+In 1948, scientists at Bell Telephone Laboratories, engaged in
+semiconductor research, announced the birth of their famous brainchild,
+the transistor. Now the little transistor and his friends, the diode and
+advanced techniques in electromagnetic inductive devices, have gradually
+taken over in the communications field, permitting startling speed
+increases and changes in equipment design.
+
+In the 100-words-per-minute teletypewriters, the permutation code
+equivalent of the character to be transmitted or received was at some
+point “set up” mechanically by positioning levers or vanes. The inertial
+properties of these mechanical parts placed low-level limitations on the
+operating set-up speed. By using the binary code and electronic
+switching circuits, the set-up time has been reduced from milliseconds
+to microseconds, making higher speeds more easily obtainable. Also,
+electronic approaches to printing on page or tape have contributed to
+the speed-up of telegraph receiving devices. Now, both tape and page
+devices are available at operating speeds up to 10,000 words per minute.
+
+Thanks to the Bell System, also, is the development of Data-Phone
+service, started in 1958. Data-Phone makes use of all the telephone
+switching devices and repeating apparatus so that any type of
+communicating system using frequencies within the voice range may be
+used. For such systems the telephone company will install equipment to
+separate the different types of electrical transmission to prevent
+interference. Because Data-Phone enables not only the sound of the human
+voice to be sent over a telephone circuit, but information from a
+teletypewriter or business machine as well, this new use for the
+telephone system has expanded its service to many types of business
+communications. At this writing, the Bell System advertises, “Data-Phone
+‘talks’ 16 times faster than people talk. It can send punched card or
+taped data anywhere—at speeds up to 2500 words per minute.”
+
+While these advances have been taking place, the transistor and its
+companions have made a similar impact in the field of data processing.
+The rapid evolution of computers and other high-speed switching devices
+has generated a need for higher speed equipment to supply input and
+output requirements. The changeover to electronics has realized
+minification, lighter weight, reduction of mechanical parts with a
+corresponding reduction in maintenance, quieter operation, and greater
+adaptability to code and language conversion.
+
+
+                KLEINSCHMIDT DIVISION OF SCM CORPORATION
+
+At the Kleinschmidt Division where Mr. Emilio J. Cadamagnani, Executive
+Vice President, is in charge, their engineering department, under the
+supervision of Mr. Robert L. Kearney, is keeping up with the change from
+electromechanically- to electronically-controlled devices. Their new
+Model 311 Electronic Data Printer shown here is an example. Operating at
+speeds from 60 to 400 words per minute and capable of receiving 5-, 6-,
+7-, or 8-level code information in either serial or parallel form, it is
+designed for use in high-speed communications or data processing
+systems.
+
+Also illustrated is still another new Kleinschmidt device, the Model 321
+Automatic Data Set, which includes not only a page printer with keyboard
+but a tape perforator and a tape reader, all compactly mounted in a
+console.
+
+Both the Model 311 and Model 321 are compatible with existing data
+modems, conventional printing telegraph equipment, electronic computers,
+and data processing equipment. This compatibility permits their use in
+on-line or off-line communications and data-handling applications.
+
+More exciting devices may be anticipated in the rapidly moving field of
+printed communications.
+
+    [Illustration: Kleinschmidt Division of SCM Corporation
+                     Model 311 Electronic Data Printer]
+
+    [Illustration: Kleinschmidt Division of SCM Corporation
+                       Model 321 Automatic Data Set]
+
+
+
+
+                               Footnotes
+
+
+[1]_Der Pendel-Telegraph von Siemens & Halske_, by E. Ehrhardt, 6 Jan.
+    1917.
+
+[2]_Telegraphy, A Detailed Exposition of the Telegraph System of the
+    British Post Office_, by T. E. Herbert, Fourth Edition (with
+    Addendum), Sir Isaac Pitman & Sons, Ltd., London, 1920.
+
+[3]“Teletype’s Salty Past,” _The AP World_, Autumn 1962, p. 29.
+
+[4]_AP, The Story of News_, by Oliver Gramling, illustrated by Henry C.
+    Barrow, Farrar and Rinehart, Inc., New York-Toronto, 1940.
+
+[5]“Some Recollections of AP’s First Field Maintenance Man,” _The AP
+    World_, Autumn 1962, p. 28.
+
+[6]“Some Recollections of AP’s First Field Maintenance Man,” _The AP
+    World_, Autumn 1962, p. 28.
+
+[7]See page 30.
+
+[8]_The Romance of Time_, by Brooks Palmer for The Clock Manufacturers
+    Association of America, Inc., New Haven, Conn., 1954 (copies may be
+    purchased from American Clock & Watch Museum, Inc., 100 Maple
+    Street, Bristol, Conn.).
+
+[9]“$30,000,000 Worth of Teletype,” _Fortune_, March 1932.
+
+[10]“$30,000,000 Worth of Teletype,” _Fortune_, March 1932.
+
+[11]“Walter J. Zenner Retires,” _Teletype News_, February 1964.
+
+[12]_Telegraphy_, by J. W. Freebody, Sir Isaac Pitman and Sons, Ltd.,
+    London, 1958.
+
+[13]From brochure published by American Telephone and Telegraph Company,
+    1-9-28.
+
+[14]“Communications from Morse to Satellites,” by George A. Shaw, RCA
+    Communications, Inc., _Wire and Radio Communications_, Sept. 1962.
+
+[15]“Telex in the U.S.A.,” _Communications & Electronics_, Sept. 1962.
+
+[16]National Military Establishment, Dept. of the Army, Wash. 25, D.C.,
+    for release Sunday, Feb. 13, 1949.
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—Corrected a few palpable typographical errors.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK PRINTING TELEGRAPHY... A NEW ERA BEGINS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
