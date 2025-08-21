@@ -1,0 +1,2988 @@
+The Project Gutenberg eBook of Korean—English Dictionary
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+*** This is a COPYRIGHTED Project Gutenberg eBook. Details Below. ***
+***     Please follow the copyright guidelines in this file.      ***
+
+
+Title: Korean—English Dictionary
+
+Author: Leon Kuperman
+
+Release date: May 1, 2004 [eBook #5739]
+                Most recently updated: March 4, 2024
+
+Language: English, Korean
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK KOREAN—ENGLISH DICTIONARY ***
+
+
+
+
+Korean--English Dictionary
+
+Copyright (c) 3 August 2002 Leon Kuperman.
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.1
+or any later version published by the Free Software Foundation;
+with the Invariant Sections being LIST THEIR TITLES, with the
+Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+A copy of the license is included in the section entitled "GNU
+Free Documentation License".
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+                GNU Free Documentation License
+                   Version 1.1, March 2000
+
+ Copyright (C) 2000  Free Software Foundation, Inc.
+     59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+
+0. PREAMBLE
+
+The purpose of this License is to make a manual, textbook, or other
+written document "free" in the sense of freedom: to assure everyone
+the effective freedom to copy and redistribute it, with or without
+modifying it, either commercially or noncommercially.  Secondarily,
+this License preserves for the author and publisher a way to get
+credit for their work, while not being considered responsible for
+modifications made by others.
+
+This License is a kind of "copyleft", which means that derivative
+works of the document must themselves be free in the same sense.  It
+complements the GNU General Public License, which is a copyleft
+license designed for free software.
+
+We have designed this License in order to use it for manuals for free
+software, because free software needs free documentation: a free
+program should come with manuals providing the same freedoms that the
+software does.  But this License is not limited to software manuals;
+it can be used for any textual work, regardless of subject matter or
+whether it is published as a printed book.  We recommend this License
+principally for works whose purpose is instruction or reference.
+
+
+1. APPLICABILITY AND DEFINITIONS
+
+This License applies to any manual or other work that contains a
+notice placed by the copyright holder saying it can be distributed
+under the terms of this License.  The "Document", below, refers to any
+such manual or work.  Any member of the public is a licensee, and is
+addressed as "you".
+
+A "Modified Version" of the Document means any work containing the
+Document or a portion of it, either copied verbatim, or with
+modifications and/or translated into another language.
+
+A "Secondary Section" is a named appendix or a front-matter section of
+the Document that deals exclusively with the relationship of the
+publishers or authors of the Document to the Document's overall subject
+(or to related matters) and contains nothing that could fall directly
+within that overall subject.  (For example, if the Document is in part a
+textbook of mathematics, a Secondary Section may not explain any
+mathematics.)  The relationship could be a matter of historical
+connection with the subject or with related matters, or of legal,
+commercial, philosophical, ethical or political position regarding
+them.
+
+The "Invariant Sections" are certain Secondary Sections whose titles
+are designated, as being those of Invariant Sections, in the notice
+that says that the Document is released under this License.
+
+The "Cover Texts" are certain short passages of text that are listed,
+as Front-Cover Texts or Back-Cover Texts, in the notice that says that
+the Document is released under this License.
+
+A "Transparent" copy of the Document means a machine-readable copy,
+represented in a format whose specification is available to the
+general public, whose contents can be viewed and edited directly and
+straightforwardly with generic text editors or (for images composed of
+pixels) generic paint programs or (for drawings) some widely available
+drawing editor, and that is suitable for input to text formatters or
+for automatic translation to a variety of formats suitable for input
+to text formatters.  A copy made in an otherwise Transparent file
+format whose markup has been designed to thwart or discourage
+subsequent modification by readers is not Transparent.  A copy that is
+not "Transparent" is called "Opaque".
+
+Examples of suitable formats for Transparent copies include plain
+ASCII without markup, Texinfo input format, LaTeX input format, SGML
+or XML using a publicly available DTD, and standard-conforming simple
+HTML designed for human modification.  Opaque formats include
+PostScript, PDF, proprietary formats that can be read and edited only
+by proprietary word processors, SGML or XML for which the DTD and/or
+processing tools are not generally available, and the
+machine-generated HTML produced by some word processors for output
+purposes only.
+
+The "Title Page" means, for a printed book, the title page itself,
+plus such following pages as are needed to hold, legibly, the material
+this License requires to appear in the title page.  For works in
+formats which do not have any title page as such, "Title Page" means
+the text near the most prominent appearance of the work's title,
+preceding the beginning of the body of the text.
+
+
+2. VERBATIM COPYING
+
+You may copy and distribute the Document in any medium, either
+commercially or noncommercially, provided that this License, the
+copyright notices, and the license notice saying this License applies
+to the Document are reproduced in all copies, and that you add no other
+conditions whatsoever to those of this License.  You may not use
+technical measures to obstruct or control the reading or further
+copying of the copies you make or distribute.  However, you may accept
+compensation in exchange for copies.  If you distribute a large enough
+number of copies you must also follow the conditions in section 3.
+
+You may also lend copies, under the same conditions stated above, and
+you may publicly display copies.
+
+
+3. COPYING IN QUANTITY
+
+If you publish printed copies of the Document numbering more than 100,
+and the Document's license notice requires Cover Texts, you must enclose
+the copies in covers that carry, clearly and legibly, all these Cover
+Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on
+the back cover.  Both covers must also clearly and legibly identify
+you as the publisher of these copies.  The front cover must present
+the full title with all words of the title equally prominent and
+visible.  You may add other material on the covers in addition.
+Copying with changes limited to the covers, as long as they preserve
+the title of the Document and satisfy these conditions, can be treated
+as verbatim copying in other respects.
+
+If the required texts for either cover are too voluminous to fit
+legibly, you should put the first ones listed (as many as fit
+reasonably) on the actual cover, and continue the rest onto adjacent
+pages.
+
+If you publish or distribute Opaque copies of the Document numbering
+more than 100, you must either include a machine-readable Transparent
+copy along with each Opaque copy, or state in or with each Opaque copy
+a publicly-accessible computer-network location containing a complete
+Transparent copy of the Document, free of added material, which the
+general network-using public has access to download anonymously at no
+charge using public-standard network protocols.  If you use the latter
+option, you must take reasonably prudent steps, when you begin
+distribution of Opaque copies in quantity, to ensure that this
+Transparent copy will remain thus accessible at the stated location
+until at least one year after the last time you distribute an Opaque
+copy (directly or through your agents or retailers) of that edition to
+the public.
+
+It is requested, but not required, that you contact the authors of the
+Document well before redistributing any large number of copies, to give
+them a chance to provide you with an updated version of the Document.
+
+
+4. MODIFICATIONS
+
+You may copy and distribute a Modified Version of the Document under
+the conditions of sections 2 and 3 above, provided that you release
+the Modified Version under precisely this License, with the Modified
+Version filling the role of the Document, thus licensing distribution
+and modification of the Modified Version to whoever possesses a copy
+of it.  In addition, you must do these things in the Modified Version:
+
+A. Use in the Title Page (and on the covers, if any) a title distinct
+   from that of the Document, and from those of previous versions
+   (which should, if there were any, be listed in the History section
+   of the Document).  You may use the same title as a previous version
+   if the original publisher of that version gives permission.
+B. List on the Title Page, as authors, one or more persons or entities
+   responsible for authorship of the modifications in the Modified
+   Version, together with at least five of the principal authors of the
+   Document (all of its principal authors, if it has less than five).
+C. State on the Title page the name of the publisher of the
+   Modified Version, as the publisher.
+D. Preserve all the copyright notices of the Document.
+E. Add an appropriate copyright notice for your modifications
+   adjacent to the other copyright notices.
+F. Include, immediately after the copyright notices, a license notice
+   giving the public permission to use the Modified Version under the
+   terms of this License, in the form shown in the Addendum below.
+G. Preserve in that license notice the full lists of Invariant Sections
+   and required Cover Texts given in the Document's license notice.
+H. Include an unaltered copy of this License.
+I. Preserve the section entitled "History", and its title, and add to
+   it an item stating at least the title, year, new authors, and
+   publisher of the Modified Version as given on the Title Page.  If
+   there is no section entitled "History" in the Document, create one
+   stating the title, year, authors, and publisher of the Document as
+   given on its Title Page, then add an item describing the Modified
+   Version as stated in the previous sentence.
+J. Preserve the network location, if any, given in the Document for
+   public access to a Transparent copy of the Document, and likewise
+   the network locations given in the Document for previous versions
+   it was based on.  These may be placed in the "History" section.
+   You may omit a network location for a work that was published at
+   least four years before the Document itself, or if the original
+   publisher of the version it refers to gives permission.
+K. In any section entitled "Acknowledgements" or "Dedications",
+   preserve the section's title, and preserve in the section all the
+   substance and tone of each of the contributor acknowledgements
+   and/or dedications given therein.
+L. Preserve all the Invariant Sections of the Document,
+   unaltered in their text and in their titles.  Section numbers
+   or the equivalent are not considered part of the section titles.
+M. Delete any section entitled "Endorsements".  Such a section
+   may not be included in the Modified Version.
+N. Do not retitle any existing section as "Endorsements"
+   or to conflict in title with any Invariant Section.
+
+If the Modified Version includes new front-matter sections or
+appendices that qualify as Secondary Sections and contain no material
+copied from the Document, you may at your option designate some or all
+of these sections as invariant.  To do this, add their titles to the
+list of Invariant Sections in the Modified Version's license notice.
+These titles must be distinct from any other section titles.
+
+You may add a section entitled "Endorsements", provided it contains
+nothing but endorsements of your Modified Version by various
+parties--for example, statements of peer review or that the text has
+been approved by an organization as the authoritative definition of a
+standard.
+
+You may add a passage of up to five words as a Front-Cover Text, and a
+passage of up to 25 words as a Back-Cover Text, to the end of the list
+of Cover Texts in the Modified Version.  Only one passage of
+Front-Cover Text and one of Back-Cover Text may be added by (or
+through arrangements made by) any one entity.  If the Document already
+includes a cover text for the same cover, previously added by you or
+by arrangement made by the same entity you are acting on behalf of,
+you may not add another; but you may replace the old one, on explicit
+permission from the previous publisher that added the old one.
+
+The author(s) and publisher(s) of the Document do not by this License
+give permission to use their names for publicity for or to assert or
+imply endorsement of any Modified Version.
+
+
+5. COMBINING DOCUMENTS
+
+You may combine the Document with other documents released under this
+License, under the terms defined in section 4 above for modified
+versions, provided that you include in the combination all of the
+Invariant Sections of all of the original documents, unmodified, and
+list them all as Invariant Sections of your combined work in its
+license notice.
+
+The combined work need only contain one copy of this License, and
+multiple identical Invariant Sections may be replaced with a single
+copy.  If there are multiple Invariant Sections with the same name but
+different contents, make the title of each such section unique by
+adding at the end of it, in parentheses, the name of the original
+author or publisher of that section if known, or else a unique number.
+Make the same adjustment to the section titles in the list of
+Invariant Sections in the license notice of the combined work.
+
+In the combination, you must combine any sections entitled "History"
+in the various original documents, forming one section entitled
+"History"; likewise combine any sections entitled "Acknowledgements",
+and any sections entitled "Dedications".  You must delete all sections
+entitled "Endorsements."
+
+
+6. COLLECTIONS OF DOCUMENTS
+
+You may make a collection consisting of the Document and other documents
+released under this License, and replace the individual copies of this
+License in the various documents with a single copy that is included in
+the collection, provided that you follow the rules of this License for
+verbatim copying of each of the documents in all other respects.
+
+You may extract a single document from such a collection, and distribute
+it individually under this License, provided you insert a copy of this
+License into the extracted document, and follow this License in all
+other respects regarding verbatim copying of that document.
+
+
+7. AGGREGATION WITH INDEPENDENT WORKS
+
+A compilation of the Document or its derivatives with other separate
+and independent documents or works, in or on a volume of a storage or
+distribution medium, does not as a whole count as a Modified Version
+of the Document, provided no compilation copyright is claimed for the
+compilation.  Such a compilation is called an "aggregate", and this
+License does not apply to the other self-contained works thus compiled
+with the Document, on account of their being thus compiled, if they
+are not themselves derivative works of the Document.
+
+If the Cover Text requirement of section 3 is applicable to these
+copies of the Document, then if the Document is less than one quarter
+of the entire aggregate, the Document's Cover Texts may be placed on
+covers that surround only the Document within the aggregate.
+Otherwise they must appear on covers around the whole aggregate.
+
+
+8. TRANSLATION
+
+Translation is considered a kind of modification, so you may
+distribute translations of the Document under the terms of section 4.
+Replacing Invariant Sections with translations requires special
+permission from their copyright holders, but you may include
+translations of some or all Invariant Sections in addition to the
+original versions of these Invariant Sections.  You may include a
+translation of this License provided that you also include the
+original English version of this License.  In case of a disagreement
+between the translation and the original English version of this
+License, the original English version will prevail.
+
+
+9. TERMINATION
+
+You may not copy, modify, sublicense, or distribute the Document except
+as expressly provided for under this License.  Any other attempt to
+copy, modify, sublicense or distribute the Document is void, and will
+automatically terminate your rights under this License.  However,
+parties who have received copies, or rights, from you under this
+License will not have their licenses terminated so long as such
+parties remain in full compliance.
+
+
+10. FUTURE REVISIONS OF THIS LICENSE
+
+The Free Software Foundation may publish new, revised versions
+of the GNU Free Documentation License from time to time.  Such new
+versions will be similar in spirit to the present version, but may
+differ in detail to address new problems or concerns.  See
+http://www.gnu.org/copyleft/.
+
+Each version of the License is given a distinguishing version number.
+If the Document specifies that a particular numbered version of this
+License "or any later version" applies to it, you have the option of
+following the terms and conditions either of that specified version or
+of any later version that has been published (not as a draft) by the
+Free Software Foundation.  If the Document does not specify a version
+number of this License, you may choose any version ever published (not
+as a draft) by the Free Software Foundation.
+
+
+ADDENDUM: How to use this License for your documents
+
+To use this License in a document you have written, include a copy of
+the License in the document and put the following copyright and
+license notices just after the title page:
+
+      Copyright (c)  YEAR  YOUR NAME.
+      Permission is granted to copy, distribute and/or modify this document
+      under the terms of the GNU Free Documentation License, Version 1.1
+      or any later version published by the Free Software Foundation;
+      with the Invariant Sections being LIST THEIR TITLES, with the
+      Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+      A copy of the license is included in the section entitled "GNU
+      Free Documentation License".
+
+If you have no Invariant Sections, write "with no Invariant Sections"
+instead of saying which ones are invariant.  If you have no
+Front-Cover Texts, write "no Front-Cover Texts" instead of
+"Front-Cover Texts being LIST"; likewise for Back-Cover Texts.
+
+If your document contains nontrivial examples of program code, we
+recommend releasing these examples in parallel under your choice of
+free software license, such as the GNU General Public License,
+to permit their use in free software.
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+한영사전
+
+韓英辭典
+
+Consonats:
+
+ㄱ k
+ㄲ kk
+ㄴ n
+ㄷ t
+ㄸ tt
+ㄹ l
+ㅁ m
+ㅂ p
+ㅃ pp
+ㅅ s
+ㅆ ss
+ㅇ
+ㅈ u{c
+ㅊ c^h
+ㅋ k^h
+ㅌ t^h
+ㅍ p^h
+ㅎ h
+
+Vowels:
+
+아 a
+애 ae
+야 ya
+얘 yae
+어 o
+에 e
+여 yo
+예 ye
+오 o
+와 wa
+왜 wae
+외 we
+요 yo
+우 u
+워 wo
+웨 we
+위 wi
+유 yu
+으 u
+의 uy
+이 i
+
+
+가다 go; proceed; travel; attend (some place)
+
+가게 a shop; a store
+
+가까 - be close, near
+
+가끔 sometimes; now and then; occasionally
+
+가르치다 teach; instruct (in); educate
+
+가방 a bag; a briefcase; a suitcase; a trunk
+
+가벼 --- be light
+
+가수 歌手 a singer; a vocalist. 유행 --- a popular song singer
+
+가을 autumn; fall
+
+가족 家族 a family; a household; members of a family
+
+가장 most; extremely
+
+가지 a branch; 큰가지 a bough; a limb; 잔가지 a twig; a sprig
+
+가지각색 --- 各色 (of) every kind and description. 가지각색의 various;
+diverse; of all kinds (sorts). 가지각색의사람들
+all sorts and conditions of people.
+
+갈비 the ribs
+
+갈아 입다 --- change (one's clothes)
+
+감사합니다 thank you
+
+감자 potato(es)
+
+감자깡 crispy fried potatoes, potato chips
+
+갑 pack (cigarettes)
+
+갑자기 suddenly
+
+값 1.~value; worth 값이 있다 be worth; be valuable; be of value; be
+worthy 2.~price; cost; charge
+
+갔다오 go (and come back)
+
+갖다주 --- bring
+
+같다 --- (be) like; similar; be the same; (be) equal (to)
+
+같이 1.~like. A 는 B 와 꼭 같이 만들어졌다 A is made exactly like B.
+2.~together
+
+개$^1$ an inlet; an estuary
+
+개$^2$ a dog; a hound. 수캐 a male dog. 암캐 a bitch. 들캐 a stray dog. 개를 기르다
+keep a dog.
+개가 짖다 a dog barks.
+
+개 個, 箇, 介 a piece; items, units, objects (counter). 사과 세개 three apples.
+
+개 蓋 a lid; a cover
+
+개월 months (time or duration) (counter)
+
+개학 開學 --- the beginning of school --- 하다 (school) begin
+
+거기 there
+
+걱정 anxiety; concern; apprehension; worry; trouble; care; fear. 하다 feel
+anxiety; be worried (about)
+
+거리 1.~a street; a road; a town; a quarter. 2.~distance
+
+건강
+康
+health
+하다 (be) healthy; well; sound
+
+건너편 the opposite side; the other side. 건너편에 across; opposite; on the opposite
+side
+
+건물 involuntarily emitted semen
+
+건물 建物 a building; a structure
+
+건반 鍵盤 a keyboard. 악기 keyboard instruments
+
+걷다 1.~roll [turn] up (one's sleeves); tuck up; fold up.
+소매를 걷어 올리다 tuck [roll] up one's sleeves.
+2.~remove; take away; take down; pull down.
+3.~walk
+
+걸리다 1.~hang (from, on)
+2.~be against (a law); trespass (a law); be contrary to.
+3.~take (time)
+
+걸어가다 walk, go on foot
+
+걸어오다 walk, come on foot
+
+걸음 walking; stepping; a step; pace.
+한걸음 한걸음 step by step. 빠른 걸음으로 at a rapid pace; with a rapid step.
+걸음을 재촉하다 [늦추다] quicken [slacken] one's pace
+
+걸음마 Let's walk now!
+
+겨울 winter; the winter season
+
+결흔 marriage; wedding; matrimony.
+하다 marry (her, him); get [be] married (to).
+결흔 신청을 하다 make a proposal of marriage (to); propose to (her)
+
+
+경제 經濟 economy. 경제학 economics
+
+계산 計算 calculation; computation; reckoning. 하다 calculate;
+compute; count. 계산서 bill, check
+
+계시다 (honorific) be; stay.
+한국에 얼마나 계셨읍니까? How long have you been in Korea?
+
+고기 meat; fish
+
+고대 just now; just a moment [minute] ago.
+그는 고대 이곳을 떠났다 He left hear just now.
+
+고대 (고려 대학교) Korea University
+
+고대 古代 ancient [old] times; antiquity
+
+고름 pus
+
+고마와하다 be thankful [grateful] (a person) for; appreciate
+
+고맙다 1.~(I am) thankful; grateful
+2.~(be) kind; nice; welcome; gracious
+
+고맙습니다 thank you
+
+고모 姑母 an aunt; a sister of one's father; a paternal aunt
+
+고모부 姑母夫 the husband of one's (paternal) aunt; [uncle]
+
+고양이 cat; a puss(y). 고양이 새끼 a kitten; a kitty.
+수코양이 a he-cat; a tomcat; a male cat.
+암코양이 a she-cat; a female cat
+
+골프 golf
+
+골프(를)치 - play golf
+
+-곳 place
+
+공부 工夫 study; learning. 하다 study; work at [on] (one's studies);
+learn. 공부를 잘 하다 be good at one's studies
+
+공책 空冊 a notebook
+
+결정 決定 decision; determination; conclusion; settlement.
+하다 decide (upon); conclude; settle
+
+과 and; (together) with. 아들과 아버지 son and father
+
+과목 科目 a subject; school subject; lesson; [조목] items; [전과목] a curriculum;
+
+과업 課業 [학과] lessons; school work; [임무] a task; a duty
+
+과실 果實 a fruit; [총칭] fruit; fruitage.
+과실을 재배하다 grow fruit. 과실을 따다 pick [pluck] fruit
+
+과일 (edible) fruit. 가게 a fruit shop [stand]. 장수 a fruit
+dealer [seller]
+
+광화문 Kwanghwamun, Kwanghwa Gate
+
+괜찮다 be OK; be all right; be passable; good; do not mind
+괜찮아요 you're welcome! or don't mention it!; it makes
+no difference, it doesn't matter, it's okay.
+(Literally: it's one of ten million
+(words))
+아니오, 괜찮아요 not at all, it's all right; no, thanks.
+괜찮은 수입 good income.
+영어를 괜찮게 하다 speak English fairly well.
+이제 가도 괜찮다 You may go now.
+
+굉장하- be quite something, be impressive
+
+굉장히 very, very much
+
+교수 professor
+
+교실 classroom
+
+교외 suburb(s)
+
+교재 teaching materials; textbook
+
+교환 exchange
+
+교환원  switchboard, telephone, exchange operator
+
+교환학생 exchange student
+
+교회 church (Protestant)
+
+구경(을) 하 - do viewing or sightsee
+
+구경(을) 가 - go viewing/sightseeing
+
+구두 shoes
+
+국 soup
+
+국립 national (-ly) established
+
+국립대학교 a national university
+
+군데 places, institutions (counter)
+
+군인 soldier, serviceman
+
+굽 hoof
+
+권 bound volumes (counter)
+
+굴 oyster
+
+굴 cave
+
+굿 exorcism
+
+귀 ear
+
+그 that NOUN
+
+그냥 just, just (as one is), without doing anything
+
+그래도 even so, nevertheless
+
+그래서 and so; and then; therefore
+
+그래요(?) is that so? really? (that's so. really)
+
+그러니까 so, what I mean to say is; so, what you're saying is
+
+그러면 then, in that case, if so
+
+그런데 but; and then; by the way
+
+그럼 in that case; then
+
+그렇게 in that way, like that; so
+
+그렇지만 but
+
+그리고 and also; and then
+
+그림 picture
+
+그저께 day before yesterday
+
+극장 theatre; cinema
+
+근처 the area near, the vicinity
+
+글쎄요 I don't really know. Let me think
+
+금년 this year
+
+금요일 Friday
+
+기다리 - wait
+
+기분 feelings, mood
+
+기분(이) 나쁘 - be in a bad mood
+
+기분(이) 좋 - be in a good mood
+
+기숙사 dormitory
+
+기차 train
+
+길 road, way, street
+
+까페 caf\'e
+
+깎 - cut (hair), sharpen (pencil), mow (grass)
+
+깨 sesame
+
+깨끗이 neatly, cleanly
+
+깨끗하 - be clean
+
+꼭 without fail; be sure to
+
+꽃 flower(s)
+
+끊 - quit (smoking, drinking)
+
+끝 the end; the tip
+
+끝나 - it stops, ends, finishes
+
+끝내 - finishes it
+
+끼 - wear (gloves, ring)
+
+끼 - wear (lenses)
+
+김밥 kimbap (rice/seaweed/vegetables)
+
+김치 kimchi (pickled spicy cabbage)
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+나 I
+
+나(ㅅ)- get/be better
+
+나가 - attend (church); go out
+
+나라 country, nation
+
+나무 tree
+
+나쁘다 be bad
+
+나오다 come out
+
+나이 age
+
+나중에 in the future, some time later, later
+
+날 day
+
+날씨 weather
+
+남대문 Great South Gate
+
+남동생 younger brother
+
+남매 brother and sister
+
+남자 man
+
+남자친구 boyfriend
+
+남편 husband
+
+낮 daytime; noon
+
+내다 pay
+
+내년 next year
+
+내려가다 go down
+
+내려오다 come down
+
+내리다 descend
+
+내일 tomorrow
+
+냉면 cold noodle dish
+
+냉수 ice water
+
+냉커피 ice coffee
+
+너무 too much so, too; very, to an excessive degree
+
+넣 - put in, insert
+
+네 yes
+
+넥타이 tie, necktie
+
+- 년생(이에요) is a person born in such-and-such a year
+
+노-ㄹ- play
+
+노래 song
+
+노래방 nor\ae{bang; Korean karaoke box
+
+노트 notebook
+
+논 paddy field
+
+놓- put/place it
+
+누w- lie down
+
+누가 who? (as subject)
+
+누구 who? (non-subject)
+
+누나 (boy's) older sister
+
+누님 (boy's) older sister (honorific)
+
+눈 snow
+
+눈 eye
+
+뉴스 the news
+
+뉴욕 New York
+
+늘 always
+
+늦- be late
+
+늦게 late (adv)
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+다 all, everything
+
+다꼬기 chicken (as meat)
+
+다니- attend, go on a regular basis
+
+다르- be different
+
+다른 NOUN (an)other NOUN(s)
+
+다리 leg
+
+다방 tea room, tabang
+
+다음 after; adjacent, next to
+
+다치- get hurt, injure oneself
+
+닦- polish; brush (teeth)
+
+닫- close it (닫아요 closes it) (닫는다 closes it (plain style))
+
+달 1 months (counter) 2 moon
+
+달라 dollar (counter)
+
+닭 chicken (as a bird)
+
+닭고기 chicken (as meat)
+
+담배 cigarette(s)
+
+대 vehicles, machines (counter)
+
+대사관 embassy
+
+대학 four-year college
+
+대학교 university
+
+댁 house (honorific)
+
+더 more
+
+덕분에 thanks to NOUN; thanks to you
+
+더 w- be hot
+
+데 place
+
+데이트 a date
+
+데이트(를) 하- have a date
+
+도 degree of temperature
+
+도서관 library
+
+도시 city
+
+도와주- help
+
+도착(을) 하- arrive
+
+독립 independence
+
+독어 German language
+
+독일 Germany
+
+독일말 German language
+
+독일사람 a German
+
+돈 money
+
+돈(이)드-ㄹ- costs money
+
+돌아가- goes back, returns there
+
+돌아가시- die, pass away (honorific)
+
+돌아요-  comes back, returns here
+
+동네 neighborhood
+
+동대문 Greate East Gate
+
+동생 younger brother or sister
+
+동안 for the duration of, during, for (a week)
+
+돼요 it's OK; it'll do; it's acceptable; it works
+
+되- become
+
+둘다  both, both of them
+
+뒤 at the back; behind
+
+드-ㄹ- costs (money)
+
+드-ㄹ- lift; hold
+
+드라이크리닝 dry cleaning
+
+드리- give (honorific)
+
+드시- eat, drink (honorific)
+
+듣- listen to; hear; take (courses)
+
+들어가- go in, enters
+
+들어오- come in, enter; return home
+
+들어오세요! come in! (Literally: please inter)
+
+등 back, spine
+
+따님 daughter (hon.)
+
+딸 daughter
+
+때 time (when)
+
+때문에 because of, on account of
+
+떠나- leave, depart
+
+또 moreover, what's more; (yet) again
+
+또 봐요 see you later! (polite style) (literally: see
+you again)
+
+또 뵙겠습니다  see you later! (formal)
+(Explanation: 또 again, 뵙겠습니다 humbly see/meet. Literally:
+I will humbly see you again.)
+
+똑똑하- be bright, intelligent
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+라디오 radio
+
+라이타 lighter
+
+러시아 Russia
+
+러시아말 Russian language
+
+러시아사람 Russian person
+
+런던 London
+
+레스토랑 restaurant
+
+리 Korean mile (li) = 1/3 U.S. mile (counter)
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+마루 the living room (in an apartment)
+
+마리 animals, fish, birds (counter)
+
+마시- drink
+
+마음 one's mind, spiritual center, heart
+
+마치- finish it
+
+만나- meet
+
+만나서 반갑습니다 nice to meet you; nice to see you; (literally: I meet
+you, so I am pleased)
+
+만화 comics, cartoons
+
+많- be much/many
+
+많이 a lot, much, lots (adverb)
+
+말 horse
+
+말 language; words, speech
+
+말(을) 들- obey (listen to words)
+
+말씀 words, speech (humble or honorific equivalent of 말)
+
+말씀하- say (huble)
+
+말씀하세요 go ahead; please say what you have to say
+
+말(을) 하- speak, talk
+
+맛 taste
+
+맛 없- taste bad, no taste good
+
+맛(이) 있- be tasty, delicious
+
+맞- be right, correct; hit the mark
+
+맞은편 across/opposite from
+
+매- put on/wear (a tie)
+
+매- tie
+
+매w- be spicy
+
+매일 every day
+
+매표소 ticket counter
+
+맥주 beer
+
+뭐 what?
+
+머-ㄹ- be distant, far
+
+머리 head; hair
+
+머리(가) 나쁘- be dumb
+
+머리(가) 좋- be bright/intelligent
+
+먹- eat
+
+먹이- (w/불) starch it
+
+먼저 first (or all), before anything else
+
+멀리 far
+
+멀리서 from a distance
+
+머리빗 comb
+
+며느리 daughter-in-law
+
+명 persons, people (counter)
+
+명함 namechard, business card
+
+몇 how many?; some/several
+
+몇년생이세요? what year were you born in?
+
+몇학년이세요? what year are you (in school)?
+
+모두 all, everyone
+
+모레 day after tomorrow
+
+모르- not know
+
+모르겠어요 I don't understand
+
+모자 hat
+
+목 throat
+
+목요일 Thursday
+
+몰라요 I don't know
+
+몸 body
+
+못 1 pond 2 nail
+
+무-ㄹ- bite
+
+무거w- be heavy
+
+무궁화 無窮花 [식물] the national flower of Korea --- the
+Rose of Sharon. 무궁화 동산 the beautiful land of Korea.
+Every year from June to October a profusion of mugunghwa
+blossoms graces the entire country. Unlike most flowers, the
+mugunghwa is remarkably tenacious and is able to
+withstand both blight and insects.
+
+무릎 knee
+
+무슨 which?, what kind of?
+
+무엇 what?
+
+무역 trade
+
+무역회사 trading company
+
+문 door, gate
+
+문제 problem
+
+물 water
+
+물- ask
+
+물건 goods
+
+물룬 of course
+
+물론이에요. of course.
+
+뭐 what?
+
+미국 America, USA
+
+미국사람 person from USA, American
+
+미세스 Mrs, (before the name)
+
+미스 Miss (before the name)
+
+미안하- be sorry, feel sorry
+
+미안합니다 I'm sorry, excuse me (Literally: I feel uneasy)
+
+미혼(이에요) (is) unmarried
+
+밑 at the bottom, below, under(neath)
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+바꾸- exchange, change
+
+바다 ocean, sea
+
+바로 just (below, above); straight
+
+바쁘- be busy
+
+바지 trousers
+
+박사 Dr., Ph.D.
+
+밖 outside
+
+반 half
+
+반 one's class, homeroom
+
+반지 (finger)ring
+
+반찬 side dishes
+
+받- receive, get
+
+발 foot
+
+발가락 toe
+
+밤 night; evening
+
+밤 chestnut
+
+밥 cooked rice
+
+방 room
+
+방금 just a moment ago, just now
+
+방학 vacation
+
+밭 field
+
+배 stomach
+
+배(가) 부르- (stomach) be full, sated
+
+배우- learn
+
+백화점 department store
+
+버리- throw it away
+
+버스 bus
+
+번 times (counter)
+
+번호 number
+
+벌써 already
+
+벗- take off (clothes)
+
+별로 + negative (not) particularly
+
+병 bottle (counter)
+
+보- look at, see
+
+보내- spend (time); send
+
+보통 usually, normally
+
+복도 corridor, hallway
+
+볼펜 ballpoint pen
+
+봄 spring
+
+봉지 paper bag (counter)
+
+부르- sing (a song)
+
+부르- be full (stomach)
+
+부모(들) parents
+
+부엌 kitchen
+
+부인 your/his wife
+
+부자 rich person
+
+부츠 boots
+
+부치- post it, mail it
+
+부탁(을) 하- make a request, ask a favor/errand
+
+-분 esteemed people (counter)
+
+-분 minutes (counter)
+
+-분 person (honorific)
+
+분필 chalk
+
+불 1 fire; light; a light 2
+U.S. dollars (counter)
+
+불고기 pulgogi
+
+불어 French language
+
+불편하- be uncomfortable, inconvenient
+
+비 rain
+
+비빔밥 pibimpap
+
+비싸- be expensive
+
+비치 beach
+
+비행기 airplane
+
+빌딩 building
+
+빗- comb
+
+빙수 shaved ice, ice slush
+
+빠르- be fast
+
+빨리 quickly
+
+빵 bread
+
+빵집 bakery
+
+뻐스 bus
+
+뿔 horn
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+사- buy
+
+사-ㄹ- live
+
+사과 apple
+
+사람 people (counter)
+
+사람 person
+
+사랑(을) 하- love
+
+사립 private(-ly established)
+
+사깁대학교 a private university
+
+사모님 1 your wife; somebody else's wife (elegant/honorific)
+2 Madam, Mrs; one's teacher's wife (you can use it separately when speaking
+to/about your teacher's wife)
+
+사무실 office
+
+사실 fact; in fact
+
+사실은 in fact
+
+사업 business
+
+사위 son-in-law
+
+사이 between
+
+사이다 a Korean soft drink like Seven-up^TM
+
+사장 company president
+
+사촌 cousin
+
+사촌누나 cousin (boy's older female cousin)
+
+사촌동생 cousin (boy or girl's younger cousin ) (either gender)
+
+사촌언니 cousin (girl's older female cousin)
+
+사촌형 cousin (boy's older male cousin)
+
+산 mountain
+
+산보(를) 하- stroll, take a walk
+
+살 1 years of age (counter) 2 flesh
+
+삼촌 uncle (on father's side)
+
+삼학년(생) third-year student
+
+상 table
+
+상류 upper reaches of a river
+
+상자 box, case, chest (counter)
+
+새 new
+
+새벽 dawn
+
+새우 shrimp
+
+새우깡 shrimp chips
+
+샌드위치 sandwich
+
+생맥주 draft beer
+
+생신 birthday (honorific)
+
+생일 birthday
+
+생기- turn out a certain way
+
+생크림 fresh cream
+
+샤쓰 shirt, dress-shirt
+
+서- stand
+
+서 from (colloquial, means from the something which is the place)
+
+서강대 Sogang University
+
+서울대 Seoul National University
+
+서점 bookstore
+
+선교사 missionary
+
+선물 present, gift
+
+선생 teacher
+
+선생님 teacher (honorific); Mr, Mister
+
+설겆이 dirty dishes
+
+설겆이(를) 하- wash the dishes
+
+설사 diarrhea
+
+설탕 sugar
+
+설화 tale, legend
+
+성 surname
+
+성씨 (your or his) esteemed surname
+
+성함 surname (honorific)
+
+성냥 match(es)
+
+성당 church (Catholic)
+
+세탁 laundry
+
+세탁(을) 하- do laundry, launder
+
+세탁소 laundromat, cleaners
+
+스웨타 sweater, jumper
+
+소개(를) 하- introduce
+
+소개(를) 받- be/get introduced
+
+소주 Korean rice vodka, soju
+
+속 inside
+
+손 hand
+
+손가락 finger
+
+손녀(딸) granddaughter
+
+손님 guest; customer
+
+손자 grandson
+
+손주(아이) grandchild(ren)
+
+쇼핑 shopping
+
+숟가락 spoon
+
+수건 towel
+
+수고 hard work
+
+수고하세요 goog-bye! (to someone working)
+(Explanation: 수고 hard work, i.e., keep up the good work)
+
+수고하셨어요 thank you for helping me; well done!
+(Explanation: 수고 hard work, i.e., well done)
+
+수고하십니다 hello! (to someone working)
+Explanation: 수고 hard work, i.e., you're doing a great job)
+
+수업 class, lesson
+
+수영(을) 하- swim
+
+수영장 swimming pool
+
+수요일 Wednesday
+
+수입품 imported goods
+
+슈퍼마켓 supermarket
+
+숙제 homework, assignment
+
+술 any alcoholic drink
+
+술집 bar, tavern, drinking establishment
+
+쉬- rest
+
+쉬w- be easy
+
+쉽게 easily
+
+쉽시다 let's rest
+
+스카프 scarf
+
+스케이트 skate(s)
+
+스키 ski(s)
+
+스키(를) 타- ski
+
+스포츠 sports
+
+시 1 o'clock (counter) 2 poem
+
+ 시간 hours (counter);
+time --- 시간이 다 됐습니다 it's time (to begin or stop)
+(Explanation: 시간 time; 시간이 time (as subject); 다
+all, completely; 됐습니다 it has become
+
+시계 watch
+
+시골 countryside, the country
+
+신라 Silla (ancient Korean state)
+
+시내 downtown, city center
+
+심리 psychology
+
+시댁 esteemed house/home of the parents-in-law (for females)
+
+시부모 parents-in-law (for females)
+
+시아버님 father-in-law (woman's) (honorific)
+
+시아버지 father-in-law (woman's)
+
+시어머니 mother-in-law (woman's)
+
+시어머님 mother-in-law (woman's) (honorific)
+
+시작(을) 하- begin
+
+시장 market
+
+시청 city hall
+
+시키- order
+
+시험 examination
+
+식구 family members
+
+식당 dining room, restaurant, cafeteria, refectory
+
+식탁 dining table, kitchen table
+
+신- wear (footwear)
+
+신문 newspaper
+
+신용카드 credit card
+
+신발 shoes, footwear in general
+
+실레 discourtesy
+
+실례 discourtesy
+
+실례하겠습니다 excuse me (for what I'm about to do).
+(Literally: I am about to commit a discourtesy)
+
+실례합니다 excuse me (for what I am doing).
+(Literally: I am commiting a discourtesy)
+
+실례했습니다 excuse me (for what I did).
+(literally: I have committed a discourtesy)
+
+실망 disappointment
+
+실은 in fact
+
+싫- be disliked, distasteful
+
+싫어하- dislike it
+
+심심하- be bored
+
+싶- want to
+
+싸- cheap, inexpensive
+
+쌀 hulled rice
+
+쏟아지- pours (rain)
+
+쓰- wear (glasses)
+
+쓰- wear (a hat)
+
+쓰- use it
+
+쓰- write
+
+-씨 1 polite title for name 2 seed
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+아-ㄹ- know it
+
+아가씨 young lady; form of address for unmarried women
+
+아기 baby
+
+아까 a short while ago, just a moment ago
+
+아내 my wife
+
+아니면 or (sentence-initial), or (between nouns)
+
+아니에요 no; it is not
+
+아니오 no
+
+아드님 son (honorific)
+
+아들 son
+
+아래 below, lower, down, downstairs
+
+아래층 downstairs; the floor below
+
+아르바이트 part-time work for students
+
+아르바이트(를) 하- do part-time work for students
+
+아마 maybe, probably, perhaps
+
+아마도 maybe, probably (more tentative)
+
+아무거나 anything, anything at all
+
+아버님 father (honorific)
+
+아버지 father
+
+아이 child
+
+아이스크림 ice cream
+
+아저씨 mister (any man old enough to be married); form of address
+
+아주 very
+
+아주머니 ma'am (any woman old enough to be married)
+
+아줌마 ma'am (casual for 아주머니)
+
+아직 (not) yet, still
+
+아침 morning; breakfast
+
+아프- hurt, be painful
+
+안 inside
+
+안경 glasses
+
+안녕하세요? how are you?; hello! (literally: are you peaceful (well)?)
+
+안녕히 in good health
+
+안녕히 가세요 good-bye! (To one who is leaving. Literally: go in peace
+(i.e., health))
+
+안녕히 계세요 good-bye! (To one who is staying. Literally: stay
+in peace (i.e., health))
+
+안녕히 주무세요 good night (honorific)
+
+안돼요 it's no good; it won't do; it's not acceptable; it doesn't work
+
+안주 snacks to go with alcohol, food to go with alcoholic drinks
+
+앉- sits
+
+앉으세요 please take a seat, sit down
+
+알겠어요 I understand
+
+알아 들- understand, catch (something said)
+
+앞 in front
+
+애 child
+
+애기 baby
+
+야구 baseball
+
+야구 (를) 하- play baseball
+
+약 medicine
+
+약(을) 먹- take (eat) medicine
+
+약방 drugstore
+
+약혼(을) 하- get engaged
+
+약혼자 fianc\'e(e)
+
+양담배 foreign cigarettes
+
+양말 socks
+
+양복 a suit
+
+양주 whiskey; western spirits
+
+얘기 talk, chat, story
+
+어느 which? what kind of?
+
+어디 where?
+
+어때요? how is it? how about it?
+
+어떻게? how? in what way?
+
+어려w- be difficult
+
+어리- be young (a child)
+
+어머니 mother
+
+어머님 mother (honorific)
+
+어서 오세요! welcome! (Literally: come (in) right away!)
+
+어제 yesterday
+
+언니 older sister (girl's)
+
+언제 when?
+
+언제나 always
+
+언젠가 sometime or other, at one time; some time ago
+
+얼마 how many? how much?
+
+얼마나 about how much? approximately how much?
+
+얼음 ice
+
+없- be nonexistent, not exist, not have
+
+없어요 does not exist, here is not, aren't
+
+엉터리 rubbish, junk; something or someone cheap and shabby
+
+에 to (to the place e.g., to go to the place)
+
+에게 to (to the living thing e.g., to give something to the living thing)
+
+에게서 from (from the living thing)
+
+에서 from (place)
+
+엘리베이터 elevator, lift
+
+여-ㄹ- open it
+
+여관 small hotel, inn
+
+여기 here
+
+여기 좀 봐요 say there! excuse me!
+
+여동생 younger sister
+
+여러 --- several, various
+
+여름 summer
+
+여보세요! hello! hey there! excuse me! (hello on the
+telephone, or when peering into a dark house. Also means look here!
+
+여자 woman
+
+여자친구 girlfriend
+
+역 train station
+
+-연/-년 years (counter)
+
+연구 research
+
+연구(를) 하- do research
+
+연구실 (professor's) office
+
+연극 play, drama
+
+연기 postponement
+
+연기 performance
+
+연대 Yonsei University
+
+연락(을) 하- --- get in touch, make contact
+
+연세 age (honorific)
+
+연필 pencil
+
+열쇠 key
+
+열심히 diligently
+
+영국 England
+
+영국사람 English person
+
+영사관 consulate
+
+ 용서하세요 please forgive me
+
+영어 English language
+
+영화 movie, film
+
+영화구경(을) 하- see a film
+
+영화배우 movie actor
+
+옆 next to, beside
+
+예 yes
+
+예쁘- pretty, cute
+
+예약 reservation
+
+예약(을) 하- make a reservation
+
+오- come
+
+오늘 today
+
+오렌지 쥬스 orange juice
+
+오르- ascend, rise
+
+오른쪽 on the right
+
+오른편 on the right
+
+오빠 older brother (girl's)
+
+오전 morning, A.M.
+
+오징어 squid
+
+오징어깡 squid chips
+
+오후 afternoon, P.M.
+
+옥 jade
+
+올라가- go up
+
+올라오- come up
+
+옷 clothes; garment
+
+와요 get, receive;
+나는 편지가 어머니한테서 와요 I get letter(s) from my mother
+
+와이샤쓰 shirt, dress shirt
+
+와인 wine
+
+왜(요?) why?
+
+왜냐하면 the reason is; because
+
+외교관 diplomat
+
+외국 foreign country
+
+외국사람 a foreigner
+
+외국어 foreign language
+
+외삼촌 uncle (on mother's side)
+
+외할머니 grandmother (on mother's side)
+
+외할아버지 grandfather (on mother's side)
+
+왼쪽 on the left
+
+왼편 on the left
+
+요리 cooking, cuisine
+
+요리(를) 하- cook
+
+요즘 nowadays, these days
+
+용무 business, matter to take care of
+
+용서(를) 하- forgive
+
+우리 we, our
+
+우산 umbrella
+
+우선 first of all, before anything else
+
+우유 milk
+
+우체국 post office
+
+운동 sports
+
+운동(을) 하- do sports; exercise
+
+운동장 sports stadium
+
+운동화 sneakers, tennis shoes
+
+-원 Korean monetary unit, won
+
+월(달) month names (counter)
+
+월요일 Monday
+
+위 above, over, on (top); upstairs
+
+위스키 whisky
+
+위층 upstairs, the floor above
+
+은퇴(를) 하- retire
+
+은행 bank
+
+은행원 banker
+
+음료수 beverage, something to drink
+
+음식 food
+
+음식점 restaurant
+
+음악 music
+
+음악회 concert
+
+의사 doctor, physician
+
+의자 chair
+
+이 tooth, teeth
+
+이 this
+
+-이- be (the same as, equal to) (copula)
+
+이대 Ewha Women's University
+
+이따가 in a while, a while later
+
+이렇게 in this way, like this
+
+이름 (given) name
+
+이모 aunt (mother's sister)
+
+이모부 uncle (mother's sister's husband)
+
+이번 NOUN this NOUN (week, month)
+
+이상하- be stange, odd
+
+이야기 talk, chat, story
+
+이야기(를) 하- talk, chat
+
+이제 now (finally)
+
+이학년(생) second-year student
+
+이혼(을) 하- get divorced
+
+-인분 portion (of food)
+
+인삼 ginseng
+
+인삼주 ginseng wine
+
+인제 now (finally)
+
+일 matter, business
+
+일 days (counter)
+
+일(을) 하- work, do work
+
+일본 Japan
+
+일본말 Japanese language
+
+일본사람 person from Japan
+
+일어 Japanese language
+
+일어나- get up; stand up
+
+일요일 Sunday
+
+일찍 early (adv)
+
+일학년(생) first-year student
+
+읽- read
+
+입- wear; put on
+
+입 mouth
+
+있- be, exist; stay; have
+
+있어요 it exists, there is/are
+
+잊어버리- forget
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+자- sleep (자요 sleeps)
+
+자녀분 children (honorific)
+
+자동차 car, automobile
+
+자료 materials (written)
+
+자르- cut
+
+자매 sisters
+
+자전거 bicycle
+
+자제분 children (honirific)
+
+자주 often
+
+작- --- be little
+
+작년 last year
+
+작은아버지 uncle (fater's younger brother)
+
+잔 glass (to drink); cupfuls (counter)
+
+잘 well; often
+
+잘돼요 It's going well. It's turning out well.
+
+잘 생겼- be handsome/good-looking (usually said of males)
+
+잘 생겼어요 be handsome/good-looking (usually said of males)
+
+잘 안 돼요 it's not going well
+
+잘 자요! good night (polite, but not honorific)
+
+잘하- do well, do (it) well
+
+잠깐 a short while, a moment
+
+잠시 a short while
+
+잡수시- eat (honorific)
+
+잡지 magazine
+
+-장 flat objects (counter)
+
+장(을) 보- do grocery shopping
+
+장갑 gloves
+
+장마 rainy season, seasonal rains
+
+장마(가) 지- rainy season sets in
+
+장모 mother-in-law (man's)
+
+장인 father-in-law (man's)
+
+장인어른 father-in-law (man's) (elegant)
+
+장인장모 parents-in-law (man's)
+
+쟈켓 jacket
+
+재미 없- be not interesting, boring
+
+재미 있- be interesting
+
+재미있게 interestingly, in such a way that it is interesting
+
+쟁반 tray (flat thing to carry dishes)
+
+저 yon, that (over there)
+
+저기 over there
+
+저기요! hey there! (a bit brusque or even rude)
+
+저녁 evening; supper
+
+저렇게 in that way
+
+적- are few
+
+전공 one's major, specialization
+
+전공(을) 하- major in something
+
+전부 the whole thing, total
+
+전부다 everyting, all of it
+
+전에 earlier, before
+
+전화 telephone
+
+전화(를) 하- make a phone call
+
+전화(를) 거-ㄹ- make a phone call
+
+전화(를) 받- answer the phone
+
+전화번호 telephone number
+
+전혀 $[$not$]$ at all
+
+젊- be young (but past puberty)
+
+점심 lunch
+
+접시 plate
+
+젓가락 chopsticks
+
+정각(에) exactly at (a time)
+
+정거장 station/stop (train)
+
+정류장 bus stop
+
+정말(로) truly, really
+
+정말이에요? really? is it true?
+
+정문 main gate (of a university)
+
+정열적(으로) passionate(ly)
+
+정원 garden
+
+정치 politics
+
+정치학 political science
+
+제일 the most; number one
+
+제품 manufactured good(s)
+
+조금 a little
+
+조부모 grandparents
+
+조카 nephew
+
+조카딸 niece
+
+졸업(을) 하- graduate
+
+좀 a little; please
+
+종이 paper
+
+좋- be good; be liked
+
+좋- be good
+
+좋아하-, 좋아하나요, 좋아합니다
+to like it (in the sense ``love'') Examples:
+나는 이것이 좋아요 I like this;
+채소를 좋아하나요? Do you like vegetables?
+나는 정구 치는것을 좋아한다 I like playing tennis
+
+죄송합니다 I'm sorry, excuse me (literally: I feel uneasy)
+
+주 a state, a province
+
+주- give
+
+주간 week (counter)
+
+주로 mainly, mostly, for the most part
+
+주립 state (-established), provincial(-ly established)
+
+주립대학교 a state university
+
+주말 weekend
+
+주무시- sleep (honorific)
+
+주문(을) 하- order (at restaurant)
+
+주세요 please give
+
+주일 week (counter)
+
+주중에 during the week, on week days
+
+죽- die
+
+중간 middle, midway
+
+중간에 midway, in the middle
+
+중국 China
+
+중국말 Cinese language
+
+중국사람 person from China
+
+쥬스 juice
+
+즐거w- be enjoyable, pleasant, fun
+
+줄겁게 enjoyably
+
+지금 now
+
+지난 past, last
+
+지내- get along
+
+지하철 subway, underground, metro
+
+진지 rice, meal (honorific)
+
+질문 question
+
+집 house, home
+
+집사람 my wife
+
+짜- salt (짜요 is salty)
+
+째즈 jazz
+
+쪽 side, direction
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+차 car, vehicle
+
+차 tea
+
+차- wear (a watch)
+
+차- cold (자요 is cold)
+
+차표 ticket (train, bus)
+
+착하- be good by nature; be a good boy (girl, dog)
+
+참 truly, really (exclamation)
+
+채소 vegetable(s)
+
+칭믄 window
+
+찾- look for; find
+
+찾- withdraw (money) from; fetch (money)
+
+채 buildings (counter)
+
+책 book
+
+책상 desk
+
+처음 the beginning; first time
+
+처음 뵙겠습니다 pleased to make your acquaintance (formal style)
+(Explanation: 처읍 beginning, first time, 뵙겠습니다 will humbly see/meet.
+(literally: I see you for the first time i.e., how do you do?)
+
+천 thousand
+
+천만에요 you're welcome! or don't mention it!
+(Literally: it's one of ten million (words))
+
+천천히 slowly
+
+철도 railway
+
+첫 first
+
+청바지 jeans
+
+청소(를) 하- clean up
+
+초대(를) 하- invite someone
+
+초대(를) 받- be/get invited
+
+-초 (a) second (counter)
+
+추w- be cold
+
+춤(믈) 추- dances (a dance)
+
+취하- get tipsy/drunk
+
+-층 floors (of a building) (counter)
+
+치- strike, hit
+
+치- play (tennis, golf)
+
+치마 skirt
+
+친구 friend
+
+친척 relative
+
+칠판 blackboard
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+캐 digs out
+
+캐나다 Canada
+
+캐나다 사람 a Canadian
+
+캠퍼스 campus
+
+커피 coffee
+
+켤레 pair (of shois, etc.)
+
+코 nose
+
+코메디 comedy
+
+코트 coat
+
+콘택트렌즈 contact lenses
+
+콜라 cola
+
+크- be large
+
+크림 cream
+
+큰아버지 uncle (father's elder brother)
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+타- add/put (sugar)
+
+타- ride in, ride on
+
+타고가- go (riding)
+
+타고오- come (riding)
+
+타올 towel
+
+탈 mask
+
+태극기 太極旗 the national flag of Korea, the Tai-geuk flag
+The Korean flag is called T\ae{gukgi. It's design symbolizes
+the principles of yin and yang in Oriental philosophy.
+The circle in the center of the flag is divided into two equal
+parts. The upper red section represents the positive cosmic forces of
+yang. Conversely, the lower blue section represents the negative
+cosmic forces of yin.
+
+The two forces together embody the concepts of continual
+movement and balance and harmony that characterize the sphere
+of infinity. The circle is surrounded by four trigrams in each
+corner. Each trigram symbolizes one of the four universal elements:
+heaven, earth, fire, and water.
+
+태어나- be born
+
+테니스 tennis
+
+테니스(를) 치- play tennis
+
+테이블 table
+
+테레비전 television
+
+토마토 쥬스 tomato juice
+
+토요일 Saturday
+
+통하- get through to, make contact with
+
+통화(를) 하- get through to, make contact with on phone
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+파-ㄹ- sell it
+
+파운드 pounds (sterling) (counter)
+
+파티 party
+
+팔 arm
+
+펜 ballpoint pen
+
+편 side, direction
+
+편지 letter
+
+편하- be comfortable; convenient
+
+편히 comfortably; conveniently
+
+표 ticket
+
+푸-ㄹ- solve it; undo it
+
+풀 1 starch, glue 2 grass
+
+풀(을) 먹이- starch it
+
+프랑스 France
+
+프랑스말 French language
+
+프랑스사람 person from France
+
+프로 program (TV); pro (sports)
+
+프리마 nondairy creamer
+
+플래폼 platform
+
+피- bloom, blossom
+
+피곤하- be tired
+
+피아노 piano
+
+피아노(를) 치- play piano
+
+피우- smoke
+
+피자 pizza
+
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+%XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+하- do (합니다 does it (formal style))
+
+하고 and
+
+학교 school
+
+학기 term, semester
+
+-학년(이에요) is a student in such-and-such a year or grade (at school)
+
+학생 student
+
+학생회관 student union (building)
+
+한 about, approximately
+
+한국 Korea
+
+한국말 Korean language
+
+한국사람 a Korean
+
+한국어 Korean language
+
+한국학 Korean Studies
+
+한테 1 to (to the living thing e.g., to give something
+to the living thing) 2 from (from the place) (colloquial)
+
+한테서 from (from the living thing)
+
+할머니 grandmother
+
+할머님 grandmother (honorific)
+
+할아버님 grandfather (honorific)
+
+할아버지 grandfather
+
+함께 together
+
+합리 rationality, reason
+
+핫도그 hot dog
+
+항상 always
+
+해 years (counter)
+
+햄버거 hamburger
+
+-행 bound for (a place). e.g.: 대전행 기차 a T\ae{jon train, train bound for
+T\ae{jon
+
+허리 waist, lower back
+
+혀 tongue
+
+형 older brother
+
+형제 brothers (for males); brothers and sisters
+
+호주 Australia
+
+호주사람 an Australian
+
+호텔 hotel
+
+혼자(서) alone, on one's own, by oneself
+
+홍차 black tea, English tea
+
+홍콩 Hong Kong
+
+홍콩사람 person from Hong Kong
+
+화요일 Tuesday
+
+화장실 toilet, restroom, bathroom, washroom
+
+회사 company
+
+회사원 company employee
+
+회화 conversation
+
+후에 after, later
+
+휴지 tissue paper; toilet tissue, $\mathrm{Kleenex^{TM$
+
+흐리- be cloudy, overcast
+
+흐리- become/get cloudy
+
+힘 strength, energy
+
+힘(이) 드-ㄹ- be difficult, taxing (strength enters)
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK KOREAN—ENGLISH DICTIONARY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+This particular work is one of the few individual works protected
+by copyright law in the United States and most of the remainder of the
+world, included in the Project Gutenberg collection with the
+permission of the copyright holder. Information on the copyright owner
+for this particular work and the terms of use imposed by the copyright
+holder on this work are set forth at the beginning of this work.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
