@@ -38,7 +38,8 @@ jobs:
         working-directory: ./fetcher
 
       - name: Run fetcher and save output
-        run: node ./fetcher/src/server.js > ./repo/fetcher_output.log 2>&1
+        run: node src/server.js > ../repo/fetcher_output.log 2>&1
+        working-directory: ./fetcher
 
       - name: Print fetcher output
         run: cat fetcher_output.log
