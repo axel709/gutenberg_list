@@ -1,0 +1,981 @@
+The Project Gutenberg eBook of Army Pulse Radiation Facility
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Army Pulse Radiation Facility
+
+Creator: U.S. Army Ballistic Research Laboratory
+
+Release date: May 19, 2022 [eBook #68120]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United States: US Government
+
+Credits: Brian Coe, Lisa Corcoran, who supplied the scans, and the Online Distributed Proofreading Team at https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ARMY PULSE RADIATION FACILITY ***
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs “=” before and after a word or phrase indicate =bold=
+    in the original text.
+  Illustrations have been moved so they do not break up paragraphs.
+  Typographical and punctuation errors have been silently corrected.
+
+
+
+
+Army Pulse Radiation Facility
+
+
+[Illustration]
+
+
+
+
+Contents
+
+
+                                                               Page No.
+
+    The Concept                                                    3
+    The Facility                                                   5
+    The Reactor                                                    7
+    Exposure Locations and Performance Levels                     11
+    APRF User Support Facilities                                  17
+    Instructions to Potential Users                               20
+
+                               Table I.
+    APRFR Core Design Data                                         8
+
+                               Table II.
+    Typical APRFR Performance Levels                               8
+
+                              Table III.
+    APRFR Fluence and Flux Data                                   13
+
+                               Table IV.
+    Nominal APRFR Leakage and U235 Fission Spectra                13
+
+                               Table V.
+    Fluence-to-Dose Conversion Factors for APRFR Leakage Neutrons 14
+
+                               Table VI.
+    Kerma and Kerma Rate in Tissue for APRFR Exposure Conditions  14
+
+                              Table VII.
+    Kerma and Kerma Rate in Silicon for APRFR Exposure Conditions 15
+
+                              Table VIII.
+    Neutron-to-Gamma Dose Ratios                                  15
+
+                               Table IX.
+    APRF User Support Equipment                                   18
+
+                     Army Pulse Radiation Facility
+           _U.S. Army Ballistic Research Laboratories_
+                               AMXRD-BTD
+            _Aberdeen Proving Ground, Maryland 21005_
+
+[Illustration: Army Pulse Radiation Facility Location Map]
+
+[Illustration]
+
+
+
+
+The Concept
+
+
+The Army Pulse Radiation Facility (APRF) is designed to meet an
+Army need for a facility located near the Eastern Seaboard capable
+of providing large fast neutron and gamma radiation doses within
+microseconds. This fast pulse radiation capability is necessary for
+the determination of transient responses of materiel in nuclear
+environments.
+
+The APRF increases Army capability by providing improved simulation of
+radiative effects of a nuclear burst for studies of Army interest, and
+provides a facility for testing Army materiel. Because of its location,
+the APRF economically and efficiently serves the heavy concentration of
+Army agencies and contractors located along the Eastern Seaboard.
+
+The design of the APRF is a direct outgrowth of projected user
+requirements. Thus the reactor can be used both for high dose
+irradiations of small objects, as a point source for radiation detector
+studies, and irradiation of bulk objects. The former requirement led
+to the incorporation of a 1½-inch OD “glory hole” running through
+the center of the core, and providing a fast neutron fluence of
+about 9 × 10¹⁴ neutrons per square centimeter per pulse. The latter
+two requirements have resulted in the design of a large volume,
+low-radiation backscatter Reactor Building. Provision is made for
+moving the reactor both within the Reactor Building and to an outdoor
+test site at heights variable up to 44 feet above ground by means of a
+mechanical device called the reactor transporter. The reactor is also
+capable of intermittent steady state operation in the kilowatt range
+for classes of experiments requiring this mode of operation.
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+The Facility
+
+
+The APRF is located on the military reservation of Aberdeen Proving
+Ground (APG), in southeastern Harford County, Maryland. The Reactor
+Building is at the center of the facility.
+
+This building is a windowless, circular structure with aluminum siding.
+Inside, the building is 100 feet in diameter and 65 feet high. There
+is a roll-up door in the south wall for the passage of the reactor
+transporter to the outdoor test site and another in the west wall for
+the access of vehicles to the building. A shielded stairway and maze
+provides access from the underground Control Building. This concrete
+structure provides radiological shielding for the personnel and
+controls associated with the operation of the reactor and the conduct
+of experiments.
+
+The area within a ~450-yard radius of the Reactor Building constitutes
+the APRF high-radiation area defined by a 10-foot anti-personnel fence.
+This high-radiation area is in turn surrounded by a nearly concentric
+restricted area defined at its outer boundary by a barbed wire warning
+fence at a radius of ~1500 yards from the Reactor Building.
+
+The Laboratory Building, located at the periphery of the restricted
+area, houses the administrative and support personnel for the APRF.
+Access to APRF is controlled at this point.
+
+[Illustration: APRF Reactor Core Assembly]
+
+[Illustration]
+
+
+
+
+The Reactor
+
+
+The reactor, (APRFR), is designed for both self-limited,
+super-prompt-critical pulse operation and steady state operation. The
+maximum available pulse has a yield of ~2.1 × 10¹⁷ fissions, while
+steady state operation is limited to about 10 kilowatts by the reactor
+core cooling system and activation of the core.
+
+[Illustration: High Yield Prompt Pulse Shape]
+
+The APRFR is an advanced version of the Health Physics Research
+Reactor (HPRR) at Oak Ridge National Laboratory (ORNL), which has
+been operating since 1962. ORNL has played a key role in the design
+and testing of the APRFR. In pulse operation, the power level may
+rise on periods as short as 10 microseconds. Electro-mechanical scram
+systems are too slow to terminate such an excursion. Shutdown results
+from increased neutron leakage due to fuel expansion, resulting in
+a large prompt negative temperature coefficient of reactivity. This
+self-limiting feature depends almost entirely on the thermal expansion
+of the fuel alloy, and thus it is regarded as completely reliable and
+safe.
+
+Following a pulse, additional reactor shutdown capability is provided
+by a safety block which, when ejected from the core, reduces the
+reactivity to about 20 dollars below delayed-critical. At lower yield
+pulses, below about 6 × 10¹⁶ fissions, the safety block is ejected by
+the electro-mechanical scram system in about 0.1 seconds after a pulse.
+At higher yield pulses, the safety block is ejected in much shorter
+times due to thermo-mechanical shock forces which cause the safety
+block to bounce out. The large shutdown margin provided by the safety
+block is also the primary design device for preventing accidental
+criticalities during periods of reactor shutdown.
+
+The APRFR core is an unmoderated cylindrical assembly containing about
+125 kilograms of an alloy of uranium 235 containing 10% molybdenum. The
+actual core mass varies with the experiment. The core is cylindrical
+and consists of two concentric annuli: a fixed outer shell of stacked
+fuel discs bolted together with nine fuel bolts and Inconel nuts and
+a movable inner safety block, also of fuel alloy. The 1½-inch OD
+“glory hole” runs vertically through the center of the safety block.
+Key reactor data is summarized in Tables I and II. The APRFR has been
+operated during tests at ORNL at more than twice its design yield.
+
+
+
+
+Table I.
+
+APRFR Core Design Data
+
+
+    Core Diameter                         8.90 inches
+    Core Height[1]                         8.0 inches
+    Fuel Alloy                      90 wt % uranium -
+                                   10 wt % molybdenum
+    Uranium-235 Enrichment                     93.14%
+    Total Fuel Mass[2]                            125
+    Safety Block Mass                         15.7 kg
+    Safety Block Height                   8.06 inches
+    Safety Block Diameter                 4.00 inches
+    Glory Hole Diameter                   1.50 inches
+    Number of Control Rods                      Three
+    Core Cooling                           Forced Air
+    Number of Core Bolts                         Nine
+    Safety Block Reactivity Worth                ~$20
+    Pulse Rod Reactivity Worth                 ~$1.15
+    Core Environment During Pulse        Dry Nitrogen
+    Core Cooling                           Forced Air
+
+[1] This value varies with experimental environment of core.
+
+[2] This value varies with experimental environment of core.
+
+
+
+
+Table II.
+
+Typical APRFR Performance Levels
+
+
+    PULSE MODE
+    Routine Yield                     1.5 × 10¹⁷ fissions/pulse
+      Reactivity Insertion                                $1.10
+      Pulse Half-Width                                  48 μsec
+      Initial Prompt Period                             18 μsec
+      Maximum Fuel Temperature Rise                       400°C
+      Temperature Coefficient                     -0.3 cents/°C
+    Maximum Available Yield          ~2.1 × 10¹⁷ fissions/pulse
+    STEADY STATE MODE
+    Continuous Operation                                  ~1 kw
+    Intermittent Operation                               ~10 kw
+
+Steady state power levels are limited by effectiveness of core cooling
+system and core activation.
+
+[Illustration]
+
+[Illustration: APRF Floor Plan]
+
+
+
+
+Exposure Locations and Performance Levels
+
+
+The highest fluence and dose rates are available in the 1½-inch glory
+hole. Since the reactor is supported from above by the transporter, the
+areas around and below the core are also available for experiments.
+
+The core can be positioned by remote control anywhere within the range
+of travel of the transporter. Vertical travel is limited to about 44
+feet above the Reactor Building floor level. Horizontal travel is
+limited by the range of the rails on which the transporter travels. Six
+pairs of rails extend radially from a turntable in the center of the
+Reactor Building. These rails terminate within the Reactor Building,
+except for one pair which extends 90 feet outside the building to an
+outdoor test site. Each pair of rails defines one experimental location
+where semi-permanent equipment and shielding can be set up without
+tying up the entire reactor operation.
+
+Fluence and flux data for three typical exposure locations are given in
+Table III. In the absence of reflecting material beyond 1 meter from
+core center (position P3), these values fall off essentially as
+
+     1
+    ——
+     R²
+
+where R is the distance to core center. Other performance data are
+summarized in Tables IV through VIII.
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+Table III.
+
+APRFR Fluence and Flux Data
+
+
+    -------------------------------------------------------------------
+                            Routine Pulse Yield     Maximum Pulse Yield
+                            1.5 × 10¹⁷ Fissions     2.1 × 10¹⁷ Fissions
+    -------------------------------------------------------------------
+    Fluence, n/cm²
+        P1[3]                   6.7 × 10¹⁴             9.3 × 10¹⁴
+        P2                      2.0 × 10¹⁴             2.8 × 10¹⁴
+        P3                      1.7 × 10¹²             2.4 × 10¹²
+    Flux Density, n/cm²/sec
+        P1                      1.4 × 10¹⁹             2.0 × 10¹⁹
+        P2                      4.3 × 10¹⁸             6.0 × 10¹⁸
+        P3                      3.7 × 10¹⁶             5.2 × 10¹⁶
+
+[3] P1: Center of Glory Hole; P2: Core Surface (11.3 cm from Core
+Center); P3: 1 meter from Core Center.
+
+
+
+
+Table IV.
+
+Nominal APRFR Leakage and U235 Fission Spectra[4]
+
+
+    --------------------------------------------------------
+    Energy             Average       APRFR    U235 Fission
+    Group    Energy    Energy       Spectrum      Spectrum
+    Number    Range      Eₙ         Fraction      Fraction
+      n       (Mev)    (Mev)          XₙΔEₙ          XₙΔEₙ
+    --------------------------------------------------------
+      1       3.0-∞     4.41          0.133         0.204
+      2       1.4-3.0   2.10          0.251         0.344
+      3       0.9-1.4   1.14          0.164         0.168
+      4       0.4-0.9   0.65          0.262         0.180
+      5       0.1-0.4   0.26          0.168         0.090
+      6       0-0.1     0.059         0.022         0.014
+                                      -------------------
+     SUM                              1.000         1.000
+                                      -------------------
+     Mean Energy (Mev)               ~1.55         ~1.8
+
+[4] These values are approximate and meant for qualitative comparison
+only.
+
+
+
+
+Table V.
+
+Fluence-to-Dose Conversion Factors for APRFR Leakage Neutrons
+
+
+    --------------------------------------------------------------------
+    Material                   Quantity                Conversion Factor
+    --------------------------------------------------------------------
+    Tissue                        Kerma    2.4 × 10⁻⁷      erg/gram
+                                                          -----------
+                                                          neutron/cm²
+
+    Tissue    Maximum Absorbed Dose For    3.5 × 10⁻⁹         rad
+                                                          -----------
+                                                          neutron/cm²
+
+             Normally Incident Neutrons
+    Silicon        Elastic Recoil Kerma    2.7 × 10⁻⁹      erg/gram
+                    (~Permanent Effect)                   -----------
+                                                          neutron/cm²
+
+    Silicon            Ionization Kerma    2.9 × 10⁻⁹      erg/gram
+                   (~Transient Effects)                   -----------
+                                                           neutron/cm²
+
+    Silicon               (Total) Kerma    5.6 × 10⁻⁹      erg/gram
+                                                          -----------
+                                                          neutron/cm²
+    --------------------------------------------------------------------
+
+
+
+
+Table VI.
+
+Kerma and Kerma Rate in Tissue for APRFR Exposure Conditions
+
+
+    --------------------------------------------------------------------
+                           Routine Pulse Yield      Maximum Pulse Yield
+                           1.5 × 10¹⁷ Fissions      2.1 × 10¹⁷ Fissions
+    --------------------------------------------------------------------
+    Kerma in Tissue
+      (ergs/gm)
+        P1[5]                   1.6 × 10⁸             2.2 × 10⁸
+        P2                      4.9 × 10⁷             6.8 × 10⁷
+        P3                      4.1 × 10⁵             5.7 × 10⁵
+
+    Kerma Rate in Tissue
+      (ergs/gm/sec)
+        P1                      3.5 × 10¹²            4.7 × 10¹²
+        P2                      1.1 × 10¹²            1.5 × 10¹²
+        P3                      8.8 × 10⁹             1.2 × 10¹⁰
+
+[5] P1: Center of Glory Hole; P2: Core Surface; P3: 1 Meter from Core
+Center.
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+Table VII.
+
+Kerma and Kerma Rate in Silicon for APRFR Exposure Conditions
+
+
+    --------------------------------------------------------------------
+                             Routine Pulse Yield    Maximum Pulse Yield
+                             1.5 × 10¹⁷ Fissions    2.1 × 10¹⁷ Fissions
+    --------------------------------------------------------------------
+    Total Kerma in Silicon,
+          ergs/gm[6]
+            P1[7]                2.7 × 10⁶              5.2 × 10⁶
+            P2                   1.1 × 10⁶              1.6 × 10⁶
+            P3                   9.5 × 10³             13.3 × 10³
+    Total Kerma Rate in
+      Silicon, (ergs/gm/sec)
+            P1                   5.8 × 10¹⁰            11.0 × 10¹⁰
+            P2                   2.4 × 10¹⁰             3.5 × 10¹⁰
+            P3                   2.0 × 10⁸              2.9 × 10⁸
+
+[6] Ionization and elastic recoil processes contribute roughly equal
+amounts to the total kerma.
+
+[7] P1: Center of Glory Hole; P2: Core Surface; P3: 1 Meter from Core
+Center.
+
+
+
+
+Table VIII.
+
+Neutron-to-Gamma Dose Ratios[8]
+
+
+    -----------------------------------------------------------------
+                           neutron rads tissue          n/cm²/sec
+                           -------------------      -----------------
+                            gamma rads tissue       gamma rads tissue
+    -----------------------------------------------------------------
+    Core Center (P1)                10                  2.7 × 10⁹
+    Core Surface (P2)               10                  2.7 × 10⁹
+    1 Meter from Core Center (P3)    9                  3.3 × 10⁹
+    10 Meters from Core Center       7                  2.5 × 10⁷
+
+[8] Representative data. Actual values influenced by core operating
+history.
+
+[Illustration: Cross Section of Reactor Building]
+
+
+
+
+APRF User Support Facilities
+
+
+APRF is designed and staffed to assist its users in all key areas
+relating to reactor utilization.
+
+=Physical Space= Several areas in the underground Control Building
+are available to experimenters. These include the trailer tunnel with
+room for two full-sized trailers, the data acquisition room, and the
+instrument shop. All of these areas are provided with conduits so that
+cables can be run directly to them from the Reactor Building. In the
+trailer tunnel the minimum cable length required to run to the core
+surface is about 30 feet.
+
+The exposure areas in the Reactor Building and the outdoor test site
+are equipped with conduits for communication and instrumentation cables.
+
+Available areas in the Laboratory Building include a high-bay set
+up area, a machine shop, laboratory space, fume hood with remote
+manipulator, photography laboratory, and offices.
+
+=Data Acquisition and Processing= The basic element here is the
+APRF Data Acquisition System described in Table IX. Various other
+instrumentation is available as summarized in Table IX. Data processing
+is available at the ARDC computer center and with on-line equipment at
+APRF.
+
+=Dosimetry= Routine dosimetry is performed by APRF personnel.
+Methods available include fluence and spectrum measurements using
+foil techniques, glass rod microdosimetry, thermoluminescence, and
+diverse active dosimeters. Foils are analyzed using the APRF Automatic
+Dosimetry System and data are available within a short time following
+exposure.
+
+Measurements are supplemented by analytical methods including one
+and two dimensional transport theory, Monte Carlo, and special foil
+analysis codes.
+
+=Staff= The APRF staff is available to guide, plan and set up
+experiments at the reactor, perform dosimetry, and assist in data
+acquisition. APRF participation is determined on a case-by-case basis.
+
+=Health Physics= Health physics survey, monitoring, decontamination
+and related services are available in conjunction with the BRL Health
+Physics Division.
+
+
+
+
+Table IX.
+
+APRF User Support Equipment
+
+
+    --------------------------------------------------------------------
+    =Transient Data Recording System=
+    --------------------------------------------------------------------
+    TAPE RECORDERS:     _Three each—14 track Honeywell Model 7600_
+
+    FREQUENCY:          _DC to 80 kHz FM, 400 Hz to 700 kHz Direct_
+
+    SIGNAL              _Universal Strain gauge and thermocouple with_
+     CONDITIONING:      _100 KC DC amplifiers_
+
+    TIME CODE:          _IRIG A, 1 millisecond resolution_
+
+    PATCH PANELS:      _Coaxial and triaxial connectors for all inputs_
+                       _and outputs, insulated shields._
+
+    AUTO CALIBRATION:   _50 channel, 3 step_
+
+    CHANNEL ID:         _Automatic ID in binary code_
+
+    PLAYBACK:           _12” oscillograph_
+    --------------------------------------------------------------------
+    =Dosimetry=
+    --------------------------------------------------------------------
+    Basic Foil Calibration System
+
+    5000 Curie Co-60 source
+
+    Automated Sulfur, Fission Foil and Gamma Well Counting System,
+    100 Samples each per cycle
+
+    Eight channel active dosimeter system with digital read out and
+    computer analysis of neutron fluence and energy
+
+    Toshiba Glass Rod and Harshaw TLD Gamma System
+    --------------------------------------------------------------------
+    =Computer=
+    --------------------------------------------------------------------
+    16 bit/16K memory with foreground/background operation. Automatic
+    acquisition and reduction of foil counting data on-line. On-line
+    monitoring of reactor power pulse with analysis of peak, half-width
+    and yield. On-line monitoring of active dosimeters with data
+    reduction. Real time/Fortran IV.
+    --------------------------------------------------------------------
+    =General Equipment=
+    --------------------------------------------------------------------
+    3300 Nuclear Data Multiparameter Analyzer, 4096 channel with
+    magnetic tape; RIDL 400 Channel Pulse Height Analyzer.
+
+    Oscilloscopes, cameras, electronic calibration equipment.
+
+    Hood areas with manipulators, photographic laboratory, radiation
+    monitoring equipment and services, machine shop.
+    --------------------------------------------------------------------
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+[Illustration]
+
+
+
+
+Instructions To Potential Users
+
+
+It is imperative to realize that there are stringent safety
+requirements connected with the use of the APRFR. All experiments will
+follow a written test plan approved at APRF. In order to perform an
+experiment with maximum usefulness and efficiency, it is essential
+that APRF be contacted during the early planning stages of a potential
+experiment. Failure to do this may result in erroneous experiment
+planning as regards safety and use of exposure space resulting in
+schedule delays, and possibly cancellation or drastic revision of the
+experiment.
+
+_For further information contact_:
+
+    Commanding Officer
+    U.S. Army Ballistic Research Laboratories
+    ATTN: AMXRD-BTD, Facility Coordinator
+    Aberdeen Proving Ground, Maryland 21005
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ARMY PULSE RADIATION FACILITY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
