@@ -1,0 +1,130 @@
+	THE PROJECT GUTENBERG CD AND DVD IMAGE README.TXT FILE
+
+This is a general-purpose README file for Project Gutenberg CD and DVD
+images.  We wrote it because there are many different ways to get a CD
+or DVD image, and several things that can go wrong.
+
+
+GIVE THEM AWAY! *
+
+Project Gutenberg urges everyone who can to download and make copies
+of their CD and DVD images.  Give them away!  If you decide to try to
+sell them, first read the trademark license at
+http://gutenberg.net/license .  If you want a CD or DVD but don't have
+a burner or can't download so much data, see
+http://gutenberg.net/cdproject where options for getting one freely or
+at low cost are listed.
+
+
+WHAT'S AN ISO?
+
+First, you should know what a ISO image file is.  This is a special
+file that represents the contents of an entire CD or DVD.  Project
+Gutenberg uses ISOs to distribute entire sets of Project Gutenberg
+eBooks, usually with some sort of index file and a copy of
+GUTINDEX.ALL (our title listing).  All of the books on the CD or DVD
+are available individually via the Web pages at http://gutenberg.net
+
+Computers with CD or DVD burners usually come with some software to
+copy the ISO to a CD or DVD that you can then use in any CD or DVD
+burner.  Some software even allows you to look at the contents of the
+ISO file without burning it to disc first.  Project Gutenberg does not
+try to maintain lists of software, but there are many such lists on
+the Web.  You can always email Project Gutenberg for help, if you are
+stuck.
+
+
+DEALING WITH LARGE FILES
+
+ISO files can be quite large, which can create some problems. ** If you
+have a high speed network connection (at least cable modem or DSL
+speed), you can try downloading an entire ISO file all at once.  The
+problem is that if any data get corrupted during the download
+(something that seems to happen a lot on cable modems and DSL lines),
+the ISO might not work at all.
+
+- To make it easier to make sure your download is correct, you can get
+the ISO in smaller chunks, and use checksums to verify the integrity
+of the files.  We supply md5sums, and sometimes other checksums. 
+If you don't have an md5sum command, use your favorite search
+engine to find one (no, Microsoft does not seem to make any standard
+checksum programs available with its Windows operating systems).
+
+For chunking, we often provide a "-parts" subdirectory where the file
+might be divided into many chunks.  These files were created with the
+Linux command 
+
+	split --bytes=15000000 --suffix-length=4 pgdvd.iso pgdvd.iso.
+
+Any Windows or Unix/Linux/BSD computer (including Mac OS X or later)
+can reassemble parts using the Unix "cat" command or the Windows "copy
+/b" command.  Sample commands follow.
+
+For both, first "cd" to get to the directory where your "parts" files
+were downloaded to.  Then:
+
+To join them together on a Unix or Linux system, including Mac OS X
+or later, simply:
+        cat pgdvd.iso.???? > pgdvd.iso
+ 
+then, to check integrity,
+        md5sum pgdvd.iso
+ 
+On Windows, this command should work (first get a command shell,
+i.e., by "Start / Run / command", and cd to the right directory):
+        copy /b pgdvd.iso.* pgdvd.iso
+ 
+(Make sure that all of the iso files are in one directory.)
+ 
+Checking file integrity on a Windows/DOS system requires the use of a
+third-party application.  Searching the internet, and in particular
+various software download sites, will give you several options for
+an MD5sum program.
+
+59d8a193874349181122ff52e2e3e114  is the correct sum.
+
+See pgdvd.iso.md5  for the MD5 sums for individual files.
+
+- The WinRAR program (for Windows computers) can be used to reassemble
+.rar files, when available.
+
+- The Jigdo program can be used to download and assemble files based
+on instructions in a .jigdo file, when available.
+
+- We are also encouraging BitTorrents.  Visit the CD project page
+for current BitTorrent links.
+
+
+FOR MORE INFORMATION
+
+See the CD project page for further information, including the
+possibility of using peer to peer transfer, BitTorrent, and other
+options to get the DVD and CD images:
+	http://gutenberg.net/cdproject
+
+The Project Gutenberg contacts page at gutenberg.net includes
+email addresses for help.
+
+  THANKS for your interest in these CD and DVD images!  We hope
+  you enjoy them, and consider redistributing them.
+
+
+NOTES
+
+* International Copyright
+
+The Project Gutenberg Literary Archive Foundation (PGLAF) is committed
+to complying with copyright laws.  PGLAF has not verified that all the
+eBook files on these discs meet the copyright laws in countries
+outside of the United States.  PGLAF recommends that you verify this
+before using these files and requests that you advise us of any
+problems by email to copyright AT pglaf.org
+
+** A note on CD and DVD disc capacity.  It turns out that disk drive
+manufacturers (including the people who make CD and DVD burners and
+blank discs) measure disk space differently than the rest of the
+computer world.  To them, 1MB, which is 1 megabyte, is 1,000,000
+bytes.  For the rest of the computer world, 1MB is 1,046,576 bytes.
+We mention this because people might read their DVD disc package and
+expect it to hold 4.7GB, but be surprised to find it can only hold
+about 4.37GB as the rest of the world measures space.
