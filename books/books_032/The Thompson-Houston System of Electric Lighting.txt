@@ -1,0 +1,1358 @@
+The Project Gutenberg eBook of The Thompson-Houston System of Electric Lighting
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Thompson-Houston System of Electric Lighting
+
+Author: H. T. Cory
+
+Release date: January 5, 2017 [eBook #53893]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by The Online Distributed Proofreading Team at
+        http://www.pgdp.net (This file was produced from images
+        generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE THOMPSON-HOUSTON SYSTEM OF ELECTRIC LIGHTING ***
+
+                          The Thompson-Houston
+                           System of Electric
+                               Lighting.
+
+                   Thesis submitted for the degree of
+             Bachelor of Science in Mechanical Engineering,
+
+                  to the Faculty of Purdue University
+
+
+                               June 1887
+
+------------------------------------------------------------------------
+
+
+
+
+“In its power to assume always that form of energy which happens to be
+the most useful lies the great importance of electricity.” This
+importance has been brought to the notice of the public by means of the
+many recent exhibitions. Public interest has been roused and there is
+everywhere a desire for information and a guide through this far
+reaching field for discovery and invention. And, although there are many
+works treating on electricity and electric light, people specially want
+a short and concise though thorough description of the various schemes
+by which electric light is produced. In this thesis the object is to
+give a brief treatise on one of the many schemes of producing light by
+electric currents viz—The Thomson-Houston System.
+
+In pursuing the subject of electricity, the first thing noticed is the
+analogy and difference between the dynamo and its older and more
+powerful rival the steam engine. The resemblances are, First as in the
+development of the steam engine, but few of the improvements and
+inventions in electrical machines were made by mathematical leaders.
+Watt ran across the idea of the seperate condenser while repairing the
+Newcomen model and applied the expansion of steam to the steam engine by
+a mechanical accident rather than by his own ingenuity, and so we find
+the first designers of the dynamo were mechanics rather than
+philosophers. Secondly the tendency to disregard old methods and
+instruments because of new discoveries and inventions has, as in the
+steam engine, hindered the advancement in electrical science. As an
+example it has become customary to regard frictional and statical
+electric machines, for practical purposes, as obsolete, but recent
+discoveries seem to hint that they may yet be utilized. Lately Prof.
+Dodge has shown that dust and vapor whirling in the air may be settled
+by a discharge of electricity consisting of a continuous series of
+electric sparks. This has been utilized to clear the atmosphere in lead
+smelting works from the fumes of volatized lead and with its application
+comes the invention of Wimhurst which produces with a minimum of
+mechanical labor a continuous series of electric sparks and works
+admirably.
+
+The differences between the engine’s and dynamo’s developement are:
+_First_ the marvelously rapid developement of the dynamo as compared
+with that of the steam engine. Since 1867 when the term “dynamo electric
+machinery” even to scientific men had but little signification, the
+dynamo has been brought to a very high degree of perfection. _Secondly_,
+the development of the dynamo has reached a much higher degree of
+perfection than that of the steam engine. Among the best steam engines
+twenty per cent effeciency is considered as very good while a good
+dynamo gives out in the form of electricity, ninety per cent of the
+mechanical energy put in it. But the class of people who improved and
+made the steam engine what it is were as well educated in one sense as
+were the men who brought out the dynamo. While it is true that in Watt’s
+time the knowledge concerning steam was very meagre, yet the practical
+men who _made_ the dynamo, did it by themselves as nearly all the
+teachers of electricity knew nothing except what may be called
+electrical tricks. As has been said[1] “The teachers and writers of
+textbooks, practically did not know that there was anything in common
+between the electricity from a rubbed glass machine and voltaic
+electricity, or to be brief, that there was a science of electricity as
+distinguished from mere natural history.” In fact as late as 1870 there
+were really no textbooks on electricity. Even now electrical knowledge
+is so meagre as to warrant the same writer’s expression, “We can not
+imagine a mechanical engineer mistaking a few inches for a few miles or
+a grocer compounding an ounce of sugar with a carload, but this gives
+too truthful an idea of the vagueness that still exists.”
+
+In the distant future, electricity will be used for electric lighting
+only as subordinate to other uses to which it may be applied such as
+heating houses, taking place of stoves for cooking, being used as a
+substitute for the steam engine. In fact the motor is rapidly becoming
+of as much practical use as the electric light. The principle of the
+motor is just this; a certain amount of mechanical energy say thirty
+four horsepower per minute into the form of electric currents, which by
+the way gives enough current to run 45, 2000 candle power lamps, send
+the current and distance through suitable conductors and attach them to
+similar dynamo or dynamos but in such a manner that the current in the
+second set of dynamos flows in the reverse direction to that of the
+first; when, the armature of the second dynamo or dynamos will revolve
+and at the pulley or pulleys of the dynamos, aside from friction, will
+be given out 95% of the thirty-four horsepower, the loss being due to
+the resistance of the conductors. Now in practice a motor is placed on
+the arc light circuit the same as a lamp, for energy less than twelve
+horsepower. It does not affect the lights and is a clean, neat way of
+obtaining energy.
+
+But however true the foregoing may be, the greatest present use of
+electricity is to start and maintain light. There are several so-called
+systems, embracing dynamos, lamps, regulators, etc, from which I select
+the Thomson-Houston as the one for the purpose of describing for several
+reasons, _first_, it is at least as good as the average system of which
+there is a mushroom growth; _second_, valuble information was kindly
+offered by the parent Company; _third_, a good plant is near to which
+free acess was given, and _fourth_, we have at the Mechanical Hall of
+this University, a dynamo, loaned by the parent Company, which affords
+information without any inconvenience. As each part of the system comes
+up to be described a little of its history will be given. As the first
+part of a system necessary to be produced is the current generator we
+will first describe
+
+
+
+
+                     _The Thomson-Houston Dynamo._
+
+
+In considering the current generator the first thing to be decided upon
+is the definition of the term dynamo. The following is thought to be a
+correct definition,—A dynamo or dynamo electric machine is a machine
+which is used to convert energy in the form of mechanical motion into
+energy of electric currents, or _vica-versa_. Those used to generate
+currents of electricity are called dynamos, those used to generate
+mechanical motion are known as motors.
+
+In attempting to make clear the theory of the dynamo, we will recall
+some simple experiments. In Fig. 1, send a current around B from right
+to left. Now A being free to move vertically either up or down, connect
+its binding posts to a _galvanometer_ (that is, an instrument used to
+tell the direction of a current and also used to test the _relative_
+strength of two or more currents) and move A up suddenly when a current
+will be generated in A whose direction will be the same as that of the
+current in B. Now this current is not created energy, because in
+lifting[2] the coil A, work is expending against the attraction between
+the coils, as between two currents flowing in the same direction there
+is an attraction. If we pursue this experiment in its various forms we
+will find the following statement known as Lentz law is true, viz: “If
+the relative positions of two conductors A and B be changed of which B
+is traversed by a current, a current is induced in A in such a direction
+that by its electro dynamic action on the current in B it would have
+imparted to the conductor a motion of the contrary kind to that by which
+the inducing action was produced.”
+
+The theory of this law is that around every wire carrying a current
+there is a magnetic whirl (Fig. 3). Now if the conducting wire be passed
+through a hole in a horizontal plate of glass and iron filings be sifted
+upon the latter they will arrange themselves, as shown in Fig. 2., along
+lines, radial in this case, known as lines of force, which arranging is
+due to the magnetic attraction of the current in the wire upon the iron
+filings. Now in B. Fig. 1, every portion of the wire has just such a
+whirl and just such lines of force, or magnetic field, and when A is
+moved each part of the wire of A cuts one or more lines of force of the
+many magnetic fields making up the magnetic field of the entire coil B.
+Now when the wire of coil A cuts magnetic field of B a current is
+generated in A acording to the following statement known as Faraday’s
+Law; “When a conductor in a field of force moves in any way so as to cut
+the lines of force there is an electromotive force produced in the
+conductor in such a direction that supposing a figure swimming in the
+conductor to turn to look along the positive direction of the lines of
+force (in Fig. 1, toward axis of B), and the conductor be moved to his
+right, he will be swimming with the current so induced.” Hence in Fig.
+1, the current generated in it will be from left to right.
+
+Practically Faraday’s principle means just this: by moving a wire across
+a space where there are magnetic lines, the motion of the wire as it
+cuts the magnetic lines sets up around the cutting wire a magnetic whirl
+or in other words sets up a current in that wire.
+
+The foregoing laws are the “principles of the dynamo,” yet after their
+deduction, the progress of the evolution of the dynamo was slow and
+attended by many dificulties. Between 1860 and 1870 however, a working
+knowledge of these laws became the property of thousands of mechanics,
+and by comparing the number of inventions before and after that date
+(1860) the present generous growth of systems, dynamos and lamps, prove
+that inventions were almost in proportion to the number of people who
+had any electrical knowledge. In 1866 Wilde produced a toy
+magneto-electric machine for giving shocks, in which he used excited
+electromagnets. In the same years Varley and others produced a machine
+which excited its own field magnets the type of all machines used in
+practice. With this principle of Varley’s and Pacinnotti’s ring, Gramme
+produced in 1871 his since famous continuous current generator, one of
+which the second dynamo electric machine ever brought to this country
+can now be seen at the engine house at Purdue University. In 1877 Silas
+Brush brought out his famous dynamo and it may be interesting to know
+that he designed and had one made without experimenting in the least. In
+the following year a patent was issued to Messrs. Elihu Thomson and
+Edwin J. Houston, Professors of electricity in Philadelphia on the
+present though much improved _Thomson Houston Dynamo._
+
+[Illustration:
+
+  _Fig. 1._
+
+  _Fig. 2._
+
+  _Fig. 3._
+
+  _Fig. 4._
+
+  _Fig. 5._
+
+  _Fig. 6._
+
+  _Fig. 7._]
+
+To go back to Lentz and Faraday’s laws and carefully consider them we
+can but assent to S. P. Thompson’s “fifteen propositions on the dynamo”
+which are:—1. A part of the energy of an electric current exists in the
+form of a magnetic whirl surrounding the wire.
+
+2. Currents may be generated in a wire by setting up these whirls.
+
+3. We can set up these whirls by increasing or decreasing the relative
+distance between magnets and wires.
+
+4. To set up and maintain these whirls consumes power.
+
+5. To induce currents in a conductor there must be motion between them
+so as to alter the number of lines of force (Fig. 4 to 7).
+
+6. Increase in the number of lines of force in the circuit produces a
+current of the opposite sense to decrease (Fig. 7).
+
+7. Approach induces electromotive force in the opposite direction to
+that induced by retreat.
+
+8. The stronger the magnetic field the stronger the current.
+
+9. The more rapid the motion the stronger the current.
+
+10. The greater the length of the conductor which cuts lines of force
+the stronger the current.
+
+11. The shorter the conductor not so employed the stronger the current.
+
+12. Approach being a finite process the approaching and receeding must
+give alternating directions to the current.
+
+13. By the use of a commutator all the currents can be turned in the
+same direction.
+
+14. In a steady circuit it makes no difference what kind of magnets are
+used to procure the requisite magnetic field whether permanent or
+electromagnets.
+
+15. Hence the current of the generator may be used to excite the
+magnetism of field magnets.
+
+Now the Thomson-Houston dynamo comes under that class of dynamos in
+which there is a rotation of coils in a uniform field of force, such
+rotation (Fig. 6.) being affected round an axis in the plane of the
+coil. Of course this dynamo is made like all others of its class to have
+_first_, as powerful field-magnets as possible, _second_, the armature
+or rotating coil has as great a lenght of wire in it as possible the
+wire being thick to offer little resistance and _third_, built to stand
+high rotative speed.
+
+The simple theoretical dynamo is shown at Fig. 8, consisting of a single
+rectangular loop of wire rotating in the magnetic field formed by large
+magnets, and in order to take the current so generated from the loop so
+as to give a continuous current, we use a two part commutator (Fig. 9)
+consisting of a metal tube split in two and mounted on wood, each half
+connected to one end of the loop. The current is taken off by brushes
+which lead to the main circuit. But manifestly this dynamo would give no
+appreciable current becase it has a very small length of wire on the
+armature, so a great number of loops were used which at present
+constitute the so-called _drum armature_.
+
+We may rotate the loops of wire in Fig. 8, on one of its sides as an
+axis or even push it farther from the center of revolution than that. To
+do this, wrap the wire around a ring and connect both ends to a two part
+commutator (Fig. 10). If instead of the ring in Fig. 10, being solid it
+be a number of coils of wire and if instead of there being one coil
+around the ring there be thirty we will have Pacinnotti’s ring before
+spoken of. If we used four to ten coils or “bobbins” of large size which
+is shown diagramatically at Fig. 11, we would have the Brush dynamo.
+
+So with exceptions we may say that there are practically two types of
+dynamos as regards armatures, the _ring_ type as Brush, Pacinnotti’s
+Gramme, and the _drum_ armature (page 20).
+
+The Thomson-Houston dynamo is like the rest of that dynamo, unique. To
+quote S. P. Thompson; “The Thomson-Houston spherical armature is unique
+among armatures, its cup shaped field magnets are unique among field
+magnets, its three part commutator is unique commutators.”
+
+[Illustration:
+
+  _Fig. 8._
+  Simple Dynamo.
+
+  _Fig. 9._
+
+  _Fig. 10._
+
+  _Fig. 11._
+
+  _Fig. 12._
+
+  _Fig. 13._]
+
+An armature of a dynamo is the rotating coil or coils which generates
+currents of electricity by moving in a magnetic field of force. It is
+the most important part of a dynamo as it is literally the current
+generator. So we first consider the Thomson-Houston
+
+
+
+
+                               _Armature_
+
+
+It is spheroidal in shape as is noted for the fact of its very seldom
+_burning out_, i. e., the electricity heating the wires of the armature
+to such an extent as to destroy the insulation or fuse the wires, either
+rendering the armature useless. It is made by keying two dish-shaped
+iron disks _SS_ Fig. 12, to the shaft x and putting ribs _dd_ about ten
+in number in the twenty-five light machine, and over the whole putting
+varnished paper. Then at stated intervals, pegs JJJ are driven into
+suitable holes in the disks and ribs to help in winding wire on the
+shell. Next three insulated wires of equal length are joined together at
+_h_ Fig. 13, and the three wires are then wound over the shell in the
+following peculiar manner: one half of No. 1 is wound so as to form a
+zone of a sphere of which the shaft is in the same plane as the center
+circumference of the zone. The armature is then turned on the shaft as
+an axis 120° and one half of No. 2 is wound in the same manner as the
+first half of No. 1. The armature is moved 120° more and all of No. 3 is
+wound. The armature is then turned back, 120° on the shaft as an axis
+and the remainder of No. 2 is wound. Lastly the armature is turned back
+120° more and the rest of No. 1 is wound. They are bound by wires _gg_
+Fig. 13 to hold them when rotating. The object of this rather
+complicated winding is to get the three coils equi distant from the
+shaft in order that each coil will generate practically the same
+current. Now as will be seen the overlapping wires will form a nearly
+spherical armature. The armature is mounted on the shaft _x_ as an axis
+which extends far enough out from its bearings to put a pulley on the
+end _H_ and a commutator on the other end to the three parts of which
+are fastened the three wires marked one, two, three, Fig. 13.
+
+It has been urged that the repairs of this armature will be larger than
+on any other armature. If there should be a “burnout” it would
+necessitate the taking apart of the dynamo and sending the armature to
+the factory to be rewound. But it never burns out except through
+positive carelessness and it will be found that the repairs on this
+armature is less than on the armatures of its several powerful rivals
+taken separately even though they be of simpler construction.
+
+When the Thomson-Houston armature is rotated between the cup-shaped
+fieldmagnets alternate currents are generated in each coil in turn and
+now the next point to be considered is the
+
+
+
+
+                              _Commutator_
+
+
+which incites the alternate currents so formed into one continuous
+current. The commutator as before stated is fastened on the shaft at the
+end one, two, three Fig. 13. It consists of three copper plates in the
+form of a cylinder each segment _A´A´A´_ covering 115° of the dotted
+circle Fig. 14. They are screwed to rod _CCC_ and _DDD_ which are
+insulated by wood and gutta-percha plates _EE_ from the iron mounting
+_E´´_ which is in turnescrewed to shaft by set screws shown. The wires
+one, two, three, have respectively red, white and blue insulation and
+are put in binding posts _DDD_ marked one, two, three at the factory and
+if not so placed may work badly. The current enters _D_ goes to _B´B´_
+which there have direct contact with _A_.
+
+[Illustration:
+
+  _Fig. 14._
+  Half Sec. A.B.
+
+  _Fig. 15._ _Air blast Nozzles._
+
+  _Fig. 16._ _Air blast Mechanism._
+
+  _Fig. 17._ _Section of Dynamos._
+  Spherical Armature in Fig. 13.]
+
+Now in a three-part commutator the spark occurring as the segments pass
+under the brushes would very quickly destroy the surface and interfere
+with the currents in the coil. This difficulty is overcome by blowing
+out the spark by an air blast given at just the right place and time.
+The manner in which the blast is delivered is as follows: the segments
+of the commutator
+
+are separated by gaps of about 5° and in front of each of the leading
+brushes there projects a nozzle, Fig. 15, which discharges an air blast
+alternately three times in each revolution. The blast itself is supplied
+by an ingenious piece of mechanism known as the
+
+
+
+
+                          _Thomson Air Blast_.
+
+
+It consists of an elliptical box II whose sides have perforations II
+where air can enter while inside of this rotates a steel disk keyed to
+the armature shaft and having radial slots in which slide three wings
+RRR of ebonite which as they fly around drives air into the holes JJ
+leading to the nozzles Fig. 15. The result is that, since the spark is
+done away with, oil can be supplied to the commutator in limited
+quantities but still amply sufficient to reduce the wear on the
+commutator to such an extent that the life of a segment is greatly
+increased. The air blast is fastened to the dynamo frame just behind the
+commutator and can be see in Fig. 23.
+
+
+
+
+                          _The Field-Magnets_,
+
+
+as may be seen from Fig. 17, consists of two flanged iron tubes _AA_
+whose end consists of a convex segment of a sphere accurately turned to
+recieve the armature. Coils of wire _CC_ which are in the outside
+circuit and through which the entire current flows are wound upon the
+tubes. After the armature is placed between them the two tubes are
+bolted together by heavy wrought iron bars _BB_ and the whole carried on
+the frame work _PN_ shown also at _PN_ Fig. 23. Now a little magnetism
+only remains in the wrought iron bars and iron frame works when the
+armature first revolves, but the current even though slight, going
+through the coils makes an electromagnet out of each tube and heavily
+magnetizes the wrought iron bars and in two or three seconds after the
+armature first rotates it is entirely surrounded by a heavy magnetic
+field. One of the good points of these field magnets is that but very
+little magnetism is lost as compared with most other dynamos and since
+it takes power to maintain a heavy magnetic field, this dynamo is in
+this respect very economical.
+
+
+
+
+                     _The Thomson Regulating Gear_
+
+
+Later on we will show that pushing the brushes together or pulling them
+apart alter the strength of the current, but for the present just accept
+the fact and we will show how the brushes are varied. It is accomplished
+by the mechanism shown in Fig. 18. The brushes are fixed to the levers
+YY and Y_{2}Y_{2} united by the lever _l_. The automatic movement is
+obtained by the electromagnet _R_ while a dashpot _J_ prevents too
+sudden motion. Suppose the brushes to be in the position shown when the
+current would get too strong owing to lights being cut out. The
+electromagnet R getting stronger would raise _A_ and reduce the current
+taken off until current came to normal. If, instead, some lamps were
+thrown in the current would become weak and the electromagnet _R_ would
+become weak, drop A which would increase current and this will continue
+till current reaches normal.
+
+The foregoing regulating gear is used on small dynamos and old style
+large ones. On the large new style dynamo a more delicate regulating
+gear is used, the current which operates it being shown at Fig. 19.
+Normally the electromagnet _R_ is short circuited by the wire _r_ and
+only acts when this circuit is broken. At some point in the main circuit
+is a _wall controller_ or _controller magnet_ shown in Fig. 19, at ST,
+consisting of two electro magnet, Their yoke supported by a spring and
+the yoke operating the contact lever S. If the current becomes too
+strong the controller magnet circuit is broken and all the current of
+the main circuit goes through the electromagnet _R_ which by its sudden
+increase of strength quickly raises _A_ and thus alters the brushes.
+This only exists for a moment until the yoke of the controller magets
+fall because of their decrease of magnets strength, when current again
+flows through wire _r_ because when yoke drops contact is made. This
+decreases the strength of electro magnet _R_ thus dropping _A_ and
+increasing current. Hence _S_ will again raise and break contact and _R_
+again rais _A_. This is continually repeated.
+
+
+
+
+                             _The Brushes_,
+
+
+of which there are four in use on all machines, are made of a broad
+strip of springy copper having six slits two thirds the distance up, and
+thus touching at several points. They are held by clamps shown at Fig.
+23 which also shows the brushes. The brushes are held to the commutator
+by their own springiness and the variation of position due to strength
+of current. The brushes are set by a gauge sent with each dynamo which
+shows length from the end of brush to the holder. The holders are set at
+the correct angle by a gauge of brass of the shape of a right angled
+triangle the short side having a wide flange curved to fit the
+commutator for which it is sent, while the second side as regards length
+must fit to the holder when swung to it on the commutator as an axis.
+
+After describing the details of the dynamo, we will at once proceed to
+find how the
+
+
+
+
+                   _Thomson Houston Dynamo Operates._
+
+
+In the diagram Fig. 19 the rotation is as in practice against the hands
+of the watch when seen from the commutator end of shaft. The three coils
+of the armature are represented by three lines _A_, _B_, _C_, united at
+their inner extremities each being joined to a segment of the
+commutator. There are two positive brushes _P_ and _F_ and two negative
+ones _P´_ and _F´_. The current delivered to _P_ and _F_ goes round one
+of the field magnet coils, then to the outer circuit consisting of
+regulating gear, lamps, motors, etc., through the other field magnet
+coil to brushes P´ and F´. Now from Fig. 20, we observe that supposing
+the loop to be rotating against the hands of the watch in a magnetic
+field the diagram represents by arrows the direction of the
+electro-motive forces induced in those loops. The action is a maximum
+along the line of the resultant magnetic field m m´ and the minimum
+along the line n n´ which is at right angles to m m´. The reason that
+m m´ is not horizontal is that the induced poles of the armature is in
+advance of the poles of the field magnet and is constantly tending to be
+drawn back. Applying Fig. 20 to Fig. 19, we see that there will be an
+outward current in _B_, an inward one in _C_, _A_ generating no current
+for that moment.
+
+Now the following pair of brushes _F F´_ are shifted backward three
+times as far as _P P´_ is shifted forwards. When the current is the
+greatest possible the brushes P and F and P´ and F´ are 60° apart thus
+leaving _P_ and _F´_ and _P´_ and _F´_ just 120° apart and since the
+segments of the commutator are each 120° in length[3] there will always
+be two coils in parralel with one another and in series with the third.
+Taking one sixth of a revolution and continuing all the way round we
+find the following tabulated statement showing brushes in contact with
+coils, to be true viz:—
+
+
+                           { P - C }   { P´ }
+ From external circuit     {       } B {    }  to external circuit
+                           { F - A }   { F´ }
+
+                           { P }    { P´ - B }
+  ”      “        ”        {   } A  {        }  ”    “         ”
+                           { F }    { F´ - C }
+
+                           { P - A }   { P´ }
+  ”      “        ”        {       } C {    }   ”    “         ”
+                           { F - B }   { F´ }
+
+                           { P }   { P´ - C }
+  ”      “        ”        {   } B {        }   ”    “         ”
+                           { F }   { F´ - A }
+
+                           { P - B }   { P´ }
+  ”      “        ”        {       } A {    }   ”    “         ”
+                           { F - C }   { F  }
+
+                           { P }   { P´ - A }
+  ”      “        ”        {   } C {        }   ”    “         ”
+                           { F }   { F´ - B }
+
+
+Now suppose the current to become to strong owing to any cause, the
+following brushes are made to recede. This can but shorten the time that
+the brushes are in contact with the commutator when the coil is passing
+through that position in which it is generating the maximum amount of
+current and also hasten the time when it goes into parralel with a
+comparatively idle coil. If the current is to weak then the brushes are
+made to close up thus reducing the time that the most active coil is in
+parralel with one less active and also makes the brushes be longer in
+contact with the segment when the coil is generating its maximum amount
+of current. The motion of advance and retreat of the brushes is
+accomplished by the _Thomson Regulating Gear_ before described. On Fig.
+23 can be seen all the dynamo’s details except the _Controller magnet_.
+
+[Illustration:
+
+  _Fig. 18._
+
+  _Fig. 19._
+
+  _Fig. 20._
+
+  _Fig. 21._
+
+  _Fig. 22._]
+
+As regards the _Thomson-Houston Dynamo_ it will be found to produce the
+steadiest and most uniform current of any dynamo now in use. It
+regulating gear is the simplest and most natural one ever used. In its
+ability to reduce the current simaltaneously to one tenth of its former
+quantity inside of one or two minutes _without injury to itself and
+lamps_ it stands alone, in practice.
+
+
+                               _Fig. 23._
+
+
+               Your engraving representing “_Dynamo
+               Electric Machine with Thomsons Spherical
+               Armature_”
+
+               —Taken from one of your catalogues, and
+               pasted on a sheet of this paper—
+
+In a system the most important thing next to the dynamo is the lamps.
+The first experimenter who produced an electric glow was Otto von
+Guericke. But neither the glow nor electric spark have been used to
+produce electric light for practical purposes, this was left to the
+voltaic arc on the one hand and the incandescent lamp on the other. Davy
+in 1800 mentions experiments in which electric light was obtained by
+electric sparks between two carbon points. He showed the arc[4] light
+for the first time in 1810 at the Royal Institute, which with Foucalt’s
+hand regulator (1844) Deleuil lit the Place de la Concorde, Paris.
+Thomas Wright in London (1845) devised the first apparatus which
+automatically adjusted the carbons. W. C. Staite used the electric
+current for the regulation of the carbons in 1848. In 1855 Serrin
+constructed a lamp which would have been used on a large scale had it
+not been for the cost of generating electricity. In 1876 Paul
+Jablochkoff invented his electric candles and in 1881 there were 4000 in
+use, but as their use increased their defects were found out. Regulated
+lamps were again brought into use and with them experimenters again
+endeavored to solve the problem of dividing the electric light. In 1877
+Tschikoliff solved the problem in a very simple manner. He reasoned
+that, if the current be divided and part go through the carbons and make
+the arc and the rest go through an electromagnet and regulate the arc
+and the the current unite and when another light is wanted the current
+be again divided and reunited, the current may be divided any number of
+times and the scheme work nicely. When put in practice it worked very
+nicely and is used on most lamps at present. Suppose there be a lamp
+placed in the circuit. The current divides and the larger half goes
+through the carbons, as here there is no resistance as the carbons
+touche, while the remainder, going through a spiral of high resistance,
+is small. When the carbons burn away a little the arc is formed and the
+resistance increasing brings the regulating gear into operation. Now the
+strength of the current is the same after it has gone through the lamp
+as before because the current is going to get through either one way or
+the other, hence any number of lamps may go on in series, depending only
+upon the tension of the current.
+
+Incandescent lamps were produced as early as 1859 but not till 1879 when
+Swan, Edison, Sawyer and others were they ever in a practical form. The
+first glow lamp Edison constructed had platinum wire to be heated. He
+however examined the properties of organic substances and finally fixed
+on bamboo fibre. The bamboo is divided into fibres one millimeter in
+diameter and twelve millimeters long. These fibres are pressed in
+U-shaped moulds and baked in ovens where they are allowed to become
+carbonized. The carbonized filament is attached to platinum wires which
+are fused in a glass vessel from which the air has been exhausted. We
+will speak more fully of the incandescent lamp when describing the
+Thomson Houston System’s incandescent lamp.
+
+The Thomson Arc lamps was used by the Thomson Houston System since its
+begining till about two years ago when they stopped manufacturing them,
+only furnishing broken parts. The arc lamps at present used is
+
+
+
+
+                      _The Thomson Rice Arc Lamp._
+
+
+They are manufactured in two styles the single lamp used for stores,
+buildings etc., and the double lamp used for street service, all night
+work, etc. The light is produced by the voltaic arc between two carbons,
+the negative pole or lower carbon burning away about half as fast as the
+positive pole or upper carbon. The outside view of the single lamp is
+seen in Fig. 21 and of the double lamp in Fig. 22.
+
+The regulation of the double lamp is diagramatically shown in Fig. 24,
+which is a plan of the lamp with cover removed, showing only a plan of
+cylindrical part of the lamp. The wires marked _a b c d_ run along the
+top in order to be out of the way. In Fig. 24 the current comes in at
+the binding post and is at _A_ divided into three currents _A_, _B_, and
+_C_. The current _a_ goes to the yoke _I_ of the electromagnets _h_ and
+_i_ and when the yoke is not held down by magnets _h_ and _i_, it goes
+out wire _a_ to binding post _B_. This only continues a moment until the
+current _b_ which goes through the carbons and at the start has almost
+no resistance offered it, attracts the yoke _I_ thus breaking contact of
+curcuit _a_ until the current ceases or till both carbons burn away,
+when in the latter case the resistance of _b_ becoming very high as
+compared to _j_ and _k_ but little current goes through _h_ and _i_ and
+_I_ is raised by a weak spring not shown, thus making contact of circuit
+_a_, and since current _a_ has little resistance as compared to _b_ or
+_c_ most of the current goes through it, thus practically making a
+cut-out. The current _b_ goes round the electro-magnets _h_ and _i_,
+then to the “bed” through screw J, the “bed” being a cast iron bottom of
+the cylinder _E_ Fig. 22. From the bed it goes down carbon holder _C_
+(or _H_) through carbons and arc to frame bed _A_ Fig. 22. From there it
+comes up a wire by the side of frame _C_ Fig. 22 and joins other
+currents at _B_. The third current _a_ goes through electromagnets _j_
+and _k_ and joins other currents at _B_.
+
+This is when switch F Fig. 22 and _M_ Fig. 24, is turned _on_. Now since
+the dynamo will regulate all differences in current the lamps can be
+turned _on_ or _off_ at will by any one. This is accomplished at the
+lamp by turning _off_ the switch. When the switch is turned _off_, the
+current goes through _d_ to screw _K_ which is then touched by metal L
+(in contact with binding post B and worked by _M_).
+
+It will be perceived that any disorder in a lamp cannot affect other
+lamps in the circuit and will right itself or if not the lamp can
+immediately be switched out of circuit.
+
+Now as to the regulating gear. The two carbon holders are held up, _H_,
+by clutch operated by springs (not shown) till end _N_ of lever _ON_ is
+permanently held down, and _C_, by the raising and falling of yoke _D_.
+There is only _one_ arc burning at a time in a double lamp and the
+so-called positive carbon _C_ burns first. When the lamps are trimmed
+the switch is first turned _off_ the carbons put in and the switch
+turned _on_. This will draw the upper carbons up about a quarter of an
+inch.
+
+When the current is turned on the circuit _aa_ is almost instantly
+broken and most of the current goes through _c_ as the distance between
+carbons being a quarter of an inch the arc has a _very_ large
+resistance. The electromagnets _j_ an _k_ attract _D_ which lets loose
+_C_, which falls to lower carbon, and the resistance being almost
+nothing, most of the current goes through _b_. This weakens _j_ and _k_
+which lets _D_ up while _D_ takes _C_ up with it thus establishing the
+arc. The current _all_ goes down _C_ till the enlarged end of _C_
+strikes lever _ON_ thus letting _H_ drop and also putting it in
+electrical contact with “bd,” which it was not in before.
+After a short time the carbons burn away, the arc becomes longer and
+establishes itself and the resistance becoming greater in passing from
+carbon to carbon and a correspondingly less current flows through _b_
+and a greater one through _c_. This makes the electro-magnets _j_ and
+_k_ strong enough to draw _D_ to them in spite of spring _Q_. When _D_
+is attracted by _j_ and _k_, _C_ (or _H_) falls and again the arc
+lengthens, always being kept about 3/32 inch long. This is frequently
+and continually repeated, the delicacy depending upon the strengh of the
+spring _Q_ as compared to the electromagnets strength.
+
+[Illustration: _Fig. 24._]
+
+When the carbon in carbon holder _C_ burns to a length of about two
+inches in attempting to fall to maintain arc’s length, an enlarged port
+at the top of the carbon holder _C_ strikes and holds down lever _ON_
+pivoted at _O_ (and end _N_ held up by a spring _P_) thus letting loose
+a clutch by which electrical contact is made between _H_ and “bed” and
+letting _H_ fall till it touches lower carbon when an arc is established
+and regulated just as for _C_.
+
+The Thomson-Rice single lamp has the same gear with the exception of
+having only carbon holder _C_, _H_, lever _ON_, and spring clutch and
+spring _P_ being absent. The single lamp will burn eight hours and the
+double lamp fourteen hours continuous running.
+
+These lamps are intended only for a steady current and will not cut out
+of circuit if the current gets too strong. But with the Thomson Houston
+dynamo the current never gets too strong and because of this there are
+less power absorbing mechanism and as anything’s functions decrease the
+remaining functions are increasedly better. As the Thomson-Rice lamp has
+less functions and power consuming machinery, it can but be the most
+economical, delicately adjusted and steadiest lamp extant. They are made
+to stand a current of five amperes above the normal current for a short
+time, as, when forty lights are simultaneously cut out of a forty-five
+light circuit, the current runs up about four amperes above the normal
+current for about one half a minute.
+
+Prof. Thomson has gotten out a divided arc lamp which supplies a light
+of moderate candle power for locations where a 2000 candle power lamp
+gives more light than can be economically utilized. It is specially
+suited for factory and mill use where looms or other tall machines are
+liable to cast disadvantageous shadows. It is said that these lights are
+supplied cheaper per candle power than the standard lamp and up to date
+is sucessful.
+
+He has also arranged apparatus by which arc lamps are run in multiple
+series, series or multiple arc. It is said that divisions, redivisions
+and reunions are practicable. This is also sucessful as far as we can
+find out.
+
+
+
+
+                  _The Sawyer-Man Incandescent Lamps._
+
+
+As before stated Edison fixed upon carbonized filament of bamboo. The
+Sawyer-Man company however applied for a patent on carbonized filament
+for incandescent lamps on January 19^{th} 1880, and after five years
+litigation with Thos. A. Edison they were granted a patent No. 317,676,
+on May first, 1885, covering their invention. The Sawyer-Man lamp Fig.
+25, consists of a carbonized connected to platinum wires fused in a
+glass tube from which all the air possible had been extracted. The light
+is produced by the glow of the filament and heat of gases given from
+filament. The life of a lamp is from 1000 to 1500 hrs. and requires a
+current of 1¼ to 1.3 amperes and give 20 to 25 C.P. When the filament
+becomes brittle and breaks the tube is unscrewed from the key Fig. 26,
+and a new one screwed in. They are run on the arc light circuit by the
+use of an individual distributor Fig. 27 which consists of a brass case
+containing a magnet in the circuit of the lamps and a resistance coil
+automatically substituted in case the lamp should break or is turned off
+by key Fig. 26. The scheme of arranging lamps so as to get the right
+current is shown at Fig. 28. the number of lamps in a group depending on
+the current.
+
+Prof. Thomson has gotten out a lamp Fig. 29 in two styles one for 6.8
+amperes current and one for 10 amperes current. Three lamps of different
+candle power, due to different potential differences at binding post of
+lamp, are use on the same current. The method of connecting them is
+shown in Fig. 30. It will be perceived that the lamps carry the full
+current yet have a life of 1000 hrs. or more. This is a great invention
+indeed doing away with a great loss of power due to high resistance
+coils. It will be noticed however that a 125 C.P. incandescent lamp uses
+as much energy as a 2000 C.P. arc light, the 65 C.P. lamp one half as
+much and the 32 C.P. lamp one fourth as much.
+
+
+
+
+                           _General Remarks_
+
+
+The Thomson Houston system also furnish lightning arresters, ammeters,
+hanging boards, switchboards, hoods, insulators, lamp arms, etc, but,
+though in some respects many of these miscellaneous articles are
+ingenious and novel, yet they are not distinctive of the Thomson Houston
+or any other system. Be it said however that all these articles fill
+their proper places. The company also furnish a motor to go on their
+circuits but for the double reason that of the motor not being strictly
+related to electric lighting and of being unable to obtain a description
+of it, it must remain undescribed as far as this thesis is concerned.
+
+After describing all the parts of the system it may be interesting to
+know how a plant is arranged. The last plate is a photograph of the
+LaFayette Gas Company’s Plant of the Thomson Houston System taken at ten
+oclock one night. It shows the engine, dynamos, the wall controller on
+the left wall, and a view of the lamps which had hoods put before them
+to prevent the polarization of the negative.
+
+On the accompanying page will be found a table showing experiments with
+an old style dynamo given Purdue University by the Thomson Houston
+Company, which dynamo is now in the engine house of the Mechanical Hall.
+
+
+
+
+           _Experiments with Three Light T-H. Dynamo No. 79_
+
+
+The dynamo was run by a large pulley (about four and one half feet in
+diameter) on the same shaft as the fly wheel and beside the latter. Two
+lamps were put in circuit with a Deprez-Carpentier ammeter and a volt
+meter of the same make was put in between the brushes. First one lamp
+(old Thomson style) was switched out of circuit, the dynamo started and
+when speed was reached the circuit made. The following readings were
+taken when the engine made 139 & the dynamo 1122 revolutions per minute.
+
+
+ +-----------+----------+----------+---------------+----------------+
+ |           | One Lamp | Two      | When 2^{nd}   | When 2^{nd}    |
+ |           |          | Lamps    | lamp was      | Lamp was       |
+ | Readings  |          |          | switched in   | switched out   |
+ | At End of +----+-----+----+-----+-------+-------+-------+--------+
+ |           |Amp.|Volts|Amp.|Volts| Amp.  | Volts |  Amp. | Volts  |
+ |-----------+----+-----+----+-----+-------+-------+-------+--------+
+ | 1 second  | 10 | 55  | 10 | 110 |  6.7  |  55   |   14  |  110   |
+ | 30  ”     | 10 | 55  | 10 | 110 |  10   |  75   |   10  |   85   |
+ | 2 Min     | 10 | 55  | 10 | 110 |  10   | 109   |   10  |   60   |
+ | 3   ”     | 10 | 55  | 10 | 110 |  10   | 110   |   10  |   55   |
+ +-----------+----+-----+----+-----+-------+-------+-------+--------+
+
+
+                               _Fig. 25_
+
+
+          consisting of drawing of Sawyer Man lamp cut from
+          catalogue, and trimmed to contour of drawing
+
+
+                               _Fig. 26_
+
+
+          a drawing showing action of key in Sawyer Man lamp,
+          cut to contour
+
+
+                               _Fig. 27_
+
+
+          a drawing of the Thomson Rice Individual distributor
+          cut from cataloug and pasted in.
+
+
+                               _Fig. 28_
+
+
+          a drawing cut from pamphlet showing “Method of using
+          Thomson Rice Individual distributor”
+
+
+                               _Fig. 29_
+
+
+          a drawing cut from pamphlet showing “Prof. Thomsons
+          incandescent lamp—series incandescent lamp”
+
+
+                               _Fig. 30_
+
+
+          Drawing showing “method of using the Series
+          Incandescent Lamp manufactured by the
+          Thomson-Houston Elec. Co.” cut from your pamphlet
+          and pasted on a similar sheet.
+
+                  ------------------------------------
+
+
+          A photographer of La Fayette photoed the Gas
+          Company’s plant of T & H in this city one evening at
+          10 o’clock when several lights were burning in room.
+          I had a large one printed and pasted on a piece of
+          bristol board of the same size as this sheet, and
+          put in my original copy.
+
+
+
+
+                              _Footnotes_
+
+
+-----
+
+Footnote 1:
+
+  The foregoing statement is quoted from Dr Urbitzkany’s work
+  “Electricity in the Service of Man.”
+
+Footnote 2:
+
+  Gravity does not enter, as a current is generated in lowering A.
+
+Footnote 3:
+
+  Each segment is really only 115° in length but the brushes are set at
+  a distance from the holder far enough to just reach over the five
+  degree gap by the gauge above described.
+
+Footnote 4:
+
+  An arc light is a light produced by the use of the voltaic arc, which
+  is made by the sparks passing between two poles of a powerful battery
+  which are brought together and then seperated a little.
+
+------------------------------------------------------------------------
+
+
+
+
+                          _Transcriber’s Note_
+
+
+The source for this e-book was a hand-written thesis.
+
+Footnotes have been moved to the end of the book.
+
+The captions for Figures 23, 25, 26, 27, 28, 29 and 30 are reproduced,
+however, the original drawings were not bound with the published thesis
+and are therefore not part of this e-book.
+
+The author’s spelling has been maintained, Some standardization of
+punctuation was done to improve readability.
+
+The following proper names as used by the author are reproduced here
+with their more commonly used spelling:
+
+                 Author          Standard
+
+                 Thompson        Thomson
+                 Wimhurst        Wimshurst
+                 Dr Urbitzkany’s Alfred von Urbanitzsky
+                 Lentz           Lenz
+                 Pacinnotti      Pacinotti
+                 Foucalt’s       Foucault’s
+
+Phrases which the author portrayed as underlined are presented by
+surrounding the text with _underscores_. Some standardization of these
+was also done particularly with regard to the presentation of
+illustration captions.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE THOMPSON-HOUSTON SYSTEM OF ELECTRIC LIGHTING ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
