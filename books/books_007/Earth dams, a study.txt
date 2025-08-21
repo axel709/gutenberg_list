@@ -1,0 +1,3120 @@
+The Project Gutenberg eBook of Earth dams, a study
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Earth dams, a study
+
+Author: Burr Bassell
+
+Release date: August 9, 2022 [eBook #68721]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United States: The Engineering News Publishing Company, 1904
+
+Credits: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK EARTH DAMS, A STUDY ***
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Illustrations have been moved so they do not break up paragraphs.
+  Typographical and punctuation errors have been silently corrected.
+
+
+
+
+                              EARTH DAMS
+                               _A STUDY_
+
+                                  BY
+                    BURR BASSELL, M. Am. Soc. C. E.
+                         _Consulting Engineer_
+
+                               NEW YORK
+                THE ENGINEERING NEWS PUBLISHING COMPANY
+                                 1904
+
+                            COPYRIGHT, 1904
+                                  BY
+                  THE ENGINEERING NEWS PUBLISHING CO.
+
+
+
+
+ACKNOWLEDGMENTS.
+
+
+The writer wishes to acknowledge his appreciation of the assistance
+given him by Mr. Jas. D. Schuyler, M. Am. Soc. C. E., Consulting
+Hydraulic Engineer, in reviewing this paper, and in making suggestions
+of value. Appendix II contains a list of authors whose writings have
+been freely consulted, and to whom the writer is indebted; the numerous
+citations in the body of the paper further indicate the obligations of
+the writer.
+
+
+
+
+CONTENTS.
+
+
+                                                   PAGE
+                        CHAPTER I.
+    Introductory                                     1
+
+                        CHAPTER II.
+    Preliminary Studies and Investigations           3
+
+                        CHAPTER III.
+    Outline Study of Soils. Puddle                  12
+
+                        CHAPTER IV.
+    The Tabeaud Dam, California                     17
+
+                        CHAPTER V.
+    Different Types of Earth Dams                   33
+
+                        CHAPTER VI.
+    Conclusions                                     63
+
+                        APPENDIX I.
+    Statistical Descriptions of High Earth Dams     67
+
+                        APPENDIX II.
+    Works of Reference                              68
+
+
+
+
+ILLUSTRATIONS.
+
+
+                                                                PAGE
+    Fig. 1. Longitudinal Section of Yarrow Dam Site               10
+         2. Cross-Section of the Yarrow Dam                       10
+         3. Plan of the Tabeaud Reservoir                         17
+         4. Tabeaud Dam: Plan Showing Bed Rock Drains             18
+         5.   Details of Drains                                   18
+         6.   View of Drains                                      19
+         7.     North Trench                                      20
+         8.     South Trench                                      21
+         9.     Main Central Drain                                21
+        10.     Embankment Work                                   23
+        11.   Dimension Section                                   26
+        12.   Cross and Longitudinal Sections                     27
+        13.   View of Dam Immediately After Completion            29
+        14. Cross-Section of Pilarcitos Dam                       34
+        15.   San Andres Dam                                      34
+        16.   Ashti Tank Embankment                               35
+        17.   Typical New England Dam                             40
+        18.   Two Croton Valley Dams Showing Saturation           41
+        19. Studies of Board of Experts on the Original Earth
+              Portion of the New Croton Dam                       43
+        20. Studies of Jerome Park Reservoir Embankment           46
+        21 to 24. Experimental Dikes and Cylinder Employed
+              in Studies for the North Dike of the Wachusett
+              Reservoir                                           49
+        25. Cross-Section of Dike of Wachusett Reservoir          49
+        26. Working Cross-Section of Druid Lake Dam               53
+        27 to 29. Designs for the Bohio Dam, Panama Canal         55
+        30. Cross-Section of the Upper Pecos River Rock-Fill Dam  59
+        31. Developed Section of the San Leandro Dam              59
+
+
+
+
+EARTH DAMS
+
+
+
+
+CHAPTER I.
+
+_Introductory._
+
+
+The earth dam is probably the oldest type of dam in existence,
+antedating the Christian Era many hundreds of years. The literature
+upon this subject is voluminous, but much of it is inaccessible and
+far from satisfactory. No attempt will here be made to collate this
+literature or to give a history of the construction of earth dams,
+however interesting such an account might be. The object will rather
+be to present such a study as will make clear the application of the
+principles underlying the proper design and erection of this class
+of structures. In no way, therefore, will it assume the character or
+dignity of a technical treatise.
+
+Dams forming storage reservoirs, which are intended to impound large
+volumes of water, must necessarily be built of considerable height,
+except in a very few instances where favorable sites may exist. Recent
+discussions would indicate that a new interest has been awakened in
+the construction of high earth dams. As related to the general subject
+of storage, it is with the high structure rather than the low that
+this study has to do. To the extent that “the greater includes the
+less,” the principles here presented are applicable to works of minor
+importance.
+
+Many persons who should know better place little importance upon
+the skill required for the construction of earthwork embankments,
+considering the work to involve no scientific problems. It is far
+too common belief that any ordinary laborer, who may be able to use
+skillfully a scraper on a country road, is fitted to superintend
+the construction of an earth dam. It has been said that the art of
+constructing earth dams is purely empirical, that exact science
+furnishes no approved method of determining their internal stresses,
+and that in regard to their design experience is much more valuable
+than theory. When the question of stability is fully taken into
+consideration, it certainly requires a large amount of skill
+successfully to carry out works of this character.
+
+Extreme care in the selection of the site, sound judgment in the
+choice of materials and assiduity in superintending the work while in
+progress, are all vitally essential.
+
+
+Classification of Dams.
+
+Dams may be classified according to their purpose as diverting dams or
+weirs and as storage dams. The former may be located upon any portion
+of a stream where the conditions are favorable, and the water used for
+manifold purposes, being conveyed by means of canals, flumes, tunnels
+and pipe-lines to places of intended use. These dams are generally low
+and may be either of a temporary or permanent character, depending upon
+the uses to which the water is put. Temporary dams are made of brush,
+logs, sand bags, gravel and loose rock. The more permanent structures
+are built of stone and concrete masonry.
+
+Storage dams may be classified according to the kind of material
+entering into their structure, as follows: (1) Earth; (2) Earth and
+Timber; (3) Earth and Rock-fill; (4) Rock-fill; (5) Masonry; (6)
+Composite Structures.
+
+Low dams forming service reservoirs for domestic water supplies and
+for irrigation comprise by far the most numerous class. They are not
+designed to impound a large volume of water and therefore may be built
+across a small ravine or depression, or even upon the summit of a hill,
+by excavating the reservoir basin and using the material excavated to
+form the embankment. These reservoirs may be used in connection with
+surface or gravity systems, artesian wells, or underground supplies
+obtained by pumping. The dams forming these reservoirs being of
+moderate size and height may vary greatly in shape and dimensions.
+The form may be made to suit the configuration of the dam site. When
+the earthwork requires it, they may be lined with various materials
+to secure water-tightness. Often such dams are made composite in
+character, partly of earth and partly of masonry or some other
+material. They are also frequently accompanied by numerous accessories,
+such as settling-basins, aerating devices and covers, which present a
+diversity in form and appearance. A presentation of the different types
+of dams thus employed, with a discussion of the questions pertaining
+to utility in design and economy in construction, would be exceedingly
+valuable and of general interest. Service reservoirs will receive only
+a passing notice, with the hope expressed that some competent authority
+will discuss them in the future.
+
+
+
+
+CHAPTER II.
+
+_Preliminary Studies and Investigations._
+
+
+The preliminary studies and investigations which should be made prior
+to the construction of any dam for the storage of water have to do with
+(1) the Catchment Area, (2) the Reservoir basin, and (3) the Dam site.
+
+
+Catchment Area.
+
+It is thought desirable to define a number of terms as we proceed,
+for the purpose of correcting erroneous usage and for a clearer
+understanding of the subject. The catchment area of a reservoir is that
+portion of the country naturally draining into it. The watershed is
+the boundary of the catchment area and may be correctly defined as the
+divide between adjacent drainage systems. In regard to the catchment
+area it is necessary to determine:
+
+    1. Its extent and area in square miles.
+
+    2. Its topography or the character of its surface.
+
+    3. Its hydrography or precipitation and run-off.
+
+    4. Its geology, or the character of its soils and subsoils,
+       and the nature and dip of its rock strata.
+
+    5. Its flora, or the extent to which it is clothed with forest
+       trees or other vegetation.
+
+All of these elements affect the volumes of maximum run-off, which is
+the one important factor in the construction of earth dams that must
+not be underestimated.
+
+If the proposed dam or reservoir is to be located upon a main drainage
+line; that is, upon a river or stream, it is necessary to know both the
+flood and low-water discharge of the stream. Frequently no reliable
+data on this subject are available, and the engineer must then make
+such a study of the whole situation as will enable him to estimate the
+minimum and maximum flow with considerable accuracy.
+
+There are numerous factors entering into the solution of this first
+problem, such as the shape and length of the catchment area, its
+general elevation, the character of its surface, whether mountainous,
+hilly or flat, barren or timbered.
+
+Good topographic maps, if available, furnish valuable data on these
+subjects and it is to be regretted that only a comparatively small
+portion of the United States has been thus mapped in detail.
+
+The results of stream measurements, if any have been made in the
+catchment basin, are especially important: These are usually few in
+the high areas, on account of their inaccessibility. The year 1902
+marked a notable beginning of such measurements in California. In many
+parts of the arid region of the United States, the best storage-sites
+are situated in the upper or higher portions of the drainage systems.
+This is especially true of the streams on the Pacific Slope having
+their source in the High Sierras. As regulators of stream-flow and for
+power purposes such storage is peculiarly valuable, while storage for
+irrigation and domestic uses may be located nearer the valleys and the
+centers of population.
+
+Frequently the engineer is required to build his dam where no such
+data are available. In such instances he should endeavor to secure
+the establishment of rain gauges and make measurements of the flow of
+the main stream and its principal tributaries at various places to
+obtain the desired information. Even this may not suffice, owing to the
+limited time at his disposal, and he must resort to the use of certain
+empirical rules or formulas, and make such comparisons and deductions
+from known conditions and results as will best answer his purpose.
+
+The engineer should know, approximately at least, the normal yield of
+the catchment area, the duration of the minimum and maximum seasonal
+flow, and the floods he may have to provide against during the
+construction of his dam. These data are absolutely necessary to enable
+him to provide ample wasteways for his reservoirs. Many of the failures
+of earth dams have been the result of over-topping the embankment,
+which would have been averted by an ample wasteway. The most notable
+example of this kind in recent years was that of the South Fork Dam, at
+Conemaugh, Pennsylvania, in 1889, resulting in what is generally known
+as the “Johnstown Disaster.”
+
+There are several empirical rules and formulas for calculating the run
+off from catchment areas and for determining the size of spillways
+necessary to discharge this flow with safety to the dam. The proper
+formula to apply in any given case, with the varying coefficients
+of each, involves a thorough knowledge on the part of the designing
+engineer of the principles upon which the different factors are based.
+
+It is unwise and often hazardous to make use of any important hydraulic
+formula without knowing the history of its derivation. Experiments
+are not always properly conducted, and often the deductions therefrom
+are unreliable. A presentation and discussion of these formulas would
+require more space than can be given in this study, and the technical
+reader must therefore consult for himself, as occasion may require, the
+various authorities cited. Formulas for the discharge or run-off from
+catchment areas, as determined by Messrs. Craig, Dickens, Ryves and
+others, are given by most writers on the subject of hydraulics.
+
+
+Reservoir Basin.
+
+The next subject of inquiry relates to the reservoir basin. It is
+necessary that its area and capacity at different depths should be
+definitely known, and this information can only be obtained by having
+the basin surveyed and contoured. A map should be made showing contours
+at intervals of 2 to 10 ft., depending upon the size of the basin and
+the use to which the reservoir is to be put. Reservoir basins have been
+classified according to their location as follows:
+
+    1. Natural lakes.
+
+    2. Natural depressions on main drainage lines.
+
+    3. Natural depressions on lateral drainage lines.
+
+    4. Arbitrary and artificially constructed basins.
+
+Natural lakes may need to be investigated more or less thoroughly to
+determine the character of their waters, whether saline, alkaline
+or fresh. It may also be necessary to know their normal depth and
+capacity, and to make a study of their outlet if they have one. In some
+instances the storage capacity of a lake may be enormously increased by
+means of a comparatively low and inexpensive embankment.
+
+The area of reservoir basin, mean depth, temperature of the water,
+exposure of wind and sunshine, losses by seepage and evaporation, all
+have a bearing upon the available water supply and influence the design
+of the dam and accessories to the reservoir.
+
+In determining the character and suitability of materials for
+constructing a dam it is necessary to make a careful study of the
+soil and geological formation. This is best accomplished by digging
+numerous test pits over the basin, especially in the vicinity of the
+proposed dam site; borings alone should never be relied upon for this
+information. For such an investigation the advisability of borrowing
+material for dam construction from the reservoir basin is determined.
+The porous character of the subsoil strata, or the dip and nature of
+the bed rock, may forbid the removal of material from the floor of the
+basin, even at a remote distance from the dam site.
+
+The area to be flooded should be cleared and grubbed more or less
+thoroughly, depending again upon the use for which the water is
+impounded. In no instance should timber be left standing below the
+high-water level of the reservoir; and all rubbish liable to float and
+obstruct the outlet tunnel and spillway during a time of flood should
+be removed.
+
+The accessories to a reservoir, to which reference has been made, may
+be enumerated as follows:
+
+    1. Outlet pipes or tunnel.
+
+    2. Gate tower, screens and controlling devices.
+
+    3. Sluiceways for silt or sand.
+
+    4. Wasteway channel or weir.
+
+    5. Cover, settling basin, aerating devices, etc.
+
+Some of these are necessary and common to all classes of reservoirs,
+while others are employed only in special cases, as for domestic water
+supplies. All reservoirs formed by earth embankments must have at least
+two of these, namely a wasteway, which is its safety valve, and outlet
+pipes or outlet tunnel.
+
+It may be stated that the proper location and construction of the
+outlet for a reservoir are of vital importance, since either to
+improper location or faulty construction may be traced most of the
+failures of the past. It is almost impossible to prevent water under
+high pressure from following along pipes and culverts when placed in an
+earth dam. The pipes and culverts frequently leak, and failure ensues.
+Failure may result from one or more of the following causes:
+
+    1. By improper design and placement of the puddle around the pipes.
+
+    2. By resting the pipes upon piers of masonry without continuous
+       longitudinal support.
+
+    3. By reason of subsidence in the cuts of the embankments and
+       at the core walls, due to the great weight at these points.
+
+    4. Leakage due to inherent defects, frost, deterioration, etc.
+
+Mr. Beardsmore, the eminent English engineer who built the Dale Dyke
+embankment at Sheffield which failed in 1864, and who was afterwards
+requested to study and report upon the great reservoirs in Yorkshire
+and Lancashire, said, after examination and careful study of reservoir
+embankment construction, that “in his opinion there were no conditions
+requiring that a culvert or pipes should be carried through any portion
+of the made bank.” The writer would go even further and say that the
+only admissible outlet for a storage reservoir formed by a high earth
+dam is some form of tunnel through the natural formation at a safe
+distance from the embankment.
+
+
+Dam Site.
+
+The third preliminary study (that relating to the dam site itself) will
+be considered under three heads:
+
+    1. Location.
+
+    2. Physical features, materials, etc.
+
+    3. Foundation.
+
+LOCATION.–The location for a dam is generally determined by the use
+which is to be made of it, or by the natural advantages for storage
+which it may possess. If it be for water power it is very frequently
+located upon the main stream at the point of greatest declivity. If for
+storage it may be, as we have seen, at the head of a river system, on
+one of its tributaries, or in a valley lower down.
+
+The type of dam which should be built at any particular locality
+involves a thorough knowledge, not alone of the catchment area and
+reservoir basin, but also accurate information regarding the geology of
+the dam site itself. It would be very unwise to decide definitely upon
+any particular type of dam without first obtaining such information.
+Too frequently has this been done, causing great trouble and expense,
+if not resulting in a total failure of the dam.
+
+The conditions favorable for an earth dam are usually unfavorable for a
+masonry structure, and vice versa. Again, there may be local conditions
+requiring some entirely different type.
+
+Dams situated upon the main drainage lines of large catchment areas are
+usually built of stone or concrete masonry, and designed with large
+sluiceways and spillways for the discharge both of silt and flood
+waters. It need scarcely be remarked that, as a rule, such sites are
+wholly unsuited to earthwork construction. It is said, however, that
+“every rule has at least one exception,” and this may be true of those
+relating to dam sites, as will appear later under the head of new
+types.
+
+In a general way, the location of high earth dams is governed by the
+configuration of the ground forming the storage basin. It may not be
+possible, however, to decide upon the best available site without
+careful preliminary surveys and examinations of the geological
+formation.
+
+All earth dams must be provided with a wasteway, ample to discharge the
+maximum flood tributary to the reservoir. Whatever type of wasteway be
+adopted, no reliance should ever be put upon the outlet pipes for this
+purpose. The outlet should only figure as a factor of safety for the
+wasteway, insuring, as it were, the accuracy of the estimated flood
+discharge. The safety of the dam demands that ample provision be made
+for a volume of water in excess of normal flood discharge. This most
+necessary adjunct of earth dams may be an open channel, cut through
+the rim of the reservoir basin, discharging into a side ravine which
+enters the main drainage way some distance below the dam. It may be
+necessary and possible to pierce the rim by means of a tunnel where its
+length would not prohibit such a design. Lastly, there may be no other
+alternative than the construction of an overfall spillway, at one or
+both ends of the embankment. This last method is the least desirable of
+any and should be resorted to only when the others are impracticable;
+even then, the volume of water, local topography, geology, and
+constructive materials at hand must be favorable to such a design. If
+they are not favorable it may be asked, “what then?” Simply do not
+attempt to build an earth dam at this site.
+
+PHYSICAL FEATURES, MATERIALS, ETC.–An investigation of the location
+and the physical features of the dam site should include a careful and
+scientific examination of the materials in the vicinity, to determine
+their suitability for use in construction. An earth embankment cannot
+be built without earth, and an earth dam cannot be built with safety
+without the right kind of earth material.
+
+Test pits judiciously distributed and situated at different elevations
+will indicate whether there is a sufficient amount of suitable
+material within a reasonable distance of the dam. The type of earth
+dam best suited for any particular locality, and its estimated cost,
+are thus seen to depend upon the data and information obtained by
+these preliminary studies. Economical construction requires the use of
+improved machinery and modern methods of handling materials, but far
+more important even than these are the details of construction.
+
+FOUNDATION.–We may now assume that our preliminary studies relating to
+the location and physical features of the dam site are satisfactory.
+We must next investigate the foundation upon which the dam is to be
+built. This investigation is sometimes wholly neglected or else done in
+such a way as to be practically useless. To merely drive down iron rods
+feeling for so-called bed rock, or to make only a few bore-holes with
+an earth auger should in no instance be considered sufficient. Borings
+may be found necessary at considerable depths below the surface and
+in certain classes of material, but dug pits or shafts should always
+be resorted to for moderate depths and whenever practicable. Only by
+such means may the true character of the strata underlying the surface,
+and the nature and condition of the bed rock, if it be reached, become
+known. If a satisfactory stratum of impermeable material be found it is
+necessary also to learn both its thickness and extent. It may prove to
+be only a “pocket” of limited volume, or if found to extend entirely
+across the depression lengthwise of the dam site it may “pinch out”
+on lines transversely above or below. Shafts and borings made in the
+reservoir basin and below the dam site will determine its extent in
+this direction, knowledge of which is very important.
+
+Fig. 1, showing a longitudinal section of the site of the Yarrow Dam of
+the Liverpool Water-Works, England, illustrates the necessity of such
+investigation. A bore hole at station 2 + 00 met a large boulder which
+at first was erroneously thought to be bed rock. The hole at station 3
++ 50 met a stratum of clay which proved to be only a pocket.
+
+The relative elevation of the different strata and of the bed rock
+formation, referred to one common datum, should always be determined.
+These elevations will indicate both the dip and strike of the rock
+formation and are necessary for estimating the quantities of material
+to be excavated and removed, including estimates of cost. They furnish
+information of value in determining the rate of percolation or
+filtration through the different classes of material and the amount
+of probable seepage, as will appear later. The cost of excavating,
+draining and preparing the floor or foundation for a dam is often very
+great, amounting to 20 or 30% of the total cost.
+
+Fig. 2 is a transverse section of the Yarrow Dam. This particular dam
+has been selected as fairly representative of English practice and
+of typical design. It is one of the most widely known earth dams in
+existence.
+
+[Illustration: FIG. 1.–LONGITUDINAL SECTION OF YARROW DAM SITE.]
+
+[Illustration: FIG. 2.–CROSS-SECTION OF YARROW DAM.]
+
+At the Yarrow dam site it was necessary to go 97 ft. below the original
+surface to obtain a satisfactory formation or one that was impermeable.
+A central trench was excavated to bed rock, parallel to the axis of the
+dam, and filled with clay puddle to form a water-tight connection with
+the rock, and prevent the water in the reservoir from passing through
+the porous materials under the body of the embankment. This interesting
+dam will be more fully described later, when the different types of
+earth dams are discussed.
+
+
+
+
+CHAPTER III.
+
+_Outline Study of Soils. Puddle._
+
+
+The following study of soils is merely suggestive and is here given
+to emphasize the importance of the subject, at the risk of being
+considered a digression. Soil formations are made in one of three ways:
+
+    1. By decomposition of exposed rocks.
+
+    2. By transportation or sedimentation of fine and coarse
+       materials worn from rocks.
+
+    3. By transformation into humus of decayed organic matter.
+
+The transforming agencies by which soils succeed rocks in geological
+progression have been classified as follows:
+
+    1. Changes of temperature.
+
+    2. Water.
+
+    3. Air.
+
+    4. Organic life.
+
+_Heat_ and its counter agent frost are the most powerful forces in
+nature, their sensible physical effects being the expansion and
+contraction of matter.
+
+_Water_ has two modes of action, physical and chemical. This agent is
+the great destroyer of the important forces, cohesion and friction.
+_Cohesion_ is a force uniting particles of matter and resists their
+separation when the motion attempted is perpendicular to the plane of
+contact. _Friction_ is a force resisting the separation of surfaces
+when motion is attempted which produces sliding. The hydrostatic
+pressure and resultant effect upon submerged surfaces need to be
+kept constantly in mind. When the surface is impermeable the line of
+pressure is normal to its plane, but when once saturated there are also
+horizontal and vertical lines of pressure. Since the strength of an
+earth dam depends upon two factors, namely, its weight and frictional
+resistance to sliding, the effect of water upon different materials
+entering into an earth structure should be most carefully considered.
+This will therefore occupy a large place in these pages. An earth
+embankment founded upon rock may become saturated by water forced up
+into it from below through cracks and fissures, reducing its lower
+stratum to a state of muddy sludge, on which the upper part, however
+sound in itself, would slide. The best preliminary step to take in such
+a case is to intersect the whole site with wide, dry, stone drains,
+their depths varying according to the nature of the ground or rock.
+
+_Air_ contains two ingredients ever active in the process of
+decomposition, carbonic acid and oxygen.
+
+_Organic Life_ accomplishes its decomposing effect both by physical
+and chemical means. The effect of organic matter upon the mineral
+ingredients of the soil may be stated as follows:
+
+    1. By their hydroscopic properties they keep the soil moist.
+
+    2. Their decomposition yields carbonic acid gas.
+
+    3. The acids produced disintegrate the mineral constituents,
+       reducing insoluble matter to soluble plant food.
+
+    4. Nitric acid results in _nitrates_, which are the most
+       valuable form of nutritive nitrogen, while ammonia and the
+       other salts that are formed are themselves direct food for
+       plants.
+
+_Vegetable Humus_ is not the end of decomposition of organic matter,
+but an intermediate state of transformation. Decay is a process almost
+identical with combustion, where the products are the same, and the end
+is the formation of water and carbonic acid, with a residue of mineral
+ash. The conditions essential to organic decomposition are also those
+most favorable to combustion or oxidation, being (1) access of air, (2)
+presence of moisture, and (3) application of heat.
+
+Now the coöperation of these chemical and physical forces, which are
+ever active, is called “weathering.” Slate rock, for instance, weathers
+to clay, being impregnated with particles of mica, quartz, chlorite and
+hornblend. Shales also weather to clay, resulting often in a type of
+earth which is little more than silicate of aluminum with iron oxide
+and sand.
+
+In the vicinity of the Tabeaud Dam, recently built under the personal
+supervision of the author, the construction of which will be described
+later, there is to be found a species of potash mica, which in
+decomposing yields a yellow clay (being ochre-colored from the presence
+of iron), mixed with particles of undecomposed mica. This material
+is subject to expansion, and by reason of its lack of grit and its
+unctuous character it was rejected or used very sparingly. Analysis of
+this material gave, Silica, 54.1 to 59.5%; potash, 1.5 to 2.3%; soda,
+2.7 to 3.7%.
+
+Soil analysis may be either mechanical or chemical. For purposes of
+earthwork, we are most interested in the former, having to deal with
+the physical properties of matter. Chemical analysis, however, will
+often afford information of great value regarding certain materials
+entering into the construction of earth dams. The most important
+physical properties are:
+
+    (1) Weight and specific gravity.
+
+    (2) Coefficient of friction and angle of repose.
+
+    (3) Structure and coloring ingredients.
+
+    (4) Behavior toward water.
+
+There are two distinct methods of mechanical analysis: (1) Granulating
+with sieves, having round holes. (2) Elutriating with water, the
+process being known as silt analysis.
+
+It would require a large volume to present the subject of soil analysis
+in any way commensurate with its importance. Experiments bearing upon
+the subjects of imbibition, permeability, capillarity, absorption and
+evaporation, of different earth materials, are equally interesting and
+important.[1]
+
+The permeability of soils will be discussed incidentally in connection
+with certain infiltration experiments to be given later.
+
+
+Puddle.
+
+_Puddle_ without qualification may be defined as clayey and gravelly
+earth thoroughly wetted and mixed, having a consistency of stiff mud
+or mortar. Puddle in which the predominating ingredient of the mixture
+is pure clay, is called _clay puddle_. _Gravel puddle_ contains a much
+higher percentage of grit and gravel than the last-named and yet is
+supposed to have enough clayey material to bind the matrix together and
+to fill all the voids in the gravel.
+
+The term _earthen concrete_ may also be applied to this class of
+material, especially when only a small quantity of water is used in
+the mixture. These different kinds of puddling materials may be found
+in natural deposits ready for use, only requiring the addition of the
+proper amount of water. It is usually necessary, however, to mix,
+artificially, or combine the different ingredients in order to obtain
+the right proportions. Some engineers think grinding in a pug-mill
+absolutely essential to obtain satisfactory results.
+
+Puddle is handled very much as cement concrete, which is so well
+understood that detailed description is hardly necessary. Instead of
+tampers, sharp cutting implements are usually employed in putting
+puddle into place. Trampling with hoofed animals is frequently resorted
+to, both for the purpose of mixing and compacting.
+
+As has been stated, clays come from the decomposition of crystaline
+rocks. The purest clay known (kaolin) is composed of alumina, silica
+and water. The smaller the proportion of silica the more water it will
+absorb and retain. Dry clay will absorb nearly one-third of its weight
+of water, and clay in a naturally moist condition 1-6 to 1-8 its weight
+of water. The eminent English engineers, Baker and Latham, put the
+percentage of absorption by clayey soils as high as 40 to 60%. Pure
+clays shrink about 5% in drying, while a mixture by weight of 1 clay
+to 2 sand will shrink about 3%. It follows, then, that the larger the
+percentage of clay there may be in a mixture the greater will be both
+the expansion and the contraction.
+
+Clay materials may be very deceptive in some of their physical
+properties, being hard to pick under certain conditions, and yet when
+exposed to air and water will rapidly disintegrate. Beds of clay,
+marl and very fine sand are liable to slip when saturated, becoming
+semi-fluid in their nature, and will run like cream.
+
+The cohesive and frictional resistances of clays becoming thus very
+much reduced when charged with water, a too liberal use of this
+material is to be deprecated. The ultimate particles forming clays,
+viewed under the microscope, are seen to be flat and scale-like, while
+those of sands are more cubical and spherical. This is a mechanical
+difference which ought to be apparent to even a superficial observer
+and yet has escaped recognition by many who have vainly attempted a
+definition of _quicksand_.
+
+Mr. Strange recommends filling the puddle trench with material having
+three parts soil and two parts sand. After the first layer next to bed
+rock foundation, which he kneads and compacts, he would put the layers
+in dry, then water and work it by treading, finally covering to avoid
+its drying out and cracking.
+
+Prof. Philipp Forchheimer, of Gratz, Austria, one of the highest
+authorities and experimentalists, affirms that if a sandy soil contains
+clay to such an extent that the clay fills up the interstices between
+the grains of sand entirely the compound is practically impervious.
+
+Mr. Herbert M. Wilson, C. E., in his “Manual of Irrigation
+Engineering,” recommends the following as an ideal mixture of materials:
+
+                       Cu. yds.
+
+    Coarse gravel        1.00
+    Fine gravel          0.35
+    Sand                 0.15
+    Clay                 0.20
+                         ––
+        Total            1.70
+
+This mixture, when rolled and compacted, should give 1.25 cu. yds. in
+bulk, thus resulting in 26½% compression.
+
+Mr. Clemens Herschel suggests the following test of “good binding
+gravel:” “Mix with water in a pail to the consistency of moist earth;
+if on turning the pail upside down the gravel remains in the pail it is
+fit for use, otherwise it is to be rejected.” For _puddling material_
+he would use such a proportion as will render the water invisible.
+
+
+
+
+CHAPTER IV.
+
+_The Tabeaud Dam, California._
+
+
+The Tabeaud Dam, in Amador County, Cal., built under the supervision
+of the author for the Standard Electric Co., is an example of the
+homogeneous earth dam. A somewhat fuller description and discussion
+will be given of this dam than of any other, not on account of its
+greater importance or interest, but because it exemplifies certain
+principles of construction upon which it is desired to put special
+emphasis. This dam was described in Engineering News of July 10, 1902,
+to which the reader is referred for more complete information than is
+given here.
+
+[Illustration: FIG. 3.–PLAN OF TABEAUD RESERVOIR, WITH CONTOURS.]
+
+[Illustration: FIG. 4.–PLAN OF TABEAUD DAM, SHOWING BED ROCK DRAINAGE
+SYSTEM.]
+
+[Illustration: FIG. 5.–DETAILS OF BED ROCK DRAINS AT THE TABEAUD DAM.]
+
+Fig. 3 is a contour map of the Tabeaud Reservoir, showing the relative
+locations of the dam, wasteway and outlet tunnel. Fig. 4 shows the bed
+rock drainage system and the letters upon the drawing will assist in
+following the explanation given in the text. The whole up-stream half
+of the dam site was stripped to bed rock. As the work of excavation
+advanced pockets of loose alluvial soil were encountered, which were
+suggestive of a refill, possibly the result of placer mining operations
+during the early mining days of California. In addition to this were
+found thin strata of sand and gravel deposited in an unconformable
+manner. The slate bed rock near the up-stream toe of the dam was badly
+fissured and yielded considerable water. A quartz vein from 1 to 2 ft.
+in thickness crossed the dam site about 150 ft. above the axis of the
+dam. The slate rock above this vein or fault line was quite variable in
+hardness and dipped at an angle of 40 degrees toward the reservoir.
+
+[Illustration: FIG. 6.–VIEW OF BED ROCK TRENCHES, TABEAUD DAM.]
+
+The rear drain terminates at a weir box (Z) outside of the down-stream
+slope at a distance of 500 ft. from the axis of the dam. This drain
+branches at the down-stream side of the central trench, (Y), one branch
+being carried up the hillside to high-water level (W) at the North end
+of the dam, and the other to the same elevation at the South end (X).
+
+Fig. 5 shows how these drains were constructed. After the removal of
+all surface soil and loose rock, a trench 5 to 10 ft. wide was cut into
+the solid rock, the depth of cutting varying with the character of the
+bed rock. Upon the floor of this trench a small open drain was made by
+notching the bed rock and by means of selected stones of suitable size
+and hardness. The stringers and cap-stones were carefully selected and
+laid, so that no undue settlement or displacement might occur by reason
+of the superincumbent weight of the dam. All crevices were carefully
+filled with spawls and the whole overlaid 18 ins. in depth with broken
+stone 1 to 3 ins. in diameter. Upon this layer of broken stone and
+fine gravel was deposited choice clay puddle, thoroughly wetted and
+compacted, refilling the trenches.
+
+[Illustration: FIG. 7.–VIEW OF NORTH TRENCH, TABEAUD DAM.]
+
+[Illustration: FIG. 8.–VIEW OF SOUTH TRENCH, TABEAUD DAM.]
+
+[Illustration: FIG. 9.–VIEW OF MAIN CENTRAL DRAIN, TABEAUD DAM.]
+
+These drains served a useful purpose during construction, in drying
+off the surface of the dam after rains. The saturation of the outer
+slope of the dam by water creeping along the line of contact should
+thus be prevented, and the integrity or freedom from saturation of the
+down-stream half should be preserved. It is believed that the puddle
+overlying these rock drains will effectually prevent any water from
+entering the body of the embankment by upward pressure and that the
+drains will thus forever act as efficient safeguards.
+
+The main drain was extended, temporarily during construction, from
+the central trench (Fig. 4), to the up-stream toe of the dam. This
+was cut 5 or 6 ft. deep into solid rock, below the general level of
+the stripped surface. Fig. 6 is reproduced from a photograph of this
+trench. An iron pipe 2 ins. in diameter was imbedded in Portland cement
+mortar and concrete, and laid near the bottom of the trench.
+
+At the point (B) where the quartz vein (already described) intersected
+this drain, two branch drains were made, following the fault well into
+the hill on both sides. Figs. 7 and 8 are views of the North and South
+trenches, respectively. These trenches were necessary to take care of
+the springs issuing along the quartz vein. This water led to a point
+(N, Fig. 4) near the up-stream toe, by means of the drain shown in Fig.
+9.
+
+The lateral drains and that portion of the main central drain extending
+from their junction (B) to a point (N) about 230 ft. from the axis
+of the dam have pieces of angle iron or wooden Y-fluming laid on the
+bottom of the trenches immediately over the 2-in. pipe, as shown in
+Figs. 7, 8 and 9. These are covered in turn with Portland cement
+mortar, concrete, clay puddle and earth fill. The water will naturally
+flow along the line of least resistance, and consequently will follow
+along the open space between the angle irons and the outside of the
+pipe until it reaches the chamber and opening in the pipe, permitting
+the water to enter and be conveyed through the imbedded pipe-line to
+the rear drain. This point of entry is a small chamber in a solid
+cross-wall of rich cement mortar, and is the only point where water
+can enter this pipe-line, the two branches entering the wells and the
+stand-pipe at their junction (soon to be described) having been closed.
+
+That portion of the foundation between the axis of the dam and the
+quartz vein, a distance of about 160 ft., was very satisfactory,
+without fissures or springs of water. In this portion the 2-in. pipe
+was imbedded in mortar and concrete without angle irons, and the
+continuity of the trench broken by numerous cross-trenches cut into
+the rock and filled with concrete and puddle. It is believed that no
+seepage water will ever pass through this portion of the dam. If any
+should ever find its way under the puddle and through the bed rock
+formation, the rear drain, with its hillside branches, will carry it
+away and prevent the saturation of the lower or down-stream half of the
+dam.
+
+[Illustration: FIG. 10.–VIEW OF TABEAUD DAM WHEN ABOUT HALF COMPLETED.]
+
+At the up-stream toe of the embankment, two wells or sumps (shown at
+“S” and “K,” Fig. 4) were cut 10 or 12 ft. deeper than the main trench,
+which received the water entering the inner toe puddle trench during
+construction. This water was disposed of partly by pumping and partly
+by means of the 2-in. branch pipes leading into and from these wells.
+At their junction (J) a 2-in. stand-pipe was erected, which was carried
+vertically up through the embankment, and finally filled with cement.
+The branch pipes from the wells were finally capped and the wells
+filled with broken stone, as previously mentioned.
+
+EMBANKMENT.–As has been said, the upper surface of the slate bed rock
+was found to be badly fissured, especially near the up-stream toe of
+the dam, and as the average depth below the surface of the ground was
+not very great, it was thought best to lay bare the bed rock over the
+entire upper half of the dam site. Had the depth been much greater,
+it would have been more economical and possibly sufficient to have
+put reliance in a puddle trench, alone, for securing a water-tight
+connection between the foundation and the body of the dam.
+
+At the axis of the dam and near the inner toe, where the puddle walls
+abutted against the hillsides, the excavation always extended to bed
+rock. Vertical steps and offsets were avoided and the cuts were made
+large enough for horses to turn in while tramping, these animals being
+used, singly and in groups, to mix and compact the puddle and thus
+lessen the labor of tamping by hand. In plan, the hillside contact
+of natural and artificial surfaces presents a series of corrugated
+lines, (as is clearly shown in Fig. 4.) After all loose and porous
+materials had been removed, the stripped surface and the slopes of all
+excavations were thoroughly wetted from time to time by means of hose
+and nozzle, the water being delivered under pressure. Fig. 10 is a view
+of the dam taken when it was about half finished and shows the work in
+progress.
+
+The face puddle shown in Fig. 11 was used merely to “make assurance
+doubly sure” and was not carried entirely up to the top of the dam.
+The earth of which the dam was constructed may be described as a
+red gravelly clay, and in the judgment of the author is almost ideal
+material for the purpose. Physical tests and experiments made with the
+materials at different times during construction gave the following
+average results:
+
+                                                               Pounds.
+    Weight of 1 cu. ft. earth, dust dry                         84.0
+      “    “  1   “     saturated earth                        101.8
+      “    “  1   “     moist loose earth                       76.6
+      “    “  1   “     loose material
+                              taken from test pits on the dam   80.0
+      “    “  1   “     earth in place
+                              taken from the borrow pits       116.5
+      “    “  1   “     earth material
+                              taken from test pits on the dam  133.0
+
+                                                            Per cent.
+    Percentage of moisture in natural earth                      19
+        “      “ voids in natural earth                          52
+        “      “ grit and gravel in natural earth                38
+        “      “ compression on dam over earth at borrow pit     16
+        “      “ compression on dam over earth in wagons         43
+
+                                                             Degrees.
+    Angle of repose of natural moist earth                       44
+    Angle of repose of earth, dust dry                           36
+    Angle of repose of saturated earth                           23
+
+CONSTRUCTION DETAILS.–The materials forming the bulk of the dam were
+hauled by four-horse teams, in dump wagons, holding 3 cu. yds. each.
+The wagons loaded weighed about six tons and were provided with two
+swinging bottom-doors, which the driver could operate with a lever,
+enabling the load to be quickly dropped while the team was in motion.
+If the material was quite dry, the load could be dumped in a long row
+when so desired.
+
+After plowing the surface of the ground and wasting any objectionable
+surface soil, the material was brought to common earth-traps for
+loading into wagons, by buck or dragscrapers of the Fresno pattern. In
+good material one trap with eight Fresno-scraper teams could fill 25
+wagons per hour. The average length of haul for the entire work was
+about 1,320 ft.
+
+The original plans and specifications were adhered to throughout, with
+the single exception that the central puddle wall was not carried above
+elevation 1,160, as shown on Figs. 11 and 12, more attention being
+given to the inner face puddle. This modification in the original plans
+was made because of the character of the materials available and the
+excellent results obtained in securing an homogeneous earthen concrete,
+practically impervious.
+
+[Illustration: FIG. 11.–DIMENSION SECTION OF TABEAUD DAM.]
+
+The top of the embankment was maintained basin-shaped during
+construction, being lower at the axis than at the outer slopes by 1-10,
+to the height below the finished crown. This gave a grade of about 1
+in 25 from the edges toward the center, resulting in the following
+advantages:
+
+(1) Insuring a more thorough wetting of the central portion of the dam;
+any excess of water in this part would be readily taken care of by the
+central cross drains.
+
+(2) In wetting the finished surface prior to depositing a new layer
+of material, water from the sprinkling wagons would naturally drain
+towards the center and insure keeping the surface wet; the layers being
+carried, as a rule, progressively outward from the center.
+
+(3) It centralized the maximum earth pressure and enabled the
+depositing of material in layers perpendicular to the slopes.
+
+(4) It facilitated rolling and hauling on lines parallel to the axis of
+the dam, and discouraged transverse and miscellaneous operations.
+
+(5) It finally insured better compacting by the tramping of teams in
+their exertions to overcome the grade.
+
+[Illustration]
+
+[Illustration: FIG. 12.–CROSS AND LONGITUDINAL SECTIONS OF TABEAUD
+DAM.]
+
+The specifications stipulated that the body of the dam should be built
+up in layers not exceeding 6 ins. in thickness for the first 60 ft.,
+and not exceeding 8 ins. above that elevation. The finished layers
+after rolling varied slightly in thickness, the daily average per month
+being as follows:
+
+    April                     4  ins.
+    May                       3½  “
+    June                      4   “
+    July                      4½  “
+    August                    5   “
+    September                 6   “
+    October                   7   “
+    November and December     8   “
+
+During the last few months more than one whole layer constituted the
+day’s work, so that a single layer was seldom as thick as the daily
+average indicates.
+
+It was stipulated in the specifications that the up-stream half of the
+dam was to be made of “selected material” and the lower half of less
+choice material, not designated “waste.” “Waste material” was described
+as meaning all vegetable humus, light soil, roots, and rock exceeding 5
+lbs. in weight, too large to pass through a 4-in. ring.
+
+It may be well to define the expression “selected material,”
+so commonly used in specifications for earth dams. In England,
+for instance, it is said to refer to materials which insure
+_water-tightness_, while in India it refers to those employed to obtain
+_stability_. It ought to mean the best material available, selected by
+the engineer to suit the requirements of the situation.
+
+The method employed in building the body of the embankment may be
+described as follows:
+
+(1) The top surface of every finished layer of material was sprinkled
+and harrowed prior to putting on a new layer. The sprinkling wagons
+passed over the older finished surface immediately before each
+wagon-row was begun. This insured a wetted surface and assisted the
+wheels of the loaded wagons, as well as the harrows, to roughen, the
+old surface prior to depositing a new layer.
+
+(2) The material was generally deposited in rows parallel to the axis
+of the dam. However, along the line of contact, at the margins of the
+embankment, the earth was often deposited in rows crosswise of the
+dam, permitting a selection of the choicest materials and greatly
+facilitating the work of graders and rollers.
+
+(3) Rock pickers with their carts were continually passing along the
+rows gathering up all roots, rocks and other waste materials.
+
+[Illustration: FIG. 13.–VIEW OF TABEAUD DAM IMMEDIATELY AFTER
+COMPLETION.]
+
+(4) The road-graders drawn by six horses leveled down the tops of
+the wagon-loads, and if the material was dry the sprinkling wagons
+immediately passed over the rows prior to further grading. When the
+material was naturally moist the grader continued the leveling process
+until the earth was evenly spread. The depth or thickness of the layer
+could be regulated to a nicety by properly spacing the rows and the
+individual loads. The grader brought the layer to a smooth surface
+and of uniform thickness, and nothing more could be desired for this
+operation.
+
+(5) After the graders had finished, the harrows passed over the new
+layer to insure the picking out of all roots and rocks, followed
+immediately by the sprinkling wagons.
+
+(6) Finally the rollers thoroughly compacted the layer of earth,
+generally passing to and fro over it lengthwise of the dam. Along the
+line of contact at the ends, however, they passed crosswise. Then again
+they frequently went around a portion of the surface until the whole
+was hard and solid.
+
+Two rollers were in use constantly, each drawn by six horses. One
+weighed five tons and the other eight tons, giving respectively 166 and
+200 lbs. pressure per lin. in. They were not grooved, but the smooth
+surface left by the rollers was always harrowed and cut up more or
+less by the loaded wagons passing over the surface previously wetted.
+The wagons when loaded gave 750 lbs. pressure per lin. in., and the
+heavy teams traveling wherever they could do the most effective work
+compacted the materials better even than the rollers.
+
+Several test pits which were dug into the dam during construction
+showed that there were no distinct lines traceable between the layers
+and no loose or dry spots, but that the whole mass was solid and
+homogeneous.
+
+A careful record is being kept of the amount of settlement of the
+Tabeaud Dam. It will be of interest to record here the fact that just
+one year after date of completion the settlement amounted to 0.2 ft.,
+with 90 ft. depth of water in the reservoir.
+
+Water was first turned into the reservoir five months after the dam was
+finished. The very small amount of settlement here shown emphasizes
+more eloquently than words the author’s concluding remarks relating to
+the importance of thorough consolidation, by artificial means, of the
+embankment. (See p. 64, Secs. 6 to 8.)
+
+OUTLET TUNNEL.–The outlet for the reservoir is a tunnel 2,903 ft. in
+length, through a ridge of solid slate rock formation, which was very
+hard and refractory. At the north or reservoir end of the tunnel, there
+is an open cut 350 ft. long, with a maximum depth of 26 ft.
+
+Near the south portal of the tunnel and in the line of pressure pipes
+connecting the “petty reservoir” above with the power-house below,
+is placed a receiver, connected with the tunnel by means of a short
+pipe-line, 60 ins. in diameter.
+
+A water-tight bulkhead of brick and concrete masonry is placed in the
+tunnel, at a point about 175 ft. distant from the receiver. In the line
+of 60-in. riveted steel pipe, which connects the reservoir and tunnel
+with the receiver, there is placed a cast iron chamber for entrapping
+silt or sand, with a branch pipe 16 ins. in diameter leading into a
+side ravine through which sand or silt thus collected can be wasted or
+washed out. By the design of construction thus described, it will be
+seen that all controlling devices, screens, gates, etc., are at the
+south end of the tunnel and easily accessible.
+
+WASTEWAY.–The wasteway for the reservoir is an open cut through its
+rim, 48 ft. in width and 300 ft. long. The sill of the spillway is 10
+ft. below the crown of the dam. The reservoir having less than two
+square miles of catchment area, and the feeding canals being under
+complete control, the dam can never be over-topped by a flood. Fig.
+3 shows the relative location of the dam, outlet tunnel and wasteway
+channel.
+
+Almost the whole of the embankment forming the Tabeaud Dam, not
+included in the foundation work, was built in less than eight months.
+The contractor’s outfit was the best for the purpose the writer has
+ever seen. After increasing his force from time to time he finally had
+the following equipment:
+
+      1 steam shovel (1½ yds. capacity),
+     37 patent dump wagons,
+     11 stick-wagons and rock-carts,
+     39 buck-scrapers (Fresno pattern),
+     21 wheel scrapers,
+      3 road-graders,
+      3 sprinkling wagons,
+      2 harrows,
+      2 rollers (5 and 8-ton),
+    233 men,
+    416 horses and mules,
+      8 road and hillside plows.
+
+STATISTICS.–The following data relating to the Tabeaud Dam Reservoir
+will conclude this description:
+
+
+DAM.
+
+    Length at crown                                            636 ft.
+    Length at base crossing ravine                       50 to 100  “
+    Height to top of crown (El. 1,258.)                        120  “
+      “    at ends above bedrock                               117  “
+      “    at up-stream toe                                    100  “
+      “    at down-stream toe                                  123  “
+    Effective head                                             115  “
+    Width at crown                                              20  “
+    Width at base                                              620  “
+                 Slopes, 2½ on 1 with rock-fill 3 to 1.
+    Excavation for foundations                          40,000 cu. yds.
+    Refill by company                                   40,000      “
+    Embankment built by contractor                     330,350      “
+    Total volume of dam                                370,350      “
+    Total weight                                          664,778 tons.
+    Length of wasteway (width)                                   48 ft.
+    Depth of spillway sill below crown                           10  “
+    Depth of spillway sill below ends                             7  “
+    Height of stop-planks in wasteway                             2  “
+    Maximum depth of water in reservoir                          92  “
+    Area to be faced with stone                          1,933 sq. yds.
+
+
+RESERVOIR.
+
+    Catchment area (approximate)                          2 sq. miles.
+    Area of water surface                                 36.75 acres.
+    Silt storage capacity below outlet tunnel        1,091,470 cu. ft.
+    Available water storage capacity                46,612,405    “
+    Elevation of outlet tunnel                               1,180 ft.
+        “      “ high-water surface                          1,250  “
+        “      “ crown of dam                                1,258  “
+
+Fig. 13 is a view of the finished dam, taken immediately after
+completion.
+
+
+
+
+CHAPTER V.
+
+_Different Types of Earth Dams._
+
+
+There are several types of earth dams, which may be described as
+follows:
+
+    1. Homogeneous earth dams, either with or without a puddle
+       trench.
+
+    2. Earth dams with a puddle core or puddle face.
+
+    3. Earth dams with a core wall of brick, rubble or concrete
+       masonry.
+
+    4. New types, composite structures.
+
+    5. Rock-fill dams with earth inner slope.
+
+    6. Hydraulic-fill dams of earth and gravel.
+
+The writer proposes to give an example of each type, with such remarks
+upon their distinctive features and relative merits as he thinks may be
+instructive.
+
+
+Earth Dams with Puddle Core Wall or Face.
+
+YARROW DAM.–The Yarrow dam of the Liverpool Water-Works is a notable
+example of the second type, (a section of which is shown in Fig. 2.)
+An excavation 97 ft. in depth was made to bed rock through different
+strata of varying thickness, and a trench 24 ft. wide was cut with
+side slopes 1 on 1 for the first 10 ft. in depth below the surface.
+The trench was then carried down through sand, gravel and boulders
+with sides sloping 1 in 12. The upper surface of the shale bed rock
+was found to be soft, seamy and water-bearing. Pumps were installed
+to keep the water out of the trench while it was being cut 4 or 5 ft.
+deeper into the shale. The lower portion was then walled up on either
+side with brickwork 14 ins. in thickness, and the trench between the
+walls was filled with concrete, made in the proportion of 1 of cement,
+1 of sand and 2 of gravel or broken stone. By so doing a dry bed was
+secured for the foundation of the puddle wall. Two lines of 6-in. pipes
+were laid on the bed rock, outside of the walls, and pipes 9 ins. in
+diameter extended vertically above the top of the brickwork some 27
+ft. These pipes were filled with concrete, after disconnecting the
+pumps. After refilling the trench with puddle to the original surface,
+a puddle wall was carried up simultaneous with the embankment, having a
+decreasing batter of 1 in 12, which gave a width of 6 ft. at the top.
+This form of construction is very common in England and Figs. 14 and 15
+show two California dams, the Pilarcitos and San Andres, of the same
+general type.
+
+[Illustration: FIG. 14.–CROSS-SECTION OF PILARCITOS DAM.]
+
+[Illustration: FIG. 15.–CROSS-SECTION OF SAN ANDRES DAM.]
+
+ASHTI EMBANKMENT.–This is not a very high embankment, but being typical
+of modern dams in British India, where the puddle is generally carried
+only to the top of the original surface of the ground, and not up
+through the body of the dam, it is thought worthy of mention. Fig. 16
+shows a section of this embankment, which is located in the Sholapur
+District, India.
+
+The central portion of this dam above the puddle trench is made of
+“selected black soil;” then on either side is placed “Brown Soil,”
+finishing on the outer slopes with “Murum.” Trap rock decomposes first
+into a friable stony material, known in India as “Murum” or “Murham.”
+This material further decomposes into various argillaceous earths, the
+most common being the “black cotton soil” mentioned above.
+
+[Illustration: FIG. 16.–CROSS-SECTION OF ASHTI TANK EMBANKMENT.]
+
+This particular dam has been adversely criticised on account of the
+lack of uniformity in the character of the materials composing the
+bank. It is claimed that the materials being of different density and
+weight, unequal settlement will result, and lines of separation will
+form between the different kinds of materials.
+
+Earth materials do not unite or combine with timber or masonry, but
+there are no such distinct lines of transition and separation between
+different earth materials themselves as Fig. 16 would seem to indicate.
+
+
+Puddle Trench.
+
+In the last three dams mentioned (Figs. 14, 15, 16) the puddle
+trenches are made with vertical sides or vertical steps and offsets.
+A wedge-shaped trench certainly has many advantages over this form.
+Puddle being plastic, consolidates as the dam settles, filling the
+lowest parts by sliding on its bed. It thus has a tendency to break
+away from the portion supported by the step, and a further tendency to
+leave the vertical side, thus forming cracks and fissures for water to
+enter. The argument advanced by those holding a different view, namely,
+that it is difficult to dress the sides of a trench to a steep batter
+and to timber it substantially, has in reality little weight when put
+to practical test. Mr. F. P. Stearns, in describing the recent work
+of excavating the cut-off trench of the North Dike of the Wachusett
+reservoir, Boston, said it was found to be both better and cheaper
+to excavate a trench with slopes than with vertical sides protected
+by sheeting. He favored this shape in case of pile-work and for the
+purpose also of wedging materials together.
+
+Mr. Wm. J. McAlpine’s “Specifications for Earth Dams,” representing the
+best practice of 25 years ago, which are frequently cited, contain the
+following description of how to prepare the up-stream floor of the dam:
+
+    Remove the pervious and decaying matter by breaking up the natural
+    soil and by stepping up the sides of the ravine; also by several
+    toothed trenches across the bottom and up the sides.
+
+One of Mr. McAlpine’s well known axioms was, “water abhors an
+angle.” The “stepping” and “toothed” trenches above specified need
+not necessarily be made with vertical planes, but should be made by
+means of inclined and horizontal planes. The writer’s experience and
+observation leads him to think that all excavations in connection with
+earth dams requiring a refill should be made wedge-shaped so that the
+pressure of the superincumbent materials in settling will wedge the
+material tighter and tighter together and fill every cavity. A paper
+by Mr. Wm. L. Strange, C. E., on “Reservoirs with high Earthen Dams
+in Western India,” published in the Proceedings of the Institution of
+Civil Engineers, Vol. 132, (1898), is one of the best contributions to
+the literature on this subject, known to the writer. Mr. Strange states
+that
+
+    the rate of filtration of a soil depends upon its porosity,
+    which governs the frictional resistance to flow, and the
+    slope and length of the filamentary channels along which the
+    water may be considered to pass. It is evident, therefore,
+    that the direct rate of infiltration in a homogeneous soil
+    must decrease from the top to the bottom of the puddle
+    trench. The best section for a puddle trench is thus a
+    wedge, such as an open excavation would give. It is true
+    that the uppermost infiltrating filaments when stopped by
+    the puddle, will endeavor to get under it, but a depth will
+    eventually be reached when the frictional resistance along
+    the natural passages will be greater than that due to the
+    transverse passage of the puddle trench, and it is when
+    this occurs that the latter may be stopped without danger,
+    as the _filtration to it_ will be less than that
+    _through_ it. This depth requires to be determined in
+    each case, but in fairly compact Indian soils 30 feet will
+    be a fair limit.
+
+
+Puddle Wall vs. Puddle Trench.
+
+There is a diversity of opinion among engineers in regard to the proper
+place for the puddle in dam construction. Theoretically, the inner
+face would be preferable to the center, for the purpose of preventing
+any water from penetrating the embankment. It is well known that all
+materials immersed in water lose weight in proportion to the volume of
+water they displace. If the upper half of the dam becomes saturated
+it must neccesarily lose both weight and stability. Its full cohesive
+strength can only be maintained by making it impervious in some way.
+The strength of an earth dam depends upon three factors:
+
+    1. Weight.
+    2. Frictional resistance against sliding.
+    3. Cohesiveness of its materials.
+
+These can be known only so long as no water penetrates the body of
+the dam. When once saturated the resultant line of pressure is no
+longer normal to the inner slope, for the reason that there is now a
+force tending to slide the dam horizontally and another due to the
+hydrostatic head tending to lift it vertically. When the water slope
+is impervious the horizontal thrust is sustained by the whole dam and
+not by the lower half alone. When once a passage is made into the body
+of the dam, the infiltration water will escape along the line of least
+resistance, and if there be a fissure it may become a cavity and the
+cavity a breach.
+
+For practical reasons, mainly on account of the difficulty of
+maintaining a puddle face on the inner slope of a dam, which would
+require a very flat slope, puddle is generally placed at the center as
+a core wall.
+
+It was thought possible at the Tabeaud dam to counteract the tendency
+of the face puddle to slough off into the reservoir by use of a broken
+stone facing of riprap. This covering will protect the puddle from the
+deteriorating effects of air and sun whenever the water is drawn low
+and also resists the pressure at the inner toe of the dam.
+
+
+Percolation and Infiltration.
+
+The earlier authorities on the subject of percolation and infiltration
+of water are somewhat conflicting in their statements, if not confused
+in their ideas. We are again impressed with the importance of a clearly
+defined and definite use of terms. The temptation and tendency to use
+language synonymously is very great, but it is unscientific and must
+result in confusion of thought. Let it be observed that _filtration_
+is the process of mechanically separating and removing the undissolved
+particles floating in a liquid. That _infiltration_ is the process
+by which water (or other liquid) enters the interstices of porous
+material. That _percolation_ is the action of a liquid passing through
+small interstices; and, finally, that _seepage_ is the amount of fluid
+which has percolated through porous materials.
+
+Many recent authorities are guilty of confusion in thought or
+expression, as will appear from the following:
+
+One says, for instance, that a
+
+    rock is water-tight when non-absorbent of water, but that a soil
+    is not water-tight unless it will absorb an enormous quantity of
+    water.
+
+This would seem to indicate that super-saturation and not pressure is
+necessary to increase the water-tightness of earth materials.
+
+Again, in a recent discussion regarding the saturation and percolation
+of water through the lower half of a reservoir embankment, it was
+remarked, that
+
+    the more compact the material of which the bank is built,
+    the steeper will be the slope of saturation.
+
+Exception was taken to this, and the statement made, that
+
+    _with compact material_, the sectional area of flow
+    is larger below a given level with porous material, and as
+    the bank slope is one determining factor of the line of
+    saturation, this line tends to approach the slope line;
+    while with porous material in a down-stream bank, the slope
+    of saturation is steeper and the area of the flow less.
+
+In reply to this, it was said,
+
+    that it is obvious that if the embankment below the core
+    wall is built of material so compact as to be impervious
+    to water, no water passing through the wall will enter it,
+    and the slope of saturation will be vertical. If it be
+    less compact, water will enter more or less according to
+    the head or pressure, and according to its compactness or
+    porosity, producing a slope of saturation whose inclination
+    is dependent on the frictional resistance encountered by
+    the water. And the bank will be tight whenever the slope of
+    saturation remains within the figure of the embankment.
+
+Further,
+
+    that it was necessary to distinguish between the slope assumed
+    by water _retained in_ an embankment and that taken by water
+    _passing through_ an embankment made of material too porous to
+    retain it; where the rule is clearly reversed and where the more
+    porous the material the steeper the slope at which water will run
+    through it at a given rate.
+
+These citations are sufficient to emphasize the importance of exact
+definition of terms and clear statement of principles.
+
+The latest experiments relating to the percolation of water through
+earth materials and tests determining the stability of soils are
+those made during the investigations at the New Croton Dam and
+Jerome Park Reservoir, New York, and those relating to the North
+Dike of the Wachusett Reservoir, Boston. These are very interesting
+and instructive, and it is here proposed to discuss the results and
+conclusions reached in these cases, after some introductory remarks
+reciting the order of events.
+
+NEW CROTON DAM.–In June, 1901, the Board of Croton Aqueduct
+Commissioners of New York requested a board of expert engineers,
+consisting of Messrs. J. J. R. Croes, E. F. Smith and E. Sweet, to
+examine the plans for the construction of the earth portion of the New
+Croton Dam, and also the core wall and embankment of the Jerome Park
+reservoir.
+
+This report was published in full in Engineering News for Nov. 28,
+1901. It was followed in subsequent issues of the said journal by
+supplemental and individual reports from each member of the board
+of experts, and by articles from Messrs. A. Fteley, who originally
+designed the works, A. Craven, formerly division engineer on this work,
+and W. R. Hill, at that time chief engineer of the Croton Aqueduct
+Commission.
+
+After describing the New Croton Dam, the board of experts preface their
+remarks on the earth embankment by saying that
+
+    it has been abundantly proven that up to a height of 60
+    or 70 ft. an embankment founded on solid material and
+    constructed of well-selected earth, properly put in place,
+    is fully as durable and safe as a masonry wall and far less
+    costly.
+
+There are, in fact, no less than 22 earth dams in use to-day exceeding
+90 ft. in height, and twice that number over 70 ft. in height. Five of
+the former are in California, and several of these have been in use
+over 25 years. The writer fails to appreciate the reason for limiting
+the safe height of earth dams to 60 or 70 ft.
+
+The New Croton Dam was designed as a composite structure of masonry
+and earth, crossing the Croton Valley at a point three miles from the
+Hudson River. The earth portion was to join the masonry portion at a
+point where the latter was 195 ft. high from the bed rock. The Board
+thought there was no precedent for such a design and no necessity
+for this form of construction. The point to be considered here was
+whether a dam like this can be made sufficiently impermeable to water
+to prevent the outer slope from becoming saturated and thus liable to
+slide and be washed out.
+
+The design of the embankment portion was similar to all the earth dams
+of the Croton Valley. In the center is built a wall of rubble masonry,
+generally founded upon solid rock, and “intended to prevent the free
+seepage of water, but not heavy enough to act alone as a retaining wall
+for either water or earth.”
+
+Fig. 17 shows a section which is typical of most New England earth
+dams; and Fig. 18, the sections of two of the Croton Valley dams, New
+York water supply. These dams all have masonry core walls, illustrating
+the third type of dams given on page 33.
+
+[Illustration: FIG. 17.–CROSS-SECTION OF A TYPICAL NEW ENGLAND DAM.]
+
+The board of experts made numerous tests by means of borings into
+the Croton Valley dams to determine the slope of saturation. The
+hydraulic laboratory of Cornell University also made tests of the
+permeability of several samples of materials taken from pits. All the
+materials examined were found to be permeable and when exposed to water
+to disintegrate and assume a flat slope, the surface of which was
+described as “slimy.”
+
+Pipe wells were driven at different places into the dams and the line
+of saturation was determined by noting the elevations at which the
+water stood in them. In all the dams the entire bank on the water side
+of the core wall appeared to be completely saturated. Water was also
+found to be standing in the embankment on the down-stream side of the
+core wall. The extent of saturation of the outer bank varied greatly,
+due to the difference in materials, the care taken in building them,
+and their ages. Fig. 19 gives the average slopes of saturation as
+determined by these borings.
+
+The experts stated
+
+    that the slope of the surface of the saturation in the bank
+    is determined by the solidity of the embankment: The more
+    compact the material of which the bank is built, the steeper
+    will be the slope of saturation.
+
+As a result of their investigations, the experts were of the opinion
+that the slope of saturation in the best embankments made of the
+material found in the Croton Valley is about 35 ft. per 100 ft., and
+that with materials less carefully selected and placed the slope may be
+20 ft. per 100 ft.
+
+Further, that taking the loss of head in passing through the core wall,
+and the slope assumed by the plane of saturation, the maximum safe
+height of an earth dam with its top 20 ft. above water level in the
+reservoir and its outside slope 2 on 1, is 63 to 102.5 ft. This is a
+remarkable finding in view of the fact that the Titicus Dam, one of the
+Croton Valley dams examined, has a maximum height above bed rock of 110
+ft. and has been in use seven years. This dam is not a fair example to
+cite in proof of their conclusion, because its _effective head_ is only
+about 46 ft.[2]
+
+[Illustration: BOG BROOK DAM.]
+
+[Illustration: MIDDLE BRANCH DAM.
+
+FIG. 18.–CROSS-SECTION OF TWO CROTON VALLEY DAMS, SHOWING SATURATION.]
+
+Mr. Fteley gave as a reason for the elevation of the water slope
+found in the outer bank of the Croton dams the fact of their being
+constructed of fine materials and stated that with comparatively porous
+materials they would have shown steeper slopes of saturation.
+
+Mr. Craven argued that all dams will absorb more or less water, and
+that porosity is merely a degree of compactness; that slope implies
+motion in water, and that there is no absolute retention of water in
+the outer bank of a dam having its base below the plane indicated by
+the loss of head in passing through the inner bank and then through a
+further obstruction of either masonry or puddle; that there is simply a
+partial retention, with motion through the bank governed by the degree
+of porosity of the material.
+
+Fig. 19 is a graphical interpretation of the conclusion reached by the
+board of experts, as already given on page 41. “A” is an ideal profile
+of a homogeneous dam with the inner slope 3 on 1 and the outer slope 2
+on 1. The top width is made 25 ft. for a dam having 90 ft. effective
+head, the high-water surface in the reservoir being 10 ft. below the
+crest of the dam. This ideal profile is a fair average of all the earth
+dams of the world. Not having a core wall to augment the loss of head,
+it fairly represents what might be expected of such a dam built of
+Croton Valley material, compacted in the usual way. It should be noted
+that the intersection of the plane of saturation with the rear slope of
+the dam at such high elevation as shown indicates an excessive seepage
+and a dangerously unstable condition.
+
+
+Preliminary Study of Profile for Dam.
+
+The preliminary calculations for designing a profile for an earth dam
+are simple and will here be illustrated by an example. Let us assume
+the following values:
+
+    a. Central height of dam, 100 ft.
+
+    b. Maximum depth of water, 90 ft., with surface 10 ft. below
+       crest of dam.
+
+    c. Effective head, 90 ft.
+
+    d. Weight of water, 62.5 lbs. per cu. ft.
+
+    e. Weight of material, 125 lbs. per cu. ft.
+
+    f. Coefficient of friction, 1.00, or equal to the weight.
+
+    g. Factor of safety against sliding, 10.
+
+    The width corresponding to the vertical pressure of 1 ft. is,
+    (62.5 × 10)/125 = 5 ft.
+
+[Illustration]
+
+[Illustration: FIG. 19.–GRAPHICAL INTERPRETATION OF STUDIES OF BOARD OF
+EXPERTS ON THE ORIGINAL EARTH PORTION OF THE NEW CROTON DAM.]
+
+The hydrostatic pressure per square foot at 90 ft. depth is, 62.5 × 90
+= 5,625 lbs.
+
+The dam, having a factor of safety of 10, must present a resistance of,
+5,625 × 10 = 56,250 lbs., or 28 tons per square foot.
+
+The theoretical width of bank corresponding to 90 ft. head and a factor
+of 10 is shown by the dotted triangle (A-B-B) to be 450 ft., (B, Fig.
+19) with slopes 2½ on 1.
+
+To this must be added the width due to the height of crest above the
+water surface in the reservoir and the width of crest.
+
+The former would be, 2 (2½ × 10) = 50 ft., and the latter by
+Trautwine’s rule, 2 + 2√100 = 22 ft., giving a total base width of 522
+ft.
+
+Let us now assume that the slope of saturation may be 35 ft. per 100
+ft. We observe that this intersects the base 40 ft. within the outer
+toe of the bank slope. If the plane of saturation was 33 ft. per 100,
+it would just reach the outer toe. It would be advisable to enlarge
+this section by adding a 10-ft. berm at the 50-ft. level, having a
+slope not less than 3 on 1 for the up-stream face, and two 15-ft. berms
+on the down-stream face, having slopes 2½ on 1. The additional width
+of base due to these modifications in our profile amounts to 65 ft.,
+giving a total base width of 587 ft., and increasing the factor of
+safety from 10 to 13. It should be remembered that if the bank becomes
+saturated this factor of safety may be reduced 50%, the coefficient of
+moist clay being 0.50.
+
+The loss of head due to a core wall of masonry, as designed for the
+New Croton Dam, was assumed by the board of experts to be 21 ft., or
+17% of the depth of water in full reservoir. It has been stated by
+several authorities that the primary object of a masonry core wall is
+to afford a water-tight cut-off to any water of percolation which may
+reach it through the upper half of the embankment. It appears that
+absolute water-tightness in the core wall is not obtained, although the
+core walls of the Croton dams are said to be “the very best quality of
+rubble masonry that can be made.”
+
+Mr. W. W. Follett, who is reported to have had considerable experience
+in building earth dams, and who has made some valuable suggestions
+thereupon, is emphatic in saying,
+
+    that the junction of earth and masonry forms a weak point, that
+    either a puddle or masonry core in an earthen dam is an element
+    of weakness rather than strength.
+
+He also thinks the usual manner of segregating and depositing
+materials different in density and weight, and thus subject to
+different amounts of settlement, as bad a form of construction as could
+be devised.
+
+Core walls may prevent “free passage of water” and “excessive seepage,”
+but are nevertheless of doubtful expediency.
+
+
+Earthwork Slips and Drainage.
+
+Mr. John Newman, in his admirable treatise on “Earthwork Slips and
+Subsidences upon Public Works,” classifies and enumerates slips as
+follows:
+
+    Natural causes, 7.
+    Artificial causes, 31.
+    Additional causes due to impounded water, 7.
+
+After describing each cause he presents 39 different means used to
+prevent such slips and describes methods of making repairs.
+
+Mr. Wm. L. Strange has had such a large and valuable experience and has
+set forth so carefully and lucidly both the principles and practice of
+earth dam construction, that the writer takes pleasure in again quoting
+him on the subject of _drainage_, of which he is an ardent advocate. He
+says that,
+
+    thorough drainage of the base of a dam is a matter of vital
+    necessity, for notwithstanding all precautions, some water will
+    certainly pass through the puddle.
+
+It is at the junction of the dam with the ground that the maximum
+amount of leakage may be expected. The percolating water should be
+gotten out as quickly as possible. The whole method of dealing with
+slips may be summed up in one word–_drainage_.
+
+The proper presentation of these two phases of our subject would in
+itself require a volume. The interested reader is therefore referred to
+the different authorities and writers cited in Appendix II.
+
+
+Jerome Park Reservoir Embankments.
+
+The Jerome Park reservoir is an artificial basin involving the
+excavation and removal of large quantities of soil, and the erection of
+long embankments with masonry core walls, partly founded on rock and
+partly on sand. The plan and specifications call for an embankment 20
+ft. wide on top, with both slopes 2 on 1, and provide for lining the
+inner slope with brick or stone laid in concrete, and for covering the
+bottom with concrete laid on good earth compacted by rolling.
+
+[Illustration: Section at Sta. 99.]
+
+[Illustration: Section at Sta. 76+20.
+
+FIG. 20.–GRAPHICAL EXHIBIT OF STUDIES OF JEROME PARK RESERVOIR
+EMBANKMENT.]
+
+Wherever bed rock was not considered too deep below the surface the
+core walls were built upon it. In other places the foundation was
+placed 8 to 10 ft. below the bottom of the reservoir and rested upon
+the sand.
+
+It appears that the plans of the Jerome Park embankment were changed
+from their original design, prior to the report of the board of
+experts, on account of two alleged defects, namely, “cracks in the core
+wall” and “foundation of quicksand,” and incidentally on account of the
+supposed instability of the inner bank.
+
+In describing the materials on which these embankments rest the experts
+remarked
+
+    that all these fine sands are unstable when mechanically
+    agitated in an excess of water, and that they all settle in
+    a firm and compact mass under the water when the agitation
+    ceases. That they are quite unlike the true quicksands whose
+    particles are of impalpable fineness and which are “quick”
+    or unstable under water.
+
+Fig. 20 is a graphic exhibit of the results of tests made at “Station
+76 + 20,” and at “Station 99,” to determine the flow line of water in
+the sand strata underlying the embankment and bottom of the Jerome Park
+reservoir.
+
+The experts reported that there was no possible danger of sliding or
+sloughing of the bank; that the utmost that could be expected would
+be the percolation of a small amount of water through the embankment
+and the earth; and that this would be carried off by the sewers in the
+adjacent avenues; that a large expenditure to prevent such seepage
+would not be warranted nor advisable.
+
+In concluding their report, however, they recommended changing the
+inner slope of 2 on 1 to 2½ on 1, and doubling the thickness of the
+concrete lining at the foot of the slope to preclude all possibility
+of the sliding or the slipping of the inner bank in case of the water
+being lowered rapidly in the reservoir.
+
+Mr. W. R. Hill, then chief engineer of the Croton Aqueduct Commission,
+favored extending the core walls to solid rock. He took exception to
+the manner of obtaining samples of sand by means of pipe and force-jet
+of water, claiming that only the coarsest sand was obtained for
+examination. He did not consider fine sand through which three men
+could run a ¾-in. rod 19 and 20 ft. to rock without use of a hammer,
+very stable material upon which to build a wall.
+
+
+North Dike of the Wachusett Reservoir, Boston.
+
+The North Dike of the Wachusett Reservoir is another large public work
+in progress at the present time. It is of somewhat unusual design
+and the preliminary investigations and experiments which led to its
+adoption are interesting in the extreme.[3]
+
+The area to be explored in determining the best location for the dike
+was great, and the preliminary investigations conducted by means of
+wash drill borings, very extensive. A total of 1,131 borings were made
+to an average depth of 83 ft., the maximum depth being 286 ft. The
+materials were classified largely by the appearance of the samples,
+though chemical and filtration tests were also made. The plane of the
+ground water was from 35 to 50 ft. below the surface, and the action of
+the water-jet indicated in a measure the degree of permeability of the
+strata.
+
+In addition to these tests experimental dikes of different materials,
+and deposited in different ways, were made in a wooden tank 6 ft. wide,
+8 ft. high and 60 ft. long. The stability of soils when in contact with
+water was experimented with, as shown in Fig. 21, in the following
+manner:
+
+An embankment (Fig. 21) was constructed in the tank of the material to
+be experimented with, 2 ft. wide on top, 6 ft. high, with slopes 2 on
+1, and water admitted on both sides to a depth of 5 ft. The top was
+covered with 4-in. planks 2 ft. long and pressure applied by means of
+two jack screws resting upon a cross beam on top of the planks.
+
+With a pressure of three tons per square foot, the 4-in. planks were
+forced down into the embankment a little more than 6 ins., resulting
+in a very slight bulging of the slopes a little below the water level.
+Immediately under the planks the soil became hard and compact. A man’s
+weight pushed a sharp steel rod, ¾-in. in diameter, only 6 to 8 ins.
+into the embankment where the pressure was applied, while outside of
+this area the rod was easily pushed to the bottom of the tank.
+
+These results corroborate in a general way the practical experience of
+the author, both in compressed embankments, where he found it necessary
+to use a pick vigorously to loosen the material of which they were
+composed, and in embankments made by merely dumping the material from
+a track, in which case the earth is so slightly compressed that an
+excavation is easily made with a shovel.
+
+[Illustration: Fig. 21.]
+
+[Illustration: Fig. 22.]
+
+[Illustration: Fig. 23.–CAN FOR DETERMINING FRICTIONAL RESISTANCE]
+
+[Illustration: Fig. 24.]
+
+[Illustration: Fig. 25.
+
+FIGS. 21 TO 24.–EXPERIMENTAL DIKES AND CYLINDER EMPLOYED IN STUDIES FOR
+THE NORTH DIKE OF THE WACHUSETT RESERVOIR; AND (FIG. 25) CROSS-SECTION
+OF THE DIKE.]
+
+The difference in the coefficient of friction of the same material
+when dry and when wet greatly modifies the form of slope. The harder
+and looser the particles, the _straighter_ will be the slope line in
+excavation and slips. The greater the cohesion of the earth, the _more
+curved_ will be the slope, assuming a parabolic curve near the top–the
+true form of equilibrium.
+
+RATE OF FILTRATION.–The rate of filtration through different soils was
+experimented with by forming a dike in the tank previously mentioned,
+as shown in Fig. 22.
+
+The dike was made full 8 ft. high, 7 ft. wide on top, with a slope on
+the up-stream side of 2 on 1, and on the down-stream side 4 on 1. This
+gave a base width of 55 ft. Immediately over the top of the dike there
+was placed 3 ft. of soil to slightly consolidate the top of the bank
+and permit the filling of the tank to the top without overflowing the
+dike. The water pressure in different parts of the dike was determined
+by placing horizontal pipes through the soil crosswise of the tank.
+These pipes were perforated and covered with wire gauze, being
+connected to vertical glass tubes at their ends. The end of the slope
+on the down-stream side terminated in a box having perforated sides and
+filled with gravel, thus enabling the water to percolate and filter out
+of the bank without carrying the soil with it.
+
+When the soil was shoveled loosely into the tank, without consolidation
+of any kind, it settled on becoming saturated and became quite compact.
+It took five days for the water to appear in the sixth gauge pipe near
+the lower end of the tank. After the pressure, which was maintained
+constant, had been on for several weeks, the seepage amounted to one
+gallon in 22 minutes. When the soil was deposited by shoveling into the
+water, the seepage amounted to one gallon in 34 minutes.
+
+The relative filtering capacities of soils and sands were thought to
+be better determined by the use of galvanized iron cylinders of known
+areas.
+
+Fig. 23 shows one of the cylinders. These latter experiments confirmed
+those previously made at Lawrence, by Mr. Allen Hazen, for the
+Massachusetts State Board of Health. They showed that the loss of head
+was directly proportioned to the quantity of water filtered and that
+the quantity filtered will vary as the square of the diameter of the
+_effective size_ of the grains of the filtering material.[4]
+
+The material classed as “permeable” at the North Dike of the Wachusett
+Reservoir has an effective diameter of about 0.20 mm. A few results are
+given in the following table:
+
+
+Amount of Filtration in Gallons per Day, Through an Area of 10,000 Sq.
+Ft., With a Loss of Head or Slope of 1 ft. in 10 ft.
+
+        Material.                Unit ratios.    U. S. gallons.
+
+    (1) Soil                            1                 510
+    (2) Very fine sand                 14               7,200
+    (3) Fine sand                     176              90,000
+    (4) Medium sand                   784             400,000
+    (5) Coarse sand                 4,353           2,200,000
+
+To be sure that the accumulation of air in the small interstices of
+the _soil_ was not the cause of the greatly reduced filtration through
+it, another series of experiments was conducted in the wooden tank, as
+shown in Fig. 24.
+
+A pair of screens was placed near each end of the tank, filled with
+porous material, sand and gravel, and the 50-ft. space between filled
+with soil. The soil was rammed in 3-in. layers, and special care taken
+to prevent water from following along the sides and bottom of the tank.
+One end was filled with water to near the top, while the other end gave
+a free outlet.
+
+After this experiment had been continued for more than a month, the
+amount of seepage averaged 1.7 gallons per 24 hours, or about 32 drops
+per minute.
+
+Filtration tests were also made through soil under 150 ft. head, or 5
+lbs. per sq. in., with results not materially different, it is stated,
+from those already given. The soil used in all these tests contained
+from 4 to 8% by weight of organic matter. This was burned and similar
+tests made with the incinerated soil, resulting in an increase of about
+20% more seepage water.
+
+PERMANENCE OF SOILS.–This last material experimented with suggests the
+subject of _permanence_ of soils. This was reported upon separately and
+independently by Mr. Allen Hazen and Prof. W. O. Crosby. These experts
+agreed in their conclusion, stating
+
+    that the process of oxidation below the line of saturation would be
+    extremely slow, requiring many thousands of years for the complete
+    removal of all the organic matter, and that the tightness of the
+    bank would not be materially affected by any changes which are
+    likely to occur.
+
+It has been remarked,
+
+    that of all the materials used in the construction of
+    dams, _earth_ is physically the least destructible of
+    any. The other materials are all subject to more or less
+    disintegration, or change in one form or another, and in
+    earth they reach their ultimate and most lasting form.
+
+In speaking of the North Dike of the Wachusett Reservoir, Mr. Stearns
+remarked that,
+
+    it was evident by the application of Mr. Hazen’s formula for
+    the flow of water through sands and gravels, that the very
+    fine sands found at a considerable depth below the surface
+    would not permit enough water to pass through them if a dike
+    of great width were constructed, to cause a serious loss of
+    water, and it was also found that the soil, which contained
+    not only the fine particles or organic matter, but also a
+    very considerable amount of fine comminuted particles, which
+    the geologist has termed “rock flour,” would be sufficiently
+    impermeable to be used as a substitute for clay puddle.
+
+Fig. 25 shows the maximum section of the North Dike with its cut-off
+trench. The quantities and estimated cost of the completed structure
+are given in the table herewith:
+
+                                               |–––   Cost   –––|
+                                                        Per cent.
+    Work.               Quantities.    Unit    Actual.    total.
+                         (cu. yds.)    Price.
+    Soil                 5,250,000     $0.05  $262,500    34.7
+    Cut-off trench         542,000       .20   108,400    19.3
+    Borrowed
+      earth and gravel     200,000       .20    40,000
+    Slope paving            50,000      2.20   110,000    14.6
+    Sheet-piling,
+      pumping, etc.                            117,000    15.5
+    Engineering and
+      preliminary investigations               120,000    15.9
+                                               –––––––   –––––
+          Total cost                          $757,900   100.0
+
+
+Druid Lake Dam, Baltimore, Md.
+
+Another very interesting and instructive example of high earth dam
+construction is that of the Druid Lake Reservoir embankment, Baltimore,
+Md.
+
+This dam was built under the supervision of Mr. Robt. K. Martin.
+Construction was begun in 1864, and the dam was finished in 1870. Mr.
+Alfred M. Quick, present chief engineer of the water-works of the
+City of Baltimore has given a very lucid description of this work in
+Engineering News of Feb. 20, 1902.
+
+Fig. 26 is a cross-section of this dam, showing the method of
+construction so clearly as to scarcely need further description. The
+banks D-D on either side of the central puddle wall were carried up in
+6-in. layers with horses and carts, and kept about 2 ft. higher than
+the puddle trench, which always contained water. The banks E-E were
+made of dumped material, after which the basins F-F were first filled
+with water and finally filled by dumping material into the water from
+tracks being moved in toward the center.
+
+[Illustration: FIG. 26–WORKING CROSS-SECTION OF DRUID LAKE DAM.]
+
+After reaching the top of this fill, banks B-B-B were built up in
+layers similar to D-D. The second set of basins C-C were then filled
+in a manner similar to F-F. The remaining portion A-A was constructed
+in layers like D-D and B-B, with the addition of compacting each layer
+with a heavy roller.
+
+Finally the inner face slope was carried up in 3-in. layers and
+thoroughly rolled, after which 2 ft. of “good puddle” was put upon the
+inner slope the latter was rip-rapped, the crown covered with gravel
+and the rear slope sodded.
+
+Some years after completion, a driveway was built along the outer
+slope, as shown, which had a tendency to strengthen the dam, though not
+designed expressly for that purpose.
+
+It is of interest to know that the influent, effluent and drain pipes
+were originally constructed through or under the embankment. These
+pipes were laid upon solid earth, and where they passed through the
+puddle wall were supported upon stone piers 6 ft. apart. As might be
+expected, they soon cracked badly and were finally abandoned, new ones
+being placed in the original ground at the south side of the lake. Mr.
+Quick states that so far as is known there has never been any evidence
+of a leak through the embankment during these 32 years of service.
+
+
+New Types of Dams; Bohio, Panama Canal.
+
+A brief description will now be given of three different dams designed
+for Bohio, on the proposed Panama Canal. Mr. George S. Morison’s paper
+before the American Society of Civil Engineers, on “The Bohio Dam,”
+and the discussion thereon, especially that by Mr. F. P. Stearns, were
+quite fully reported in Engineering News for March 13 and May 8, 1902.
+In constructing the Panama Canal it will be necessary to impound the
+waters of the Chagres River, near Bohio, to maintain the summit level
+of this canal and supply water for lockage.
+
+THE FRENCH DESIGN.–Fig. 27 is an enlarged section of the original
+design of the new French Co. This design has no core wall, but at
+the up-stream toe a concrete wall was to be built across the river
+between the two lines of sheet-piling. At the down-stream toe a large
+amount of riprap was to be placed to prevent destruction of the dam
+during construction. In this case it would be necessary to construct
+a temporary dam above and also to use the excavation for the locks
+as a flood spillway. This method would involve considerable risk to
+the work, on account of the large volume of flood waters it might be
+necessary to take care of during construction.
+
+ISTHMIAN CANAL COMMISSION.–The dam proposed by the Isthmian Canal
+Commission is shown by Fig. 28. This was designed to be an absolutely
+water-tight closure of the geological valley, by using a masonry core
+wall carried down to bed rock. The maximum depth being 129 ft., it was
+planned to rest the concrete wall on a series of pneumatic caissons
+reaching to rock. The spaces between the caissons would be closed and
+made water-tight. Both slopes of the earth embankment were to have
+horizontal benches and be revetted with loose rock.
+
+MR. MORISON’S DESIGN.–To appreciate fully the object and aim of the
+third design, Fig. 29, which may be called a new type, although similar
+in many respects to the North Dike of the Wachusett reservoir already
+illustrated and described, it should be stated that the equalized flow
+of the Chagres River is put at 1,000 cu. ft. per sec. Of this quantity
+it is estimated that 500 cu. ft. would be needed for lockage and 200
+cu. ft. for evaporation. This leaves 300 cu. ft. per sec. available for
+seepage and other losses or to be wasted.
+
+[Illustration]
+
+[Illustration]
+
+[Illustration: FIGS. 27 TO 29.–DESIGNS FOR THE BOHIO DAM, PANAMA
+CANAL.]
+
+It will thus be seen that a scarcity of water is not in this instance
+a condition demanding an absolutely water-tight dam. The amount of
+seepage permissible without endangering the stability of the structure
+is the real point now to be discussed.
+
+The third design, which was proposed by Mr. Morison, is shown by Fig.
+29. The topography and configuration of this dam site is not unlike
+that of the San Leandro Dam, California, soon to be described, while
+the general design is similar, as has been remarked, to the North Dike
+of the Wachusett Reservoir.
+
+This third design contemplates a compound structure, formed by two
+rock-fill dams situated about 2,120 ft. apart, with the intervening
+space filled with loose rock, earth and other available material.
+Immediately below the upper and higher rock-fill dam, it is proposed
+to place across the canyon a puddle wall 50 ft. in width, resting over
+two lines of sheet-piling 30 ft. apart. This piling would probably not
+reach farther than 50 ft. below tidewater, the solid rock floor being
+about 100 ft. deeper.
+
+Mr. Morison made use of Mr. Hazen’s filtration formula for estimating
+the rate and quantity of seepage through the permeable strata below the
+dam. This formula is:
+
+             h t + 10°
+    V = cd² –– ––––––
+             l   60
+
+    where
+
+    V = rate of flow in meters per day through the whole section.
+    c = constant varying from 450 to 1,200,
+        according to cleanness of the sand.
+    d = “effective size” of sand in mm.
+    h = head in feet.
+    l = length or distance water must pass.
+    t = temperature of the water (Fahr.)
+
+This formula should be used only when the _effective sizes_ of sands
+are from 0.10 to 3.0 mm. and with _uniformity coefficients_ below
+5.0[5].
+
+Mr. Morison used the following values: c = 1,000; d = 1.0 mm.; h = 90
+ft.; l = 2,500 ft.; t = 90°; for the solution of this problem, and
+obtained a velocity of 0.002 ft. per sec. The bed of sand and gravel
+was assumed to have a sectional area of 20,000 sq. ft. for 2,500 ft. in
+length. This gives a seepage of 40 cu. ft. per sec.
+
+It is believed that the above rate of 0.002 ft. per sec., equivalent to
+1⅜ ins. per minute, or 7 ft. per hour, is not sufficient to move any of
+the material. The velocity of water percolating through sand is found
+to vary directly as the head and inversely as the distance.
+
+The value of “c” in the formula is larger for sands of filters
+favorable for flow, and smaller for compacted materials and dams.
+
+Mr. Morison thought it might be nearer the actual conditions to assume
+d = 0.50 mm.; c = 500; and l = 5,000 ft.; in which case the seepage
+would only amount to 2.5 ft. per sec. In this last assumption the
+“effective size” of sand grains is 2½ times that classed as “permeable
+material” at the North Dike of the Wachusett Reservoir.
+
+Prof. Philipp Forchheimer, of Gratz, Austria, recommends the use of the
+formula,
+
+     h
+    ––– = a√ + b√²
+     l
+
+for the percolation through soils between loam and loamy sand.
+Sellheim, Masoni, Smreker, Kröber and other authorities on filtration
+use still other formulas, to which the reader and student is referred
+for further research.
+
+The writer, having had occasion in his professional practice to study
+quite carefully the subject of ground waters, and their percolation
+or flow through different classes of materials and under varying
+conditions, is of the opinion that rarely does the cross-section of
+a stream-channel, filled with sand, gravel and debris, present, even
+approximately, a homogeneous or uniform mass; and that there are,
+almost without exception, strata of material much coarser and more
+porous than the general average. In other words, that it is extremely
+difficult to arrive at a uniformity coefficient. It is unwise to place
+much reliance upon an estimated flow where this is the case. The
+formula may be used with confidence where the layers are artificially
+made, and where there is no uncertainty regarding the uniform character
+of the material. In most natural channels there are distinct lines
+of flow, and under considerable hydrostatic head or pressure these
+lines of flow would surely enlarge. There is a wide difference between
+permissible and dangerously excessive percolation through an earth
+embankment. The local features, economical considerations and magnitude
+of the risks, all bear upon this question and must be considered for
+each particular case.
+
+It is of interest to compare the estimated cost of the three designs
+proposed for the Bohio Dam, based upon the same unit prices, as follows:
+
+    French Engineers’ design              $3,500,000
+    Isthmian Canal Commissioners’ design   8,000,000
+    Mr. Morison’s design                   2,500,000
+
+No comments will be made upon these figures, further than to remark
+that the successful building of a stable dam, accomplished by the use
+of an excessive quantity of materials and at a cost beyond reasonable
+requirements, is mainly instructive as illustrating “how not to do it.”
+It is creditable to execute substantial works at a reasonable cost,
+but it reflects no credit upon any one to construct them regardless of
+expense.
+
+
+Combined Rock-fill and Earth Dam.
+
+Fig. 30 shows a section of the Upper Pecos River Dam near Eddy, N. M.
+
+This dam is quite fully described by Mr. Jas. D. Schuyler, in his
+recent book on “Reservoirs for Irrigation, Water-Power and Domestic
+Water-Supply,” and need not be mentioned in this paper, further than
+to call attention to the combination of rock-fill and earth which
+constitutes its particular type of construction. This type of dam is
+believed to be for many localities a very good one, but up to the
+present time has only been adopted for dams of moderate height, under
+60 ft.
+
+
+The San Leandro Dam, California.
+
+A section of the San Leandro Dam, near Oakland, Cal., is shown by
+Fig. 31. This section was supplied by Mr. W. F. Boardman, hydraulic
+engineer, who superintended the construction of the dam, from his own
+private notes and data. It differs materially from sections heretofore
+published, and is 5 ft. higher, thus making it rank as the highest
+earth dam in the world of which we have an authentic record.
+
+The dam was commenced in 1874, and brought up to a height of 115 ft.
+above the bed of the creek in 1898. At the present time it is 500 ft.
+in length on the crest and 28 ft. wide. The original width of the
+ravine at the base of the dam was 66 ft. The present width of base
+from toe to toe of slopes is 1,700 ft. The height of embankment above
+the original surface is 125 ft., with a puddle trench extending 30 ft.
+below.
+
+[Illustration: FIG. 30.–CROSS-SECTION OF UPPER PECOS RIVER DAM;
+COMBINED ROCK FILL AND EARTH.]
+
+[Illustration: FIG. 31.–DEVELOPED SECTION OF SAN LEANDRO DAM.]
+
+All that portion of the dam within a slope of 2½ on 1 at the rear and
+3 on 1 at the face is built of choice material, carefully selected and
+put in with great care. The portion outside of the 2½ on 1 slope line
+at the down-stream side of the dam, was _sluice in_ from the adjacent
+hills regardless of its character, and is composed of ordinary soil
+containing more or less rock.
+
+This process of sluicing was carried on during the rainy season, when
+there was an abundance of water, and it was intended to be continued
+until the canyon below the dam had been filled to an average slope of
+6.7 on 1 at the rear of the dam. It was thought that the location was
+particularly favorable for this kind of construction, the original
+intention being to raise the dam from time to time, not only to
+increase the storage as the demand for water increased, but to meet
+the annual loss in capacity caused by the silting up of the reservoir
+basin. The latter has amounted to about 1 ft. in depth per annum.
+
+METHOD OF CONSTRUCTION.–Under the main body of the dam, the surface was
+stripped of all sediment, sand, gravel and vegetable matter. Choice
+material, carefully selected, was then brought by carts and wagons and
+evenly distributed over the surface in layers about 1 ft. or less in
+thickness. This was sprinkled with just enough water to make it pack
+well, not enough to make it like mud. During construction a band of
+horses was led by a boy on horseback over the entire work, to compact
+the materials and assist in making the dam one homogeneous mass. No
+rollers were used on this dam.
+
+The central trench was cut 30 ft. below the original bed of the creek.
+In the bottom of this trench three secondary trenches, 3 ft. wide by 3
+ft. deep, were made and filled with concrete. These concrete walls were
+carried up 2 ft. above the general floor of the trench, to break the
+continuity of its surface.
+
+The original wasteway, constructed at the north end of the dam, has
+been practically abandoned, having been substituted by a tunnel of
+larger capacity. The original wasteway was excavated in the bed rock
+of the natural hillside, and although lined with masonry, is not in
+the best condition. The author considers its location an objectionable
+feature, as menacing the safety of the dam, and thinks it should be
+permanently closed.
+
+A wasteway tunnel, 1,487 ft. in length, was constructed in 1888,
+through a ridge extending north of the dam. This has a sectional area
+of about 10×10 ft., lined with brick masonry throughout, having a grade
+of 2½%.
+
+The criticism might be made of the tunnel that it is faulty in design
+at the entry or reservoir end, where the water must first fall over
+a high spillway wall, aerating the water before entering the tunnel
+proper. The water even then has not easy access to the tunnel, and no
+adequate arrangements have been made for ventilation, so as to insure
+the utilization of its maximum capacity. The maximum depth of water in
+the reservoir is about 85 ft., and the full capacity 689,000,000 cu.
+ft. of water. The catchment area is 43 square miles, and the surface
+of the reservoir when full 436 acres. The outlet pipes are placed in
+two tunnels at different elevations through the ridge north of the dam.
+There are no culverts or pipes extending through the body of the dam
+itself.
+
+
+Hydraulic-fill Dams.
+
+No discussion of earth dams would be complete without some reference
+being made to the novel type of construction developed in western
+America in recent years, by which railroad embankments and water-tight
+dams are built up by the sole agency of water. The water for this
+purpose is usually delivered under high pressure, as it is generally
+convenient to make it first perform the work of loosening the earth
+and rock in the borrow pit, as well as subsequently to transport them
+to the embankment, and there to sort and deposit them and finally part
+company with them after compacting them solidly in place, even more
+firmly than if compressed by heavy rollers. Sometimes, however, water
+is delivered to the borrow pit without pressure, in which event the
+materials must be loosened by the plow or by pick and shovel by the
+process called ground sluicing in placer mining parlance.
+
+An abundance of water delivered by gravity under high pressure is
+usually regarded as one of the essential factors in hydraulic-fill dam
+building, but it is not essential that there be a large continuous
+flow. The Lake Frances Dam, recently constructed for the Bay Counties
+Co., of California, by J. D. Schuyler, is 75 ft. high, 1,340 ft. long
+on top, and contains 280,000 cu. yds. The dam was built up by materials
+sluiced by water that was forced by a centrifugal pump through a 12-in.
+pipe and 3-in. nozzle, against a high bank, whence the materials were
+torn and conveyed by the water through flumes and pipes to the dam.
+About 6 cu. ft. per sec. of water was thus used, and at one stage of
+the work the supply stream was reduced to less than 0.1 ft. per sec.,
+the water being gathered in a pond and pumped over and over again.
+
+The chapter on hydraulic-fill dams in Mr. Schuyler’s book on
+“Reservoirs for Irrigation” will be found to contain matter on the
+subject interesting to those who desire to pursue it further, and the
+reader is again referred to that work.
+
+
+An Impervious Diaphragm in Earth Dams.
+
+As a result of the recent extended discussion concerning the design
+of the New Croton Dam and the Jerome Park Reservoir embankments,
+the Engineering News of Feb. 20, 1902, contained a very suggestive
+editorial entitled, “Concerning the Design of Earth Dams and Reservoir
+Embankments.” The opinion is given that no type of structure that man
+builds to confine water can compare in permanence with earth dams,
+after which the following pertinent questions are asked:
+
+    1. How shall an earth dam be made water-tight?
+
+    2. What is the office and purpose of the masonry core wall?
+
+    3. Would not a water-proof diaphragm of some kind be better
+       than a core wall of either masonry or puddle?
+
+The article then suggests a number of designs of diaphragm construction,
+with a special view of obtaining absolute water-tightness, by use of
+asphaltum, cement mortar, steel plates, etc. Special emphasis was put
+upon the _principle_ of constructing a water-proof diaphragm. The
+matter of relative cost is advanced as an argument in favor of the
+diaphragm principle as against the usual orthodox method. The saving in
+cost is to be accomplished by the use of inferior materials and less
+care in the handling of them, or by both. It is suggested that almost
+any kind of material available, rock, sand or gravel, will answer
+every purpose where good earth is not to be found. Further, that this
+material may be dumped from the carts, cars or cableways, or be placed
+by the hydraulic-fill method.
+
+The writer believes the diaphragm method of construction may have some
+merits, but that it is attended by the very great risk of neglecting
+principles most vitally important to the successful construction of
+high earth dams, which will now be formulated and advanced, as follows:
+
+
+
+
+CHAPTER VI.
+
+_Conclusions._
+
+
+The writer in concluding this study wishes to emphasize certain
+principles and apparently minor details of construction, which from
+observation and personal experience, seem to him of vital importance.
+
+He believes firmly in the truth contained in the following remarks by
+Mr. Desmond FitzGerald, of Boston, germane to this subject:
+
+    An engineer must be guided by local conditions and the resources at
+    his command in building reservoir embankments. His design must be
+    largely affected by the nature of the materials. There are certain
+    _general principles_, however, which must be observed and which
+    will be applied by an engineer of skill, judgment and experience to
+    whatever design he may adopt. It is in the application of these
+    principles that the services of the professional man becomes
+    valuable, and it is from a lack of them, that there have been so
+    many failures.
+
+The details and principles of construction, relating to high earth
+dams, may be summarized or stated in order of their application, as
+follows:
+
+(1) Select a firm, dry, impermeable foundation, or make it so by
+excavation and drainage. All alluvial soil containing organic matter
+and all porous materials should be excavated and removed from the
+dam site when practicable; that is, where the depth to a suitable
+impermeable foundation is not prohibitive by reason of excessive cost.
+
+Wherever springs of water appear, they must be carried outside the
+lines of the embankment by means of bed rock drains, or a system of
+pipes so laid and embedded as to be permanent and effective.
+
+The drainage system must be so designed as to prevent the infiltration
+of water upward and into the lower half of the embankment, and at the
+same time insure free and speedy outlet for any seepage water passing
+the upper half. All drains should be placed upon bed rock or in the
+natural formation selected for the foundation of the superstructure.
+They should be constructed in such a manner as to prevent the flow
+of water outside the channel provided for it, and also prevent any
+enlargement of the channel itself. To this end, cement, mortar, broken
+stone, and good gravel puddle are the materials best suited for this
+purpose.
+
+(2) Unite the body of the embankment to the natural foundation by means
+of an impervious material, durable and yet sufficiently elastic to bond
+the two together. When the depth to a suitable foundation is great,
+a central trench excavated with sloping sides, extending to bed rock
+or other impervious formation, refilled with good puddling material,
+properly compacted, will suffice.
+
+When clayey earth is scarce and expensive to obtain, a small amount of
+clay puddle confined between walls of brick, stone or concrete masonry,
+and extending well into the body of the embankment and so built as
+to avoid settlement, will prevent excessive seepage. This form of
+construction is not to be carried much above the original surface of
+the ground.
+
+(3) The continuity of surfaces should always be broken, at the same
+time avoiding the formation of cavities and lines of cleavage. No
+excavation to be refilled should have vertical sides, and long
+continuous horizontal planes should be intercepted by wedge-shaped
+offsets, enabling the dovetailing of materials together.
+
+All loose and seamy rock or other porous material should be removed,
+and where the refill is not the best for the purpose, mix the good and
+bad ingredients thoroughly, after which deposit in very thin layers.
+
+(4) Make the dimensions and profile of dam with a factor of safety
+against sliding of not less than ten. The preliminary calculations for
+designing such a profile have been given on p. 42.
+
+(5) Aim at as nearly a homogeneous mass in the body of the embankment
+as possible, thus avoiding unequal settlement and deformation. This
+manner of manipulating materials will eliminate many uncertain or
+unknown factors, but it means rigid inspection of the work and
+intelligent segregation of materials, no matter what method of
+transporting them may be adopted. The smaller the unit loads may
+be, the more easily a homogeneous distribution of materials will be
+obtained.
+
+(6) Select earthy materials in preference to organic soils, with a
+view of such combination or proportion of different materials as will
+readily consolidate. _Consolidation is the most important process
+connected with the building of an earth dam._ The judicious use of
+soil containing a small percentage of organic matter may be permitted,
+however, when there is a lack of clayey material for mixing with sandy
+and porous earth materials. Such a mixture, properly distributed and
+wetted, will consolidate well under heavy pressure and prove quite
+satisfactory.
+
+(7) Consolidation being the most important process and the only
+safeguard against permeability and instability of form, use only the
+amount of water necessary to attain this. Too much or too little are
+equally bad and to be avoided. It is believed that only by experiment
+and experience is it possible to determine just the proper quantity of
+water to use with the different classes of materials and their varying
+conditions. In rolling and consolidating the bank, all portions that
+have a tendency to quake must be removed at once and replaced with
+material that will consolidate; it _must not_ be covered up, no matter
+how small the area.
+
+(8) In an artificial embankment for impounding water it is
+impracticable to place reliance upon time for consolidation; it _must_
+be effected by mechanical means. Again we repeat, that consolidation is
+the most vitally important operation connected with the building of an
+earth dam. When this is satisfactorily attained it is proof that the
+materials are suitable and that the other necessary details have been
+in a large measure complied with. Light rollers are worse than useless,
+being a positive harm, resulting in a smoothing or “ironing process,”
+deceptive in appearance and detrimental in many ways.
+
+The matter of supreme importance in the construction of earth dams is
+that the greatest consolidation possible be specified and effected.
+To this end it is necessary that heavy rollers be employed, and that
+such materials be selected as respond best to the treatment. There
+are certain kinds of earth materials which no amount of wetting and
+rolling will compact. These must be rejected as unfit for use in any
+portion of an earth dam. Let the design of the structure be ever so
+true to correct engineering principles, it is still necessary to give
+untiring attention to the work of consolidation. It is therefore
+according to the design of a thoroughly compacted homogeneous mass,
+rather than to the suggested _diaphragm type_, to which modern practice
+should conform. This is in harmony with Nature’s own methods, and in
+conformity to correct principles.
+
+(9) Avoid placing pipes or culverts through any portion of the
+embankment. The writer considers it bad practice ever to place the
+outlet pipes through a high earth dam, and fails to see any necessity
+for so doing.
+
+(10) The surface of the dam, both front and rear, must be suitably
+protected against the deteriorating effects of the elements. This may
+include pitching the up-stream face, the riprap work at the toe of the
+inner slope, the roadway and covering of the crown, the sodding or
+other protection of the rear slope, and the construction of surface
+drains for the berms.
+
+(11) Ample provision for automatic wasteways should be made for
+every dam, so that the embankment can never under any circumstances
+be over-topped by the impounded water. Earthquakes and seismic
+disturbances will produce no disastrous effects upon an earth dam.
+Its elasticity will resist the shock of water lashing backwards and
+forwards in the reservoir.
+
+(12) Finally, provide for intelligent and honest supervision during
+construction, and insist upon proper care and maintenance ever
+afterwards.
+
+
+
+
+APPENDIX I.
+
+High Earth Dams.
+
+
+                             –Embankment–   –––  Slopes  –––   Available
+    Name of Dam                Max.   Top                        depths,
+    or Reservoir.  Location. height, width,   Water.   Bear.      ft.
+                               ft.    ft.
+
+    San Leandro   California  125     28
+    Tabeaud       California  123     20     3  on 1   2½ on 1    70
+    Druid Hill    Maryland    119     60     4  on 1   2  on 1    82
+    Dodder        Ireland     115     22     3½ on 1   3  on 1
+    Titicus Dam   New York    110     30     2  on 1   2½ on 1
+    Mudduk Tank   India       108            3  on 1   2½ on 1
+    Cummum Tank   India       102            3  on 1   1  on 1    90
+    Dale Dike     England     102     12     2½ on 1   2½ on 1
+    Marengo       Algeria     101
+    Torside       England     100                                 84
+    Yarrow        England     100     24     3  on 1   2  on 1
+    Honey Lake    California   96     20     3  on 1   2  on 1
+    Pilarcitos    California   95     25     2¾ on 1   2½ on 1
+    San Andres    California   95     25     3½ on 1   3  on 1
+    Temescal      California   95     12     3  on 1   2  on 1
+    Waghad        India        95      6     3  on 1   2  on 1    81
+    Bradfield     England      95     12     2½ on 1   2½ on 1
+    Oued Menrad   Algeria      95
+    St. Andrews   Ireland      93     25
+    Edgelaw       Scotland     93            3  on 1   2½ on 1
+    Woodhead      England      90                                 72
+    Tordoff       Scotland     85     10     3  on 1   2½ on 1
+    Naggar        India        84
+    Vahar         India        84     24     3  on 1   2½ on 1
+    Rosebery      Scotland     84
+    Atlanta       Georgia      82     40
+    Roddlesworth  England      80     16     3  on 1   2½ on 1    68
+    Gladhouse     Scotland     79     12     3  on 1   2½ on 1    68½
+    Rake          England      78            3  on 1   2  on 1
+    Silsden       England      78            3  on 1   2  on 1
+    Glencourse    Scotland     77            3  on 1              58
+    Leeshaw       England      77
+    Wayoh         England      76     22     3  on 1   2½ on 1
+    Ekruk Tank    India        76     20     3  on 1   2  on 1    65
+    Nehr          India        74      8
+    Middle Branch New York     73
+    Leeming       Ireland      73     10     3  on 1   2  on 1    50
+    South Fork    Penna.       72     20     2  on 1   1½ on 1    50
+    Anasagur      India        70     20     4  on 1
+    Pangran       India        68      8                          42
+    Harlaw        Scotland     67                                 64
+    Lough Vartry  Ireland      66     28     3  on 1   2½ on 1    60
+    La Mesa       California   66     20     1½ on 1   1½ on 1    60
+    Amsterdam     New York     65
+    Mukti         India        65     10     3  on 1   2  on 1    41
+    Snake River   California   64     12     2  on 1   1½ on 1
+    Stubken       Ireland      63     24     3  on 1   2  on 1
+    Den of Ogil   Scotland     60                                 50
+    Loganlea      Scotland     59     10     3  on 1   2½ on 1    55
+    Ashti         India        58      6     3  on 1   2  on 1    42
+    Cedar Grove   New Jersey   55     18     3  on 1   2  on 1    50
+
+
+
+
+APPENDIX--II.
+
+Works of Reference.
+
+
+      Author.                          Title.                      Date.
+    Baker, Benj.         The Actual Lateral Pressure of Earthwork   1881
+    Baker, Ira O.        Treatise on Masonry Construction           1899
+    Bell, Thos. J.       History of the Water Supply of the World   1882
+    Beloe, Chas. H.      Beloe on Reservoirs                        1872
+    Bowie, Aug. J., Jr.  A Practical Treatise on Hydraulic Mining   1898
+    Brant, Wm. J.        Scientific Examination of Soils            1892
+    Brightmore, A. M.    The Principles of Water-Works Engineering  1893
+    Buckley, Robt. B.    Irrigation Works in India and Egypt        1893
+    Cain, Wm.            Retaining Walls                            1888
+    Chittenden, H. M.    Report and Examination of Reservoir Sites
+                             in Wyoming and Colorado                1898
+    Courtney, C. F.      Masonry Dams                               1897
+    Fanning, J. T.       Water-Supply Engineering                   1889
+    Flynn, P. J.         Irrigation Canals and Other Irrigation
+                             Works                                  1892
+    Frizell, Jos. P.     Water Power                                1891
+    Gordon, H. A.        Mining and Mining Engineering              1894
+    Gould, E. S.         The Elements of Water-Supply Engineering   1899
+    Hall, Wm. Ham.       Irrigation in California                   1888
+    Hazen, Allen         The Filtration of Public Water Supplies    1895
+    Howe, M. A.          Retaining Walls for Earth                  1891
+    Hughes, Saml.        Treatise on Water-Works                    1856
+    Jackson, L. D. A.    Statistics of Hydraulic Works              1885
+    Kirkwood, J. P.      Filtration of River Waters                 1869
+    Merriman, M.         Treatise on Hydraulics, Masonry Dams
+                             and Retaining Walls                    1892
+    Newell, F. H.        Irrigation in the United States            1902
+    Newman, John         Earthwork Slips and Subsidences Upon
+                             Public Works                           1890
+    Potter, Thomas       Concrete                                   1894
+    Schuyler, J. D.      Reservoirs for Irrigation, Water Power
+                             and Domestic Water Supply              1901
+    Slagg, Chas.         Water Engineering                          1888
+    Stearns, F. P.       Metropolitan Water-Works Reports           1897
+    Stockbridge, H. E.   Rocks and Soils                            1888
+    Trautwine, J. C.     Earthwork; and Engineer’s Pocket-Book      1890
+    Turner, J. H. T.     The Principles of Water-Works Engineering  1893
+    Wilson, J. M.        Manual of Irrigation Engineering           1893
+
+
+
+
+Annual Reports.
+
+    Massachusetts State Board of Health.
+    Geological Survey of New Jersey.
+    Metropolitan Water-Works, Boston and vicinity.
+    U. S. Geological Survey.
+    Transactions American Society of Civil Engineers.
+         Vols. 3, 15, 24, 32, 34 and 35.
+    Proceedings of the Institution of Civil Engineers.
+         Vols. 59, 62, 65, 66, 71, 73, 74, 76, 80, 115 and 132.
+    Engineering News. Vols. 19 to 46.
+    Engineering Record.
+         Vols. 23 to 46.
+    Journal of the Association Engineering Societies.
+         Vol. 13.
+
+
+
+
+INDEX.
+
+
+    Analyses, soil, Tabeaud Dam, 25
+    Analyses of soils, 14
+      Tabeaud Dam, 25
+    Borings, wash drill, Wachusett Dam, 48
+
+    Catchment area, 3
+    Clay for puddle, 15
+    Contractors’ outfit, Tabeaud Dam, 31
+    Core wall, impervious diaphragm as substitute for, 62
+      necessity for, 44
+      (See puddle.)
+
+    Dam,
+      Ashti, India, 35
+      Bog Brook, 41
+      Bohio, Panama Canal, 54
+      Croton Valley, slope of saturation in, 40
+      different types of earth, 33
+      Druid Lake, Baltimore, 52
+      high earth, statistical table of, 67
+      hydraulic-fill, 61
+      hydraulic-fill, San Leandro, 60
+      ideal profile of, 42
+      Isthmian Canal Commission, 54
+      Lake Frances hydraulic-fill, 61
+      New Croton, 39
+        graphical study of original earth portion of, 43
+      New England, typical section of, 40
+      new types of, 54
+      North Dike, Wachusett Reservoir, 48
+      rock-fill and earth combined, upper Pecos River, 58
+      safe height of, 39
+      San Leandro, 58
+      site location, 7
+      Tabeaud, 13, 17
+      Titicus, 41
+      Upper Pecos River rock-fill and earth, 58
+      with puddle core wall or face, 33
+      Yarrow, Liverpool water-works, 9, 33
+    Diaphragms impervious for earth dams, 62, 65
+    Dike, north of Wachusett Reservoir (see Dam; also reservoir)
+    Drainage and slips of earthwork, 45
+      of dam sites, 63
+    Drains, bed rock, Tabeaud Dam, 19
+
+    Earthwork slips and drainage, 45
+    Embankment, Ashti, India, 35
+    Embankments, Jerome Park Reservoir, 45, 46
+
+    Factor of safety for dams, 64
+    Filtration, experiments on nitration through soils
+      at Wachusett Reservoir, 50
+      formula, Hazen’s, 56
+    Foundations, 9, 63
+
+    Gravel for puddle, 15
+
+    Infiltration and percolation, 38
+    Isthmian Canal Commission, designs of dams for, 54
+
+    Outlet pipes and tunnels, 6
+
+    Percolation, 38, 57
+    Profile, ideal for dams, 42
+    Puddle, 14
+      core wall, Ashti Dam, 35
+        or face, 33
+      trench, 37
+      wall, Druid Lake Dam, 53
+        for Yarrow Dam, 34
+        vs. puddle face, 37
+
+    Reservoir basin, 37
+      outlets, 6
+      Wachusett, 48
+    Rollers for dams, 30, 65
+
+    Sands and gravels, flow of water through, 52
+      (Also see percolation.)
+    Slips and drainage of earthwork, 45
+    Soil analyses, Tabeaud Dam, 25
+      analysis, 14
+    Soils, experiments on filtration through at Wachusett Reservoir, 50
+      outline study of, 12
+      permanence of, 51
+      selection of, for dams, 64
+      studies, Wachusett Reservoir, 50
+    Spillway or wasteway, 8
+      Tabeaud Dam, 31
+    Subsidences, earthwork, 45
+
+    Test pits, 5, 8, 9
+    Tunnel, outlet, Tabeaud Dam, 30
+    Tunnels as outlets to reservoirs, 6
+
+    Wasteway or spillway, 8, 66
+      Tabeaud Dam, 31
+
+
+FOOTNOTES:
+
+[1] The writer had intended to present a table of physical properties
+of different materials, giving their specific gravity, weight,
+coefficient of friction, angle of repose, percentage of imbibition,
+percentage of voids, etc., but found it impossible to harmonize the
+various classifications of materials given by different authorities.
+
+[2] The effective head at any point of an earth dam has been defined
+as the difference in the elevation of the high-water surface in the
+reservoir and that of the intersection of the down-stream slope with
+the natural or restored surface of the ground below the dam.
+
+[3] This work is very fully described in the Annual Reports of
+the Metropolitan Water Board of Boston; and by Mr. F. P. Stearns,
+Chief Engineer of the Metropolitan Water and Sewerage Board, in the
+Proceedings of the American Society of Civil Engineers for April, 1902.
+The latter description was reprinted, with the omission of some of the
+illustrations, in Engineering News for May 8, 1902.
+
+[4] By effective size of sand grains is meant such size of grain that
+10% by weight of the particles are smaller, and 90% larger than itself;
+or, to express it a little differently, the effective size is equal
+to a sphere the volume of which is greater than ¹/₁₀ that forming the
+weight and is less than ⁹/₁₀ that forming the weight.
+
+[5] The term “uniformity coefficient” is used to designate the ratio
+of the size of the grain which has 60% of the sample finer than itself
+to the size which has 10% finer than itself. The method of determining
+the size of sand grains and their uniformity coefficients, is fully
+explained in Appendix 3 of Mr. Hazen’s book on “The Filtration of
+Public Water Supplies.”
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK EARTH DAMS, A STUDY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
