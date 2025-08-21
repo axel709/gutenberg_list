@@ -13,46 +13,32 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout fetcher repo
+        uses: actions/checkout@v4
+        with:
+          repository: axel709/book-fetch
+          token: ${{ secrets.ACCESS_TOKEN }}
+          ref: main
+          path: ./fetcher
+
       - name: Checkout public repo
         uses: actions/checkout@v4
         with:
           repository: axel709/gutenberg_list
-          token: ${{ secrets.access_token }}
+          token: ${{ secrets.ACCESS_TOKEN }}
           ref: main
           path: ./public
 
-      - name: Checkout private fetcher repo
-        uses: actions/checkout@v4
-        with:
-          repository: axel709/book-fetch
-          token: ${{ secrets.access_token }}
-          ref: main
-          path: ./fetcher
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 20
-
-      - name: Install fetcher dependencies
+      - name: Install dependencies
         run: npm install --prefix ./fetcher
 
-      - name: Run book fetcher
-        run: node ./fetcher/src/server.js --output ./public
+      - name: Run fetcher script
+        run: node ./fetcher/src/server.js
 
-      - name: Commit changes in batches
-        run: |
-          cd public
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          total_books=$(find books* -type f | wc -l)
-          batch_size=900
-          current=0
-
-          while [ $current -lt $total_books ]; do
-            git add .
-            git commit -m "Automatic update: books $current to $((current + batch_size))" || echo "Nothing to commit"
-            git push origin main
-            current=$((current + batch_size))
-          done
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic update
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          repository: ./public
+          token: ${{ secrets.ACCESS_TOKEN }}
