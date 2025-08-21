@@ -11,9 +11,6 @@ jobs:
     permissions:
       contents: write
 
-    env:
-      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-
     steps:
       - name: Checkout fetcher repo
         uses: actions/checkout@v4
