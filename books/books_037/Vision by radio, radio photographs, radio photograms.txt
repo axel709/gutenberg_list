@@ -1,0 +1,3716 @@
+The Project Gutenberg eBook of Vision by radio, radio photographs, radio photograms
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Vision by radio, radio photographs, radio photograms
+
+Author: C. Francis Jenkins
+
+Release date: June 16, 2024 [eBook #73845]
+
+Language: English
+
+Original publication: Washington, D.C: National Capitol Press, 1925
+
+Credits: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK VISION BY RADIO, RADIO PHOTOGRAPHS, RADIO PHOTOGRAMS ***
+
+
+
+
+
+                             RADIO PICTURES
+
+
+[Illustration: [JENKINS]]
+
+
+
+
+                            Vision by Radio
+                           Radio Photographs
+                            Radio Photograms
+
+
+                           C. FRANCIS JENKINS
+
+                               WASHINGTON
+
+
+
+
+                         COPYRIGHTED, 1925, BY
+                       JENKINS LABORATORIES, INC.
+                           WASHINGTON, D. C.
+
+  ¶_To the splendid young folks, Sybil L. Almand, Florence M. Anthony,
+  John N. Ogle, James W. Robinson, Stuart W. Jenks, and Thornton P.
+  Dewhirst, who so efficiently assisted in the attainment of Photographs
+  by Radio, Radio Vision, and Radio Photograms, this book, in grateful
+  appreciation, is dedicated._
+
+
+
+
+                         Mr. C. Francis Jenkins
+
+
+Born in the country, north of Dayton, Ohio, in 1868, of Quaker parents.
+Spent boyhood on farm near Richmond, Indiana. Attended country school; a
+nearby high school; and Earlham College. “Explored” wheatfields and
+timber regions of Northwest, and cattle ranges and mining camps of
+Southwest United States. Came to Washington, D. C., in 1890, and served
+as secretary to Sumner I. Kimball, U. S. Life Saving Service. Resigned
+in 1895 to take up inventing as a profession. Built the prototype of the
+motion picture projector now in every picture theatre the world over;
+developed the spiral-wound paraffined all-paper container; and produced
+the first photographs by radio, and mechanism for viewing distant scenes
+by radio. Has over three hundred patents; and maintains a private
+laboratory in Washington. He is a member of the Franklin Institute, the
+American Association for the Advancement of Science, and founder of the
+Society of Motion Picture Engineers. Has several times been honored by
+scientific and other bodies for original research and attainment.
+
+
+
+
+                                Foreword
+
+
+The rapid development of apparatus for the transmission of photographs
+by wire and by radio may now be confidently expected, because the public
+is ready for it. At this very moment it is going through the same
+empirical process by which motion pictures arrived, and out of which
+finally the long film strip was born.
+
+In the motion picture development there appeared the spiral picture
+disc; the picture “thumb book”; picture cards radially mounted on drums
+and bands; and the picture film continuously moved and intermittently
+illuminated.
+
+But finally the development resolved itself into a single, long,
+transparent picture film, intermittently moved in the exposure aperture
+of the projecting machine; and upon this has been built one of the large
+industries of the world.
+
+Doubtless this will be the history of the development of electrically
+transmitted photographs, and of radio vision, for many schemes have
+already been tried and more may yet be seen before the final, practical
+form shall have been evolved, and this new aid to business and to
+entertainment shall have taken its place in human affairs.
+
+The transmission of a photograph electrically, a portrait, for example,
+is not so much a matter of mechanism, once the tools are perfected and
+their operation understood; it is more a matter of blending of line and
+tone, just exactly as it is with the artist. The great portrait
+photographer uses the same tools the amateur uses, but an acquired
+technique of high order enables him to produce a superior portrait, free
+of chalky contrasts, and soft in tone and blending. Just so in radio
+photography, it is a matter of simple mechanism, and an acquired skill
+in its use.
+
+The author expects to see, very soon, the radio amateurs using
+flash-light lamps and electric pens where they now use headphones; and
+halftones or potassium cells where they now use microphones, for the
+radio problem between the two is practically the same—if anything rather
+more simple with light than with sound. And new means for modulating
+electric current by changing light values may be expected when the
+American boy starts to play with this new toy.
+
+There has been a veritable army of engineers engaged in the development
+of radio as a service to the ear, while relatively few engineers have
+been developing radio as a service to the eye.
+
+It is believed that the distant electric modulation of light for many
+purposes will soon become a common phenomena and eventually of
+inestimable service in science, in engineering, in industry, and in the
+home.
+
+Nor will this service be confined to radio. Present metallic channels
+now employed for other purposes, _i. e._, high tension power lines,
+railroad rails, city lighting wires, and water pipes, can be made a new
+source of revenue, and at a ridiculously insignificant cost.
+
+Radio is none the less valuable by reason of its application as such a
+rider on the present metallic grids of every city, and of interurban
+connections. There are many channels where only space radio can be
+employed, but the neglect of the application of high frequency currents
+to metallic channels which lead into every place of business, and into
+every home, is unnecessary waste.
+
+The author confidently believes the application of these several ideas
+to the control of light at distant points is the next great advance in
+electricity, and to hasten such development the information in the
+following pages is set down to assist the research worker and the
+application engineer. The mechanisms and circuits herein disclosed may
+be accepted with assurance.
+
+With a radio photographic technique, the result of ten years of
+concentration on this subject, it may be asserted with confidence that
+the requirement of a particular application rather than a particular
+machine is the governing factor in each case; for with full working
+knowledge of the art, and the special application requirements known,
+the design of the machine best adapted to that service is a simple
+matter.
+
+
+
+
+                                Contents
+
+
+                                                 Page
+                  Amstutz Machines                 73
+                  A. T. & T. Co. Pictures          85
+                  Baker’s Scheme                   77
+                  Belin Machine                    83
+                  Braun Tube Receiver              91
+                  Capillary Pen                    46
+                  Circuits, radio                 117
+                  Code Pictures                    89
+                  Color by Radio                   93
+                  Control Fork                     29
+                  Corona Lamp                      51
+                  Dot Pictures                     88
+                  Duplex Machine                  105
+                  Electrograph of 1900             75
+                  Electrolytic Receivers           46
+                  Engraving Receiver               73
+                  Eye Radio Service                39
+                  Filament Lamp                28, 50
+                  First Radio Channel              67
+                  First Picture Machine           120
+                  Fournier and Rignoux             81
+                  Galvanometer                     48
+                  Genesis of Radio                127
+                  Glow Lamp                        29
+                  Halftone, filled in              41
+                  High Speed Camera               125
+                  Historical Sketch, Jenkins      118
+                  Hook-ups—Jenkins                117
+                  Initial Activities               25
+                  Ink Pen Receivers                46
+                  Korn, Dr., Machine               79
+                  Lens Drum Machine               116
+                  Lens Disc Machine          114, 115
+                  Light Cell                       42
+                  Light Sources                   112
+                  Light Wedge                      48
+                  Mechanisms employed              40
+                  Medals                      121–126
+                  Motion Picture Projector        120
+                  Multiple Signals                 30
+                  Nipkow & Sutton                  71
+                  Oscillograph Receiver            47
+                  Patents, list of                132
+                  Perforated Strips                43
+                  Photographic Receiver            47
+                  Pneumatic Valve                  49
+                  Prismatic Ring        25,   98, 110
+                  Prismatic Ring Machines          95
+                  Radio Circuits                  117
+                  Radio Corp. Pictures             87
+                  Radio Motor                      30
+                  Radio Vision                     33
+                  Radio Vision Machines           109
+                  Receiving Machines               45
+                  Receiving Methods                26
+                  Sending Machines                 40
+                  Sources of Light                112
+                  Spark-Gap Source                 50
+                  Strip Machine                   103
+                  Stroboscopic Lamp                30
+                  Sutton & Nipkow                  71
+                  Swelled Gelatin                  41
+                  Synchronizing Forks             101
+                  Talking Machine                 107
+                  Transmitting Methods             25
+                  Washington                      133
+                  Zinc Etching                     40
+
+
+
+
+                             Illustrations
+
+
+                                                Page
+                    A. T. & T. Co. example        84
+                    Amstutz Machine               72
+                    Baker Machine                 76
+                    Belin Machine                 82
+                    Code Picture                  89
+                    Comments                   52–66
+                    Control Fork                 100
+                    Dot Picture                   88
+                    Duplex Machine               104
+                    Electrograph                  74
+                    Examples Photograms        35–38
+                    Examples Radio Photos      17–23
+                    Experimenter’s Machine       106
+                    First Picture Projector      120
+                    High Speed Camera            124
+                    Korn Example                  78
+                    Light Sources                112
+                    Loomis Wireless               68
+                    Medals                   121–126
+                    Photograms                 35–38
+                    Prismatic Band Ring           99
+                    Prismatic Disc Ring           97
+                    Prism Combinations      110, 111
+                    Radio Color Example           92
+                    Radio Corp’n Picture          86
+                    Radio Hook-up                117
+                    Radio Photographs          17–23
+                    Radio Photo Camera            96
+                    Radio Photo Transmitter       94
+                    Radio Picture Scheme         113
+                    Radio Vision Machines        108
+                    R. V. Mechanisms         114–116
+                    Seeing by Radio               80
+                    Seeing by Wire                70
+                    Story World                  122
+                    Strip Machine                102
+
+
+
+
+                            Vision by Radio
+
+                           C. FRANCIS JENKINS
+
+
+The earliest attempts to send pictures and to see electrically date back
+some fifty years, being practically coincident with efforts to transmit
+sound electrically.
+
+At first a metallic circuit was employed to carry the impulses
+representing picture values, but when radio was available several
+workers immediately began the adaptation of their apparatus to radio
+circuits.
+
+Some remarkably fine examples of pictures transmitted by both wire and
+radio have been produced in recent months; most of them showing the
+lines, but some of them without lines at all, _i. e._, true photographic
+results.
+
+And as the transmission of images from living subjects in action differs
+from “still” pictures only in that they are more rapidly formed, it
+naturally followed that the solution of this problem should also be
+undertaken.
+
+When radio service to the eye shall have a comparable development with
+radio service to the ear, a new era will indeed have been ushered in,
+when distance will no longer prevent our seeing our friend as easily as
+we hear him.
+
+Our President may then look on the face of the King of England as he
+talks with him; or upon the countenance of the President of France when
+exchanging assurances of mutual esteem.
+
+The general staff of our Navy and Army may see at headquarters all that
+a lens looks upon as it is carried aloft in a scouting airplane over
+battle front or fleet maneuvers.
+
+And from our easy chairs by the fireside, we stay-at-homes can watch the
+earth below as a great ship, like the Shenandoah, carries our flag and a
+broadcasting lens, over the mountains and plains, the cities and farms,
+the lakes and forests, of our wonderful country.
+
+In due course, then, folks in California and in Maine, and all the way
+between, will be able to see the inaugural ceremonies of their
+President, in Washington; the Army and Navy football games at Franklin
+Field, Philadelphia; and the struggle for supremacy in our national
+sport, baseball.
+
+The new machine will come to the fireside as a fascinating teacher and
+entertainer, without language, literacy, or age limitation; a visitor to
+the old homestead with photoplays, the opera, and a direct vision of
+world activities, without the hindrance of muddy roads or snow
+blockades, making farm life still more attractive to the clever
+country-bred boys and girls.
+
+Already audible radio is rapidly changing our social order; those who
+may now listen to a great man or woman are numbered in the millions. Our
+President recently talked to practically the whole citizenship of the
+United States at the same time.
+
+When to this audible radio we add visible radio, we may both hear and
+see great events; inaugural ceremonies, a football, polo, or baseball
+game; a regatta, mardi gras, flower festival, or baby parade; and an
+entire opera in both action and music.
+
+Educationally, the extension worker in our great universities may then
+illustrate his lecture, for the distant student can see as well as hear
+him by radio.
+
+It is not a visionary, or even a very difficult thing to do; speech and
+music are carried by radio, and sight can just as easily be so carried.
+
+To get music by radio, a microphone converts sound into electrical
+modulation, which, carried by radio to distant places, is then changed
+back into sound and we hear the music.
+
+To get pictures by radio, a sensitive cell converts light into
+electrical current, and at radio distances changes these currents back
+into light values, and one may see the distant scene; for light is the
+thing of which pictures are made, as music is made of sound.
+
+To further show the close relation, it might be added that in receiving
+sets these same electrical values can be put back either into sound with
+headphones or into light with a radio camera; although it may be
+admitted that such radio signals do not make much sense when with
+headphones one listens to the pictures.
+
+Already radio vision is a laboratory demonstration, and while it is not
+yet finished and ready for general public introduction, it soon will be,
+for it should be borne in mind that animated pictures differ from still
+pictures only in the speed of presentation, and the sending of “still”
+pictures by radio is now an accomplished fact, radio photographs of no
+mean quality, examples of which appear as illustrations in this volume.
+
+Just as is done in radio photographs the picture surface is traversed by
+a small spot of light moving over the picture surface in successive
+parallel adjacent lines, with the value of the lines changed by the
+incoming radio signals to conform to a given order, the order being
+controlled by the light values of the scene at the distant sending
+station.
+
+In sending pictures electrically, there have been but two methods
+employed, perhaps the only methods possible; namely (_a_) a cylinder
+mechanism; and (_b_) a flat surface.
+
+Without exception, every scheme which had attained any degree of
+success, before the author adopted flat surfaces, has depended upon
+synchronous rotation of two cylinders, one at the sending station with
+the picture thereon to be sent; and the other at the receiving station
+where the picture is to be put.
+
+Perhaps the very obviousness of the cylinder scheme, and that there are
+no patents to prevent, explains why it has been employed by so many. And
+there have been many workers in this line of endeavor; for example, in
+England, Lord Northcliff, Sir Thompson, Mr. Evans and Mr. Baker; in
+France, MM. Armengaud, Ruhmer, Rignoux, Fournier, and Belin; in Germany,
+Paul Nipkow, Dr. Anchutz, and Dr. Korn.
+
+In America, Mr. Ballard, Mr. Brown, and Mr. Amstutz, the latter
+deserving particular mention, for, from a distant picture, a swelled
+gelatine print, he engraved a printing plate which could be put directly
+on a printing press for reproduction.
+
+All these many workers have adopted the cylinder method of sending and
+receiving, and all have arrived at approximately the final stage of
+development permitted by concurrent science.
+
+It may be well to explain that, in these older schemes, the picture to
+be sent is wrapped around the cylinder, usually a cylinder of glass
+where light sensitive cells are employed, mounted on a rotating shaft,
+which also has longitudinal displacement.
+
+The light values which make up the picture are converted into electric
+current of corresponding values and put upon a wire or other channel
+which delivers them to the distant receiving station.
+
+At the receiving station a suitable film-like sheet (paper, for example)
+is wrapped around a cylinder similar to that at the sending station. As
+this cylinder is rotated and longitudinally advanced under a stationary
+point in contact with the paper on the cylinder, a spiral is traced
+thereon. As the incoming electrical current represents picture values,
+and as the two cylinders are turning in exact synchronism, a picture
+duplicate of that at the sending station appears thereon. After the
+picture is completed the paper sheet can then be taken off the cylinder
+and flattened out for such use as may be desired.
+
+It is quite obvious that vision by radio and radio movies can never be
+attained by a cylinder method, for as the picture must appear to the eye
+complete, by reason of persistence of vision, it naturally follows that
+the eye must make up the whole picture from a single focal plane.
+
+The attainment of “television” or Radio Vision, as it is now coming more
+commonly to be called, requires that the sending shall be from a flat
+plane, and reception on a flat plane, and a modulation which will give
+not only the high-lights and shadows but the halftones as well.
+
+These “flat planes” may, of course, be the focal planes of the lenses
+employed at the receiving station, and from the focal depth of the lens
+at the sending station where the picture may perhaps be taken from
+living actors in the studio or from an outdoor scene.
+
+At the receiving station the “flat surface” may be a photographic plate,
+a white wall, or a miniature of the usual “silver sheet” of the motion
+picture theatre.
+
+It may aid in a clearer and quicker understanding of the text if the
+words telephone and television be limited to metallic circuit service,
+while radio phone and radio vision is applied to radio carried signals,
+and this designation will be employed in the following pages.
+
+[Illustration: [Projector]]
+
+[Illustration: [Photographs]]
+
+This and succeeding pages are examples of photographs received by radio
+from a distance, by the Jenkins system, some of them from Washington to
+Philadelphia, and represent the best work done in 1922, 1923, and 1924.
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+
+INITIAL ACTIVITIES:
+
+The author’s work began with the publication in the _Motion Picture
+News_, of October 4, 1913, of an article entitled “Motion Pictures by
+Wireless.” This contemplated the employment of a flat receiving surface,
+but in the light of subsequent experience the scheme proposed therein is
+believed to be impractical. It did, however, provoke discussion of the
+subject and initiated the work which was thereafter rather continuously
+prosecuted, except for interruption to aid in the great World War.
+
+After failure to find a practical, workable mechanism made up of devices
+already in use in applied science, diligent effort was made to discover
+the necessary, missing part.
+
+
+PRISMATIC RING:
+
+At length a device described as a prismatic ring was developed, a new
+contribution to optical science. In use it is comparable to a solid
+glass prism which changes the angle between its sides, giving to a beam
+of light passing therethrough a hinged or oscillating action on one side
+of the prism while maintaining a fixed axis of the beam on the other
+side of the prism.
+
+As a convenience in fabrication this prismatic ring is ground into the
+face of a glass disc of suitable size, of selected mirror plate, which
+gives the ring its own support on the rotating shaft upon which it is
+mounted.
+
+
+TRANSMITTING METHODS:
+
+Success in sending pictures by radio from flat photographs and receiving
+them on flat photo negative plates (and subsequently of radio vision),
+really began with the perfection of automatic machines for the making of
+these prismatic rings, for by means of these prisms and a light
+sensitive cell at the sending station the light values which make up the
+picture are converted into electrical values, and broadcast.
+
+So to put this picture on a radio carrier wave we simply slice up the
+picture (figuratively) into slices one-hundredth of an inch in width, in
+the best pictures, by sweeping the picture across the light sensitive
+cell by means of these rotating prismatic rings. With each downward
+sweep the picture is moved one-hundredth of an inch to the right until
+the whole picture has crossed the cell, the cell converting the light
+strengths of the different parts of each such slice into corresponding
+electrical values.
+
+The process very much resembles a bacon slicer in the market, each slice
+showing fat and lean. Similarly these imaginary slices of our picture
+show light and dark parts, and these lights and shadows moving across
+the sensitive cell produce corresponding strength of electric current,
+modulating the radio carrier wave of the broadcasting set accordingly.
+
+Further, of course, it is immaterial whether the current modulation is
+taken directly from a flat photograph, from a solid object, or from an
+outdoor scene at which the transmitter is pointed.
+
+
+RECEIVING METHODS:
+
+To put these light values back together again at the distant receiving
+station to make up a negative of the picture being broadcast from the
+sending station, it is only necessary to reverse the process; first,
+with a point of light to draw lines across a photographic plate, which
+the rotating prismatic rings do; and, second, to vary the density of the
+different parts of the successive lines corresponding to lights and
+shadows of the picture at the sending station, and this the varying
+strength of the incoming radio signal does by varying the intensity of
+the light.
+
+Dense areas in the negative are built up where the light is successively
+very bright at the same place in adjacent lines; halftones where the
+light is less intense; while where the light is very faint, little or no
+exposure occurs, and shadows will result.
+
+It is thus the lights and shadows which make the picture are built up,
+line by line, for when this negative is developed, and paper prints made
+therefrom, the dense areas produce high-lights in the picture; the less
+dense areas the halftones; and the thin areas the shadows of the
+picture, person or scene broadcast at the sending station. It is simply
+that a photographic negative has been made of what the lens at the
+sending station is looking at.
+
+So, then, to receive pictures by radio, it is only necessary (1) to
+cover a photographic plate in parallel adjacent lines, and (2) to vary
+the density of the lines, to build up the shadows, the halftones, and
+the high-lights of the picture.
+
+If one puts a nickel under a piece of paper and draws _straight_ lines
+across it with a dull pencil, a picture of the Indian appears. And that
+is exactly the way photographs by radio are received, except that a
+photographic plate is used instead of a piece of white paper, and a
+pencil of light instead of the pencil of lead, the light pencil changing
+the exposure in various parts of the successive adjacent parallel lines
+by reason of the variation of the incoming radio signals.
+
+The scheme is just a long camera with miles instead of inches between
+lens and plate. For example, the lens in Washington and its photographic
+plate in Boston; with this exception, that the one lens in Washington
+can put a negative on one, ten or one hundred photographic plates in as
+many different cities at the same time, and at distances limited only by
+the power of the broadcasting station, radio instead of light carrying
+the image from lens to plate.
+
+The time for transmitting a picture depends upon the size of the picture
+and strength of light, say, from three to six minutes, using a filament
+lamp as a source.
+
+The radio photograph receiving instruments are rather simple and
+inexpensive and, like a loudspeaker, can be attached to any standard
+amplifying audio-radio receiving set.
+
+
+FILAMENT LAMP:
+
+For the light source for radio photographs a filament lamp is employed,
+and in a single turn coil enclosed in a hydrogen atmosphere. This
+miniature filament coil is imaged on a photo negative plate, and the
+variation in the light is caused by putting the incoming radio signals
+through this lamp, perhaps after the filament has been brought to a red
+glow by a battery current. By adjusting the speed of the motor to the
+temperature change of this filament soft gradations of light and shade
+are obtained which probably can never be equaled by any other device, a
+photograph of true photographic value, entirely free of lines.
+
+The author wishes to take this occasion to express his appreciation of
+the splendid assistance of the General Electric Company, under the
+personal supervision and hearty cooperation of Mr. L. C. Porter, who
+from the very first has shown his confidence in the ultimate successful
+conclusion of this development.
+
+
+GLOW LAMP:
+
+For the high speed radio photograms, where only blacks and whites are
+needed, a corona glow lamp of very high frequency has been developed.
+This lamp is lighted by the plate current of the last tube of the
+amplifier; and as the lamp can be lighted and extinguished a million
+times a second, it is obvious that the permissible speed is almost
+limitless, and a thousand words per minute is believed ultimately
+possible.
+
+This lamp has been developed for the author by Professor D. McFarlan
+Moore, an expert in lamps incorporating this phenomena, and who some
+years ago, it may be remembered, produced a lamp of this type more than
+two hundred feet long. It is probably safe to predict that no other lamp
+will ever be able to compete in speed.
+
+As photography is the quickest means of copying anything; and radio the
+swiftest in travel, it seemed logical that the two hitched together
+should constitute the most rapid means of communication possible.
+
+
+CONTROL FORK:
+
+Of course, the sending machine and the receiving machines must run in
+exact synchronism. This synchronous control of the sending and receiving
+motors is maintained by the vibration of a rather heavy fork at each
+station, and adjusted to beat together, with such slight automatic
+correction by radio as may be required to keep all receiving forks in
+step with the fork of the station which at the moment is sending. It is
+a very simple and dependable mechanism, by which any number of motors,
+of any size, separated by any distance, can be made to run in
+synchronism.
+
+
+RADIO MOTOR:
+
+Another scheme of the rotary type, perhaps even better adapted to the
+distant control of large motors, is a small synchronous radio motor
+driven by power carried by radio from the broadcasting station to the
+receiving stations. It is, of course, rotated partly by radio power from
+the distant station, and partly by local current, just as a loudspeaker
+is operated. These small motors, rotating in synchronism with the motor
+at the sending station, control the rotation of a larger motor in each
+receiving camera, and so all stations keep in step.
+
+
+STROBOSCOPIC LAMP:
+
+Of course, it would be fatal if it were necessary to wait until the
+picture was developed before it could be discovered that the receiving
+camera was getting out of control. So a special “neon” lamp is located
+to shine on a revolving marker on the motor shaft of the receiving
+instrument, and flashed by the incoming radio signals, which latter bear
+a definite relation to the rotation of the sending station motor.
+
+
+SAME WAVE:
+
+It should be noted that the same radio wave carries both the picture
+frequency which builds up the photograph and the synchronism frequency
+which controls the motors, and also that it lights the stroboscopic
+lamp.
+
+
+MULTIPLE-SIGNAL RADIO:
+
+A further advance step was made when an audible message was added to the
+same radio wave which carried the picture. This is done by modulating
+the carrier wave to give audibility, while interrupting the same carrier
+wave at a frequency far above the audible range, say, two hundred
+thousand cycles, to make our picture.
+
+By means of this duplex employment of the same radio wave, it is
+possible to get, for example, both the gesture and the voice of an
+inaugural address; the play and the cheers of a national sport; or the
+acting and song of grand opera.
+
+Perhaps it might be explained that synchronism in visual-audible radio
+reception is accomplished by the simple expedient of keeping the radio
+picture “framed,” exactly as this is done in the motion picture theatre.
+
+But continuing the description of the still picture processes a little
+further, before taking up Radio Vision and Radio Movies, it might be
+added that while photographs by radio is the more interesting and
+impressive process, there is little doubt but that radio photo letters
+will be of much greater immediate service in business.
+
+Commerce, like an army, can go forward no faster than its means of
+communication. The history of industrial advance in all ages shows that
+with every addition to communication facilities the volume of business
+has increased. Obviously a third electrical means of communication will
+enlarge business, and speed up commerce and industry.
+
+As an aid in national defense the chief of staff of the Signal Corps of
+the Army, in a recently published report to the Secretary of War, said
+(_Washington Star_, November 22, 1924):
+
+
+  “Looking into the future of signal communication for a moment, it
+  appears that the basic method of breaking messages up into words,
+  words into letters, letters into dots-and-dashes, and then passing
+  these through the wrist of an operator, as has been the practice since
+  Morse’s fundamental invention of the electric telegraph, seems to be
+  nearing the end of a cycle. Mechanical transmitters with higher speed
+  qualities are becoming stabilized and American invention seems to be
+  making further and rapid progress in associating photography with
+  radio, which bids fair to revolutionize fundamental methods of
+  transmission.
+
+  “The message of the future, whether it be written, printed, of mixed
+  with diagrams and photographs, including the signature of the sender,
+  will, it seems certain, soon be transmitted photographically by radio
+  frequency at a rate tens of times faster than was ever possible by the
+  dot-and-dash methods of hand transmission.
+
+  “Military messages of the future, particularly in active operations,
+  may contain diagrams and sketches, or even entire sheets of maps, all
+  transmitted as part of the same message and by means of which
+  detection or listening-in will be reduced to a very low minimum.”
+
+
+The author suggests that it might be added that the newcomer, the radio
+photogram, has merits distinctly its own, e. g.:
+
+(1) It is autographically authentic; (2) it is photographically
+accurate; (3) it is potentially very rapid; (4) it is little effected by
+static; (5) it is not effected by storms; and (6) it is automatic and
+tireless.
+
+It can also be used to enlarge the individual newspaper’s influence and
+prestige by the establishment of photostat branch printing plants at
+strategic points, like summer camps, and winter resorts, and at
+ridiculously little cost.
+
+Such copies of the news, financial and market report pages of the paper
+could be distributed in these distant places before they could possibly
+appear on the streets of the home city of the paper.
+
+Of course, produce market reports, stock market news, and similar matter
+could be so distributed very much quicker than could be done by any
+other system, certainly so to the farmer and gardener.
+
+
+RADIO VISION:
+
+Radio Photographs and Radio Vision, when both are done by the flat-plate
+method, are identical in principle, the difference being only in the
+speed of the apparatus, with such modification in the apparatus as will
+permit of the required speed.
+
+Just as in the Radio Photograph the picture surface of the Radio Vision
+is covered with a small spot of light moving over the picture surface in
+successive parallel lines, with the light value of the lines changed by
+the incoming radio signals to conform to a given order, the order being
+controlled by the distant scene at the sending station.
+
+And as the whole picture surface is covered in one-twelfth to
+one-sixteenth of a second, persistence of vision of the human eye is
+sufficient to get the picture from the white receiving screen—a
+photographic plate is not necessary.
+
+When the machine of Radio Vision is turned over slowly, the little spot
+of light on the screen which makes up the picture looks for all the
+world like a tiny, twinkling star as it travels across the white surface
+of the screen in adjacent parallel lines, changing in light value to
+correspond in position and intensity to the light values of the scene
+before the lens at the broadcasting station.
+
+But when the machine is speeded up until the succession of lines recur
+with a frequency which deceives the eye into the belief that it sees
+_all_ these lines _all_ the time, then a picture suddenly flashes out on
+the white screen in all the glory of its pantomime mystery.
+
+To accomplish this, the apparatus must be speeded up until a whole
+picture can be assembled on the screen, say, in one-sixteenth of a
+second, to be seen by the eye directly.
+
+It was necessary to modify the Radio Photo apparatus to permit this
+increase in speed. So a lens disc is substituted for the fast pair of
+prismatic plates. Each lens draws a line while the relatively slow
+rotation of the prismatic plates distributes the lines over the whole
+picture surface, just exactly as the plates do in the Radio Photo
+Camera.
+
+The Radio Vision receiving set and the Radio Movies set are identical,
+and one may, therefore, see in one’s home what is happening in a distant
+place, an inaugural parade, football, baseball, or polo game (and we
+call it Radio Vision); or one may see the motion picture taken from the
+screen of a distant theatre (and we call it Radio Movies).
+
+The Radio Vision receiving set, as now designed, is very simple; namely,
+a mahogany box, or small lidded cabinet, containing, beside the radio
+receiving set and a loudspeaker, only a small motor rotating a pair of
+glass discs, and a miniature, high frequency lamp for outlining the
+pantomime picture on a small motion picture screen in the raised lid of
+the cabinet, synchronism being maintained by the simple expedient of
+“framing” the picture on the screen exactly as this is done in a moving
+picture theatre.
+
+The author wishes to acknowledge his indebtedness to his friend,
+Professor D. McFarlan Moore, for a word name for this new device, i.e.,
+“telorama” for the radio vision instrument, and “teloramaphone” for the
+instrument when it includes simultaneous reproduction of the music or
+sound accompanying the living scene.
+
+[Illustration: COL. PAUL HENDERSON, OCTOBER 1, 1924. ASSISTANT
+POSTMASTER GENERAL, WASHINGTON, D.C. MY DEAR COL. HENDERSON:—THIS IS AN
+EXAMPLE OF OUR NEW RADIO-PHOTO LETTER, A METHOD OF TRANSMITTING MESSAGES
+BY RADIO INSTEAD OF BY STEAMSHIP. WASHINGTON TO PANAMA IN FIVE MINUTES.
+IT HAS THE AUTHENTIC CHARACTER OF AN AUTOGRAPHED LETTER, AND THE SPEED
+OF RADIO. IT IS THE BEGINNING OF A RADIO SERVICE TO THE EYE, WHERE
+HERETOFORE RADIO HAS BEEN AN ADDRESS TO THE EAR ONLY. WILL THE TIME SOON
+COME WHEN THE POST OFFICE DEPARTMENT WILL DELIVER BY RADIO PHOTOGRAPHIC
+COPIES OF OUR BUSINESS LETTERS AT THE SPEED OF LIGHT RATHER THAN THE
+LAGGARD DELIVERY OF THE ORIGINALS BY MAIL-PLANE. SUCH AN EXCHANGE OF
+INTELLIGENCE WOULD WONDERFULLY SPEED UP INDUSTRY BECAUSE, LIKE AN ARMY,
+INDUSTRY CAN GO NO FASTER THAN ITS MEANS OF COMMUNICATION. Jenkins]
+
+  COL. PAUL HENDERSON,      OCTOBER 1, 1924.
+  ASSISTANT POSTMASTER GENERAL,
+  WASHINGTON, D.C.
+
+  MY DEAR COL. HENDERSON:—THIS IS AN EXAMPLE OF OUR NEW RADIO-PHOTO
+  LETTER, A METHOD OF TRANSMITTING MESSAGES BY RADIO INSTEAD
+  OF BY STEAMSHIP. WASHINGTON TO PANAMA IN FIVE MINUTES.
+  IT HAS THE AUTHENTIC CHARACTER OF AN AUTOGRAPHED LETTER, AND
+  THE SPEED OF RADIO. IT IS THE BEGINNING OF A RADIO SERVICE
+  TO THE EYE, WHERE HERETOFORE RADIO HAS BEEN AN ADDRESS TO
+  THE EAR ONLY. WILL THE TIME SOON COME WHEN THE POST OFFICE
+  DEPARTMENT WILL DELIVER BY RADIO PHOTOGRAPHIC COPIES OF OUR
+  BUSINESS LETTERS AT THE SPEED OF LIGHT RATHER THAN THE LAGGARD
+  DELIVERY OF THE ORIGINALS BY MAIL-PLANE. SUCH AN EXCHANGE
+  OF INTELLIGENCE WOULD WONDERFULLY SPEED UP INDUSTRY
+  BECAUSE, LIKE AN ARMY, INDUSTRY CAN GO NO FASTER THAN ITS
+  MEANS OF COMMUNICATION.
+
+  Jenkins
+
+[Illustration: Maj. Mauborgne, Washington When a radio message is
+received as a photo copy of an autographed order, it is known to be
+authentic and can be obeyed at once. In war this is vital. Combined with
+simplicity, ruggedness and speed the radio photo deserves attention.
+Jenkins Oct. 20, 1924.]
+
+  Maj. Mauborgne, Washington
+  When a radio message is
+  received as a photo copy of
+  an autographed order, it is
+  known to be authentic and
+  can be obeyed at once. In
+  war this is vital. Combined
+  with simplicity, ruggedness
+  and speed the radio photo
+  deserves attention.
+  Jenkins
+  Oct. 20, 1924.
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+
+RADIO SERVICE TO THE EYE:
+
+Since the initiation of broadcasting, a veritable army of engineers have
+been devoting themselves to the development of radio as a service to the
+ear.
+
+The author for several years has been, rather lonesomely, devoting his
+efforts to the development of radio as a service to the eye.
+
+Incidentally it is suggested that there are undreamed of possibilities
+in radio in the unlimited frequencies above audibility, in which speed
+transmission is greatly accelerated by the tolerance of eyesight, not
+possible in an appeal to the ear. Witness, the motion picture theatre
+screen upon which a picture is taken off and put back again forty-eight
+times per second without discovery by the eye; while the slightest error
+in a note in the orchestra is detected at once and grates harshly on the
+ear.
+
+Just as the motion picture depends for success on the fact that the eye
+is easily deceived, so in Radio Vision the eye is fooled into the belief
+that it sees the radio picture as a whole, though in fact the eye sees
+at any one moment only the tiny spot of light by which, with almost
+lightning like speed, the picture is made up.
+
+Audio radio engineers have been working in the very limited
+audio-frequency band below, say, ten thousand cycles, whereas the
+workable range where light instead of sound is employed goes away up to
+millions of cycles. It is confidently predicted that the next great
+development in radio is in this area.
+
+When the “teloramaphone” is made generally available, then pictures at
+the fireside sent from distant world points will be the daily source of
+news; the daily instructional class; and the evening’s entertainment;
+and equally the long day of the sick and shut-ins will be more
+endurable, and life in the far places less lonely, for the flight of
+radio is not hindered by rain, or storm, or snow blockades.
+
+
+MECHANISMS EMPLOYED:
+
+The successful study of the problem of the transmission of light effects
+electrically (vision, pictures, light signals, etc.) might well begin
+with the division of the subject into its elements and sub-elements.
+
+The major division is, naturally, into (_a_) the sending station
+apparatus; and (_b_) the receiving station apparatus. A great variety of
+devices have been invented for analysis of the picture at the sending
+station, and the translation of the light values (which make up the
+picture) into electrical modulation; and likewise a variety of methods
+for receiving these electrical signals at a distant place (or places)
+and there changing the electrical modulations back into light values
+with which the picture is built up.
+
+
+SENDING MACHINES—ZINC ETCHING:
+
+Before the refinement of light sensitive cells, actual electrical
+contact was oftenest employed in sending the impulses which represented
+light gradations in the picture.
+
+Usually, therefore, a zinc etching of a pen and ink picture was made,
+and curved into a cylinder. This picture cylinder was then slipped onto
+a rotating mandril, which was also moved axially by a screw thread on
+the mandril shaft; or the cylinder rotated and a contact arm moved along
+by the screw, like the old wax cylinder phonograph.
+
+A delicately suspended arm, moved along by the screw as just described
+and carrying, instead of the phonograph sound box, a very small and
+smooth point which was lifted by the high parts of the zinc etched
+picture. When so lifted the arm makes electrical contact with an
+adjustable point and current is put into the inter-station wire circuit.
+
+By this means the values of the picture are converted into corresponding
+duration values of an electric current, and put onto a wire connecting
+the sending machine with a distant receiving machine (described in
+detail later in the text).
+
+It will thus be seen that the electric impulses sent out over a wire
+attached to the contact point represent the value of the light and dark
+portions of the picture.
+
+The electric impulses are similar to letter-code dots-and-dashes, for
+the picture actually opens and closes the circuit, like a telegraph key,
+the dark portions of the picture sending dashes and the light portions
+of the picture sending dots. With the point set at one end of the
+cylinder, and the contact arm advancing longitudinally by reason of the
+thread on the shaft, the point traverses a spiral around the cylinder
+until the whole picture is covered.
+
+
+SWELLED GELATINE PRINT:
+
+In another process a swelled gelatine picture print was used to raise
+and lower the contact-making arm, and a carbon contact button was
+employed, but otherwise the sending machine was much the same.
+
+
+FILLED-IN HALFTONES:
+
+Somewhat later halftones of photos were available, and these were
+similarly bent into cylinders. The interstices between the metal points
+of the halftones were filled with an insulating wax, and the whole
+smoothed off until the bright metal points (of different size and
+representing the different values of the picture) were exposed.
+
+When this picture cylinder was rotated under a contact point, the
+cylinder and the point being parts of an electric circuit, current
+flowed in the circuit whenever the point touched the metal parts of the
+picture, but no current flowed when the insulation passed under the
+point.
+
+Because the point does not jump up and down, but has a smooth surface to
+ride on, greater speed and accuracy is possible with the filled-in
+etching.
+
+
+LIGHT SENSITIVE CELLS:
+
+As is quite generally known there are certain “semi-metals” which have
+the property of changing their resistence to an electric current when
+light falls thereon.
+
+Of this group selenium is typical, although there are several others,
+thallium, strontium, barium, etc.
+
+More recently it was discovered that some of the rarer alkali metals had
+the property, under certain conditions, of actually converting light
+into electric current. In this group are potassium, sodium, caesium,
+rubidium, etc.
+
+These light sensitive cells vary the electric current quite
+accurately in proportion to the intensity of the light falling
+thereon, and when available were quickly seized upon by the workers
+in “pictures-by-electricity.”
+
+When these light sensitive cells were employed, a modification of the
+previous picture-translating methods and mechanisms was made, for now a
+modulation instead of an interruption of the electric current was
+possible, the modulation representing the values of the halftones of a
+picture transparency as well as its blacks and whites.
+
+The rotating cylinder now employed was of glass, around which the
+picture, on transparent film, was wrapped. Inside the cylinder a light
+was put to shine through the passing picture film as a minute point of
+light falling on the light sensitive cell located in a dark box.
+
+Just as in the other cylinder schemes the picture is made to traverse
+this point of light until the whole picture is converted into electric
+current of corresponding values, which, as before, can be put on a wire,
+or can be made to modulate a radio wave.
+
+
+PERFORATED PAPER STRIPS:
+
+One of the oddities of picture analytical translation consists of
+running a perforated paper strip between a source of light and a light
+sensitive cell, the paper ribbon perforated with a series of groups of
+holes.
+
+It is intended that the number of holes in successive groups along the
+ribbon shall represent successive values of light in the different parts
+of the picture to be transmitted.
+
+While it is possible to perforate such a ribbon it is quite likely that
+the experienced engineer would adopt some of the simpler forms of
+picture translation, for there are enough of them which may be used
+without hesitation, such basic patents as have ever existed having long
+since expired.
+
+An unusual scheme consists in writing the message in ink made of
+saltpeter, and then setting fire to the ink line. The ink line of the
+message burns itself out leaving the paper intact. Thereupon the paper
+is carefully laid on the metal cylinder of the sending machine, or on
+“silver paper” which is put on the sending cylinder. The contact point
+drops through the burnt lines making contact, and the out-going signals,
+received on a like cylinder at a distant station, make a duplicate of
+the original message.
+
+A more satisfactory scheme is to put a thin coating of hard wax on a
+thin sheet of metal, or metal coated papers. These sheets as wanted are
+laid on an electric hot-plate and the message, picture, or sketch, is
+written through the warm wax coating with a lead pencil or stylus. Then
+the paper with its message etched therein, is wrapped around the sending
+cylinder and rotated under the contact-making finger, which sends out
+the electrical impulses.
+
+One may also take the sketch, line drawing, or pen picture, to the zinc
+etcher (halftone engraving plant), and have him make a print on very
+thin metal, and develop and harden it, but not etch it. This will give a
+photographically accurate copy. This copy on the metal sheet can then be
+bent around the cylinder of your sending machine, and sent out by wire
+or radio, to be received at all stations tuned in. If etched the etching
+may be filled in with hard wax and this put on the cylinder, and run
+under the contact finger.
+
+It is possible to write on paper with copper sulphate (blue vitral)
+solution, for the acidulated line carries the current through the paper
+to the metal cylinder beneath, and completes the circuit. The acid may
+even be strong enough to eat through the paper exposing the metal
+cylinder underneath.
+
+Salt water with a little glycerine to keep it from drying up too fast
+will also perform.
+
+Another method which has been proposed is to print or write on paper
+with sticky material, like Japan drier, and sprinkle thereon a fine
+powdered wax, battery sealing wax, for example. This will stick to the
+tacky lines and can be melted over a hot plate or in an oven. The melted
+wax leaves standing lines which will raise a contact-closing pen passing
+over it. If the lines are sprinkled with metallic powder a double
+contact pen can be used and the mechanism is still simpler, less
+delicate, and more dependable.
+
+One of the newer methods of photogram transmission is to use a rotating
+table, like a talking machine table, with a rectangular piece of paper
+thereon (tucked under at the corners), from which to send a
+communication; market bulletins, for example, broadcast by a progressive
+newspaper to the farmers and truck gardener patrons in their vicinity.
+
+The contact point is advanced from the outer edge to the centre by a
+spiral cut on the under side of the table; or by a threaded edge of a
+detachable tabletop and a reducing gear to move the contact arm across
+the message, or other scheme.
+
+(Of course, the receiving machine should be a duplicate of the sending
+machine, with suitable receiving surface.)
+
+The bulletin sheet can not be advantageously used to the very centre,
+any more than a music record can, but this space can be employed by the
+broadcaster for printed announcements (as music disc records are so
+used), the receiving paper being furnished by the broadcaster.
+
+But of all the schemes it is very doubtful if any will ever equal the
+writing of the message or sketch in lead pencil on paper, and rotate it
+under a two-contact collector. The graphite of the lines makes contact
+across the twin-blade terminals, effecting the transmitter as would a
+telegraph key in the circuit.
+
+
+RECEIVING MACHINES:
+
+Coming now to the design of a suitable receiving machine, it will be
+found that an even greater variety of schemes have been tried.
+
+
+INK PEN RECEIVERS:
+
+Upon a rotating and longitudinally moving cylinder, similar to that of
+the sending machine first described, a paper is put, and upon this
+paper, as the cylinder rotates, an ink pen, mounted on a pivoted arm,
+touches intermittently, being drawn down to ink the paper with every
+incoming electrical impulse, and lifted off the paper by a gentle
+spring.
+
+
+CAPILLARY PEN:
+
+In another ink and pen scheme the electric current is passed through a
+capillary ink tube to make it flow and black the paper; no lifting of
+the pen arm is necessary.
+
+As the order of these dots-and-dashes is controlled by the impulses put
+into the line by the picture at the sending station, a picture is built
+up on the paper on the receiving machine cylinder, a copy of the picture
+on the cylinder of the sending machine.
+
+
+ELECTROLYTIC RECEIVERS:
+
+In another and similar scheme a chemically treated paper is put on the
+cylinder, and upon this, as it rotates, a metallic point is gently
+pressed.
+
+When the incoming electric current from the sending station passes
+through the paper under the contact point an electrolysis occurs which
+appears as a discoloration of the paper.
+
+And as these discolored dots-and-dashes appear, as before, in an order
+controlled by the distant station, a picture is again built up on the
+paper, a copy of the picture at the sending station.
+
+One of the best solutions for the purpose is made up of Iodide of
+Potassium one-half pound; Bromide of Potassium two pounds; Dextrine or
+Starch one ounce; and Distilled Water one gallon. (Use an iron contact
+needle). There are other solutions made of Ferricyanide, but are not so
+satisfactory.
+
+Still another scheme, the simplest of mechanisms, consists of a metal
+disc upon which electrolytic paper is clipped. This plate is then put on
+the rotating table of a talking machine. A rubbing electrical contact is
+made with the disc, and the other wire attached to the tone arm to
+complete the circuit through the steel needle of the sound box.
+
+As no groove is available to carry the arm toward the centre of the
+disc, a spurred-wheel is attached thereto, so as to engage the paper on
+the disc. The wheel can be adjusted diagonally of the tone arm to give
+any separation required in the convolutions of the spiral line.
+
+One of the schemes employed, and with considerable success for its time,
+consisted of an engraving tool, moved up and down radially of a coated
+cylinder, cutting a groove of varying width in the soft coating of the
+cylinder.
+
+When this coating was stripped off the cylinder, laid out flat and
+hardened, it was mounted on a printing block, inked, and impressions
+taken therefrom on a suitable printing press.
+
+
+PHOTOGRAPHIC RECEIVERS:
+
+But doubtless photographic paper, wrapped around the cylinder, has been
+used oftener than any other medium. With photo paper or film a point of
+light is usually employed to expose the film.
+
+
+OSCILLOGRAPH RECEIVERS:
+
+The point sources of light used and methods of modulation have been
+almost as varied as the temperaments of the several workers. One of the
+first was the employment of a steady light source which, reflected in
+the tiny mirror of an oscillograph, is caused to vibrate at a high
+frequency across a minute aperture which in turn is imaged on the film
+on the cylinder. As the amplitude of vibration of the mirror determines
+the amount of light passing through the aperture and falling on the
+film, it will readily be understood that the strength of the incoming
+electric signals, representing light values of the picture at the
+distant station, reproduce duplicate values on the exposed film. When
+this film is developed a copy of the picture on the cylinder of the
+sending machine is obtained.
+
+
+LIGHT WEDGE MODULATION:
+
+Another scheme for modulating the light falling on the film on the
+cylinder, consists in placing a light wedge against the face of a lens
+which images the vibrating mirror (or light source) on the film.
+
+As the light is constantly imaged on the film by the lens its slight
+displacement toward the dark end of the light wedge by the vibration of
+the mirror decreases the strength of the light falling on the film,
+while displacement toward the thin edge of the light wedge gives greater
+exposure on the film.
+
+It is obvious, therefore, that the vibration of the mirror determines
+the exposure at successive positions on the film; and as these
+displacements follow the varying strength of the incoming electric
+current, and the latter in turn is determined by the light values of the
+picture at the sending station, it naturally follows that when the film
+is developed a duplicate of the distant picture results.
+
+
+SILVER WIRE GALVANOMETER:
+
+Another method of varying the light falling on the photo film on the
+cylinder consists in mounting two very minute overlapping shutters one
+on each of the two wires of an electric circuit suspended in a strong
+magnetic field. On these overlapping shutters a light source is focused,
+so that greater or lesser displacement of the shutters, by reason of
+varying strengths of current in the adjacent runs of the wire, allows
+more or less light to pass there between.
+
+Another lens images these tiny shutters onto the film covered cylinder,
+so that when the shutters are opened by the incoming currents in the two
+wires, the light is concentrated on the film.
+
+As the exposure depends on (_a_) the shutter openings, and the shutter
+opening on (_b_) the incoming current strength, and the incoming current
+strength on (_c_) the light values at the sending station, development
+of the film again gives a duplicate of the picture at the sending
+station.
+
+
+PNEUMATIC VALVE:
+
+An interesting scheme of picture reception is known as the pneumatic
+light valve, the vibration of which causes a shadow band to oscillate
+across a lens opening into the camera.
+
+In a circular center opening in a magnetized iron diaphragm is suspended
+an iron disc somewhat smaller than the opening. This small disc is
+magnetically held by its edge to the inside edge of the opening in the
+diaphragm, with its plane in the plane of the magnetic field of the
+diaphragm.
+
+Upon the disc is mounted a tiny mirror, and as the suspension of the
+disc is in the magnetic field held there by the strength of the field
+itself, it is extremely easily disturbed, so that a small beam of light
+reflected from the mirror can be vibrated with a very little current
+through great amplitude.
+
+As the beam of light has a transverse shadow band therein of a width to
+normally close the lens opening into the camera, the varying
+amplification of the vibration of the mirror, and therefore, of the
+shadow, admits a proportional amount of light.
+
+
+SPARK GAP:
+
+One of the very simplest light sources for exposing the film on the
+receiving cylinder consists of a minute spark-gap located in contact
+with the moving film.
+
+The strength of the incoming current charges a small condenser until the
+gap breaks down and the passing spark exposes the film (or perhaps
+perforates it). If the current is strong the sparks pass the gap at a
+high frequency, while if the current is weak the frequency is less. The
+range may be from 500 to 5,000 per second perhaps, depending on the
+current strength, and, of course, the film exposure correspondingly
+varies, and the different degrees of density of the picture results.
+
+This scheme requires about as small current as is likely to be
+practical, perhaps, especially when the spark is in a suitable degree of
+vacuum, and, of course, the incoming radio signals require
+correspondingly small amplification.
+
+
+FILAMENT LAMP:
+
+The direct source of light which in the author’s laboratory has produced
+the most perfect photographic effects, i. e., photographs absolutely
+without lines, consists of a lamp about an inch in diameter and two
+inches long, fitted with a standard screw base. The tube contains a .6
+mil filament with a small single turn coil in a hydrogen atmosphere.
+
+The coil is offset until it almost touches the glass wall. Such location
+of the coiled filament permits the effective placing of a minute
+aperture in very close relation to the filament; whereas an aperture on
+the outside of a bulb with the light source in the centre of the bulb
+acts like a pin-hole camera, and sharpness of image is practically
+impossible (unless a lens is used).
+
+The lamp described above will respond to fluctuations in current well
+above a thousand times per second, but requires voltages about four
+times normal. It was made for the author by courtesy of the General
+Electric Company, under the direction of Mr. L. C. Porter, of Harrison,
+N. J.
+
+
+CORONA LAMP:
+
+But the lamp that really elicits the author’s unqualified admiration is
+the corona glow lamp made for the author by Professor D. McFarlan Moore.
+It consists of a small glass bulb containing a neat-fitting metallic
+cylinder, one terminal of an attached circuit. Inside and concentric
+with the cylinder is a second cylindrical capsule made of a solid rod
+drilled to a predetermined depth.
+
+The electron stream from the outside cylinder to the capsule naturally
+takes the long path, and as the longest path is down into the capsule,
+the result is that the small central opening of the capsule glows with
+great intensity while the other parts of the lamp remain dark. This
+lamp, Professor Moore advises, has a light and dark frequency of a
+million per second.
+
+[Illustration: WESTERN UNION TELEGRAM NEWCOMB CARLTON, PRESIDENT GEORGE
+W. E. ATKINS, FIRST VICE-PRESIDENT 153W 1W 1 EXTRA OF TELEPHONED MESSAGE
+P ROCHESTER NY 114P OCT 12 1922 C FRANCIS JENKINS 1519 CONN AVENUE NW
+WASHINGTON DC SOCIETY MOTION PICTURE ENGINEERS REGRETS YOUR ABSENCE FROM
+THE CONVENTION BEST WISHES FOR YOUR SUCCESS IN RADIO TRANSMISSION OF
+PICTURES A R DENNINGTON SECY 225P]
+
+  WESTERN UNION
+
+  TELEGRAM
+
+  NEWCOMB CARLTON, PRESIDENT GEORGE W. E. ATKINS, FIRST VICE-PRESIDENT
+
+  153W 1W 1 EXTRA OF TELEPHONED MESSAGE
+
+  P ROCHESTER NY 114P OCT 12 1922
+
+  C FRANCIS JENKINS
+
+  1519 CONN AVENUE NW WASHINGTON DC
+
+  SOCIETY MOTION PICTURE ENGINEERS REGRETS
+  YOUR ABSENCE FROM THE CONVENTION
+  BEST WISHES FOR YOUR SUCCESS IN RADIO
+  TRANSMISSION OF PICTURES
+
+  A R DENNINGTON SECY
+
+  225P
+
+[Illustration: GENERAL ELECTRIC COMPANY In Reply Refer to WEST LYNN,
+MASS. November 28, 1922. Mr. C. Francis Jenkins, 1519 Connecticut Ave.,
+Washington, D.C. Dear Mr. Jenkins: I am in receipt of yours of November
+25th, enclosing the radio picture, for which I thank you. It certainly
+shows a successful result. When I first read of your prismatic ring
+arrangement in the “Scientific American”, I recognized that it was the
+solution of a problem which I had often thought of as possible, and I
+can well understand that it may have applications which we do not even
+now think of. It is perfectly possible, as you say, to employ the method
+of radio transmission of pictures on a very considerable scale, which
+would hardly be possible in transmitting them by the ordinary telegraph.
+With best regards, and gratification to know that you are progressing, I
+am, Very truly yours, Elihu Thomson]
+
+  GENERAL ELECTRIC COMPANY
+
+  In Reply Refer to
+
+  WEST LYNN, MASS.
+
+  November 28, 1922.
+
+  Mr. C. Francis Jenkins,
+  1519 Connecticut Ave.,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  I am in receipt of yours of
+  November 25th, enclosing the radio picture,
+  for which I thank you. It certainly
+  shows a successful result.
+
+  When I first read of your prismatic
+  ring arrangement in the “Scientific
+  American”, I recognized that it
+  was the solution of a problem which I
+  had often thought of as possible, and
+  I can well understand that it may have
+  applications which we do not even now
+  think of. It is perfectly possible, as
+  you say, to employ the method of radio
+  transmission of pictures on a very considerable
+  scale, which would hardly be
+  possible in transmitting them by the
+  ordinary telegraph.
+
+  With best regards, and gratification
+  to know that you are progressing,
+  I am,
+
+  Very truly yours,
+
+  Elihu Thomson
+
+[Illustration: THE WHITE HOUSE WASHINGTON December 5, 1922. Dear Mr.
+Jenkins: Please accept my thanks for the radio photograph which you were
+good enough to send to me. The production of a picture in this fashion
+is certainly one of the marvels of our time and I am under obligation to
+you for sending me this handsomely mounted copy which will be preserved
+as a very much prized souvenir. Gratefully yours, Warren G Harding Mr.
+C. Francis Jenkins 1519 Connecticut Avenue, Washington, D.C.]
+
+  THE WHITE HOUSE
+
+  WASHINGTON
+
+  December 5, 1922.
+
+  Dear Mr. Jenkins:
+
+  Please accept my thanks for the
+  radio photograph which you were good
+  enough to send to me. The production
+  of a picture in this fashion is certainly
+  one of the marvels of our time
+  and I am under obligation to you for
+  sending me this handsomely mounted
+  copy which will be preserved as a very
+  much prized souvenir.
+
+  Gratefully yours,
+
+  Warren G Harding
+
+  Mr. C. Francis Jenkins
+  1519 Connecticut Avenue,
+  Washington, D.C.
+
+[Illustration: Westinghouse Electric & Manufacturing Company East
+Pittsburgh, Pa. Mr. C. Francis Jenkins, 1519 Connecticut Ave.,
+Washington, D.C. March 7, 1923. My dear Jenkins: I have been reading
+with much interest the newspapers giving an account of your success in
+sending photographs by Radio from Washington to Philadelphia. After my
+visit to your laboratory a few weeks ago when you told me of this
+proposed transmission, I have been looking forward to it feeling assured
+it would be fully as successful as the papers have related, and I want
+to add my congratulations to the many you must have already received,
+and which you so well deserve. May your success continue. With kindest
+regards, I am, Yours very sincerely, John]
+
+  Westinghouse Electric
+  & Manufacturing Company
+  East Pittsburgh, Pa.
+
+  Mr. C. Francis Jenkins,
+  1519 Connecticut Ave.,
+  Washington, D.C.
+
+  March 7, 1923.
+
+  My dear Jenkins:
+
+  I have been reading with much
+  interest the newspapers giving an
+  account of your success in sending
+  photographs by Radio from Washington
+  to Philadelphia. After my visit to
+  your laboratory a few weeks ago when
+  you told me of this proposed transmission,
+  I have been looking forward
+  to it feeling assured it would be
+  fully as successful as the papers have
+  related, and I want to add my congratulations
+  to the many you must have already
+  received, and which you so well
+  deserve. May your success continue.
+
+  With kindest regards, I am,
+
+  Yours very sincerely,
+
+  John
+
+[Illustration: THE FRANKLIN INSTITUTE OF THE STATE OF PENNSYLVANIA
+PHILADELPHIA March 8, 1923. Mr. Francis Jenkins, 5502 Sixteenth
+Street,N.W., Washington, D.C. My dear Mr. Jenkins: I want to say to you
+how delighted I was to receive your letter of March 6th, accompanied by
+the beautiful examples of your success in transmitting photographs by
+radio. I enjoyed very decidedly the opportunity that you gave me of
+seeing the process of receiving these pictures and have found since that
+a number of those whose attention I called to your work, took advantage
+of the opportunity and were greatly pleased with the results. I can only
+say that I appreciate to a certain extent, at least, the tremendous
+energy and persistence that you have put into the development of this
+new art and most heartily congratulate you on the success that you have
+obtained. I am promising myself that if I come to Washington at any time
+in the near future to make a visit to your laboratory and see you in
+your own private lair. Hoping that such an opportunity will not be too
+long delayed. I am, Sincerely yours, Geo. A. Hoadley. S. and A.
+Assistant.]
+
+  THE FRANKLIN INSTITUTE
+  OF THE STATE OF PENNSYLVANIA
+  PHILADELPHIA
+
+  March 8, 1923.
+
+  Mr. Francis Jenkins,
+  5502 Sixteenth Street,N.W.,
+  Washington, D.C.
+
+  My dear Mr. Jenkins:
+
+  I want to say to you how
+  delighted I was to receive your letter of
+  March 6th, accompanied by the beautiful
+  examples of your success in transmitting
+  photographs by radio. I enjoyed very decidedly
+  the opportunity that you gave me
+  of seeing the process of receiving these
+  pictures and have found since that a number
+  of those whose attention I called to
+  your work, took advantage of the opportunity
+  and were greatly pleased with the
+  results.
+
+  I can only say that I
+  appreciate to a certain extent, at least,
+  the tremendous energy and persistence that
+  you have put into the development of this
+  new art and most heartily congratulate you
+  on the success that you have obtained.
+
+  I am promising myself
+  that if I come to Washington at any time
+  in the near future to make a visit to your
+  laboratory and see you in your own private
+  lair. Hoping that such an opportunity
+  will not be too long delayed. I am,
+
+  Sincerely yours,
+
+  Geo. A. Hoadley.
+
+  S. and A. Assistant.
+
+[Illustration: CHARLES FRANCIS JENKINS 232 SOUTH 7TH STREET
+PHILADELPHIA, PENNA. March 12th, 1923. Charles Francis Jenkins,
+Washington, D.C. Dear Friend: The receipt of the Journal of the English
+Historical Society a few days ago, in which is given a list of Friends
+who have achieved distinction through inventions and in which your name
+is given, shows that we have another point of contact in addition to our
+exactly similar names, and that is, we are both Members of the Society
+of Friends. If you ever get to Philadelphia, I hope you will stop in and
+see me and arrange to have lunch with me, if possible. I have been much
+interested in the considerable amount of publicity given your work
+lately and I enclose a page from the Evening Bulletin, although I think
+it more than likely you have seen it. With best wishes, Very truly,
+Charles Francis Jenkins]
+
+  CHARLES FRANCIS JENKINS
+  232 SOUTH 7^{TH} STREET
+  PHILADELPHIA, PENNA.
+
+  March 12th, 1923.
+
+  Charles Francis Jenkins,
+  Washington, D.C.
+
+  Dear Friend:
+
+  The receipt of the Journal of
+  the English Historical Society a few days
+  ago, in which is given a list of Friends
+  who have achieved distinction through inventions
+  and in which your name is given,
+  shows that we have another point of contact
+  in addition to our exactly similar
+  names, and that is, we are both Members
+  of the Society of Friends.
+
+  If you ever get to Philadelphia,
+  I hope you will stop in and see me and
+  arrange to have lunch with me, if possible.
+
+  I have been much interested in
+  the considerable amount of publicity
+  given your work lately and I enclose a
+  page from the Evening Bulletin, although
+  I think it more than likely you have seen
+  it.
+
+  With best wishes,
+
+  Very truly,
+
+  Charles Francis Jenkins
+
+[Illustration: NAVAL RESEARCH LABORATORY “BELLEVUE,” ANACOSTIA, D. C. 21
+August 1923. Mr. C. F. Jenkins, 1519 Connecticut Ave., Washington, D.C.
+My dear Jenkins: Thanks very much for the samples of your recent work.
+They look very good. I was particularly interested in what you said
+concerning the Chinese and Japanese methods of transmitting telegraphy.
+I had heard something of this before but never realized how complicated
+it would make the process for them. As soon as I can get this laboratory
+well started I will certainly find time to look in on you and I hope
+arrangements may be made for continuing some cooperative work with you.
+We have designated a section of our organization to work on methods of
+secret communication but just now we are unable to put anyone on that
+work. I hope you will keep me in touch with your developments and let me
+know in particular what progress you are making towards high speed work.
+One of the best arguments that I can make for the Navy taking up such
+work will be the matter of saving time in handling coded messages. With
+best regards, I am, Very truly yours, A. Hoyt Taylor Physicist, USN]
+
+  NAVAL RESEARCH LABORATORY
+
+  “BELLEVUE,” ANACOSTIA, D. C.
+
+  21 August 1923.
+
+  Mr. C. F. Jenkins,
+  1519 Connecticut Ave.,
+  Washington, D.C.
+
+  My dear Jenkins:
+
+  Thanks very much for the samples of your
+  recent work. They look very good. I was
+  particularly interested in what you said
+  concerning the Chinese and Japanese methods
+  of transmitting telegraphy. I had heard
+  something of this before but never realized
+  how complicated it would make the process
+  for them.
+
+  As soon as I can get this laboratory
+  well started I will certainly find time to
+  look in on you and I hope arrangements may
+  be made for continuing some cooperative
+  work with you. We have designated a section
+  of our organization to work on
+  methods of secret communication but just
+  now we are unable to put anyone on that
+  work.
+
+  I hope you will keep me in touch with
+  your developments and let me know in particular
+  what progress you are making towards
+  high speed work. One of the best
+  arguments that I can make for the Navy
+  taking up such work will be the matter of
+  saving time in handling coded messages.
+
+  With best regards, I am,
+
+  Very truly yours,
+
+  A. Hoyt Taylor
+
+  Physicist, USN
+
+[Illustration: POPULAR RADIO 9 EAST 40TH STREET, NEW YORK KENDALL
+BANNING, _Editor_ _Vanderbilt 9985_ September 11, 1923. C. Francis
+Jenkins,Esq., 1519 Connecticut Avenue, Washington, D.C. My dear Mr.
+Jenkins: I certainly appreciate your interesting letter of September
+10th, as well as the three photographic enclosures. I am tremendously
+impressed, not only with what you have accomplished in the transmission
+of pictures by radio, but also with the limitless possibilities that you
+are opening up. It is entirely conceivable that the work you are doing
+right now may have an effect upon civilization that will be almost
+revolutionary. You must have had a corking good time on your airplane
+trip from Omaha to Chicago. Yes, we have been, undoubtedly backward in
+the development of our airplane commercial traffic. Some day we will
+make up for lost time. Cordially, Kendall Banning]
+
+  POPULAR RADIO
+  9 EAST 40^{TH} STREET, NEW YORK
+
+  KENDALL BANNING, _Editor_      _Vanderbilt 9985_
+
+  September 11, 1923.
+
+  C. Francis Jenkins,Esq.,
+  1519 Connecticut Avenue,
+  Washington, D.C.
+
+  My dear Mr. Jenkins:
+
+  I certainly appreciate your interesting
+  letter of September 10th, as well
+  as the three photographic enclosures.
+  I am tremendously impressed, not only
+  with what you have accomplished in the
+  transmission of pictures by radio, but
+  also with the limitless possibilities
+  that you are opening up. It is entirely
+  conceivable that the work you are doing
+  right now may have an effect upon civilization
+  that will be almost revolutionary.
+
+  You must have had a corking good time
+  on your airplane trip from Omaha to
+  Chicago. Yes, we have been, undoubtedly
+  backward in the development of our airplane
+  commercial traffic. Some day we
+  will make up for lost time.
+
+  Cordially,
+
+  Kendall Banning
+
+[Illustration: IMPERIAL JAPANESE NAVY INSPECTORS’ OFFICE ONE MADISON
+AVENUE New York City October 6, 1923. Dr. C. Francis Jenkins, Radio
+Pictures Corporation, Washington, D.C. Dear Dr. Jenkins: Thank you for
+your kind note of October 4th enclosing some splendid reproductions of
+the message I wrote when I called upon you at your Laboratory. Upon my
+return to Japan, I shall inform our Home authorities about the merits of
+your high speed camera and radio apparatus and will also present the
+fine samples you sent me. By the way, kindly accept this expression of
+gratitude for the courtesies you extended to me and my associates during
+our recent visit to Washington. Very truly yours, T. Kuroda
+ENGINEER_CAPTAIN, I. J. N.]
+
+  IMPERIAL JAPANESE NAVY
+
+  INSPECTORS’ OFFICE
+
+  ONE MADISON AVENUE
+
+  NEW YORK CITY
+
+  October 6, 1923.
+
+  Dr. C. Francis Jenkins,
+  Radio Pictures Corporation,
+  Washington, D.C.
+
+  Dear Dr. Jenkins:
+
+  Thank you for your kind
+  note of October 4th enclosing some
+  splendid reproductions of the message
+  I wrote when I called upon you at your
+  Laboratory.
+
+  Upon my return to Japan,
+  I shall inform our Home authorities
+  about the merits of your high
+  speed camera and radio apparatus and
+  will also present the fine samples you
+  sent me.
+
+  By the way, kindly
+  accept this expression of gratitude
+  for the courtesies you extended to me
+  and my associates during our recent
+  visit to Washington.
+
+  Very truly yours,
+
+  T. Kuroda
+
+  ENGINEER_CAPTAIN, I. J. N.
+
+[Illustration: Commonwealth of Pennsylvania Governor’s Office HARRISBURG
+October 23, 1923. Mr. C. Francis Jenkins, 5502 Sixteenth Street,
+Washington, D.C. Dear Mr. Jenkins: My heartiest thanks for your letter
+of October 17th and for the copy of my first photograph by radio. I
+appreciate it more than I can easily say, and think it is a perfectly
+marvelous piece of work under the circumstances. Also it is more than
+pleasant to have it from you, in view of our long association, and so
+beautifully mounted. With renewed appreciation, and heartiest thanks for
+all the trouble you took in getting it up. Sincerely yours, Gifford
+Pinchot]
+
+  Commonwealth of Pennsylvania
+
+  Governor’s Office
+
+  HARRISBURG
+
+  October 23, 1923.
+
+  Mr. C. Francis Jenkins,
+  5502 Sixteenth Street,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  My heartiest thanks for your letter
+  of October 17th and for the copy of my first
+  photograph by radio. I appreciate it more than
+  I can easily say, and think it is a perfectly
+  marvelous piece of work under the circumstances.
+  Also it is more than pleasant to have it from
+  you, in view of our long association, and so
+  beautifully mounted.
+
+  With renewed appreciation, and heartiest
+  thanks for all the trouble you took in getting it
+  up.
+
+  Sincerely yours,
+
+  Gifford Pinchot
+
+[Illustration: 1339–1351 DIVERSEY PARKWAY CHICAGO December 21, 1923. Mr.
+C. Francis Jenkins, Radio Pictures Corporation, Washington, D.C. Dear
+Mr. Jenkins: I was delighted to receive your letter of the 19th.
+Heartiest congratulations on making such wonderful progress with the
+Radio Pictures. I am sure that I am going to be one of those fellows who
+can proudly say “I knew him when—”. With all good wishes for a Merry
+Christmas and a Happy New Year, I am, Sincerely, Rothacker Film Mfg. Co.
+W. R. Rothacker WRR:GLD]
+
+  1339–1351 DIVERSEY PARKWAY
+
+  CHICAGO
+
+  December 21, 1923.
+
+  Mr. C. Francis Jenkins,
+  Radio Pictures Corporation,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  I was delighted to receive your letter
+  of the 19th. Heartiest congratulations
+  on making such wonderful progress
+  with the Radio Pictures. I am
+  sure that I am going to be one of
+  those fellows who can proudly say
+  “I knew him when—”.
+
+  With all good wishes for a Merry
+  Christmas and a Happy New Year, I am,
+
+  Sincerely,
+
+  Rothacker Film Mfg. Co.
+
+  W. R. Rothacker
+
+  WRR:GLD
+
+[Illustration: EASTMAN KODAK COMPANY ROCHESTER, N.Y. February 18, 1924.
+Mr. C. Francis Jenkins, Washington, D.C. Dear Mr. Jenkins: I am in
+receipt of your letter of February 6th enclosing the copies of
+photographs sent by radio. Your feat seems marvelous to me and I
+heartily congratulate you upon its accomplishment. With kindest regards,
+I am, Sincerely yours, Geo Eastman]
+
+  EASTMAN KODAK COMPANY
+
+  ROCHESTER, N.Y.
+
+  February 18, 1924.
+
+  Mr. C. Francis Jenkins,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  I am in receipt of
+  your letter of February 6th enclosing
+  the copies of photographs sent by
+  radio. Your feat seems marvelous to
+  me and I heartily congratulate you
+  upon its accomplishment.
+
+  With kindest regards,
+  I am,
+
+  Sincerely yours,
+
+  Geo Eastman
+
+[Illustration: 'WILLIAM]
+
+W. J. Bryan'
+
+  WILLIAM JENNINGS BRYAN
+  VILLA SERENA
+  MIAMI, FLORIDA
+
+  July 29, 1924.
+
+  Mr. C. Francis Jenkins,
+  1519 Connecticut Avenue,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  I thank you for the Radio Photograph—it
+  is wonderful! What is
+  there left to be discovered?
+
+  Appreciating your friendly
+  interest, I am,
+
+  Very truly yours,
+
+  W. J. Bryan
+
+[Illustration: Department of Commerce OFFICE OF THE SECRETARY WASHINGTON
+February 1, 1924. Mr. C. Francis Jenkins, 1519 Connecticut Avenue,
+Washington, D.C. Dear Mr. Jenkins: I wish to express my appreciation for
+the photograph which you so kindly sent me. It represents a very
+startling development in radio and sometime when I have some leisure I
+would be interested in discussing the method with you. Yours faithfully,
+Herbert Hoover]
+
+  Department of Commerce
+  OFFICE OF THE SECRETARY
+  WASHINGTON
+
+  February 1, 1924.
+
+  Mr. C. Francis Jenkins,
+  1519 Connecticut Avenue,
+  Washington, D.C.
+
+  Dear Mr. Jenkins:
+
+  I wish to express my
+  appreciation for the photograph which
+  you so kindly sent me. It represents
+  a very startling development in radio
+  and sometime when I have some leisure
+  I would be interested in discussing
+  the method with you.
+
+  Yours faithfully,
+
+  Herbert Hoover
+
+[Illustration: CARL AKELEY 77TH STREET AND CENTRAL PARK WEST NEW YORK
+CITY March 16, 1925. Dear Mr. Jenkins: You are perfectly welcome to
+publish anything I may have written you. I think few people realize or
+appreciate the practical possibilities of the transmission of radio
+photographs and the high development to which you have brought this art.
+I congratulate you on your success and wish a speedy realization of your
+dreams. Sincerely yours, Carl Akeley Mr. C. Francis Jenkins Jenkins
+Laboratories 1519 Connecticut Avenue, Washington D C]
+
+  CARL AKELEY
+  77TH STREET AND CENTRAL PARK WEST
+  NEW YORK CITY
+
+  March 16, 1925.
+
+  Dear Mr. Jenkins:
+
+  You are perfectly welcome
+  to publish anything I may have
+  written you.
+
+  I think few people
+  realize or appreciate the practical
+  possibilities of the transmission of
+  radio photographs and the high development
+  to which you have brought this
+  art. I congratulate you on your success
+  and wish a speedy realization of
+  your dreams.
+
+  Sincerely yours,
+
+  Carl Akeley
+
+  Mr. C. Francis Jenkins
+  Jenkins Laboratories
+  1519 Connecticut Avenue,
+  Washington D C
+
+
+
+
+                        The First Radio Channel
+
+
+While perhaps not singly applicable to the subject of pictures by radio,
+it is certain that without the discovery that signals could be
+transmitted through the air without wires, we should not now have either
+audible or visual radio.
+
+While in 1832 Professor Joseph Henry discovered that electrical
+oscillations could be detected a considerable distance from the
+oscillator, it remained for a dentist, Dr. Mahlon Loomis, of Washington,
+D. C., to actually send the first radio messages. In 1865 he built an
+oscillating circuit, and connected it to a wire aerial supported in the
+air by a kite. One station was set up on the top of Bear Den Mountain,
+in Virginia, not very far from Washington; a duplicate station being set
+up on top of Catoctin Spur, some fifteen miles distant.
+
+Messages were sent alternately from one station to the other station, by
+dot-and-dash interruption of a buzzer spark circuit; while reception was
+attained by deflecting a galvanometer needle at the station which was at
+the moment receiving.
+
+In _Leslie’s Weekly_ (1868) Frank Leslie personally describes these
+“successful experiments in communication without the aid of wires.”
+
+Later (1869) a bill was introduced in the U. S. Congress to incorporate
+the Loomis Aerial Telegraph Company (though nobody would buy the stock,
+and it remained for others, years later, to reap the reward of radio
+broadcasting).
+
+In speaking on the bill, Senator Conger repeated, he said, the
+explanation that Dr. Loomis made to him, that—
+
+[Illustration:
+
+  This Illustration of Dr. Mahlon Loomis’s Wireless Telegraph Set Was
+    Made from His Original Drawings of His Invention Which Are on File
+    in the United States Patent Office at Washington.
+]
+
+“The system consists of causing electrical vibrations, or waves (from
+the kite wire aerial) to pass around the world, as upon the surface of
+some quiet lake into which a stone is cast one wave circlet follows
+another from the point of disturbance to the remotest shores; so that
+from any other mountain top upon the globe another conductor which shall
+receive the impressed vibrations may be connected to an inductor which
+will mark the duration of such vibration, and indicate by an agreed
+system of notation, convertible into human language, the message of the
+operator at the point of first disturbance.”—_From Congressional Globe,
+Library of Congress._
+
+Perhaps it may be a coincidence, or perhaps a blood strain of the
+pioneer, that the first radio school ever set up by a woman should have
+been founded by his granddaughter, Miss Mary Texanna Loomis, Washington,
+D. C.
+
+[Illustration: [Photographs]]
+
+
+
+
+                           Nipkow and Sutton
+
+
+One of the most interesting examples of the attempts to see by radio was
+made the subject of a patent by Nipkow in 1884. The proposed transmitter
+consisted of a selenium cell and an objective lens, with a spirally
+perforated disc rotating between the cell and lens “to dissect the
+scene.”
+
+The receiving device employed the polarizing light valve used by Major
+George O. Squire, and Professor A. C. Crehore, to measure the flight of
+gun shells at Fort Monroe, Virginia, in 1895.
+
+The Nipkow scheme was preceded by Shelford Bidwell’s device for “the
+telegraphic transmission of pictures of natural objects,” described in
+_Telegraphic Journal_ 1881, Vol. 9, page 83; and later almost exactly
+duplicated by M. Henri Sutton, and rather fully described in _Lumiere
+Electrique_, Vol. 38, page 538, 1890.
+
+[Illustration: [Machines]]
+
+
+
+
+                           The Amstutz System
+
+
+Of all the mechanisms which have been designed for the transmission of
+pictures electrically, that of N. S. Amstutz, of Valparaiso, Indiana, U.
+S. A., in the author’s opinion, stands out as the most conspicuous, not
+only for fine work, but for the cleverness of its accomplishment, the
+first successful picture being sent in May, 1891, over a 25-mile wire in
+eight minutes.
+
+“Mr. Amstutz was not the first to send pictures over wire, but he was
+the first to send pictures with halftones, the others were simply line
+drawings. In this first method Mr. Amstutz used a relief photograph. The
+amount of relief was in direct proportion to the amount of light which
+had acted on the sensitive gelatine, resulting in an irregular surface,
+representing in elevation all the variations of light and shade in a
+regular picture.
+
+“The picture received is actually a phonographic spiral around the
+receiving drum carrying the celluloid sheet. When finished it is removed
+from the cylinder and flattened out and a stereotype or electrotype made
+from it for relief printing; or the engraved celluloid sheet can be
+inked and printed immediately on the intaglio press.” (_From exhibit in
+U. S. National Museum._)
+
+[Illustration: THIS PICTURE WAS TAKEN FROM THE RECEIVING MACHINE AFTER
+HAVING BEEN TRANSMITTED EIGHT HUNDRED MILES OVER A TELEGRAPH WIRE. THE
+INTERNATIONAL ELECTRO-GRAPH CO. NOV. 1ST, 1900. CLEVELAND, O.]
+
+  THIS PICTURE WAS TAKEN FROM
+  THE RECEIVING MACHINE AFTER
+  HAVING BEEN TRANSMITTED EIGHT
+  HUNDRED MILES OVER A TELEGRAPH
+  WIRE.
+
+  THE INTERNATIONAL
+  ELECTRO-GRAPH CO.
+
+  NOV. 1ST, 1900.      CLEVELAND, O.
+
+
+
+
+                            The Electrograph
+
+
+From the accompanying illustration and title it will readily be seen
+that rather good pictures were reproduced with pen and ink method in
+1890.
+
+The original of this picture was given the author by Mr. T. A.
+Witherspoon, who at the time of the experiment (1900) was a principal
+examiner in the U. S. Patent Office, and detailed in charge of the
+Patent Office Exhibit at the Buffalo Exposition, where, also, these
+machines were on exhibition.
+
+It may be a coincidence of passing interest that from Cleveland
+twenty-four years later the American Telephone and Telegraph Company
+sent their first wire pictures.
+
+[Illustration: 1910.—Baker. 1. PHOTOGRAPH WIRED FROM PARIS TO LONDON]
+
+
+
+
+                           The Baker Machine
+
+
+The machine of the opposite illustration, “the telestereograph,” is the
+invention of T. Thorn Baker, Esq., of England, and “was used by the
+_London Daily Mirror_ in July, 1909, and was worked by wire rather
+regularly between London and Paris, and London and Manchester.” The
+picture to be sent was “a halftone photograph printed in fish glue on
+lead foil, and wrapped on a sending cylinder, rotating once every two
+seconds with a metal point riding on it.”
+
+The receiving cylinder carried “an absorbent paper impregnated with a
+colorless solution which turns black or brown when decomposed by the
+incoming electric current.”
+
+What electrolytic solution was employed is not stated in the report, but
+was probably sodium iodide or potassium bromide judging from the
+description of its color and behavior.
+
+To synchronize, the receiving drum turns faster than the sending drum,
+and is caught each revolution until the other catches up. (_Smithsonian
+Report_, 1910.)
+
+[Illustration: 2. FASHION PLATE TRANSMITTED BY PROFESSOR KORN’S
+TELAUTOGRAPH.]
+
+  2. FASHION PLATE TRANSMITTED BY PROFESSOR KORN’S
+  TELAUTOGRAPH.
+
+
+
+
+                          The Dr. Korn Machine
+
+
+The accompanying illustration shows the work of a machine developed by
+Dr. Korn, of Germany, and first used by the Daily Mirror between London
+and Paris in 1907. “On a revolving glass cylinder” a transparent picture
+was put. He used a Nernst lamp and “selenium cells on opposite sides of
+a Wheatstone bridge” to overcome the inherent lag of the selenium cell.
+
+Signals were sent over a wire and received on photographic film on a
+cylinder, using “two fine silver strings free to move laterally in a
+strong magnetic field.” A light was focused on the obstructing “silver
+strings,” which the incoming electric signals, passing through the
+“strings,” separated to a greater or lesser degree “to widen or thin the
+photographed line.”
+
+“When the film is developed it is laid out flat, and the spiral line
+becomes resolved into so many parallel lines.” The sending and the
+receiving machines were synchronized by “well calibrated clocks which
+released the cylinders at end of every five seconds.” (_Mr. Baker in
+Smithsonian Report_, 1910.)
+
+[Illustration: [Machines]]
+
+
+
+
+                      Rignoux and Fournier Scheme
+
+
+One of the early suggestions had for its fundamental principle a surface
+studded with thousands of “selenium cells” each a part of an individual
+circuit, and upon which a picture was projected. The idea was that the
+different cells would transmit a different value of current with each
+different intensity of light which made up the picture.
+
+At the distant station a given surface had a corresponding number of
+tiny lamps, each attached to its respective cell at the sending station,
+and being lighted thereby the ensemble would reproduce the distant
+picture.
+
+The scheme is possible but hardly practical, for if only fifty lines per
+inch each way were sufficient on a picture but one foot square, there
+would have to be three hundred and sixty thousand cells at the sending
+end, and a like number of lamps at the receiving end, each but
+one-fiftieth of an inch in diameter. Such a problem would seem to
+present difficulties, though the author himself in the bravery of
+ignorance suggested this very scheme in the _Electrical Engineer_, of
+July 25, 1894. (_Illustration by courtesy of Science and Invention._)
+
+[Illustration: [Machines]]
+
+
+
+
+                           The Belin Machine
+
+
+The “Belinograph” is the invention of Edouard Belin, of Paris. With
+these machines “the first step in transmitting a picture is to convert
+the latter into a bas-relief. Or a drawing can be made in a special ink,
+which, when dry, leaves the lines in relief. The picture when ready for
+transmission has an uneven surface, the irregularities of which
+correspond with the pictorial details. The transmitter resembles the
+cylinder of a phonograph. The picture is wrapped around this metal
+cylinder, and a style presses down on the picture cylinder as it is
+rotated by clockwork. As the style moves up and down over the
+irregularities of the picture, a microphone varies the strength of an
+electric transmitting current.
+
+“At the receiving end another cylinder in a light-tight box carries a
+sensitized paper upon which a point of light is reflected from the
+mirror of a galvanometer actuated by the incoming current from the
+distant station.”
+
+Two very accurately regulated chronometers are employed to keep the
+machines in synchronism, one chronometer for the sending machine and one
+for the distant receiving machine. (_From Review of Reviews_, 1922.)
+
+[Illustration: [Photographs]]
+
+
+
+
+             American Telephone & Telegraph Company Machine
+
+
+The picture opposite is one of those sent by the A. T. & T. Company on
+May 20, 1924, by wire from Cleveland to New York. Some of the pictures
+sent were from photographs taken earlier, and some were taken only a few
+minutes before being transmitted.
+
+In the sending machine, “the film picture is inserted in the machine
+simply by rolling it up in a cylindrical form and slipped into the drum.
+During operation a very small and intense beam of light shines through
+the film upon a photo-electric cell within.”
+
+In the receiving machine, “the sensitive film is put on a rotating
+cylinder and turns like the cylinder record on a phonograph. On this
+film falls a point of intense white light varied constantly.”
+
+For synchronizing “two separate currents were sent over the wires, one
+is called the picture channel, the other the synchronizing channel.”
+
+“Forty-four minutes elapsed from the time the picture was taken in
+Cleveland until it was reproduced in New York.” (_New York Times, May
+20, 1924._)
+
+It seems unlikely that returns from the daily wire transmission of
+pictures can equal the day-by-day revenue from the wires used for the
+transmission of speech when balanced up for the principal circuit,
+phantom circuits, and carrier circuits.
+
+[Illustration: [Photographs]]
+
+
+
+
+                       Radio Corporation Machine
+
+
+The accompanying “photoradiogram” is a development by the Radio
+Corporation of America, and was transmitted from London to New York on
+November 30, 1924.
+
+“The transparent picture film is placed on a glass cylinder. An
+incandescent lamp inside the cylinder is focused in a minute beam onto
+the film as the cylinder rotates, and this transfers the light values of
+the picture into electrical impulses, in a General Electric Company
+photo-electric cell.
+
+“The receiving cylinder has white paper placed thereon, and the incoming
+dots-and-dashes, amplified in passing through a bank of vacuum tubes,
+are recorded in ink on this paper with a special vibrating fountain pen,
+drawn down by magnet coils to record the picture much in the style of an
+artistic stippled engraving.” The cylinders of both the sending and the
+receiving machines are “rotated back and forth, the electric camera
+itself advancing down the length of the picture one notch at a time.”
+
+“The necessary synchronism of the two machines is maintained by the use
+of special driving motors, and a special controlling mechanism based on
+the constant pitch of a tuning fork.” (_See Radio News, February,
+1925._)
+
+[Illustration:
+
+  By courtesy of “The World,” New York.
+
+  A RADIO CODED PHOTOGRAPH.
+
+  How the picture looked after being sent from Rome by radio and decoded
+    on Professor Korn’s machine.
+]
+
+The above is an example of one of the rather odd methods of “sending
+pictures by radio.” The picture to be sent is divided into many small
+squares with varying values of dark in the squares. Seventeen different
+grades of light in these squares are translated into seventeen letters
+printed on a tape.
+
+This coded picture is transmitted to a distant place and there decoded
+into dots of sizes corresponding to the seventeen values, and each dot
+placed in its corresponding square on a white paper. The collection of
+large dots builds up the dark areas; a similar collection of smaller
+dots makes up the halftones; and still other collections of very minute
+dots make up the light areas. (_From the New York World._)
+
+[Illustration: [Photographs]]
+
+A telegraphic code scheme in which points in a picture are determined by
+the crossing of straight lines, ordinates and abscissas, and in which
+the shades of light, of gray, and of black which make up the picture are
+also indicated by letters.
+
+This coded information is telegraphed to the distant stations where the
+receiving artist determines the location of these points and shades by
+(1) a similar pair of crossed straight lines, and (2) letters indicating
+the light values to be washed in on paper.
+
+The process depends for its success largely on the skill and cleverness
+of the receiving artist, and is hardly more than a “filler-in” pending
+the adaption of the directly photographic process. (_Courtesy Science
+and Invention._)
+
+[Illustration: [Schematic]]
+
+
+
+
+                        The Braun Tube Receiver
+
+
+One of the theoretically attractive forms of receivers is the Braun
+oscillograph tube, for it is so very easy to wobble the cathode ray spot
+about over the fluorescent screen, to form figures. It has an
+imponderable pencil of light which can be moved over the picture screen
+with very little electrical energy. Its use has been proposed by many.
+
+But the feature of the system which is most often overlooked in this
+scheme is the necessity for an analytical picture machine at the sending
+station, and no such device in satisfactory workable form has yet been
+suggested.
+
+The Braun tube system awaits, therefore, the attention of the
+practical-application engineer before it can compete with other forms of
+receivers.
+
+[Illustration: [Photographs]]
+
+
+
+
+                  Pictures by Radio in Natural Colors
+
+
+It is well known that pictures in color are in common use in magazine
+printing, in window transparencies, decorations, etc. The process
+consisting in making three negatives, one through a red screen, a second
+through a green screen, and a third through a blue screen. When
+transparencies from these three negatives, each stained in its
+complementary color, red, green and blue, are superimposed and viewed by
+transmitted light, the resultant picture is seen in its natural colors.
+
+With this process generally well known, it is obvious that three such
+negatives transmitted by radio or wire could be colored and combined to
+make a “picture sent by radio in natural colors.” Of course, the picture
+is not sent in color at all, and the author hesitates to claim for such
+a feat more than that the resultant picture proves the excellence of the
+synchronism of the machines employed in the transmission of the three
+successive pictures which after their reception are to be colored and
+combined into one.
+
+[Illustration: [Photographs]]
+
+
+
+
+                        Prismatic Disc Machines
+
+
+These machines are principally used in radio transmission of
+photographs; employ four overlapping prismatic discs or “rings” in both
+the sending and the receiving machines. Either a transparent or an
+opaque picture is used in the sending instrument; and in the receiving
+camera a filament lamp, modulated by the incoming radio signals,
+recorded on a photographic negative plate.
+
+In the sending machine (first illustration) the picture is projected
+with a magic lantern (1) through four overlapping prismatic rings, (2)
+two of which in rotation sweep the picture vertically across the light
+sensitive cell, at the same time the image is moved laterally by the
+other pair of prisms. The different light values of the picture are
+changed into electric values in light cell 4, and broadcast. A rotating
+perforated disc, (3) interposed between the lens and light cell,
+produces a pulsating direct current which can immediately be amplified
+through the usual radio transformers, on its way to the broadcasting
+set.
+
+In the radio camera (second illustration) a photographic negative (1) is
+used and a pencil of light from lamp 2. The rotating plates (3) draw the
+lines and the radio signals vary the light intensities of the lamp to
+give gradations of exposure on the negative plate. (See next page.)
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+
+
+
+                       The Jenkins Prismatic Ring
+
+
+The prismatic ring or plate is a new contribution to optical science,
+and was designed for use in a machine for the transmission of radio
+pictures from a flat surface, and for recording them on a flat surface,
+the only way in which radio vision and radio movies will ever be
+produced; and a method which permits of the reception of portraits
+having true photographic value, without lines, and having tone and
+shading unequaled by any other known process to date.
+
+The prismatic ring section is ground into the face of a glass disc, and
+from one end to a point half around it has its base outward, and from
+this midway point around to the other end having its base inward. The
+warp from one end to the other is gradual.
+
+A beam of light passing through this ring, in rotation, is caused to
+oscillate, having its hinged action fulcrumed in the plane of rotation
+of the prism ring. The oscillation is always in the plane of the
+diameter of the disc from the point where the light passes through the
+prismatic ring section.
+
+The plates (made with the initial grinding machine) may have one, two,
+or four prismatic sections to the ring, and may be made right or left
+hand, and in 10 inch and in 7 inch sizes, and also in disc ring (first
+illustration) or band ring form (second illustration).
+
+[Illustration: [Photographs]]
+
+[Illustration: [Photographs]]
+
+
+
+
+                      Jenkins Synchronizing Forks
+
+
+The accompanying photographs show a vibrating-fork-control employed to
+keep distantly separated motors in synchronism. This is the motor
+control employed in the system developed by the author for the sending
+and receiving of photographs and photograms, by radio and by wire.
+
+The control unit is surprisingly simple and dependable, and is believed
+might be found useful for many other purposes where it is desired to
+keep motors in step with each other which are separated by long
+distances, the control signals being sent by wire or by radio, and from
+fixed or moveable stations, on land, on water, or in the air.
+
+The fork illustrated is about fifteen inches long, mounted on a cast
+brass frame with a bakelite cover plate upon which the fork, motor coil,
+and binding posts are mounted. A single cell of dry battery keeps the
+fork in vibration.
+
+The device is designed on a new principle, and has a very sharp control
+of the motor revolutions. Simple means are provided for easily verifying
+the continuity of the motor control.
+
+These fork motor units will control any number of motors of any size, at
+any distance, and on moveable or stationary platforms.
+
+[Illustration: [Photographs]]
+
+
+
+
+                   The Jenkins Picture-Strip Machine
+
+
+In the transmission of news, market reports, etc., as a continuous
+process a long strip of paper of typewritten copy is put into this
+machine, and the blacks and whites of the letters and figures falling on
+the light sensitive cell open and close a C. W. broadcast or wire
+circuit; which at distant points is translated back into light and
+recorded on a long strip of photographic paper.
+
+This can be a continuous process if the sending strip is added too from
+time to time, and the receiving photographic strip of paper, as it is
+exposed, passes continuously through a developing, fixing, washing and
+drying bath. This process might be required by the conditions of
+service. A white strip and an electric pen may be used instead of photo
+paper.
+
+In the sending machine the rotating prisms sweep the image of the
+typewriter line across the light sensitive cell; and the strip is moved
+longitudinally by winding on a drum.
+
+In the receiving machine the strip is drawn along while it is curved
+around a rotating cylinder inside which the modulating light is located,
+turned off and on by radio. A corona glow lamp is preferably employed
+with the photographic paper.
+
+[Illustration: [Photographs]]
+
+
+
+
+                         Jenkins Duplex Machine
+
+
+The Jenkins duplex cylinder type of machine was designed for
+simultaneously sending and receiving photograms, letters, maps,
+drawings, etc. The motor runs all day long, like an electric fan, in
+control of the vibrating fork. The right hand (glass) cylinder sends;
+and the left hand cylinder receives. The messages are put on and taken
+off without stopping the machine, and without one function interfering
+with the other.
+
+The machine may be used on radio or on wire, and is an easily operated
+machine, the perfect functioning of which can be determined by a glance
+at the perforated rotating disc illuminated by the synchronizing signal
+lamp.
+
+It is believed to be the first duplex two-way service machine ever
+built, and is complete as shown, except for the batteries and the radio
+receiving set, which latter may be any standard set which will operate a
+loudspeaker.
+
+The illustration shows a machine in which a picture transparency and a
+sensitive cell is used at the sending cylinder; and a high speed lamp
+and photographic paper at the receiving cylinder.
+
+[Illustration: [Photographs]]
+
+
+
+
+                      “Talking Machine” Photograms
+
+
+The spring driven machine illustrated is probably the simplest device
+possible for the experimental study of transmission of pictures and
+picture messages by radio or by wire. A conducting ink or pencil line on
+paper and put on one cylinder (or an insulating coating cut through with
+a stylus) over which the sending point rides for sending; and an
+electrolytic bromide (or photo) paper on the other cylinder under the
+receiving pen for receiving; the contact points being attached to the
+sending and the receiving sets respectively.
+
+The upper illustration shows a machine electrically driven and equipped
+to transmit and receive handwritings, maps, sketches, pictures, etc., of
+an area of about 5 × 7 inches. The sending is from pencil lines on
+paper, the reception on electrolytic paper.
+
+The machine is also made with a glass cylinder to send from a picture
+transparency, and to receive on photographic paper. It must, therefore,
+be used in a dark or subdued lighted room to receive.
+
+Each machine is capable of the very highest quality of work of its
+particular kind, and is simple and easy to operate.
+
+[Illustration: [Photographs]]
+
+
+
+
+                              Radio Vision
+
+
+The machines here shown are the laboratory models used in the
+development of Radio Vision and Radio Movies for the reception in the
+home of broadcast studio performances, i. e., dancing girls, public
+speakers, pantomime, marionettes, motion pictures; and, by remote
+control, outdoor events, sports, etc.
+
+The lower illustration shows a 10″ disc rotating in front of a prismatic
+ring, synchronized by a variable speed of the motor. The light is in the
+round box at the top of the standard behind the lens carrier, and shines
+through lenses and prism (onto a picture screen) as they pass, the light
+fluctuating in value with the incoming radio signals to make up a
+complete picture every one-sixteenth of a second.
+
+The upper illustrated mechanism differs from the lower one in that it
+has a second overlapping prism for optical correction.
+
+The casing enclosing the mechanism is not very large, and contains,
+besides the radio vision mechanism, the radio receiving set, and a
+loudspeaker, so that an entire opera in both action and music may be
+received.
+
+[Illustration:
+
+  The prismatic ring can be rotated to follow any moving object; e.g., a
+    motion picture film; or if fitted with a high-reading automobile
+    speedometer the speed of an airplane or dirigible can be read
+    directly off a dial by the navigating officer.
+]
+
+[Illustration: [Photographs]]
+
+[Illustration: glowing filament offset hollow cylinder filled with light
+NEW LIGHT SOURCES FOR RADIO vibrating gold leaf electroscope for
+blinking a constant light source spark plug light source]
+
+  glowing
+  filament
+  offset
+
+  hollow
+  cylinder
+  filled
+  with
+  light
+
+  NEW LIGHT
+  SOURCES FOR RADIO
+
+  vibrating
+  gold leaf
+  electroscope
+  for blinking
+  a constant
+  light
+  source
+
+  spark plug
+  light
+  source
+
+[Illustration: [Drawing]]
+
+[Illustration:
+
+  The rotation of the disc _A_ carrying lenses _b_, _c_, _d_, etc.,
+    sweeps
+  the image of the light source _C_ across the screen _F_ in a
+    horizontal
+  direction, while line displacement in a vertical direction
+  is effected by reason of the changing angle of successive prism
+  elements.
+]
+
+[Illustration:
+
+  The rotation of the disc _A_ carrying lenses arranged in a spiral
+    causes the light _L_ to sweep across the screen _M_. A revolution
+    every sixteenth second gives a motion picture screen effect.
+]
+
+[Illustration:
+
+  RADIO MOTION PICTURE MECHANISM
+
+  The rotation of the drum _A_ carrying the lenses _b_, _b′_, _b″_,
+    etc., causes the image of the light source _S_ to sweep across the
+    screen _Y_ in two directions. A complete rotation every sixteenth of
+    a second is motion picture speed.
+]
+
+[Illustration:
+
+  Radio Vision hook-up circuits. _A_ is the light cell. The upper
+    circuit puts a “chopper” frequency onto the radio carrier wave by
+    the inductive coupling.
+
+  The lower diagram shows an intermediate frequency oscillator to be
+    controlled by a light cell (not shown), the intermediate being put
+    on the carrier wave.
+]
+
+
+
+
+             Historical Sketch of Jenkins Radio Photography
+
+
+1894. Jenkins publishes article on transmission of pictures electrically
+with illustration of proposed apparatus.—_Electrical Engineer, July 25,
+1894._
+
+1913. Proposes another mechanism, for “Motion Pictures by
+Wireless.”—_Motion Picture News, September 27, 1913._
+
+1920. Reads paper on the Prismatic Ring, a new contribution to
+optical science (an essential element in transmission of radio
+pictures).—_Transactions Society Motion Picture Engineers, Toronto
+Meeting, May, 1920._
+
+1922. Sends first radio photograph; sent from a photograph, and received
+photographically; and predicts motion pictures by radio in the
+home.—_Washington Evening Star, May 19, 1922._
+
+1922. Sends photographs by telephone wire of American Telephone &
+Telegraph Company, through his desk telephone, from 1519 Connecticut
+Avenue (Washington) to Navy Radio Station, NOF, at Anacostia, D. C., and
+there broadcast. The signals were picked up and recorded on a
+photographic plate at 5502 Sixteenth Street N.W., Washington, D. C., in
+presence of Commander A. Hoyt Taylor, of the U. S. Navy, and J. C.
+Edgerton, of the Post Office; October 3, 1922.
+
+1922. Makes official demonstration of his radio transmission of
+photographs for Navy officials December 12, 1922, in presence of
+Admirals S. S. Robison and H. J. Ziegemeier, Captain J. T. Tompkins,
+Commander S. C. Hooper, Lt. Commanders E. H. Loftin and H. P. LeClair;
+the report of which was later released for publication.—_Washington
+Evening Star, January 14, 1923._
+
+1923. Sends radio photographs of President Warren G. Harding, Secretary
+Herbert Hoover, Governor Gifford Pinchot, and others, from U. S. Navy
+Radio Station, NOF, Washington, to Evening Bulletin Building,
+Philadelphia, by courtesy of Robt. McLean, Jr., March 2,
+1923.—Reproduced in the _Bulletin_, and in the _Washington Star_, March
+3, 1923.
+
+1923. Makes his first laboratory demonstration of Radio Vision (the
+instantaneous reproduction on a small picture screen of a distant
+performer or a distant scene), and of Radio Movies (the transmission of
+pictures from a theatre screen to a small screen in the home), June 14,
+1923. See _Visitor’s Register_.
+
+1924. Makes his first hundred-line photograph, June 15, 1924, portraits
+of true photographic values in which no lines appear. Photographs of
+President Calvin Coolidge, Dr. J. S. Montgomery, Chaplain of the House,
+William Jennings Bryan, etc. See letters of congratulations from
+subjects of these photographic tests.
+
+1924. Sends message, in Japanese characters, from Charge d’Affairs, I.
+Yoshida, of the Japanese Embassy, Washington, i.e., sending from the old
+Navy Station, NOF, to Amrad Station, WGI, Medford Hillside,
+Massachusetts; reported and reproduced in _Boston Traveler_, December 4,
+1924.
+
+1924. Apparatus bought and used experimentally by U. S. Post Office
+Department, on night-flying section, Air Mail route, New York-San
+Francisco, first message night of December 3, 1924. See James W.
+Robinson’s telegram, December 15, 1924.
+
+1925. Transmits Motion Pictures by Radio from standard motion picture
+film to be looked at directly on a small motion picture screen in the
+distant radio receiving set; Tuesday, March 31, 1925. S.L.A., F.M.A.,
+J.N.O., J.W.R., T.P.D.
+
+[Illustration:
+
+  This machine is the prototype of the motion picture projector in
+    universal use the world over, the result of experimentation begun by
+    Mr. Jenkins in 1890; the machine finished and publicly exhibited in
+    1893 and 1894. Later shown before the Franklin Institute, and
+    thereafter in the U. S. National Museum. When it has completed its
+    service in the Laboratory office, the Franklin Institute Museum will
+    be the final depository.
+]
+
+[Illustration:
+
+  The accompanying cuts show the Elliott Cresson Gold Medal, awarded by
+    the Franklin Institute, of Philadelphia, for a machine exhibited
+    before the Institute in 1895 by Mr. C. Francis Jenkins.
+]
+
+[Illustration:
+
+  Later, in making a second award, that of the John Scott Medal, “in
+    recognition of the value of this invention,” the Institute Committee
+    said: “Eighteen years ago the applicant exhibited a commercial
+    motion picture projecting machine which he termed the ‘Plantoscope.’
+    This was recognized by the Institute and subsequently proved to be
+    the first successful form of projecting machine for the production
+    of life-size motion pictures from a narrow strip of film containing
+    successive phases of motion.”
+]
+
+[Illustration: ANNO DOMINI MDCCCCXXIV In recognition of services
+rendered to the screen by =C. Francis Jenkins——= as inventor of the
+motion picture projector—— =S=tory =W=orld =M=agazine of =H=ollywood, in
+a series of articles published in 1923–24 names =M=r. =J=enkins as one
+of— =T=he =T=en =G=reatest =F=igures in— =M=otion =P=ictures—=I=t now
+takes pleasure in making this formal acknowledgment of its judgment—
+=S=tory =W=orld——Jay Brien Chapman September _First_ _Editor_]
+
+  ANNO DOMINI MDCCCCXXIV
+
+  In recognition of services
+  rendered to the screen by
+  =C. Francis Jenkins——=
+  as inventor of the motion
+  picture projector——
+
+  =S=tory =W=orld =M=agazine
+  of =H=ollywood, in a series of
+  articles published in 1923–24
+  names =M=r. =J=enkins as one of—
+  =T=he =T=en =G=reatest =F=igures in—
+  =M=otion =P=ictures—=I=t now takes
+  pleasure in making this formal
+  acknowledgment of its judgment—
+
+  =S=tory =W=orld——Jay Brien Chapman
+  September _First_      _Editor_
+
+[Illustration: American Projection Society INCORPORATED ABILITY PROGRESS
+SCIENCE MEMBERSHIP CERTIFICATE This is to certify that C. F. Jenkins
+having proved his fitness has been duly received into The American
+Projection Society Inc. as a Honorary Member, and is entitled to all
+rights and privileges as such. In Witness thereof the Executive Officers
+of the Chapter have hereunto affixed their signatures. President
+Secretary Treasurer Date June 12, 1924]
+
+  American Projection Society
+
+  INCORPORATED
+
+  ABILITY PROGRESS SCIENCE
+
+  MEMBERSHIP CERTIFICATE
+
+  This is to certify that
+
+  C. F. Jenkins
+
+  having proved his fitness has been duly received
+  into The American Projection Society Inc. as a
+  Honorary Member, and is entitled to all rights
+  and privileges as such.
+
+  In Witness thereof the Executive Officers of the Chapter
+  have hereunto affixed their signatures.
+
+  President
+
+  Secretary
+
+  Treasurer
+
+  Date June 12, 1924
+
+[Illustration: [Photographs]]
+
+
+
+
+                     The Jenkins High Speed Camera
+
+
+This camera was designed for the study of high speed motions; i.e., the
+flight of birds, recoil of guns, the impact of shell on plate, muscular
+activity of athletes, airplane behavior, mechanical motions, etc.
+
+The normal rate of exposures is 1,000 to 3,000 pictures per second
+(4,000 pictures per second have been made).
+
+It uses standard motion picture super-speed negative film. Prints from
+these negatives are made in any standard motion picture printer, and
+developed in the usual way.
+
+The prints may then be projected in any standard motion picture
+projecting machine, giving an apparent reduction of 100 to 200 times in
+the speed of movement of the object photographed, and therefore easily
+studied.
+
+The camera is fitted with 48 Zeiss Tessar lenses, F-3.5 and 2″ focus,
+and is driven by an automobile starting motor.
+
+It weighs approximately 100 pounds, and therefore easily moved from
+place to place. (Weight of two 6-volt automobile batteries additional.)
+
+Sunshine is adequate for illumination. If artificial illumination is
+employed, it should be equal to sunshine.
+
+(NOTE: The explanation of the unusual speed possible with this camera
+lies in its lens system, for each lens may work as much as 150 per cent
+of the time; that is, the exposures overlap.)
+
+[Illustration: [Photographs]]
+
+
+
+
+                          The Genesis of Radio
+
+               _A Broadcast from WRC, November 20, 1924_
+
+                           C. FRANCIS JENKINS
+
+
+The history of radio is unique—at first only a scientific curiosity, and
+for years thereafter a boy’s plaything; when, all at once, without
+warning, the public takes it up with a suddenness no one foresaw, and
+for which no one was prepared.
+
+An invention which behaves so peculiarly excites one’s curiosity to a
+study of its strange attraction; and of the beginnings of the scientific
+principles involved, now so knowingly discussed by mere youngsters.
+
+Why, boys in the whole range of their ’teens discourse with fluency and
+understanding such mysteries as inductance, impedence and capacities;
+reactance, reluctance and rotors; harmonics, aerials, and mush;
+choppers, chokes and cheese; heterodyne, neutrodyne, and iodine; and we
+oldsters don’t know whether they are talking of medicine, music or food.
+
+The only thing that saves us from everlasting embarrassment is that we
+have the gumption to keep our mouths shut.
+
+So, determined to be ready for these “kids” the next time they come into
+my august presence, I start in to “bone up” on some of these funny
+words, and for a start I turn to a musty volume printed by Congress in
+1879.
+
+It appears that on January 16 of that year the business of Congress was
+stopped, and, in solemn procession, led by the Sergeant-at-Arms, the
+Chaplain, and the Vice-President, the Senate proceeded to the House
+chamber, where the Speaker handed his official gavel to the
+Vice-President, who said: “The Senators and Members of the Congress of
+The United States are here assembled to take part in services to be
+observed in memory of the late Joseph Henry.”
+
+And, as I read the addresses made on that memorable occasion, and look
+up the references cited, I get the solution to my problem.
+
+I find it was Joseph Henry who first discovered that breaking the
+circuit in a coiled wire “gives a more intense spark than the same wire
+uncoiled.” And so inductance was born, and later in his honor we name
+its unit of measure a “henry.”
+
+Then he put iron inside the coil and got the first magnetic field; next
+he found that when he arranged a second similar coil near the first, the
+spark appeared in a gap of the second circuit, and so we have the first
+transformer.
+
+He put parallel metal plates across the circuit, and he had a condenser;
+and finally he separated the circuits by many hundred feet, and the
+first radio signals were broadcast and picked up.
+
+So we learn that to this modest but remarkable man we owe the simple
+coupling coil that the boys of the past twenty-five years have been
+using to telegraph to each other wirelessly.
+
+And it is these American youngsters who have developed radio; who first
+set up two-way communication half-way around the world; who, through
+their Radio Relay League, kept Captain McMillan in touch with home
+during his long winter night in the Arctic ice; who kept the
+_Shenandoah_ in constant contact with headquarters in Washington during
+her recent transcontinental trip, official acknowledgment of which was
+publicly made by the Secretary of the Navy.
+
+Radio eventually will touch our lives at more points directly and
+indirectly than any other discovery in the history of mankind, unless,
+perhaps, I should make an exception in favor of fire.
+
+And the delightful thing about it all is that the inaccessible places
+are benefited the most by radio, those in the out-of-the way places are
+less lonesome, and the long day of the sick and shut-in is more
+endurable.
+
+The farmer has his market reports on the minute, his weather forecasts
+in time for action, and he sets his clock by radio and gets his
+entertainment from the air.
+
+Dispatched and guided by radio, the flying mail goes day and night with
+such clocklike regularity that its remarkable performance is no longer
+“news,” although industry has not yet waked up to the advantage and
+economy which can be effected by a larger use of the airmail.
+
+Ships are guided into harbor through fog by wireless direction, and the
+captain was guided thereto by radio compass and radio beacon, and at sea
+summons aid in case of mishap or danger.
+
+In commerce one may send letters, telegrams, bank drafts, or engineer’s
+drawings, as radio photographs of the originals, with photographic
+accuracy and autographic authenticity.
+
+Men on the ground talk with men in a flying machine out of sight in the
+sky, an almost inconceivable fact.
+
+This reason alone would warrant one in predicting that the defense of
+our country is definitely going to pass from the limited activities of
+the Army and Navy to an Air Department, for the plane has no boundary or
+limit of range in offense or defense.
+
+And in addition there is the wireless direction of bomb-dropping
+airplanes, torpedo submarines, and floating mines, inanimate agencies
+obeying the distant, unseen hand.
+
+And ultimately power will be transmitted to populous areas, over
+wireless channels, from the enormous unworked coal fields away up in the
+Arctic Circle.
+
+The applications of radio are coming so fast in industry that it is hard
+to keep informed, but doubtless its most extended use will be in the
+home.
+
+The use of microphone modulated radio to carry music and speech to our
+homes celebrated its fourth anniversary only two weeks ago.
+
+And yet in this brief space (=1=) millions on millions have been
+entertained with the very best the artist has to offer; (=2=) a singer
+has been heard around the world; (=3=) and our President has addressed
+his fellow Americans as a single audience.
+
+When onto the boundless range of audible radio is grafted the world-wide
+appeal of the picture, the ideal means of entertainment would seem to
+have been attained, for the picture is without language, literacy or age
+limitation.
+
+By radio we shall see what is happening in a distant place; inaugural
+ceremonies, football, baseball or polo games; flower festival, mardi
+gras, or baby parade.
+
+So when the development of radio as a service to the eye has progressed
+to a like extent with ear-service radio, we will bring the entire opera
+to your home in both acting and music, or even the Olympic games from
+across the sea.
+
+It has been most satisfying to have had a part in the development of
+this wonderful medium of contact between individuals and between
+nations. My part being principally visual radio, I expect great things
+from Radio Vision.
+
+And did you ever notice the curious fact that a great laboratory,
+despite its inestimable contributions to science and engineering, has
+never yet brought forth a great, revolutionary invention which has
+subsequently started a new industry, like the telegraph, telephone, and
+telescope; motion picture, typecasting and talking machines; typewriter,
+bicycle and locomotive; automobile, flying machine, and radio vision.
+
+It has always been a poor man to first see these things, and as a rule
+the bigger the vision the poorer the man.
+
+And, do you know, that is right comforting, too; for I sometimes think
+that perhaps I myself may yet do something worth while if I only stay
+poor enough, long enough.
+
+
+
+
+                       Radio Patents of Interest
+
+
+                           129,971 Loomis
+                           235,469 Bell
+                           571,463 Thompson
+                           653,881 Pollack
+                           660,199 Pollack
+                           714,577 Gruhn
+                           725,140 Roberts
+                           841,387 DeForest
+                           867,877 DeForest
+                           879,532 DeForest
+                           884,110 Stone-Cabot
+                           929,930 Latour
+                           934,969 DeForest
+                           968,484 Kruh
+                           980,356 Squire
+                           980,357 Squire
+                           980,358 Squire
+                           980,359 Squire
+                         1,015,881 Fessenden
+                         1,030,240 Hoglund
+                         1,059,763 Reisz
+                         1,069,535 DeBernochi
+                         1,097,871 Murphy
+                         1,135,624 Rosing
+                         1,141,850 Stille
+                         1,161,734 Rosing
+                         1,316,967 Moore
+                         1,329,688 Voulgre
+                         1,356,763 Hartley
+                         1,370,504 Hammond
+                         1,385,325 Jenkins
+                         1,390,445 Jenkins
+                         1,406,445 Culver
+                         1,413,333 Jenkins
+                         1,423,737 Sandell
+                         1,434,064 Montielhet
+                         1,436,676 Peterson
+                         1,440,466 Jenkins
+                         1,444,605 Heising
+                         1,450,080 Hazeltine
+                         1,454,532 Beatty
+                         1,467,988 Hoxie
+                         1,470,696 Nicholson
+                         1,475,583 Hoxie
+                         1,484,648 Jenkins
+                         1,485,773 Espenshied
+                         1,489,228 Hazeltine
+                         1,505,158 Martin
+                         1,521,188 Jenkins
+                         1,521,189 Jenkins
+                         1,521,190 Jenkins
+                         1,521,191 Jenkins
+                         1,521,192 Jenkins
+                         1,521,205 Stephenson
+                         1,522,305 Latour
+                         1,525,548 Jenkins
+                         1,525,549 Jenkins
+                         1,525,550 Jenkins
+                         1,525,551 Jenkins
+                         1,525,552 Jenkins
+                         1,525,553 Jenkins
+                         1,530,463 Jenkins
+
+[Illustration:
+
+  Note: As Washington is the birthplace of radio, and has been the
+    birthplace of more revolutionary inventions, upon which great
+    industries have been built, than any other ten-mile territory, it
+    may be interesting, and appropriate, to add here a recount by Mr.
+    Jenkins of Washington’s claims to intellectual stimulus.—EDITOR.
+]
+
+
+
+
+                  Washington, the City of Enchantment
+
+               _Broadcast from WCAP, September 26, 1924_
+
+                           C. FRANCIS JENKINS
+
+
+Washington is the home of our Federal Government; but it is more than
+that—it is a delightful place to work, a stimulus to excellence in
+mental activity. Those of us who had wandered about more or less
+aimlessly before we discovered Washington well understand how its genial
+climate called forth the Presidential praise of our honor guest from the
+cool, green hills of Vermont.
+
+Add to the delight of the climate, the charm of Washington’s setting,
+and one appreciates why, from the Executive Mansion outward to the very
+rim of federal activity, all remain, if they can, after leaving office.
+Woodrow Wilson stayed here, until he passed away. President Harding was
+hurrying home when his end came. The only living ex-president resides in
+the District.
+
+Abraham Lincoln was loath to leave Washington, it is said, and so
+preferred a summer cottage in the Soldier’s Home Grounds, as did many of
+his successors, rather than a more elaborate executive residence
+elsewhere, while the White House was getting its annual dressing.
+
+In the house now occupied by the Cosmos Club, Dolly Madison ruled social
+Washington in such a scintillating setting that even the widows of
+presidents, with few exceptions, have made their later homes here.
+
+Nor is it strange, for this is the city the unequaled plan of which was
+worked out with such loving care by Major Charles L’Enfant, as he leaned
+over a drawing board in his home near the old Tudor Mansion; the parks
+of the plan later beautified by the landscape gardener, Andrew J.
+Downing.
+
+And this magnificent dream city had the proper antecedents, too, for it
+was from this very site the old Indian chief Powhatan ruled his own vast
+territory before ever the white man had set up the capital of a nation
+dedicated to peace and opportunity.
+
+Many eminent statesmen and great orators have found Washington environs
+so satisfying that they have spent their last years within this
+forest-like city. The inimitable Henry Clay was buried here in 1852;
+Elbridge Gerry, a signer of the Declaration of Independence, lies in the
+Congressional Cemetery; and John Lee Carroll, a former Governor of
+Maryland, found his last resting place in a local graveyard.
+
+It was in Washington as the head of the Federal Party that that
+distinguished orator, Daniel Webster, made his indelible impress on
+American history.
+
+In the old “Union Tavern” on a site now occupied by a large apartment
+building one could have found hobnobbing with resident genius, in that
+early yesterday, such guests as Louis Phillipe, Count Valney, Lord
+Lyons, Baron Humboldt, Charles Talleyrand, Jerome Bonaparte, Washington
+Irving, Charles Dickens, General St. Clair, Lorenzo Dow, John Randolph,
+and perhaps Charles Goodyear, when he was asking for a patent for
+vulcanizing rubber.
+
+Even the dashing Robert E. Lee, leaving his ancestral home overlooking
+Washington, rode regretfully away to duty in his beloved south.
+
+One may perhaps concede that associations would attract retired admirals
+and generals to a residence here—Admirals Evans, Dewey, Schley, Sampson,
+Peary, and Generals Greely, Crook, Wheeler, Miles and Pershing, within
+my own unprompted memory, but what is the secret which brings back to
+Washington those who have looked upon the enchanting spots of our
+wonderful country; the three Johns, for example, John C. Freemont, the
+great northwest pathfinder; John W. Powell, explorer of the Grand Canon
+of the Colorado; John A. Sutter, discoverer of gold in California.
+
+Even Governor Shepherd, who _made_ Washington, and afterward was
+practically banished to Mexico, prayed that he might be brought back to
+the city of his dreams, and his wish gratified, he lies at rest amid the
+grassy slopes of Rock Creek Cemetery.
+
+It was ever thus; even stubborn old Davy Burns must have thought well of
+Washington for he brought from his native land not only a charming
+daughter but the bricks with which he builded a cottage for her, and
+from whose humble door this Scottish lassie later went to a haughty
+family and a mansion as the wife of Major General Van Ness.
+
+Not only from official life, but from all fields of activity, the
+capital city attracts to itself an unusual aggregation of
+mentality—scientific and literary and industrial.
+
+Poets and great writers, noted scientists and renowned inventors have
+done their best work in the invigorating atmosphere of the capital,
+washed clear by the mist of the Great Falls of the Potomac.
+
+It was here Francis Scott Key lived when he wrote “The Star Spangled
+Banner,” a spot marked by the new memorial bridge just completed; here
+Harriet Beecher Stowe wrote that immortal story, “Uncle Tom’s Cabin”;
+Walt Whitman the first edition of his “Leaves of Grass”; James Bryce
+“The American Commonwealth”; and Owen Meredith his “Lucile.”
+
+In a rose-covered cottage on the heights overlooking the river, across
+from the Arlington National Cemetery, Mrs. E. D. E. N. Southworth
+wrought; and in a less flowery abode impecunious Edgar Allan Poe wrote
+much of his “spooky stuff.”
+
+Looking down upon the city from the east, John Howard Payne, in tranquil
+contentment, on his return from a sojourn in a foreign land, wrote the
+one song which will never die, “Home, Sweet Home.”
+
+In isolated serenity in Rock Creek Park stands the cabin of Joaquin
+Miller, “the poet of the Sierras,” now the shrine of the artist as well
+as the writer.
+
+Across Lafayette Park, opposite the White House, George Bancroft, the
+great historian, calmly laid down his pen in his 91st year and passed to
+his great reward.
+
+And it was here that the painter James McNeill Whistler began his climb
+to an artistic, world-renowned fame.
+
+As for science, why Washington is the scientific center of the world.
+More revolutionary discoveries which have been the foundations of great
+industries have been made in the District of Columbia than any other ten
+miles square in all the world.
+
+It was here that the great Joseph Henry spent the most prolific period
+of his sixty years of usefulness.
+
+On the bosom of Rock Creek, Fulton first floated the model of his
+steamboat, the _Clermont_; and on the Potomac River, Professor Langley
+tested out the aerodynamic principles upon which all airplanes are
+built, and at a time when the “flying machine” was a subject not
+mentioned in elite scientific circles.
+
+In the observatory on Cathedral Heights, that great astronomer, Simon
+Newcomb, worked; and nearby Cleveland Abbe, the famous meteorologist,
+published the first daily weather reports.
+
+Between Washington and Baltimore, Professor S. F. B. Morse, in 1844, put
+his telegraph to work, the first telegraph operator being Theodore N.
+Vail, late president of the A. T. & T. Company. Dr. Graham Bell
+perfected his telephone here, Professor Tainter the wax cylinder
+phonograph, and Mr. Berliner the talking machine.
+
+Both the typecasting machines, the linotype and monotype, were invented
+in the District; and here a stenographer in the Life Saving Service
+invented the first motion picture machine, the prototype of the
+projector used in every picture theatre the world over to this very day.
+
+From the hills of Virginia, across the river, the first wireless message
+ever transmitted was sent into Washington; and from Washington to
+Philadelphia the first photographs by radio were sent.
+
+When the Daughters of the American Revolution sought a permanent home no
+place could successfully compete with the charm of Washington; and here
+also the American Red Cross and the Pan American Union set up their
+respective domiciles.
+
+In Kendall Green Park, in the northeast section of the city, the
+Columbia Institute for the Deaf was set up, the only Institution of its
+kind in the world, the gift of Gallaudet to the afflicted.
+
+It was in Washington that another philanthropist, William W. Corcoran,
+built the Louise Home for Southern gentlewomen, as well as the Corcoran
+Art Gallery, the latter a gift to the city. He was laid away in Oak Hill
+Cemetery, the resting place of an unequaled gathering of distinguished
+Americans.
+
+In the north of the city is the Walter Reed Hospital, named in honor of
+Dr. Walter Reed, who heroically risked his life to prove that yellow
+fever germs were communicated by mosquitos.
+
+The Carnegie Institute “for the encouragement of investigation, research
+and discovery,” and the Carnegie Geophysical Laboratory are both located
+here.
+
+In Washington the Geographic Society was established, and the unique
+_Geographic Magazine_ is published; and here the beautiful home for the
+National Academy of Science has just been dedicated.
+
+So the atmosphere of Washington works its witchery on resident as well
+as those who stop here but briefly, a mental stimulus of no uncertain
+potency; and as for scenic beauty, it is unequaled and getting more
+beautiful and more attractive all the time.
+
+As I fly above the city its streets are hidden under a criss-cross of
+green trees, with the superb white dome of the Capitol standing out
+above the verdure in majestic splendor; and over to the west the Lincoln
+Memorial, looking for all the world like a jewel box of alabaster. And
+on the rim of the mist beyond stands a bowl-like marble amphitheatre
+keeping watch over the grave of the Unknown Soldier, while still farther
+around to the north looms the great National Cathedral on Mount St.
+Albans, where lies “the man of peace.”
+
+And it was this inspiring sight that greeted the homeward bound,
+round-the-world flyers as they glided over the city to a landing in
+Boiling Field.
+
+An annual pilgrimage to this mecca of glorious past and wondrous
+present, with its wealth of white buildings, its miles of park roads,
+its spring cherry blossoms and autumn colors is always inspiring.
+
+From whatever point of view, Washington well deserves the pride of
+possession of all worthy Americans.
+
+[Illustration:
+
+  Every normal man instinctively seeks a recreational activity—hunting,
+    fishing, riding, tennis, golf. The author’s relaxation from research
+    work is flying an airplane—and it’s delightful sport.
+]
+
+------------------------------------------------------------------------
+
+
+
+
+                          TRANSCRIBER’S NOTES
+
+
+ ● Typos fixed; non-standard spelling and dialect retained.
+ ● Enclosed italics font in _underscores_.
+ ● Enclosed bold font in =equals=.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK VISION BY RADIO, RADIO PHOTOGRAPHS, RADIO PHOTOGRAMS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
