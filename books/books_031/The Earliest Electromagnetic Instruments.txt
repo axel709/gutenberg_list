@@ -1,0 +1,1731 @@
+The Project Gutenberg eBook of The Earliest Electromagnetic Instruments
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Earliest Electromagnetic Instruments
+
+Author: Robert A. Chipman
+
+Author of introduction, etc.: Frank A. Taylor
+
+Release date: October 12, 2010 [eBook #34061]
+                Most recently updated: January 7, 2021
+
+Language: English
+
+Credits: Produced by Chris Curnow, Joseph Cooper, Louise Pattison
+        and the Online Distributed Proofreading Team at
+        https://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE EARLIEST ELECTROMAGNETIC INSTRUMENTS ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper, Louise Pattison
+and the Online Distributed Proofreading Team at
+https://www.pgdp.net
+
+
+
+
+
+
+
+
+
+Transcriber's Note.
+
+
+This is Paper 38 from the Smithsonian Institution United States National
+Museum Bulletin 240, comprising Papers 34-44, which will also be
+available as a complete e-book.
+
+The front material, introduction and relevant index entries from the
+Bulletin are included in each single-paper e-book.
+
+Corrections are listed at the end of the e-book.
+
+
+
+
+SMITHSONIAN INSTITUTION
+
+UNITED STATES NATIONAL MUSEUM
+
+BULLETIN 240
+
+[Illustration]
+
+SMITHSONIAN PRESS
+
+
+MUSEUM OF HISTORY AND TECHNOLOGY
+
+CONTRIBUTIONS FROM THE MUSEUM OF HISTORY AND TECHNOLOGY
+
+_Papers 34-44_
+
+_On Science and Technology_
+
+SMITHSONIAN INSTITUTION · WASHINGTON, D.C. 1966
+
+
+
+
+_Publications of the United States National Museum_
+
+
+The scholarly and scientific publications of the United States National
+Museum include two series, _Proceedings of the United States National
+Museum_ and _United States National Museum Bulletin_.
+
+In these series, the Museum publishes original articles and monographs
+dealing with the collections and work of its constituent museums--The
+Museum of Natural History and the Museum of History and
+Technology--setting forth newly acquired facts in the fields of
+anthropology, biology, history, geology, and technology. Copies of each
+publication are distributed to libraries, to cultural and scientific
+organizations, and to specialists and others interested in the different
+subjects.
+
+The _Proceedings_, begun in 1878, are intended for the publication, in
+separate form, of shorter papers from the Museum of Natural History.
+These are gathered in volumes, octavo in size, with the publication date
+of each paper recorded in the table of contents of the volume.
+
+In the _Bulletin_ series, the first of which was issued in 1875, appear
+longer, separate publications consisting of monographs (occasionally in
+several parts) and volumes in which are collected works on related
+subjects. _Bulletins_ are either octavo or quarto in size, depending on
+the needs of the presentation. Since 1902 papers relating to the
+botanical collections of the Museum of Natural History have been
+published in the _Bulletin_ series under the heading _Contributions from
+the United States National Herbarium_, and since 1959, in _Bulletins_
+titled "Contributions from the Museum of History and Technology," have
+been gathered shorter papers relating to the collections and research of
+that Museum.
+
+The present collection of Contributions, Papers 34-44, comprises
+Bulletin 240. Each of these papers has been previously published in
+separate form. The year of publication is shown on the last page of each
+paper.
+
+FRANK A. TAYLOR _Director, United States National Museum_
+
+
+
+  CONTRIBUTIONS FROM
+
+  THE MUSEUM OF HISTORY AND TECHNOLOGY:
+
+  PAPER 38
+
+
+
+
+  THE EARLIEST ELECTROMAGNETIC INSTRUMENTS
+
+  _Robert A. Chipman_
+
+
+
+
+  ELECTROSTATIC INSTRUMENTS BEFORE 1800                         123
+
+  INSTRUMENTING VOLTAIC OR GALVANIC ELECTRICITY, 1800-1820      124
+
+  ELECTRICAL INSTRUMENTATION, 1800-1820                         125
+
+  OERSTED'S DISCOVERY                                           126
+
+  BEGINNINGS OF ELECTROMAGNETIC INSTRUMENTATION                 126
+
+  CHRONOLOGY AND PRIORITY                                       127
+
+  ORIGINAL ELECTROMAGNETIC MULTIPLIERS                          129
+
+  CONCLUSIONS                                                   135
+
+  ACKNOWLEDGMENTS                                               136
+
+
+
+
+[Illustration: Figure 1.--MODELS OF VARIOUS ELECTROMAGNETIC INSTRUMENTS
+created by Schweigger, Poggendorf and Cumming in 1821, made for an
+exhibit in the Museum of History and Technology, Smithsonian
+Institution. (Smithsonian photo 49493.)]
+
+
+
+
+_Robert A. Chipman_
+
+
+
+
+THE EARLIEST ELECTROMAGNETIC INSTRUMENTS
+
+
+    _The history of the early stages of electromagnetic instrumentation
+    is traced here through the men who devised the theories and
+    constructed the instruments._
+
+    _Despite the many uses made of voltaic cells after Volta's
+    announcement of his "pile" invention in 1800, two decades passed
+    before Oersted discovered the magnetic effects of a voltaic circuit.
+    As a result of this and within a five-month period, three men,
+    apparently independently, announced the invention of the "first"
+    electromagnetic instrument. This article details the merits of their
+    claims to priority._
+
+    THE AUTHOR: _Robert A. Chipman is chairman of the Department of
+    Electrical Engineering at the University of Toledo in Toledo, Ohio,
+    and consultant to the Smithsonian Institution._
+
+
+
+
+Electrostatic Instruments before 1800
+
+
+It is the fundamental premise of instrument-science that a device for
+detecting or measuring a physical quantity can be based on any
+phenomenon associated with that physical quantity. Although the
+instrumentation of electrostatics in the 18th century, for example,
+relied mainly on the phenomena of attraction and repulsion and the
+ubiquitous sparks and other luminosities of frictional electricity, even
+the physiological sensation of electric shock was exploited
+semiquantitatively by Henry Cavendish in his well-known anticipation of
+Ohm's researches. Likewise, Volta in 1800[1] described at length how the
+application of his pile to suitably placed electrodes on the eyelids, on
+the tongue, or in the ear, caused stimulation of the senses of sight,
+taste and hearing; on the other hand, he reported that electrodes in the
+nose merely produced a "more or less painful" pricking feeling, with no
+impression of smell. The discharges from the Leyden jars of some of the
+bigger frictional machines, such as van Marum's at Leyden, were found by
+1785 to magnetize pieces of iron and to melt long pieces of metal
+wire.[2]
+
+The useful instruments that emerged from all of this experience were
+various deflecting "electrometers" and "electroscopes" (the words were
+not carefully distinguished in use), including the important goldleaf
+electroscope ascribed to Abraham Bennet in 1787.[3]
+
+In 1786, Galvani first observed the twitching of the legs of a dissected
+frog produced by discharges of a nearby electrostatic machine, thereby
+revealing still another "effect" of electricity. He then discovered that
+certain arrangements of metals in contact with the frog nerves produced
+the same twitching, implying something electrical in the frog-metal
+situation as a whole. Although Galvani and his nephew Aldini drew from
+these experiments erroneous conclusions involving "animal electricity,"
+which were disputed by Volta in his metal-contact theory, it is
+significant from the instrumentation point of view that the frog's legs
+were unquestionably by far the most sensitive detector of metal-contact
+electrical effects available at the time. Without their intervention the
+development of this entire subject-area, including the creation of
+chemical cells, might have been delayed many years. Volta himself
+realized that the crucial test between his theory and that of Galvani
+required confirming the existence of metal-contact electricity by some
+electrical but nonphysiological detector. He performed this test
+successfully with an electroscope, using the "condensing" technique he
+had invented more than a decade earlier.
+
+
+
+
+Instrumenting Voltaic or Galvanic Electricity, 1800-1820
+
+
+In his famous letter of March 20, 1800, written in French from Como,
+Italy, to the president of the Royal Society in London, Volta made the
+first public announcement of both his "pile" (the first English
+translator used the word "column"), and his "crown of cups" (the same
+translator used "chain of cups" for Volta's "couronne de tasses"). The
+former consisted of a vertical pile of circular disks, in which the
+sequence copper-zinc-pasteboard, was repeated 10 or 20 or even as many
+as 60 times, the pasteboard being moistened with salt water. The "crown
+of cups" could be most conveniently made with drinking glasses, said
+Volta, with separated inch-square plates of copper and zinc in salt
+water in each glass, the copper sheet in one glass being joined by some
+intermediate conductor and soldered joints to the zinc in the next
+glass.
+
+Volta considered the "crown of cups" and the "pile" to be essentially
+identical, and as evidences of the electrical nature of the latter,
+said:
+
+    ... if it contains about 20 of these stories or couples of metal, it
+    will be capable not only of emitting signs of electricity by
+    Cavallo's electrometer, assisted by a condenser, beyond 10° or 15°,
+    and of charging this condenser by mere contact so as to make it emit
+    a spark, etc., but of giving to the fingers with which its
+    extremities (the bottom and top of the column) have been touched
+    several small shocks, more or less frequent, according as the
+    touching has been repeated. Each of these shocks has a perfect
+    resemblance to that slight shock experienced from a Leyden flask
+    weakly charged, or a battery still more weakly charged, or a torpedo
+    in an exceedingly languishing state, which imitates still better the
+    effects of my apparatus by the series of repeated shocks which it
+    can continually communicate.[4]
+
+The "effects" provided by Volta's pile and crown-of-cups are therefore
+electroscope deflection, sparks, and shocks. Later in the letter, he
+describes the stimulation of sight, taste, and hearing as noted earlier,
+but nowhere does he mention chemical phenomena of any kind, or the
+heating of a wire joining the terminals of either device. Hence, except
+for the additional physiological responses, he adds nothing to the
+catalog of observations on which instruments might be based. His
+familiarity with the moods of the torpedo (electric eel) seems to be
+intimate.
+
+The reading of Volta's letter to the Royal Society on June 26, 1800, its
+publication in the Society's _Philosophical Transactions_ (in French)
+immediately thereafter, and its publication in English in the
+_Philosophical Magazine_ for September 1800,[5] gave scientists
+throughout Europe an easily constructed and continuously operating
+electric generator with which innumerable new physical, chemical, and
+physiological experiments could be made. Editor-engineer William
+Nicholson read Volta's letter before its publication and, by the end of
+April, he and surgeon Anthony Carlisle had built a voltaic pile.
+Applying a drop of water to improve the "connection" of a wire lying on
+a metal plate, they happened to notice gas bubbles forming on the wire,
+and pursued the observation to the point of identifying the electrical
+decomposition of water into hydrogen and oxygen.
+
+Within two or three years innumerable electrochemical reactions had been
+described, some of which, one might think, could have served as
+operating principles for electrical instruments. Although the phenomena
+of gas formation and metal deposition were in fact widely used as crude
+indicators of the polarity and relative strength of voltaic piles and
+chemical cells during the period 1800-1820 (and the gas bubbles were
+made the basis of a telegraph receiver by S. T. Soemmering), the
+quantitative laws of electrolysis were not worked out by Faraday until
+after 1830, and not until 1834 was he satisfied that the electrolytic
+decomposition of water was sufficiently well understood to be made the
+basis for a useful measuring instrument. Describing his
+water-electrolysis device in that year, he wrote:
+
+    The instrument offers the only _actual measurer_ [italics his] of
+    voltaic electricity which we at present possess. For without being
+    at all affected by variations in time or intensity, or alterations
+    in the current itself, of any kind, or from any cause, or even of
+    intermissions of actions, it takes note with accuracy of the
+    quantity of electricity which has passed through it, and reveals
+    that quantity by inspection; I have therefore named it a
+    VOLTAELECTROMETER.[6]
+
+In passing, Faraday commented that the efforts by Gay-Lussac and Thenard
+to use chemical decomposition as a "measure of the electricity of the
+voltaic pile" in 1811 had been premature because the "principles and
+precautions" involved were not then known. He also noted that the
+details of _metal deposition_ in electrolysis were still not
+sufficiently understood to permit its use in an instrument.[7]
+
+The heating of the wires in electric circuits must have been observed so
+early and so often with both electrostatic and voltaic apparatus, that
+no one has bothered to claim or trace priorities for this "effect." The
+production of incandescence, however, and the even more dramatic
+combustion or "explosion" of metal-foil strips and fine wires has a good
+deal of recorded history. Among the first to burn leaf metal with a
+voltaic pile was J. B. Tromsdorff of Erfurt who noted in 1801 the
+distinctly different colors of the flames produced by the various common
+metals. In the succeeding few years, Humphry Davy at the Royal
+Institution frequently, in his public lectures, showed wires glowing
+from electric current.
+
+Early electrical instrumentation based on the heating effect took an
+unusual form. Shortly after 1800, W. H. Wollaston, an English M.D.,
+learned a method for producing malleable platinum. He kept the process
+secret, and for several years enjoyed an extremely profitable monopoly
+in the sale of platinum crucibles, wire, and other objects. About 1810,
+he invented a technique for producing platinum wire as fine as a few
+millionths of an inch in diameter, that has since been known as
+"Wollaston wire." For several years preceding 1820, no other instrument
+could compare the "strengths" of two voltaic cells better than the test
+of the respective maximum lengths of this wire that they could heat to
+fusion. One can sympathize with Cumming's comment in 1821 about "the
+difficulty in soldering wires that are barely visible."[8]
+
+
+
+
+Electrical Instrumentation, 1800-1820
+
+
+The 20 years following the announcement of the voltaic-pile invention
+were years of intense experimental activity with this device. Many new
+chemical elements were discovered, beginnings were made on the
+electrochemical series of the elements, the electric arc and
+incandescent platinum wires suggested the possibilities of electric
+lighting, and various electrochemical observations gave promise of other
+practical applications such as metal-refining, electroplating, and
+quantity production of certain gases. Investigators were keenly aware
+that all of the available means for measuring and comparing the
+_electrical_ aspects of their experiments (however vaguely these
+"electrical aspects" may have been conceived), were slow, awkward,
+imprecise, and unreliable.
+
+The atmosphere was such that prominent scientists everywhere were ready
+to pounce immediately on any reported discovery of a new electrical
+"effect," to explore its potentialities for instrumental purposes. Into
+this receptive environment came H. C. Oersted's announcement of the
+magnetic effects of a voltaic circuit, on July 21, 1820.[9]
+
+[Illustration: Figure 2.--"GALVANOMETER" WAS THE NAME given by Bischof
+to this goldleaf electrostatic instrument in 1802, 18 years before
+Ampère coupled the word with the use of Oersted's electromagnetic
+experiment as an indicating device.]
+
+
+
+
+Oersted's Discovery
+
+
+Many writers have expressed surprise that with all the use made of
+voltaic cells after 1800, including the enormous cells that produced
+the electric arc and vaporized wires, no one for 20 years happened to
+see a deflection of any of the inevitable nearby compass needles, which
+were a basic component of the scientific apparatus kept by any
+experimenter at this time. Yet so it happened. The surprise is still
+greater when one realizes that many of the contemporary natural
+philosophers were firmly persuaded, even in the absence of positive
+evidence, that there _must_ be a connection between electricity and
+magnetism. Oersted himself held this latter opinion, and had been
+seeking electromagnetic relationships more or less deliberately for
+several years before he made his decisive observations.
+
+His familiarity with the subject was such that he fully appreciated the
+immense importance of his discovery. This accounts for his employing a
+rather uncommon method of publication. Instead of submitting a letter to
+a scientific society or a report to the editor of a journal, he had
+privately printed a four-page pamphlet describing his results. This, he
+forwarded simultaneously to the learned societies and outstanding
+scientists all over Europe. Written in Latin, the paper was published in
+various journals in English, French, German, Italian and Danish during
+the next few weeks.[10]
+
+In summary, he reported that a compass needle experienced deviations
+when placed near a wire connecting the terminals of a voltaic battery.
+He described fully how the direction and magnitude of the needle
+deflections varied with the relative position of the wire, and the
+polarity of the battery, and stated "From the preceding facts, we may
+likewise collect that this conflict performs circles...." Oersted's
+comment that the voltaic apparatus used should "be strong enough to heat
+a metallic wire red hot" does not excuse the 20-year delay of the
+discovery.
+
+
+
+
+Beginnings of Electromagnetic Instrumentation
+
+
+The mere locating of a compass needle above or below a suitably oriented
+portion of a voltaic circuit created an electrical instrument, the
+moment Oersted's "effect" became known, and it was to this basic
+juxtaposition that Ampère quickly gave the name of galvanometer.[11] It
+cannot be said that the scientists of the day agreed that this
+instrument detected or measured "electric current," however. Volta
+himself had referred to the "current" in his original circuits, and
+Ampère used the word freely and confidently in his electrodynamic
+researches of 1820-1822, but Oersted did not use it first and many of
+the German physicists who followed up his work avoided it for several
+years. As late as 1832, Faraday could make only the rather noncommittal
+statement: "By current I mean anything progressive, whether it be a
+fluid of electricity or vibrations or generally progressive forces."[12]
+
+Nevertheless, whatever the words or concepts they used, experimenters
+agreed that Oersted's apparatus provided a method of monitoring the
+"strength" of a voltaic circuit and a means of comparing, for example,
+one voltaic battery or circuit with another.
+
+It was perfectly clear, from Oersted's pamphlet, that if a compass
+needle was deflected clockwise when the wire of a particular voltaic
+circuit lay above it in the magnetic meridian, the same needle would
+_also_ be deflected clockwise if the wire was turned end-for-end and
+placed _below_ the compass needle, without changing the rest of the
+circuit. Anyone perceiving this fact might deduce, as a matter of logic,
+that if the wire of the circuit was first passed above the needle, in
+the magnetic meridian, then folded and returned in a parallel path below
+the needle, the deflecting effect on the needle would be repeated, and a
+more sensitive indicator would result, assuming that any additional wire
+introduced has not affected the "circuit" excessively.
+
+Since 1821, historical accounts of the origins of electromagnetism seem
+to have limited their credit assignments for the conception and
+observation of this electromagnetic "doubling" effect (or "multiplying"
+effect, if the folding is repeated) to three persons. Almost without
+exception, however, these accounts have given no specific information as
+to precisely what each of these three accomplished, what physical form
+their respective creations took, what experiments they performed, and
+what functional understanding they apparently had of the situation. The
+usual statement is simply that a compass needle was placed in a coil of
+wire.[13] The main purpose of the present review is to recount some of
+these details.
+
+The following are the three candidates whose names are variously
+associated with the "invention" of the first constructed electromagnetic
+instrument, or "multiplier," or primitive galvanometer.
+
+JOHANN SALOMO CHRISTOPH SCHWEIGGER (1779-1857) in 1820 had already been
+editor for several years of the _Journal für Chemie und Physik_, and was
+professor of chemistry at the University of Halle.
+
+JOHANN CHRISTIAN POGGENDORF (1796-1877) in 1820 had only recently
+entered the University of Berlin as a student following several years as
+an apothecary's apprentice and a brief period as an apothecary. Four
+years later, he succeeded Gilbert as editor of the influential _Annalen
+der Physik_, a position he held for more than 50 years.
+
+JAMES CUMMING (1771-1861) in 1820 was professor of chemistry at
+Cambridge University.
+
+
+
+
+Chronology and Priority
+
+
+The earliest established date in the "multiplier" record is September
+16, 1820, when Schweigger read his first paper to the Natural Philosophy
+Society of Halle. There seems to be no reason to doubt that this report
+justifies the frequently used label "Schweigger's multiplier."
+
+In an exuberant support of Schweigger's position, Speter[14] with no
+mention of Cumming and no hint of "invention" details, shows that
+Poggendorf in 1821 admitted Schweigger's priority, but suffered some
+lapse of memory 40 years later when writing sections of his biographical
+dictionary, leaving a distinct suggestion that the invention was his.
+Further confusion for later generations resulted from some ambiguous
+entries in the _Allgemeine Deutsche Biographie_ of 1888. The name
+"multiplier" seems not to have originated with Schweigger himself.
+Speter credits it to Meineke as "working" editor of Schweigger's
+_Journal_, but Seebeck seems to have used it much earlier.[15]
+
+Conceding priority of conception to Schweigger (Cumming has not been a
+real competitor on this point) does not alter the fact that all three
+seem to have reached their results independently of one another, that
+the first work of each on this subject was published within a period of
+five months, that there were significant differences in their
+conceptions of the uses and the optimum design of their devices and that
+between them they provided an adequate foundation for the subsequent
+development of the galvanometer to become the primary
+electrical-measuring instrument.
+
+In the matter of publication, Schweigger, as editor of what was
+popularly called Schweigger's _Journal_, had an obvious advantage, and
+presented his experiments beginnings on page 1 of the first volume of
+his _Journal_ for 1821, published January 1 of that year.[16] Oersted's
+paper had appeared two volumes previously. He began by referring to
+Oersted's discovery as "the most interesting to be presented in a
+thousand years of the history of magnetism." He was, in fact, so
+impressed with the epochal nature of Oersted's achievement that he
+commemorated it by giving his _Journal_ a second title so that "volume
+one" of the new title could begin in the year after Oersted's
+publication.
+
+Poggendorf, as a relatively junior student, had no such easy access to
+publicity, but he had a staunch admirer in one of his professors, Paul
+Erman at the University of Berlin. Erman added a seven-page postscript
+on Poggendorf's invention to his book _Outline of the Physical Aspects
+of the Electro-chemical Magnetism Discovered by Professor Oersted_,
+published before April 1821,[17] with an introductory paragraph:
+
+    Herr Poggendorf, who is one of the most excellent ornaments of the
+    lecture room and laboratory of the University here, carried out a
+    very coherent and well-conceived investigation of electro-chemical
+    magnetism, leading step-by-step to a method of amplifying this
+    activity-phenomenon by means of itself.
+
+The postscript begins by referring to the "condenser [_Kondensator_]
+just brought to my attention by Herr Poggendorf" and explains that he
+cannot release his treatise "without preliminary announcement of this
+subject of the highest importance." (It can be inferred from the text
+that the name "condenser" was chosen because of the device's enhancing
+of magnetic measurements analogously to the enhancing of electric
+measurements by Volta's electrostatic "condenser.")
+
+Immediately on reading the book, Schweigger published extracts, mainly
+of the postscript, with indignant comments on Erman's remissness (or
+worse) in having failed to mention Schweigger's prior work.[18]
+
+However, Erman was not alone in his unawareness, if it was that, of
+Schweigger's discovery.
+
+Rival editor Gilbert of the _Annalen der Physik_ reviewed Erman at much
+greater length than Schweigger, reprinting most of the postscript with
+evident enthusiasm, and stating in his preamble that the invention is
+attributed to "a young physicist studying here in Berlin, Herr
+Poggendorf."[19] Only in a footnote is the reader directed to another
+footnote in the next article in the volume, where Gilbert finally states
+that he "cannot leave unmentioned the fact that this amplifying
+apparatus seems to be due to Herr Professor Schweigger." He then quotes
+rather fully from Schweigger's first two papers.[16] Oersted in 1823
+explained the situation thus: "The work of M. Poggendorf, having been
+mentioned in a book on electromagnetism by the celebrated M. Erman
+published very shortly after its discovery, became known to many
+scientists before that of M. Schweigger. This is the reason for the same
+apparatus carrying different names."[20]
+
+The same confusion is well illustrated by the paper to which Gilbert
+attached his confessional footnote mentioned above. Written by Professor
+Raschig of Dresden, on April 3, 1821, the paper is entitled "Experiments
+with the Electro-magnetic Multiplier," but the device, throughout the
+paper, is repeatedly referred to in the phrase "Poggendorf's condenser,
+or rather multiplier," an awkward combination that suggests editorial
+intervention.[21]
+
+The work of James Cumming at Cambridge is described in two papers which
+he read to the Cambridge Philosophical Society in 1821, which were then
+duly published in the _Transactions_ of that Society. The first, "On the
+Connexion of Galvanism and Magnetism," was read April 2, 1821,[22] and
+the second, "On the Application of Magnetism as a Measure of
+Electricity," was read a few weeks later on May 21st.[23]
+
+Though he quotes some unrelated 18th-century experiments by Ritter in
+Germany, an 1807 publication of Oersted's, and electromagnetic
+experiments with solenoids performed by Arago and Ampère in late 1820,
+Cumming makes no mention of Schweigger or Poggendorf, and never uses the
+word "multiplier." It, therefore, seems probable that his work was done
+without knowledge of the German publications or inventions.
+
+
+
+
+Original Electromagnetic Multipliers
+
+
+Of the three sets of instruments made, respectively, by Schweigger,
+Poggendorf and Cumming, those of Schweigger are the most elementary, and
+the least realistic from a practical point of view. He makes little
+effort to investigate the effect of any design parameters, but presents
+some odd conductor configurations that involve unimportant variations of
+the basic principle. The following extracts from his first three
+papers[13] contain the major references to his conception, construction,
+and use of his multiplier.
+
+
+PAPER READ IN HALLE, SEPTEMBER 16, 1820
+
+    That a powerful voltaic pile is required for these experiments (of
+    Oersted) I have confirmed in my physics lectures, using an electric
+    pile that was so strong it would easily produce potassium metal the
+    second and third day after it was built. However, I soon saw that
+    the electromagnetic effect was related, not to the pile, but to the
+    simple circuit, and I was thereby led to perform the experiment with
+    much greater sensitivity. To amplify these electromagnetic phenomena
+    of the simple circuit it seemed to me necessary to adopt a different
+    arrangement from that initiated by Volta, in order that the
+    electrical phenomena of his simple circuit might be raised to a
+    higher degree.
+
+    Since a reversal of the effect occurs according to whether the
+    connecting-wire lies over or under the needle, and likewise
+    according to whether the wire leads from the positive or negative
+    pole, thence I say it is an easy inference that a doubling of the
+    effect is attainable, which is verified in practice.
+
+    I present to the Society the simple "doubling apparatus"
+    [_Verdoppelungs-Apparat_], where the compass is placed between two
+    wires passing around it. A multiplication of the effect is easily
+    obtained when the wire is not just once but many times wound around.
+    A single turn suffices, however, to demonstrate Oersted's
+    experiments, using small strips of zinc and copper dipped in
+    ammonium-chloride solution.
+
+Amid innumerable, rambling theorizations (such as, that "hydrogenation
+affects magnetism as oxidation affects galvanism," or "sulphur,
+phosphorous and carbon are especially significant in magnetism, since
+iron in combination with any of these inflammable materials becomes a
+magnet-material"), Schweigger announces that he looked for the reactive
+force of the needle on the connecting wire in the simple Oersted
+experiment, and that he used his "amplifying apparatus" to look for
+magnetic effects from an electrostatic machine, but without success in
+both cases. He suggests that he will continue with many more
+electromagnetic experiments because "with the use of the
+doubling-apparatus, the needle, instead of needing for excitation a cell
+capable of generating sparks, approaches more closely the sensitivity of
+a twitching nerve." However, "additional special experiments are
+required to find to what limits the amplification can be increased by
+the method I have created in the construction of this
+doubling-apparatus, using multiple turns of wire."
+
+[Illustration: Figure 3.--THIS WIRE "BOW-PATTERN" was the first
+illustration Schweigger gave of his "doubling apparatus," though he had
+presented a verbal description of a single-coil arrangement somewhat
+earlier. The purpose of the bow pattern was to show that compass needles
+at the centers of the two loops deflected in opposite directions. (From
+_Journal für Chemie und Physik_.)]
+
+
+PAPER READ IN HALLE, NOVEMBER 4, 1820
+
+[The first half of this paper describes successful observations of the
+reaction-force of a magnetic needle on the connecting wire of a voltaic
+circuit, achieved by pivoting the connecting wire in the form of brass
+needles above and below the compass needle. Though the multiplier
+configuration of needle and wire is in fact present here, Schweigger
+does not mention it, evidently regarding this as a separate project. He
+continues.]
+
+    In my lecture of September 16th, I showed that Oersted's results
+    depend, not on the voltaic cell, but only on the connecting circuit.
+    The principle I have used for amplification of the effects, for the
+    construction of an electromagnetic battery as it were, was the
+    winding of wire around the compass, and I now present to the Society
+    a bow-pattern of multiple-wound, wax-insulated wire, Figure 3.
+    [There were no illustrations with Schweigger's first paper.] While
+    a single wire, using the weak electric circuit here, deflects the
+    magnetic needle only 30° or 40°, if the compass is placed in one of
+    the openings of this pattern, the needle is deflected 90° to the
+    east, or in the other opening 90° to the west, using the same weak
+    electric circuit....
+
+The "bow-pattern" device has novelty interest only, adding nothing to
+the elucidation of the multiplier phenomenon. The same is true of
+Schweigger's next proposal, shown in figure 4. "... I will now add
+another apparatus, which is just an extension of the previous one,
+whereby the needle can take up any angle from 0° to 180°." A short
+length of circular glass tubing, of inside diameter large enough to
+contain a compass needle, stands with its axis vertical and has single
+or multiple loops of wire wound on it in vertical diametral planes. In
+the illustration, successive plane coils are inclined at 30° to one
+another. "... the electric current flows through the whole wire, and the
+needle moves under all of these currents, and coming always into another
+loop can take any desired angle."
+
+With much further theorizing about "the correlation of magnetism with
+the cohesion of bodies," Schweigger states again his evaluation of his
+discovery: "Oersted succeeded in electromagnetic research by using a
+spark-producing cell, which could make a wire glow. My amplifying
+electromagnetic device needs only a weak circuit of copper, zinc, and
+ammonium chloride solution."[24]
+
+[Illustration: Figure 4.--SCHWEIGGER MADE THIS peculiar construction of
+wire coils, wound endwise on a short vertical section of glass tubing
+with a compass needle inside, merely to startle his Halle audience with
+the fact that the compass needle could rest in any of several stable
+positions. (From _Journal für Chemie und Physik_.)]
+
+[Illustration: Figure 5.--SCHWEIGGER'S SUGGESTION of one possible design
+for an amplifying electromagnetic indicator. The components are wooden
+rods and insulated wire. Position b referred to in the text is at the
+bottom of the diagram between the letters a and c. (From _Journal für
+Chemie und Physik_.)]
+
+
+"FURTHER WORDS ABOUT THE NEW MAGNETIC PHENOMENA"
+
+[This was presumably written between November 4, 1820, and the January
+1, 1821, publication date of his _Journal_.]
+
+    These wonderful new electrical effects[25] are most easily rendered
+    perceptible with the help of the previously described wire loops. To
+    focus attention on just one of the windings of Figure 3, we sketch a
+    new drawing, Figure 5.... Since it is of major importance that these
+    loops be made of silk-covered wire lying evenly on one another, it
+    is convenient to wind the loops on two small slotted sticks of wood,
+    although it is also possible to hold the wires together with wax or
+    shellac, or to tie them together in an orderly manner with silk
+    thread....
+
+    In Figure 5, Aa and Cc represent little slotted rods of wood on
+    which the silk-covered wire is wound. Only three windings are shown
+    in the figure, but I generally adopt three times that many. Now t is
+    connected with the copper and d with the zinc, and the compass B set
+    between the rods Aa and Cc with the coil perpendicular to the
+    magnetic meridian and the terminals d, t at the east.
+
+    The instant Z and K are dipped in the ammonium chloride solution,
+    the needle turns around and stays with the north pole point
+    south....
+
+    If now the compass is taken out of the coil and put in position b,
+    all effects are reversed, and are considerably weaker, for obvious
+    reasons....
+
+    It is of the same significance whether we bring the compass from B
+    to b in Figure 5, or from mesh 1 to mesh 2 in Figure 3, only that in
+    the latter case, because the compass is enclosed by the two sides, a
+    stronger effect results....
+
+    If now the coil is rotated ... so that the face previously north now
+    faces south, then on connecting the electric circuit there is
+    absolutely no trace of effect on the needle, assuming that the
+    terminal wires are not reversed....
+
+    It seems unnecessary to note that our magnetic coil can be placed in
+    the direction of the magnetic meridian or at any arbitrary angle
+    with it....
+
+Following several pages of further talk about the relation of "cohesion
+to magnetism" and about "unipolar and bipolar conductors," the only
+additional item of interest is the observation that discharges of a
+Leyden jar (_Kleistichen Flasche_) strong enough to burn strips of leaf
+gold and to magnetize an iron rod in a coil, produced no compass-needle
+deflections, even with the help of the "amplifying apparatus."
+
+Schweigger, therefore, described the basic multiplier idea clearly
+enough in his first paper, but offered no sketch of the simplest
+construction until the third paper. In the second paper, meanwhile, he
+had illustrated two peculiar designs involving the principle in less
+elementary ways.
+
+His indifference to whether the wire loops lie _in_ the magnetic
+meridian (fig. 3) or perpendicular to it (fig. 5) or "at any other
+arbitrary angle to it," reveals a poor appreciation of the
+measuring-instrument potentialities. His conception seems to be
+primarily that of a detector.
+
+Poggendorf's invention, as first reported by Erman and presented to a
+wider audience by Gilbert[26] was described as consisting of typically
+40 to 50 turns of 1/10-line diameter, silk-covered copper wire tied
+tightly together, with the whole pressed laterally to form an elliptical
+opening in which a pivoted compass needle could move freely while
+maintaining clearance of about 2 lines from the wire at all points.[27]
+
+"This magnetic condenser can be a great boon to electro-chemistry," said
+Erman, for "it avoids all the difficulties of electric condensers." He
+noted that, using the condenser, Poggendorf had already established the
+electric series for a great number of bodies, discovered various
+anomalies about conductivities, and found a way of detecting dissymmetry
+of the poles of a compass needle. On the other hand, even with the
+condenser, no magnetic effects have so far been obtainable from a strong
+tourmaline, or from a 12,000-pair, Zamboni dry cell.
+
+Poggendorf's own account of his work finally appeared as a very long
+article in the journal known as "Oken's Isis."[28] The editorial
+controversies mentioned earlier may have occasioned this use of a
+periodical of such minor status in the fields of physics and chemistry.
+
+The source of Poggendorf's vision of the multiplier principle was a
+little different from Schweigger's inspiration. Aiming at some detailed
+analysis of Oersted's observation, Poggendorf ran the connecting wire of
+his cell-circuit along a vertical line to just above or below the
+pivot-point of the compass needle, then, after a right-angle bend,
+horizontally above or below one of the poles of the needle. As he
+studied the deflections produced for all four possible positions of such
+a wire, with both cell polarities, he came to realize that if a
+rectangular wire loop in a vertical plane enclosed a compass needle, all
+parts of the horizontal sides of the loop would produce additive
+deflections. By a separate experiment, he showed that the vertical sides
+of the loop would also increase the deflections. He saw at the same time
+that the effect of additional turns would be cumulative.
+
+    The multiple surrounding of the needle by a silk-covered wire, in a
+    plane perpendicular to the long axis of the needle, affords the
+    physicist a very simple and sensitive means of detecting the
+    slightest trace of galvanism, or of magnetism produced by it, so
+    that I have given the name of magnetic condenser to this
+    construction, though I attach no special value to this name ...
+
+    In analyzing the astonishingly increased power which the condenser
+    gives to the magnetic effect of a circuit, the first question that
+    arises is how the effect varies with the number of turns, whether it
+    increases indefinitely or reaches a maximum beyond which additional
+    turns have no effect. The answer to this first question is linked to
+    the solution of another, viz, whether the degrees deflection are a
+    direct expression of the measure of the magnetic force or not.
+
+    To instruct myself on this point I made use of three separate
+    circuits, each containing an 8-turn condenser, and put these as
+    close together as possible in the magnetic meridian ... with the
+    needle between the windings. Each single circuit ... gave a
+    deflection of 45° ... When two were connected the deflection was
+    60°, and when finally all three were put in magnetic operation, the
+    deflection grew to only 70°. It appears clearly from this that the
+    angle of deflection is not in a simple ratio with the magnetic force
+    acting on the needle....
+
+Neither Poggendorf nor Schweigger seems to have ruled out, on logical
+grounds alone, the possibility of deflections greater than 90°, with the
+loop-plane in the magnetic meridian, though Poggendorf does add a vague
+note that if the needle deflected too far it would encounter forces of
+the opposing sign.
+
+Poggendorf experimented with the size of the circuit wires, finding that
+larger wires led to greater deflections. He noted that the size of the
+cell plates and the nature of the cell's moist conductors would
+certainly have a great effect, but that to investigate these in detail
+would take undue time, and he therefore proposed to keep this part of
+the apparatus constant, using one pair of zinc and copper plates 3.6
+inches in diameter, separated by cloth soaked in ammonium-chloride
+solution.
+
+Poggendorf's principal quantitative study of his magnetic condenser used
+13 identical coils, each with 100 turns. In order that the turns should
+all be at approximately the same distance from the needle, the coils
+were wound of the finest brass wire that could be silk-insulated, the
+wire diameter being 0.02 lines. On adding coils one at a time across the
+cell (i.e., connecting them in parallel), the deflections were as
+follows:
+
+  Turns              100     200     300      400     500     600    700
+  Deflection in
+    degrees           45      50      55    59-60      62      63     64
+
+  Turns              800     900    1000     1100    1200    1300
+  Deflection in
+    degrees           65    65-1/2    66       66      66      66
+
+Adding some coils with fewer turns, and connecting various combinations
+"as a _continuum_" (i.e., in series), the deflections using the same
+cell were:
+
+  Turns             1      5     10     25      50     75    100    200
+  Deflection in
+    degrees        10     22     27     30   35-40     40     40     40
+
+  Turns           300    400    500    600     700    800    900   1000
+  Deflection in
+    degrees        40     40     41     40      40     40     40     40
+
+Making a few coils from wire with 1/8-line diameter, the deflections,
+again using the same cell were:
+
+  Turns                      5       25      50    100    Over 100
+  Deflection in degrees    20-22    40-45    45     65          65
+
+Since the needle used in these experiments was almost as long as the
+inside clearance of the coils, no simple tangent law can be applied, and
+it is not possible to discover an equivalent circuit in modern terms.
+However, the constancy of the deflections for large numbers of turns in
+each case indicates that the cell voltage and resistance were fairly
+constant, and a rough estimate suggests that the cell resistance was
+comparable to the resistance of one of the 100-turn coils of fine wire.
+Such a value means that cell resistance limited the maximum deflections
+for the parallel-connected multipliers, while coil resistance fixed the
+limit in the series case.
+
+For all of these reasons, it was impossible that any useful functional
+law could be obtained from the data.
+
+Poggendorf concluded only that "the amplifying power of the condenser
+does not increase without limit, but has a maximum value dependent on
+the conditions of plate area and wire size." He added two other
+significant comments derived from various observations, that the basic
+Oersted phenomenon is independent of the earth's magnetism, and that the
+phenomenon is localized, i.e., is not affected by distant parts of the
+circuit.
+
+Only a small fraction of Poggendorf's paper is devoted to elucidating
+the properties of the condenser. A similar amount is concerned with
+refuting various proposals, such as those of Berzelius and Erman, about
+distributions of magnetic polarity in a conducting wire to account for
+Oersted's results. More than half of the paper describes results
+obtained by using the condenser to compare conductivities and cell
+polarities under conditions where no effect had previously been
+detectable. Notable is the observation of needle deflections in circuits
+whose connecting wires are interrupted by pieces of graphite, manganese
+dioxide, various sulphur compounds, etc., materials which had previously
+been considered as insulators in galvanic circuits. Poggendorf gives
+these the name of "semi-conductor" (_halb-Leiter_).
+
+[Illustration: Figure 6.--ELECTROMAGNETIC INSTRUMENTS OF JAMES CUMMING,
+used at Cambridge in 1821. One is a single-wire "galvanometer,"
+following Ampère's definition. Cumming called the multiple-turn
+construction "galvanoscopes." He showed how to increase their
+sensitivity by partial cancellation of the earth's magnetism at the
+location of the compass needle. (From _Transactions of the Cambridge
+Philosophical Society_, vol. 1, 1821.)]
+
+Cumming's first mention of the multiplier phenomenon, in his paper of
+April 2, 1821,[22] is quite casual, and describes only a one-turn
+construction. He speaks first of single-turn ring of thick, brass wire,
+and after noting that the sides of a circuit produce additive effects on
+a needle, he comments that a flattened rectangular loop produces nearly
+quadruple the effect of a single wire. The paper is primarily a review
+of Oersted's work, with references to electromagnetic observations
+before Oersted, and accounts of various related but nonmultiplier
+experiments that Cumming has made. His second paper, of May 21st,
+contains a fine plate (fig. 6) illustrating arrangements used in
+investigating the subject of the paper's title "The Application of
+Magnetism as a Measure of Electricity." (Neither Poggendorf nor any of
+his commentators ever illustrated his "condenser.")
+
+Although this plate is never referred to in the paper itself, a nearby
+"Description" gives a few comments. The two wire patterns shown are
+noted as simply "forms of spiral for increasing the electromagnetic
+intensity." The mounted wire loop, with enclosed compass needle and
+terminal mercury cups, is clearly identical in principle with the
+devices of Schweigger and Poggendorf, and is called a "galvanoscope."
+The largest structure illustrated does not involve the multiplying
+effect. It is called a "galvanometer," consistent with Ampère's
+definition of that word. To use it, two leads of a voltaic circuit are
+inserted into the mercury cups AC and BD, and the board EFGH carrying
+the cups is moved vertically until some "standard" deflection is
+obtained on the compass needle below. The relative "strength" of the
+circuit is then given by the calibrated position of the sliding section.
+Uncertainties are undoubtedly introduced by the arbitrary positions of
+the connecting wires from the test circuit to the mercury cups, but
+Cumming drew some interesting conclusions from various measurements he
+made.
+
+Observing needle deflections for various positions of the wire A-B, with
+a "constant" voltaic circuit, he found that "the tangent of the
+deviation varies inversely as the distance of the connecting wire from
+the magnetic needle." Here is a combination of the deflection law for a
+needle in a transverse horizontal field and the magnetic-force law for a
+long, straight wire. The latter had been determined experimentally by
+Biot and Savart, in November 1820, by timing the oscillations of a
+suspended magnet.[29]
+
+Cumming considers his straight-wire calibrated "galvanometer" to be a
+device for "measuring" galvanic electricity; on the other hand, his
+multiple-loop "galvanoscopes" are for "discovering" galvanic
+electricity. With the multiplier instrument, he found galvanic effects
+(i.e., needle deflections) using copper and zinc electrodes with several
+acids not previously known to create galvanic action. A
+potassium-mercury amalgam electrode created a powerful cell with zinc as
+the positive electrode, establishing both the metallic nature of
+potassium and the fact that it is the most negative of all metals.
+
+In a third paper, presented April 28, 1823,[30] Cumming reports use of
+the galvanoscope in experiments on the thermoelectric phenomena recently
+discovered by Seebeck. His note that "for the more minute effects a
+compass was employed in the galvanoscope, having its terrestrial
+magnetism neutralized ..." seems to be the earliest mention of this
+version of the astatic principle, a technique whose dramatic effects
+were especially valuable in low-resistance thermoelectric circuits,
+where the extra resistance of additional multiplier turns largely
+offsets their magnetic contribution. In detail, "the needle is
+neutralized by placing a powerful magnet North and South on a line with
+its center; and another, which is much weaker, East and West at some
+distance above it: by means of the first the needle is placed nearly at
+right angles to the meridian, and the adjustment is completed by the
+second."
+
+On varying the length of the connecting wire of the circuit, Cumming
+found the deflections of the multiplier needle to be in a nearly
+reciprocal relation. He speaks of the "conducting power of the wire,"
+and seems not far from visualizing Ohm's law, of which no published form
+appeared until 1826. Ohm's own experiments were made with very similar
+apparatus.
+
+[Illustration: Figure 7.--"SCHWEIGGER MULTIPLIER" used by Oersted in
+1823. A thin magnetic needle is held in a light, paper sling at F,
+suspended by a fine, vertical fiber. (From _Annales de Chimie et de
+Physique_.)]
+
+
+
+
+Conclusions
+
+
+An effort has been made to show that electrical experimenters prior to
+Oersted's discovery in 1820 were in desperate need of some electrical
+instrument for galvanic or voltaic circuits that would combine
+sensitivity, simplicity, reliability, and quick response. The nearly
+simultaneous creation by Schweigger, Poggendorf and Cumming of an
+arrangement consisting of a coil of wire and a compass needle provided
+the first primitive version of a device to fill that need.
+
+[Illustration: Figure 8.--COMPLETELY USELESS ARRANGEMENT of vertical
+coil and horizontal, unmagnetized needle, presented in the _Edinburgh
+Philosophical Journal_ of 1821 as "Poggendorf's Galvano-Magnetic
+Condenser." Almost every aspect of Poggendorf's instrument has been
+incorrectly represented.]
+
+It appears that Schweigger is clearly entitled to credit for absolute
+priority in the discovery, but the original sources suggest that both
+his understanding of the device and the subsequent researches he
+performed with it were markedly inferior to those of the other
+independent discoverers. In using the generic label, "Schweigger's
+Multiplier," there have been historical examples of attributing to
+Schweigger considerably more sophistication than is justified. Figure 7
+shows an instrument designed by Oersted in 1823,[20] which he says
+"differs in only minor particulars from that of M. Schweigger." On
+comparing figure 7 with figures 3, 4, or 5, the remark seems overly
+generous.
+
+The history of the multiplier instruments has had its fair share of
+erroneous reports and misleading clues. A fine example is the
+illustration of figure 8, taken from what is often quoted as the first
+report in English on Poggendorf's "Galvano-Magnetic Condenser."[31] The
+sketch is the editor's interpretation of a verbal description given him
+by a visiting Danish chemist who, in turn, had received the information
+in a letter from Oersted. It incorporates, faithful to the description,
+a "spiral wire ... established vertically," with a needle "in the axis
+of the spiral," yet by misunderstanding of the axial relations and of
+the ratio of length to diameter for the coil, a completely meaningless
+arrangement has resulted. The confusion is compounded by the specifying
+of an _unmagnetized_ needle.
+
+Schweigger and Poggendorf, through their editorial positions, were among
+the best known of all European scientists for several decades. On one
+basis or another their reputations are firmly established. Comparison of
+the accounts of the early "multipliers," however, suggests that the
+Reverend James Cumming, professor of chemistry at the University of
+Cambridge, was a very perceptive philosopher. This was well understood
+by G. T. Bettany who wrote in the _Dictionary of National Biography_
+that Cumming's early papers "though extremely unpretentious," were
+"landmarks in electromagnetism and thermoelectricity," and concluded
+that: "Had he been more ambitious and of less uncertain health, his
+clearness and grasp and his great aptitude for research might have
+carried him into the front rank of discoverers."
+
+
+
+
+ACKNOWLEDGMENTS
+
+
+I wish to thank Dr. Robert P. Multhauf, chairman of the Department of
+Science and Technology in the Smithsonian Institution's Museum of
+History and Technology, for encouragement in the writing of this paper
+and for the provision of opportunity to consult the appropriate sources.
+To Dr. W. James King of the American Institute of Physics, I am grateful
+for many provocative discussions on this and related topics.
+
+
+
+
+FOOTNOTES:
+
+
+[1] A. VOLTA, "On the Electricity Excited by the Mere Contact of
+Conducting Substances of Different Kinds," _Philosophical Transactions
+of the Royal Society of London_ (1800), vol. 90, pp. 403-431.
+
+[2] Some little-known but delightful observations in the prehistory of
+electromagnetism are described in a letter written by G. W. SCHILLING
+from London to the Berlin Academy on July 8, 1769, published as "Sur les
+phénomènes de l'Anguleil Tremblante" [_Nouveaux Mémoires de l'Académie
+Royale des Sciences et Belles-Lettres_, 1770 (Berlin, 1772), pp. 68-74],
+translated to French from the original German. The letter recounts a
+multitude of experiments with various electric eels. The two
+observations of electromagnetic interest are that a piece of iron held
+by the hand in the eel's tank could be felt quivering even when the fish
+was stationary several inches away, and a compass needle showed a
+deflection, both in the water near the fish, and outside the tank, also
+with the fish stationary.
+
+[3] ABRAHAM BENNET, _Philosophical Transactions of the Royal Society of
+London_ (1787), p. 26.
+
+[4] Op. cit. (footnote 1), p. 403.
+
+[5] _Philosophical Magazine_ (1800), vol. 7, pp. 289-311. [For a
+facsimile reprint, see _Galvani-Volta_ (Bern Dibner's Burndy Library
+Publication No. 7), Norwalk, Connecticut, 1952.]
+
+[6] MICHAEL FARADAY, _Experimental Researches in Electricity_, vol. 1
+(London, 1839), paragraph 739, dated January 1834.
+
+[7] Ibid., sec. 741.
+
+[8] JAMES CUMMING, "On the Application of Magnetism as a Measure of
+Electricity," _Transactions of the Cambridge Philosophical Society_
+(1821), vol. 1, pp. 282-286. [Also published in _Philosophical Magazine_
+(1822), vol. 60, pp. 253-257.]
+
+[9] H. C. OERSTED, _Experimenta Circa Effectum Conflictus Electrici in
+Acum Magneticam_ (Copenhagen, July 21, 1820).
+
+[10] Full details of Oersted's work and publications are in _Oersted and
+the Discovery of Electromagnetism_ (Bern Dibner's Burndy Library
+Publication No. 18), Norwalk, Connecticut, 1961. The original Latin
+version and first English translation are reproduced in _Isis_ (1928),
+vol. 34, pp. 435-444.
+
+[11] A. M. AMPÈRE, _Annales de Chimie et de Physique_ (1820), vol. 15,
+p. 67. The word "galvanometer" had been used much earlier by BISCHOF,
+"On Galvanism and its Medical Applications," _The Medical and Physical
+Journal_ (1802), vol 7, p. 529, for a form of goldleaf electroscope
+shown here in figure 2, but this use of the word does not seem to have
+been adopted by others.
+
+[12] Op. cit. (footnote 6), paragraph 283, dated January 1833. A similar
+attitude was expressed in the same year by CHRISTIE, _Philosophical
+Transactions of the Royal Society of London_ (1833), vol. 123, p. 96: "I
+adopt the word current as a convenient mode of expression, ... but I
+would not be considered as adopting any theoretical views on the
+subject...."
+
+[13] Some prominent examples of this brevity of treatment are in E.
+HOPPE, _Geschichte der Elektrizität_ (Leipzig, 1884); O. MAHR,
+_Geschichtliche Einzeldarstellungen aus der Elektrotechnik_ (Berlin,
+1941); R. S. WHIPPLE, "The Evolution of the Galvonometer," _Journal of
+Scientific Instruments_ (1934), vol. 7, pp. 37-43; WILLIAM STURGEON,
+_Scientific Researches_ (Bury, 1850); A. W. HUMPHREYS, "The Development
+of the Conception and Measurement of Electric Current," _Annals of
+Science_ (1937), vol. 2, pp. 164-178.
+
+[14] M. SPETER, "Klärung der Multiplikator-Prioritätsfrage
+Schweigger-Poggendorf," _Zeitschrift für Instrumentenkunde_ (1937) vol.
+57, pp. 29-32.
+
+[15] T. SEEBECK, "Über den Magnetismus der Galvanischen Kette,"
+_Abhandlungen der Koenigliche Akademie der Wissenschaften zu Berlin_
+(1820-1821), pp. 289-346. The phrase "Schweigger's multiplier" is used
+on page 319. The many experiments described in this paper added little
+or nothing to contemporary appreciation of the multiplier as an
+instrument.
+
+[16] J. S. C. SCHWEIGGER, _Journal für Chemie und Physik_ (1821), vol.
+31, pp. 1-18, 35-42. Pages 1-6 are the paper presented in Halle on
+September 16, 1820; pages 7-18 are the paper presented in Halle on
+November 4, 1820, and pages 35-42 are "a few additional words." The
+preface to the whole volume is dated January 1, 1821. A somewhat earlier
+public announcement referring to Schweigger's discovery appeared in the
+_Allgemeine Literatur-Zeitung_ (November 1820), no. 296, cols. 622-624,
+but this was lacking in detail and seems not to have been noticed by any
+scientists.
+
+[17] P. ERMAN, _Umrisse zu den physischen Verhältnissen des von Herrn
+Prof. Oersted entdeckten elektro-chemischen Magnetismus_ (Berlin, 1821).
+Hoppe (footnote 13) states that Erman's book was published in May;
+however, it is referred to in a letter dated April 3, 1821, by RASCHIG,
+_Annalen der Physik_ (1821), vol. 67, pp. 427-436.
+
+[18] Op. cit. (footnote 16), vol. 32, pp. 38-50.
+
+[19] _Annalen der Physik_ (1821), vol. 67, pp. 382-426, and footnote on
+pages 429-430 of same volume. The footnote accompanies the article by
+Raschig mentioned in footnote 17.
+
+[20] H. C. OERSTED, "Sur le Multiplier electro-magnetique de M.
+Schweigger, et sur quelques applications qu'on en a faites," _Annales de
+Chimie et de Physique_ (1823), vol. 22, pp. 358-365.
+
+[21] "Versuche mit dem electrisch-magnetischen Multiplicator," _Annalen
+der Physik_ (1821), vol. 67, pp. 427-436.
+
+[22] _Transactions of the Cambridge Philosophical Society_ (1821), vol.
+1, pp. 269-278.
+
+[23] Op. cit. (footnote 8).
+
+[24] The German word _Kette_ has been translated as "circuit"
+throughout. Although the equivalence of these words is clear, for
+example, in Ohm's work of 1826, the context in which _Kette_ is
+sometimes used in 1820 and 1821 indicates that the concept of a
+"circuit," in the sense of the wiring external to the source of
+electricity, has not been established. The wiring is regarded more as
+something incidental, used to "close" the cell, the cell being
+considered essentially the whole of the apparatus. This view underlies
+the many attempts to correlate the Oersted phenomena with cell materials
+and design, and with the use of such terms as "chemical magnetism" by
+Erman and others.
+
+[25] The reference here is to the Oersted-type experiments described in
+two papers by authors other than Schweigger on pages 19 to 34 of the
+volume.
+
+[26] Op. cit. (footnote 19), pp. 422-426.
+
+[27] One "line" seems to have been about 1/12 inch.
+
+[28] J. G. POGGENDORF, "Physisch-chemische Untersuchungen zur näheren
+Kenntniss des Magnetismus der voltaischen Säule," _Isis von Oken_
+(1821), vol. 8, pp. 687-710. Most of Poggendorf's numerical data is also
+in C. H. PFAFF, _Der Elektromagnetismus_ (Hamburg, 1824), along with
+some of Pfaff's own work.
+
+[29] Reported in _Annales de Chimie et de Physique_ (1820), vol. 15, pp.
+222-223.
+
+[30] "On the Development of Electro-Magnetism by Heat," _Transactions of
+the Cambridge Philosophical Society_ (1823), vol. 2, pp. 47-76.
+
+[31] "Account of the New Galvano-Magnetic Condenser invented by M.
+Poggendorf of Berlin," _Edinburgh Philosophical Journal_ (July 1821),
+vol. 5, pp. 112-113.
+
+       *       *       *       *       *
+
+U.S. GOVERNMENT PRINTING OFFICE: 1964
+
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Washington, D.C. 20402--Price 20 cents
+
+
+
+
+INDEX
+
+
+Aldini, Giovanni, 124
+
+Ampère, André Marie, 127, 129
+
+Arago, Dominique François Jean, 129
+
+
+Bennet, Abraham, 124
+
+Berzelius, Jöns Jakob, 133
+
+Bettany, G. T., 136
+
+Biot, Jean Baptiste, 135
+
+
+Carlisle, Anthony, 124
+
+Cavallo, Tiberio, 124
+
+Cavendish, Henry, 123
+
+Cummings, James, 125, 127, 133
+
+
+Erman, Paul, 128, 129, 132, 133
+
+
+Faraday, Michael, 125
+
+
+Galvani, Luigi, 124
+
+Gay-Lussac, Joseph Louis, 125
+
+Gilbert, L. W., 127, 132
+
+
+Meineke, ----, 128
+
+
+Nicholson, William, 124
+
+
+Oersted, Hans Christian, 125, 132
+
+Ohm, Georg Simon, 123, 135
+
+Oken, Lorenz, 132
+
+
+Pfaff, Christian Heinrich, 132
+
+Poggendorf, Johann Christian, 127, 132, 136
+
+
+Raschig, Christoph Eusebius, 129
+
+Ritter, Johann Wilhelm, 129
+
+
+Savart, Felix, 135
+
+Schweigger, Johann Salomo Christoph, 127, 132, 136
+
+Seebeck, T., 128, 135
+
+Soemmering, S. T., 125
+
+Speter, M., 127, 128
+
+
+Thenard, Louis Jacques, 125
+
+Tromsdorff, Johann Bartholomacus, 125
+
+
+Van Marum, Martin, 123
+
+Volta, Alessandro, 123, 124, 127
+
+
+Wollaston, W. H., 125
+
+
+Zamboni, Giuseppe, 132
+
+
+
+
+Transcriber's Corrections.
+
+
+Obvious typographical errors have been corrected as follows:
+
+  Page 127: "in the magnetic meridian, then"--had "meridan."
+  Page 128: "mainly of the postscript, with"--had  "postcript."
+  Page 134: "paper of April 2, 1821,[22] is quite"--had "1921."
+  Page 135: "thermoelectric circuits, where"--had "thermoelectirc."
+  Page 135: "arrangement has resulted."--had "arragnement."
+  Page 135: "King of the American Institute of Physics."--had "Physic."
+  Footnote 13: "_Geschichte der Elektrizität_"--had "Elektrizitat."
+  Footnote 16: "_Journal für Chemie und Physik_"--had "and."
+  Footnote 24: "The German word _Kette_"--had "work."
+
+Questionable spellings have been retained as follows:
+
+  Page 125 and Index: J. B. [Johann Bartholomacus] Tromsdorff--should
+  be Johann Bartholomäus Trommsdorff?
+
+  Page 129: "sulphur, phosphorous and carbon..."--should be "phosphorus"
+  but may be misspelled in the quoted material?
+
+  Footnote 20: "Sur le Multiplier electro-magnetique..."--should be
+  "Multiplicateur"?
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE EARLIEST ELECTROMAGNETIC INSTRUMENTS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
