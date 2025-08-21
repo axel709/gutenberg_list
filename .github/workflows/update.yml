@@ -1,24 +1,26 @@
 name: Update Gutenberg Books
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-
 jobs:
   fetch-and-push:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout public repo (where workflow lives)
         uses: actions/checkout@v4
         with:
           ref: main
           path: ./public
-
+          
+      - name: Configure git for public repo
+        run: |
+          cd ./public
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
       - name: Checkout private fetcher repo
         uses: actions/checkout@v4
         with:
@@ -26,17 +28,11 @@ jobs:
           token: ${{ secrets.ACCESS_TOKEN }}
           ref: main
           path: ./fetcher
-
+          
       - name: Install dependencies for fetcher
         run: npm install --prefix ./fetcher
-
+        
       - name: Run fetcher script
-        run: node ./fetcher/src/server.js
-
-      - name: Commit and push updated books
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          repository: ./public
-          commit_message: "Automatic book update"
-          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          branch: main
+        run: |
+          cd ./fetcher
+          node ./src/server.js
