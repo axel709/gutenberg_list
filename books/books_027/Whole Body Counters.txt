@@ -1,0 +1,1630 @@
+The Project Gutenberg eBook of Whole Body Counters
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Whole Body Counters
+
+Author: John H. Woodburn
+        F. W. Lengemann
+
+Release date: August 6, 2015 [eBook #49641]
+                Most recently updated: October 24, 2024
+
+Language: English
+
+Credits: Produced by Stephen Hutcheson, Dave Morgan and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK WHOLE BODY COUNTERS ***
+
+                          Whole Body Counters
+
+
+  UNITED STATES
+  ATOMIC ENERGY COMMISSION
+
+  _Dr. Glenn T. Seaborg, Chairman_
+  _James T. Ramey_
+  _Dr. Gerald F. Tape_
+  _Dr. Samuel M. Nabrit_
+  _Wilfrid E. Johnson_
+
+                          _ONE OF A SERIES ON
+                        UNDERSTANDING THE ATOM_
+
+  Nuclear energy is playing a vital role in the life of every man,
+  woman, and child in the United States today. In the years ahead it
+  will affect increasingly all the peoples of the earth. It is essential
+  that all Americans gain an understanding of this vital force if they
+  are to discharge thoughtfully their responsibilities as citizens and
+  if they are to realize fully the myriad benefits that nuclear energy
+  offers them.
+
+  The United States Atomic Energy Commission provides this booklet to
+  help you achieve such understanding.
+
+                  [Illustration: Edward J. Brunenkant]
+
+                          Edward J. Brunenkant
+                                Director
+                   Division of Technical Information
+
+
+
+
+                    Whole Body Counters/_{CONTENTS}
+
+
+  1 SENSITIVE DETECTORS
+  2 THE GENEVA COUNTER
+  8 THE LIQUID SCINTILLATION COUNTER
+  10 POTASSIUM-40 IN HUMAN BODIES
+  13 CRYSTAL COUNTERS
+  15 THE RADIUM STORY
+  17 A NEW BODY CONTAMINANT
+  21 PROTECTION OF LABORATORY PERSONNEL
+  24 SPECIAL USES
+  31 CONCLUSION
+  34 SUGGESTED REFERENCES
+
+
+THE COVER
+
+                  [Illustration: Whole Body Counters]
+
+This smiling youngster in the chute of a large whole body counter has
+just emerged from the opening (beyond her feet) of a hollow tank of
+scintillation liquid, where she lay while the radioactivity in her body
+was being “counted.” In a minute she will step into her slippers (on the
+ramp, right) and be ready for play. The sensitive, heavily shielded
+radiation-detecting equipment shown has many uses that are described in
+this booklet.
+
+
+THE AUTHORS
+
+                    [Illustration: John H. Woodburn]
+
+John H. Woodburn teaches chemistry at Walter Johnson High School in
+Rockville, Md. In the past he taught at Michigan State University,
+Illinois State Normal University, and Johns Hopkins University. He
+received his A.B. from Marietta College, his M.A. from Ohio State
+University, and his Ph. D. from Michigan State University. He is the
+author of the book _Radioisotopes_ (J. P. Lippincott 1962), which is a
+student’s introduction to this subject.
+
+                 [Illustration: Frederick W. Lengemann]
+
+Frederick W. Lengemann is associate professor of radiation biology at
+New York State Veterinary College, Cornell University. He received his
+B.S. and M.N.S. from Cornell and his Ph. D. from the University of
+Wisconsin. He has been research associate in radiation biology and
+assistant professor of chemistry at the University of Tennessee and
+formerly was a biochemist with the Atomic Energy Commission, Division of
+Biology and Medicine.
+
+
+
+
+                          Whole Body Counters
+
+
+By JOHN H. WOODBURN
+and FREDERICK W. LENGEMANN
+
+
+
+
+                          SENSITIVE DETECTORS
+
+
+Whole body counters are sensitive radiation detecting and measuring
+instruments that provide information not easily obtainable otherwise
+about that most important of all chemical systems, the human body. They
+can do this because, strange as it may seem, every person who ever lived
+is slightly radioactive.
+
+Quickly, accurately, and painlessly, whole body counters reveal the
+kinds and amounts of radioactive substances that have accumulated in the
+body from natural sources, from man-made fallout, or from tracer
+isotopes given for medical purposes. They count emissions from these
+radioactive materials, as do other kinds of instruments known as
+“counters”.
+
+In contrast to devices that disclose concentrations of radioactivity in
+a small area or a particular organ, whole body counters usually are used
+to total up the burden of radioactivity in all parts of a human body.
+They also are distinguished from many radiation detecting instruments
+with the same general purpose by their large size, their heavy
+shielding, and their sensitivity to low levels of radioactivity.
+
+Whole body counters are useful in many studies of physiological activity
+in living persons and animals. They have proved valuable in calculating
+the radiation absorbed by victims of overexposure to radioactive
+materials. They can show a doctor how much of his patient’s body is fat
+and how much lean. Whole body counters also gave medical scientists
+clues to the relation of potassium deficiency to muscular dystrophy and
+other diseases. And new medical and scientific uses are being found
+regularly.
+
+The need for an instrument that would measure whole body radioactivity
+was first felt in the 1920s when the hazardous nature of radium was
+recognized. Other sorts of instruments had to be used to estimate the
+amount of radium that some factory workers inadvertently had absorbed
+while painting luminous watch dials with a radium-containing coating.
+(See pages 15 and 16.) But instruments then available were without
+adequate shielding to eliminate background radiation, and so the
+measurement efforts were of limited value.
+
+It was not until the 1950s that new types of radiation-detecting
+instruments were designed, making use of the discovery that some
+crystals, liquids, and plastics give off light when struck by gamma rays
+(one form of radioactive emission). Two principal types of instruments
+have been developed to detect these emissions in human tissues.
+
+The most common whole body counter employs a sodium iodide crystal as
+the radiation detector. The person being examined usually sits in a
+tilted chair in a room that has thick steel walls to absorb background
+radiation. During the counting period, the crystal is centered a few
+inches above the subject. This type is useful for examination involving
+low levels of radiation or emissions from more than one kind of
+radioactive atom.
+
+In the other type the subject is surrounded by a tank of a liquid that
+detects gamma rays. This type is faster, but less sensitive, than the
+crystal type.
+
+This booklet is intended to enable you to make imaginary visits to
+several whole body counters, to understand the scientific principles
+that are applied in their design, to learn the interesting ways they are
+used, and to appreciate the promise they hold for increasing our
+knowledge of ourselves and the world we live in.
+
+
+
+
+                           THE GENEVA COUNTER
+
+
+In general, all whole body counters must have (1) a mechanism that
+reacts to the energy emitted by some kinds of disintegrating, or
+radioactive, atoms; (2) a device that displays or records these
+reactions; and (3) adequate shielding to exclude unwanted rays from
+other sources.
+
+        [Illustration: Figure 1 _Types of whole body counters._]
+
+[Illustration: A _The subject may be seated in a chair in an
+iron-shielded room and under a scintillation detecting crystal._]
+
+[Illustration: B _The subject may lie in a bed that slides into the end
+of a hollow cylindrical tank filled with scintillation fluid._]
+
+[Illustration: C _The subject may stand in a semicylindrical
+double-walled tank filled with scintillation fluid._ (_See Figure 2._)]
+
+[Illustration: D _The subject may lie on a wheeled cart and be wheeled
+beneath a shielded detecting crystal._]
+
+One of the first whole body counters was shown at an atomic science
+conference in Geneva, Switzerland, in 1955 (Figures 1D and 2). While it
+was on display, 4258 visitors to the meeting climbed a set of stairs to
+enter a 10-ton lead-walled chamber. Here they stood still for 40 seconds
+while the radioactive atoms in their bodies were being “counted”, or
+recorded. This device, because it was the first one persons could walk
+into, aroused great interest.
+
+[Illustration: Figure 2 _How a “walk-in” whole body counter, such as the
+one demonstrated at Geneva, works._]
+
+  Showing:
+  Signal lights
+  Lead glass windows
+  Lead shield
+  Scintillation shield
+  Photomultiplier tube
+  Solution storage tank under platform
+
+Shielding for the Geneva counter consisted of 3 inches of lead. Only the
+most energetic background gamma rays and cosmic rays can penetrate this
+amount of shielding, and the number that do so remain almost constant
+during successive counting periods. This constant remaining “background”
+radiation level, once determined, could be subtracted from the recorded
+number of emissions to provide the correct radiation total from the body
+of each person examined.
+
+[Illustration: Figure 3 _Typical crystals and liquid materials used to
+produce scintillations for whole body counters and other
+radiation-detecting instruments. Scintillation counters provide much
+faster recording of radiation than Geiger counters, and are widely used
+in experiments with high-energy particle accelerators, as well as in
+whole body counters._]
+
+To detect the gamma rays emitted by radioactive atoms disintegrating
+within the body, whole body counters take advantage of a property of
+radiation that has been known since 1896. In that year the English
+physicist William Crookes discovered that X rays react with certain
+chemicals to produce fluorescence. A few years later a New Zealand-born
+physicist, Ernest Rutherford (later Lord Rutherford), found that this
+glow consisted of many tiny individual flashes or scintillations, each
+caused by the emission of a single alpha particle. He laboriously
+counted individual flashes by observing them through a magnifying glass.
+If you examine a luminous watch with a hand lens in a dark room, you can
+see these fascinating scintillations, just as Rutherford saw them long
+ago.
+
+Today, scientists have found several crystals, liquids, and plastics
+that are especially effective in showing scintillations caused by
+nuclear radiations. One of these substances, with the challenging name
+2,2′-_p_-phenylene bis [5-phenyloxazole], often shortened to POPOP, was
+used in the scintillating liquid of the Geneva counter. How the flashes
+are detected can be appreciated by considering the infinitely small
+world of individual atoms and following a single atom as it
+disintegrates. (For a more complete explanation of radioactivity, see
+the companion booklet _Our Atomic World_ in this series.)
+
+Let us assume that we are looking at a single potassium-40 atom in the
+body of the person to be examined and that it is about to disintegrate.
+(Potassium-40 is naturally radioactive. It is the most abundant
+radioisotope in our bodies.) In any sizable portion of potassium-40, we
+know that half of the atoms will disintegrate over a period of 1.3
+billion years, but, since this process is random, there is no way for us
+to know when any particular atom will do so. However, when it does, one
+of two alternative events will occur: either a beta particle (that is,
+an electron) will be ejected from the nucleus, creating an atom of
+nonradioactive calcium-40, or the nucleus will capture one of its own
+orbital electrons, resulting in creation of an atom of stable argon-40
+and the emission of a gamma ray. (The beta emission process occurs in 89
+out of every 100 disintegrations. See Figure 4.)
+
+[Illustration: Figure 4 _Comparison of potassium-40 disintegration
+methods._]
+
+Assume that the particular gamma ray is traveling in the direction of
+the scintillating liquid in the counter. Remember that the gamma ray is
+tiny in comparison with an atom, which is mostly empty space. Therefore,
+any one gamma ray probably will miss all the material part of the atoms
+in the body of the person being studied. Nor will it collide with
+anything as it passes through his clothes and the stainless steel tank.
+It also may fail to collide with any of the atoms in the molecules of
+scintillation liquid, of course. But let us assume that the one we are
+watching does make a hit there. Its total energy will be converted
+instantaneously to a flash of many bits or photons of light.
+
+These photons radiate from the collision scene and strike a
+light-sensitive surface in one or more of the counter’s photomultiplier
+tubes, which have been placed where they can “see” the scintillation
+liquid. Energy transformations result, and a tiny pulse of electricity
+is originated. These photomultiplier devices are similar to the
+equipment in the familiar “electric eye” door openers. As their name
+suggests, photomultiplier tubes (see Figures 6 and 9) do more than
+merely respond to the light flashes produced in the scintillation
+liquid. They also amplify the weak electron disturbances into electrical
+pulses to operate meters that record each scintillation and count the
+total.
+
+The Geneva counter recorded about 25% of the total gamma rays emitted by
+each subject. Since this sample was a constant proportion of the total
+body radiation, it could be converted to whole body measurements with
+about 97% reliability.
+
+In addition to finding persons with actual body contamination among
+those counted at Geneva, the 1955 counter revealed some interesting
+sideline information. People who failed to remove radium-dial watches
+were soon spotted. And one small boy who had picked up a sample of
+uranium ore at a nearby exhibit “jammed” the instrument.
+
+Each of the 25 persons who were found to have above-normal levels of
+radiation could recall having worked with radium or some other
+radioactive substance at some time in the past.
+
+
+THE LIQUID SCINTILLATION COUNTER
+
+A visit to this type of counter recalls the first glimmers of scientific
+insight that the radiation in the human body could be counted. In the
+early 1950s, Frederick Reines and Clyde L. Cowan, two scientists at the
+Los Alamos Scientific Laboratory, Los Alamos, New Mexico, built a large
+liquid scintillation counter hoping to prove or disprove that neutrinos
+really existed. Neutrinos are elusive, uncharged particles with
+essentially no mass. They had been predicted in theory nearly 20 years
+earlier to explain how beta particles of different energy levels can be
+emitted from atoms with apparently identical nuclei.
+
+                        [Illustration: Figure 5]
+
+[Illustration: _Dr. Frederick Reines (left) and Dr. Clyde L. Cowan
+(right), co-discoverers of the neutrino, lower a fellow worker into the
+first “whole body counter”, the scintillation assembly used in their
+experiment. Below, Dr. Wright Lanham, inside the counter, peers from the
+opening._]
+
+                    [Illustration: Figure 5, below]
+
+According to theory, neutrinos are created whenever negative
+beta-emitting atoms are produced. On this basis, Drs. Reines and Cowan
+were convinced that the fission of the nuclear fuel in the reactors of
+the Hanford atomic plant at Richland, Washington, should create high
+densities of neutrinos. They went to Hanford and set up an elegant
+neutrino-catching experiment that hinged on detecting and counting gamma
+rays of definite energy. To accomplish this, they built a large liquid
+scintillation detector and shielded it from stray gamma radiation. As
+their work progressed, someone realized that the equipment was large
+enough to allow a person to crawl inside. After further research at the
+Atomic Energy Commission’s Savannah River Plant in South Carolina, they
+were successful in finding their long-sought neutrino. In doing so, they
+also developed the sort of instrument that can study the human body.
+
+Figure 6 shows a person about to enter one version of a Los Alamos
+counter, the instrument’s 140-gallon tank of scintillation fluid, and 45
+of its 108 photomultiplier tubes. When the instrument is in use, the
+tank slides into, and is shielded by, a 20-ton barrier of 5-inch lead.
+
+[Illustration: Figure 6 _A liquid scintillation whole body counter at
+Los Alamos National Laboratory, showing (left) a subject in the chute
+before it is slid into the shielded detector chamber. Below, the same
+instrument’s detecting assembly, showing the photomultiplier tubes,
+removed from the shielding._]
+
+The loading chute will hold a person 6 feet 4 inches tall and weighing
+up to 260 pounds. The subject lies in the chute as it slides into the
+counter. A lead plug behind his head closes the end of the cylinder to
+add shielding. Counters of this type have “panic buttons” with which
+subjects may signal if they become uneasy on being confined. Most counts
+are completed in less than 5 minutes, however, so the buttons are rarely
+used.
+
+Since the detector fluid almost completely surrounds the subject when
+the chute is in place, this type of counter captures twice as large a
+fraction of the emitted gamma rays as does the Geneva type.
+
+Each radioactive substance emits gamma rays with an energy level
+characteristic of that substance. Whole body counters are able to
+measure this specific energy spectrum, or “fingerprint”, and so identify
+the kind of atom producing the radiation.
+
+The number of light photons produced in the scintillation fluid is
+proportional to the energy transferred by the incoming gamma rays. For
+example, gamma rays emitted by potassium-40 have 1.46 million electron
+volts (Mev) energy; those of cesium-137 have 0.660 Mev energy. When both
+these radionuclides are producing flashes of light in the scintillation
+fluid at once, the photomultiplier tubes produce two different strengths
+of electrical pulses. Electronic devices called multichannel
+pulse-height analyzers sort and record the number of each.
+
+
+POTASSIUM-40 IN HUMAN BODIES
+
+Data from whole body counters indicate that potassium-40 is the most
+abundant radionuclide in the human body. Our bodies also contain other
+naturally radioactive substances but the numbers of atoms usually
+present are so low (as with radium for instance) that they cannot be
+detected with whole body counters. Several man-made radionuclides also
+have found their way into body tissues and organs in quantities that
+sometimes are large enough to be detected and counted.
+
+Measurement of disintegrating potassium-40 atoms in the tissues of a
+human body can be used to determine the total amount of potassium (both
+radioactive and stable) in the body. It is known that potassium-40 makes
+up 0.0119% of all potassium and that 11% of all disintegrating
+potassium-40 atoms emit high-energy gamma rays that are measurable by
+the counter.
+
+The method of determining the amount of potassium in a human subject is
+to compare the number of gamma rays from a known amount of potassium
+placed in a phantom, or dummy body, with the number counted from the
+human subject (see photo on next page). Phantoms are artificial bodies,
+approximately the size, shape, and density of a human body, used for
+calibrating counters. They are designed so the radioisotopes they
+contain have similar distribution to the distribution of the isotopes
+expected in the real body. This is how a test might work:
+
+  Counts per minute from 140 grams of potassium in the phantom     16,800
+  Counts per minute with nothing in counter (background)           12,000
+  Net counts per minute from 140 grams of potassium                 4,800
+  Counts per minute with a 77-pound boy in counter                 14,400
+  Background cunts per minute                                      12,000
+  Net count per minute from boy                                     2,400
+  Calculated amount of potassium in boy                          70 grams
+
+[Illustration: Figure 7 _Phantom used for iodine-131 studies. The
+radiation spectrum from the thyroid area in the neck is being obtained
+with a sodium iodide crystal, left._]
+
+We can appreciate the sensitivity of whole body counters by comparing
+the number of gamma rays recorded by the instruments with the total
+number emitted from the body being counted. The following data, also
+simplified, illustrate this comparison:
+
+  Total atoms in 70 grams of potassium                 1.08 × 10²⁴[1]
+  Number of atoms of potassium-40 in 70 grams of           1.3 × 10²⁰
+  potassium
+  Half-life of potassium-40 in minutes                     6.4 × 10¹⁴
+  Number of potassium-40 atoms disintegrating
+  per minute in 70 grams of potassium                         141,000
+  Number of potassium-40 atoms disintegrating per              15,510
+  minute with emission of measurable gamma rays
+  Number of counts recorded                                     2,400
+  Detection efficiency: 2,400 ÷ 15,510 = 15.5%
+
+Fatty tissues are known to have a low potassium concentration and muscle
+tissue a higher level. It is therefore apparent that potassium-40
+determinations provide a way to indicate the amount of lean muscle in
+any individual, and indirectly the amount of fat. Estimates of the
+amount of fat based on the measurement of the specific gravity of the
+subject, often used in the past, have never been satisfactory. Not only
+do variable and unmeasurable air spaces change body density, but the
+process of submerging a person in a tank—to determine his specific
+gravity by the amount of water he displaces—is a clumsy and
+uncomfortable one.
+
+Significant variations in potassium content have been found in persons
+suffering from muscle diseases or malfunctions. For example, a sharp
+drop in potassium content accompanies the profound muscle weakness that
+follows diabetic coma. Administration of potassium produces striking
+improvement in the condition known as familial periodic paralysis.
+
+Whole body counter data from a study of muscular dystrophy and myotonia
+atrophica patients showed there is a gradual and progressive decrease of
+body potassium during the unrelenting courses of these diseases.
+Otherwise healthy children of muscular dystrophy patients, or their
+brothers and sisters, also may be deficient in potassium. By assisting
+in muscle research, whole body counters help doctors learn more of how
+potassium relates to muscle function and muscle health.
+
+Whole body counting is an improvement over potassium determination based
+on chemical analysis of body fluids. If counters are not used, one way
+to measure body potassium is to inject a known quantity of potassium-42
+(another radioactive form of potassium), wait until this has been
+uniformly mixed with the potassium already in the body, and then record
+the radioactivity of a volume of blood serum. From the degree of
+dilution of the injected potassium-42, the total body potassium can be
+calculated. This widely used method is uncomfortable for the patient
+since it involves use of syringes to inject and withdraw fluids. Because
+about 95% of the body potassium is inside the cells, rather than in
+fluids between the cells, this method may also be inexact if the mixing
+process does not continue long enough. (See _Radioisotopes in Medicine_,
+another booklet in this series, for a full discussion of medical
+treatment with radioactive materials.)
+
+[Illustration: Figure 8 _A crystal whole body counter “iron room” under
+construction above, and in use._]
+
+                    [Illustration: Figure 8, below]
+
+
+
+
+                            CRYSTAL COUNTERS
+
+
+When we visit a crystal counter, shown under construction in Figure 8,
+walls of battleship steel 6 to 8 inches thick are the first things we
+see. Rather than using shielding only around the detecting instrument,
+as was done in the Geneva counter and early versions of the Los Alamos
+counter, crystal counters have shielding around the entire counting
+room. With this arrangement the instruments are available for adjustment
+and servicing.
+
+This type of counter also uses a different detection device: a solid,
+rather than a liquid scintillator. A large crystal, usually of sodium
+iodide sensitized with thallium, is used to convert gamma rays to light
+photons.
+
+Let us return to the shielding problem for a moment. Tanks of water,
+bricks, stone, and lead have been tried by scientists seeking effective,
+cheap, and convenient shielding. Some early counters were built deep
+underground in the hope of avoiding cosmic radiation. Radioactive
+elements are so widely distributed in the rocks, soil, water, and air,
+however, that there is no place where background radiation does not
+exist. Not even the crystals, glass, or metals used in the detection
+system are free of radioactivity.
+
+Pre-World War II surplus armor plate came to be the preferred shielding
+material. Thick slabs of battleship steel were available after the war
+at low cost. Furthermore, steel produced since the war may contain
+unwanted radioactivity originating in fallout from nuclear tests and
+make it undesirable for shielding. Sometimes cobalt-60 used as a tracer
+to measure deterioration of blast furnace walls causes problems in
+postwar steel, too, so old warship armor is used when possible.
+
+Some whole body counters have additional shielding. In the counter at
+the Brookhaven National Laboratory, Upton, New York, the steel room is
+lined with ¼-inch lead sheets, covered by thin layers of cadmium and
+copper. The lead is intended to absorb the secondary X rays produced in
+the iron by the interaction of high-energy gamma and cosmic rays. The
+cadmium and copper absorb the secondary radiation that is similarly
+produced in the lead.
+
+The doors of these rooms often weigh 6 tons or more. A special escape
+hatch was built into the counter room at the University of California at
+Los Angeles, to be used if the main door should be jammed by an
+earthquake. In newer whole body counting laboratories, such as the one
+at the National Institutes of Health, Bethesda, Md., the steel rooms are
+concealed in the interior design and are so pleasantly furnished that
+the patient scarcely is aware of the thick walls around him.
+
+[Illustration: Figure 9 _A sodium iodide crystal, right, and a cluster
+of 7 photomultiplier tubes that fit under it to record its
+scintillations._]
+
+Figure 9 shows a sodium iodide crystal used to react with the gamma rays
+that traverse it. To the left of the crystal is a cluster of seven
+photomultiplier tubes that “watch” for the scintillations, convert them
+to electrical pulses, and amplify them so they can be sorted, counted,
+and recorded. A trace of thallium added to the sodium iodide improves
+its scintillation properties.
+
+In addition to being of convenient size and easy to maintain, crystal
+detectors have another advantage over liquid systems. The energy of the
+incident gamma rays from crystals is more accurately indicated by the
+quality of the flashes of light impinging on the photomultiplier tubes.
+If two or more radionuclides are emitting gamma rays, a crystal detector
+distinguishes between their energy levels with much more precision and
+sensitivity than does a liquid system. Crystal instruments separate
+gamma rays differing by no more than 0.05 Mev.
+
+The energies of the gamma rays emitted by nuclides have all been
+determined and are listed in handbooks. A scientist can thus identify
+the data delivered by a multichannel pulse-height analyzer as coming
+from potassium-40, zinc-65, or any other nuclide.
+
+Counters using sodium iodide crystals intercept, and therefore count, a
+much smaller fraction of the gammas emitted by the subject’s body than
+liquid systems, but they also pick up a smaller amount of background.
+When speed is important, the liquid counter is more effective, but the
+crystal counter is preferred when radionuclides emitting gammas of
+nearly the same energies are to be separated and counted.
+
+
+
+
+                            THE RADIUM STORY
+
+
+Radium-226 in the human body poses unique problems for whole body
+counters. People who have accumulated this nuclide only because of the
+minute amounts occurring naturally in food and water have counts of only
+two or three disintegrating atoms per second, and this amount cannot be
+distinguished from background radiation. Whole body counters are useful,
+however, in diagnosing effects in persons who have been overexposed to
+radium. These include persons who formerly were employed to paint watch
+dials with a luminous paint containing radium. (See table below.)
+
+[Illustration: Figure 10 _A group of radium dial painters at work in a
+watch factory in 1922. Almost all these employees have been identified
+and the living ones recently have participated in a study at Argonne
+National Laboratory to determine the extent of radium accumulation in
+their bodies. Whole body counters aided in their examinations._]
+
+Excerpts from case records of one research center show the high counts
+found in several patients and the source of the radium or thorium (a
+closely related element) that their bodies had taken up:
+
+  Case                                                   Body burden in
+                                                   disintegrating atoms
+                                                             per second
+  Born 1900, drank 210 bottles of “Radithor”                     63,640
+  in 1927[2]
+  Born 1897, drank approximately 78 ounces of                    32,780
+  “Radium Water” in 1932[2]
+  Born 1925, worked as radium chemist since                      14,800
+  1946
+  Born 1922, radium chemist for 7 years                           7,000
+  Born 1898, two injections of “Thorotrast”                       3,300
+  for X-ray diagnosis
+  Born 1898, radium dial painter in watch                        72,500
+  factory, 1918 to 1921
+  Born 1902, radium dial painter for 4½ months                    1,924
+  in 1924
+
+Scientists at the Argonne National Laboratory, Argonne, Illinois, have
+attempted to improve crystal whole body counters so that they will be
+more useful in determining the amount of radium-226 in humans. Rolf
+Sievert at the Swedish Atomic Energy Commission also has studied the
+radium-226 detection. He devised a highly accurate whole body counter
+with 10 ion chambers arranged around a curved aluminum bed on which the
+subject rested. The instrument was installed below ground to reduce the
+interference of background radiation.
+
+[Illustration: Figure 11 _The spectrum of gamma radiation emitted by the
+body of a man three years after he accidentally inhaled radium-226. The
+solid line shows the normal radiation due to potassium-40, the dotted
+line the total from potassium-40 and radium-226._]
+
+  Showing:
+  COUNTS/MINUTE PER 95-KEV CHANNEL
+  Subject G (total)
+  Subject G (potassium-40)
+
+
+
+
+                         A NEW BODY CONTAMINANT
+
+
+In 1955, Charles E. Miller and L. D. Marinelli were measuring human
+potassium levels with the whole body counter at the Argonne laboratory.
+They were puzzled by finding several people who emitted 0.660-Mev gamma
+rays. Gamma rays of this energy, which are emitted by cesium-137, had
+not previously been detected in humans. To add to the perplexity, when
+the same persons were examined a few months later, the count of these
+gamma rays had increased. The Argonne findings indicated strongly that
+radiocesium, which is known to occur in fallout from nuclear explosions,
+was finding its way into people’s bodies. (See _Fallout from Nuclear
+Tests_, another booklet in this series.)
+
+
+INVESTIGATION OF FALLOUT CESIUM IN LAPLANDERS’ DIET
+
+[Illustration: _Long-lived radionuclides, particularly cesium-137,
+accumulate on plants._]
+
+[Illustration: _Reindeer herds graze on lichens and mosses._]
+
+[Illustration: _A substantial portion of the Laplanders’ diet is
+reindeer meat._]
+
+[Illustration: _Here personal data and eating habits are recorded for
+each person to be counted._]
+
+[Illustration: _A Laplander in a whole body counter._]
+
+[Illustration: _The University of Helsinki (Finland) study revealed a
+close correlation between the consumption of reindeer meal and the
+Lapps’ body burdens of cesium-137. However, these levels did not exceed
+acceptable limits._]
+
+[Illustration: Figure 12 _Using a whole body counter to determine
+radioactivity in milk._]
+
+The idea that this nuclide had entered the body with food later was
+tested by placing various foods in the whole body counter. All foods
+tested were found to contain some cesium-137, but beef and dairy
+products had highest levels. The radiation spectra of persons of the
+same age but different diet habits were compared, and correlation was
+found between their cesium-137 content and the amount of dairy products
+they ate.
+
+In October 1960, Kurt Liden at the University of Lund in Sweden
+encountered evidence of the source of cesium-137 in humans. While he was
+using the whole body counter at the University’s Radiation Physics
+Department, Liden found several Norwegians whose bodies contained
+quantities of cesium-137 several times higher than previously recorded.
+He substantiated these data by counting 15 additional Norwegians from
+Oslo and 6 from Bergen. The Oslo residents averaged 21 nanocuries
+(abbreviated nc) of cesium-137 and the Bergen group 60 nc. Swedes
+averaged only 8 nc. (A nanocurie is one billionth of a curie, the
+standard unit of radioactivity.)
+
+Curiosity regarding these high values in the Norwegians led him to
+investigate goat cheese, which Norwegians consume in larger quantities
+than Swedes. Goat cheese at that time showed a high cesium-137 content
+of 41 nc per kilogram. In northern Norway, near Bergen, another main
+food is reindeer meat, which was found to contain 28 nc of cesium-137
+per kilogram, compared to 0.1 nc per kilogram in beef. These factors
+indicated that goat cheese and reindeer meat were responsible for the
+high cesium-137 count in the Norwegians.
+
+Investigation of the soil in northern Norway revealed that it averaged
+20 nc of cesium-137 per square meter. Only thin covers of lichens grow
+in this region, and reindeer must graze over large areas to obtain
+sufficient food. It was obvious that cesium-137 from fallout was
+collecting on lichens and then was being concentrated in the bodies of
+the reindeer before they were killed for meat.
+
+Similar studies have been conducted by scientists of the Pacific
+Northwest Laboratory at Richland, Washington, who since 1959 have been
+measuring radioactivity of plants and animals in Alaska. When they found
+high levels of cesium-137 in lichens and caribou, they became interested
+in the body burdens of fallout isotopes in the Eskimos.
+
+A portable crystal type of whole body counter was used to measure the
+cesium-137 content of Eskimos at five villages. The Eskimos cooperated
+willingly; in some communities nearly everyone accepted the invitation
+to be counted. This table presents the results:
+
+                                      Cesium-137 (in nanocuries)
+  Village               Number of     Minimum      Maximum       Average
+                        subjects
+  Diomede                     12            8           35            22
+  Barrow                     259            8          166            51
+  Point Hope                 107            3          119            17
+  Kotzebue                   132           17          518           138
+  Anaktuvuk                   52           83          719           421
+
+  (For comparison, the average body burden of cesium-137 of residents of
+  Richland, Washington, during this period was between 5 and 7
+  nanocuries.)
+
+These data show that the Eskimos who lived inland at Anaktuvuk and ate
+heavily of caribou meat carried cesium-137 burdens up to 20 times
+greater than Eskimos who lived in the four villages along the coast and
+had more variety in their food. (See pages 18 and 19 for photo story of
+a similar project in Finland.)
+
+
+
+
+                   PROTECTION OF LABORATORY PERSONNEL
+
+
+For chemists or others working with arsenic, cyanide, or other chemical
+poisons, safety depends on recognizing the materials and keeping them
+where they belong. When accidents do happen and poisons are swallowed or
+breathed in, successful treatment requires that someone find out exactly
+what and how much of the poisonous material was involved.
+
+In the event of accidents in nuclear laboratories or reactors, it would
+be equally essential to identify accurately and quickly the quantity and
+kind of unstable nuclides the victim has absorbed. A reactor accident
+conceivably could add a unique hazard since neutron radiation might
+change the normally stable, nonradioactive atoms in the bodies of nearby
+workers into radioactive ones. Even gold or silver fillings in their
+teeth might become radioactive.
+
+[Illustration: Figure 13 _A portable whole body counter used for
+research as well as routine monitoring of personnel in an atomic reactor
+installation. Usually gamma-emitting radionuclides can be detected in 10
+minutes. This counter is in almost constant use at the AEC’s National
+Reactor Testing Station in Idaho._]
+
+When human tissue (for example, hair) is bombarded by fast neutrons,
+sulfur atoms in molecules of proteins are converted to the radionuclide
+phosphorus-32. In atomic shorthand, this reaction is:
+
+                       ³²₁₆S + ¹₀n → ³²₁₅P + ¹₁p
+
+or, in still more abbreviated form, ³²S_{n,p}³²P. Phosphorus-32 atoms do
+not emit gamma rays upon disintegration and so are not detected in
+standard whole body counters. Attempts are being made, however, to adapt
+some whole body counters to pick up the secondary radiations, called
+bremsstrahlung, that occur when the high-energy beta particles that are
+emitted by phosphorus-32 collide with other atoms.
+
+[Illustration: Figure 14 _Whole body counter record of evidence that a
+cyclotron worker has picked up higher-than-average quantities of
+radioactive zinc-65. Note how the graph shows peaks at specific energy
+levels identifying the radionuclides._]
+
+[Illustration: Figure 15 _Graphic evidence that a radioactive gas
+accidentally inhaled by a worker at an experimental reactor contained 3
+radioactive isotopes of iodine._]
+
+[Illustration: Figure 16 _The number of 1.38-Mev gamma rays emitted by
+sodium-24 in the body of a reactor accident victim indicates he received
+about 900 rads of neutron irradiation._]
+
+  _Figures 14 through 16 illustrate the kind of data that whole body
+  counters provide to help physicians care for people involved in
+  accidents._
+
+Similarly, neutron bombardment of natural sodium (²³Na) atoms in the
+body produces sodium-24. This reaction is written: ²³Na(n, gamma
+ray)²⁴Na. The 1.38-Mev gamma rays emitted by sodium-24 are detected
+effectively by whole body counters. Since a given neutron dose converts
+a known proportion of ²³Na atoms to ²⁴Na, it is possible to determine
+how much neutron exposure a worker has received by obtaining his body
+count of radioactive sodium.
+
+Crystal type counters also were used in an interesting special case of
+excessive radiation exposure. Seven natives of the Marshall Islands were
+examined by the whole body counter at the Argonne National Laboratory in
+1957. Another whole body counter, mounted in a Navy amphibious landing
+ship, was taken to Rongelap Atoll in the Marshalls several times to
+check on the health of all the residents of the atoll. These people had
+accumulated zinc-65 in their bodies as a result of contamination of
+crabs and other food items by fallout from the March 1954 atomic bomb
+tests at the Pacific Proving Ground. Although normal radioactive decay
+progressively reduced the total amount of radioactivity in the area, the
+Marshallese still were carrying this nuclide in their bodies after
+several years. (See _Atoms, Nature, and Man_, another booklet in this
+series, for a more complete report of this study.)
+
+
+
+
+                              SPECIAL USES
+
+
+Studies of New Babies
+
+Study of the transfer of nutrients and other substances from an
+expectant mother’s body to that of her unborn child is one of the most
+challenging areas of biological research. A team of scientists headed by
+N. S. MacDonald has used a whole body counter at the University of
+California at Los Angeles to study one aspect of this problem by
+comparing the concentrations of radioactive materials in newborn
+infants, in babies who are born dead, and in tissues of the
+mothers-to-be.
+
+In these studies the scintillation crystal was placed directly beneath a
+plastic bassinet holding the babies. Twenty-eight infants, 6 to 24 hours
+old, were counted for 45 minutes each. The only radionuclide found was
+the ever-present potassium-40.
+
+The bodies of seven stillborn babies were counted for at least 10 hours
+each. More kinds of radionuclides were found than in the living babies,
+although the large counting time may have affected the results.
+
+The same counting techniques were used with placental tissues from
+mothers of three of the stillborns. The placenta is the organ that
+nourishes an unborn child and through which substances from the mother’s
+bloodstream are exchanged with those in the baby’s blood. The graphs in
+Figure 17 show data from this experiment and illustrate the method of
+interpreting whole body counter data. When the counts per minute at each
+band of gamma-ray energy recorded from the placental tissues (b) were
+subtracted from corresponding values from the stillborns (a), it was
+found (c) that the placentas contained more of the isotopes
+ruthenium-103, ruthenium-106, and zirconium-95 than did the babies that
+had been nurtured by these placentas. The babies’ bodies contained more
+niobium-95 and potassium-40 than the placentas. Niobium-95 is produced
+by the radioactive disintegration of zirconium-95. This suggested that
+zirconium-95 atoms do not pass readily through the placenta, but, after
+they have decayed to niobium-95, they pass into the baby’s bloodstream
+easily.
+
+Actually, the gamma-ray energies of zirconium-95 and niobium-95 are so
+similar that the counter cannot distinguish between them. The two
+isotopes, however, were separated chemically, and whole body spectra
+were prepared from samples of the pure elements. The spectrum (d) of
+pure zirconium-95 subtracted from that of pure niobium-95 was strikingly
+similar to the spectrum of “stillborn baby minus placenta” on the
+graphs. Cesium-137 was added to the synthetic spectrum to provide a
+reference mark at the 0.660-Mev point. This revealed that the ratio of
+cesium-137 to potassium-40 is lower in babies than in adults.
+
+[Illustration: Figure 17 _Results of experiment studying transfer of
+nutrients from an expectant mother to her unborn child._]
+
+
+Research on Body Processes
+
+Radioactive tracer atoms, either natural or purposefully built into
+molecules of vital materials like proteins, are revealing how these
+substances function in the body to produce energy or to form new
+tissues. When we know accurately the normal totals and kinds of
+radioactive substances in the body, we can undertake new kinds of tracer
+studies without using large amounts of additional radiation. Small
+instruments called scanners (see Figure 18) usually are used to track
+tracer isotopes, but whole body counters are useful in special
+circumstances.
+
+[Illustration: Figure 18 _A multidetector positron scanner to record
+radiations with opposed pairs of detection crystals. Scanning devices
+are commonly used for noting the fate of tracer isotopes in medical
+diagnosis._]
+
+Two types of adaptations enable whole body counters to locate
+accumulations of radioactive materials in specific organs or small
+portions of the body. At the National Institutes of Health, Bethesda,
+Md., one counter is fitted with three rows of six 12-by-12-inch plastic
+blocks. Each block has four photomultiplier tubes to collect the
+scintillations from the crystal. The rows are curved so as to be equally
+distant from the patient’s body.
+
+The current pulses from each of the 18 blocks can be fed individually
+into the pulse sorter, counter, and recorder. Thus the kinds and numbers
+of gamma rays from the sector of the patient adjacent to any block can
+be studied individually. Similarly, the path and speed of the
+administered materials can be followed by taking recordings from the
+blocks sequentially.
+
+At the U. S. Naval Hospital in Bethesda, Md., a whole body counter is
+fitted with a crystal that can be moved at controlled speed past the
+body of the person being studied (Figure 19). To increase its scanning
+efficiency, the crystal is fitted with a slit and a focusing device.
+Instruments record the body radioactivity visibly at timed intervals as
+the crystal moves along the patient’s body. A television screen enables
+the operator to observe the patient during the counting.
+
+[Illustration: Figure 19 _The U. S. Naval Hospital whole body counter,
+showing the moving crystal, left, and instruments, including the
+television screen used by the operator. The moving crystal makes it
+possible to use this whole body counter for scanning._]
+
+The role of iron in preventing one form of anemia has been clarified by
+using iron-59 as a tracer. Persons suffering from chronic infections or
+such blood diseases as leukemia and polycythemia vera have been checked
+for the amount of iron carried by their red blood cells. Cobalt-60 atoms
+have been substituted for stable cobalt in molecules of vitamin B-12 so
+that the way the body makes use of this vitamin can be studied.
+Similarly, the body’s use of sodium can be studied by labeling sodium
+chloride with sodium-22 and then administering solutions of the tagged
+salt orally or by injection.
+
+Whole body counters used in tracer studies cause a minimum of
+inconvenience for the patient. Their sensitivity permits use of smaller
+quantities of radioactive material than is required with small scanning
+instruments.
+
+Those are unusual jobs for whole body counters, however. Scanners or
+other types of instruments are used more typically in following tracer
+isotopes.
+
+
+Animal Research
+
+[Illustration: Figure 20 _Dogs about to be examined in a whole body
+counter._]
+
+How do dogs accumulate fallout isotopes in their bodies? This question
+was answered effectively by placing dogs in whole body counters and
+comparing the count from radioactive strontium-emitted gamma rays
+originating in their bodies with the count from a masonite phantom dog
+containing a known amount of radioactive strontium-85. It was found that
+female dogs increase their strontium retention while they are nursing
+newborn puppies. Strontium is much like calcium, which is a major
+component of milk. One dog measured had broken a leg in a fight. The
+counter showed above-average strontium accumulation for this dog, and it
+was conjectured that strontium, a “bone-seeking” element, had followed
+calcium to the point of bone repair and new bone growth.
+
+[Illustration: Figure 21 _A wild deer under a whole body counter._]
+
+[Illustration: Figure 22 _Graph of whole body counter survey of four
+different animal species, showing differences in their retention of
+orally administered radioactive zinc-65._]
+
+  Showing RETENTION, % versus TIME, DAYS for Man, Dog, Rat, Mouse
+
+Figure 22 shows how animals differ in their retention of orally
+administered zinc-65, as revealed by a whole body counter. It is
+apparent that counters can be used to determine the differences in the
+metabolism of different animal species used for research. Standard data
+developed in this way can serve to reduce error that may occur if
+results from one species are used for interpretation of data for another
+species, such as man.
+
+A University of Illinois project to breed meat animals with a high
+lean-to-fat ratio has been aided by whole body counters. The tendency to
+deposit fat seems to be inherited, and breeding stock with low fat
+content can be selected, using “muscle-seeking” potassium-40 to show the
+proportion of muscle in each potential parent. The Illinois counter is
+unique in being large enough to examine an adult steer (Figure 23). A
+similar counter at Cornell University has been used to study animals
+infested with internal parasites, comparing them with parasite-free
+animals. The counter revealed that a positive relationship exists
+between the level of parasite infestation and loss of iron-59-labeled
+blood from the digestive tract. The possibility of using this method to
+evaluate parasite-killing drugs is being considered. The Cornell counter
+is kept clean by covering the animals with plastic sheeting. The same
+counter also can serve human patients, who are positioned in a wheeled
+hospital stretcher. (See Figure 1D.)
+
+
+
+
+                               CONCLUSION
+
+
+This booklet has presented a sample of the ways whole body counters add
+to man’s knowledge and increase his ability to manage conditions and
+processes important to his health and well-being. Radioactive substances
+occur naturally within our own bodies and all other materials. Whole
+body counters measure this radioactivity, or any which may have been
+added from artificial sources.
+
+We have seen how these sensitive instruments help to prove hypotheses
+difficult to verify otherwise and how they thereby may stimulate new and
+fruitful scientific experimentation. We have learned how whole body
+counters add to our knowledge of normal processes in healthy bodies and
+detect disease or abnormalities resulting from dangerous conditions.
+
+[Illustration: Figure 23 _A University of Illinois counter large enough
+to examine an adult steer, above. A Cornell University counter used for
+animal-parasite studies, below._]
+
+                    [Illustration: Figure 23, below]
+
+[Illustration: Figure 24 _A trailer-mounted whole body counter used for
+research. School children were examined in a project to determine
+possible pathways by which radioactivity may enter the human body._]
+
+Each fact uncovered by whole body counters seems to trigger more
+penetrating research. This is how science advances. And with the advance
+of science comes knowledge on which we may build intelligent behavior
+and find solutions to problems affecting our lives.
+
+
+
+
+                          SUGGESTED REFERENCES
+
+
+Books
+
+  _Environmental Radioactivity_, Merril Eisenbud, McGraw-Hill Book
+  Company, Inc., New York. 1963, 430 pp., $13.50.
+
+  _Radioactivity in Man: Whole Body Counting and the Effects of Internal
+  Gamma Ray-Emitting Radioisotopes_, George R. Meneely (Ed.). Charles C
+  Thomas, Springfield, Illinois. 1965, 672 pp., $24.50.
+
+  _Whole Body Counting_, Proceedings of the Symposium on Whole Body
+  Counting Held by the International Atomic Energy Agency at the Neue
+  Hofburg, Vienna (June 12-16, 1961), National Agency for International
+  Publications, 317 East 34th Street, New York 10016, 1962, 535 pp.,
+  $10.00.
+
+  _How to Detect and Measure Radiation_, Harold S. Renne, The
+  Bobbs-Merrill Company, Inc., New York, 1963, 160 pp., $3.95.
+
+  _An Introduction to Radiation Counters and Detectors_, C. C. H.
+  Washtell, George Newnes Ltd., London, 1960, 115 pp., $7.50.
+
+  _Liquid Scintillation Counting_, Proceedings of a Conference Held at
+  Northwestern University (August 20-22, 1957), Carlos G. Bell, Jr., and
+  F. Newton Hayes (Eds.), Pergamon Press, Inc., New York, 1958, 292 pp.,
+  $10.00.
+
+
+Reports
+
+  _Fundamental Nuclear Energy Research, A Special Report of the United
+  Stales Atomic Energy Commission_ (December 1963), Superintendent of
+  Documents, U. S. Government Printing Office, Washington, D. C. 20402,
+  407 pp., $2.50. Whole Body Counters as Medical Aids, pp. 11-13; Acute
+  Whole Body Irradiation Effects, pp. 35-41; Chronic Whole Body
+  Irradiation Effects, pp. 42-48.
+
+  _Radioactive Contamination of Materials Used in Scientific Research_,
+  James R. DeVoe, Nuclear Science Series Report No. 34, National Academy
+  of Sciences—National Research Council, Washington, D. C. 20418, 1961,
+  $2.00. Appendix VIII, The Negotiations and Developmental Work on Low
+  Activity Glasses for Use in Whole Body Counters, pp. 109-115.
+
+
+Articles
+
+  Liquid Scintillation Counting of C¹⁴ and H³ Labeled Amino Acids and
+  Proteins, M. Vaughan and others, _Science_, 126: 446 (Sept. 6, 1957).
+
+  Phosphorescence in Liquid Scintillation Counting of Proteins, R. J.
+  Herberg, _Science_, 128: 199 (July 25, 1958).
+
+  Suspension Counting of Carbon-14 in Scintillation Gels, B. L. Funt and
+  A. Hetherington, _Science_, 125: 986 (May 17, 1957).
+
+  Liquid Scintillation Counting of Aqueous Solutions of Carbon-14 and
+  Tritium, J. Shapira and W. H. Perkins, _Science_, 131: 414 (Feb. 12,
+  1960).
+
+  Alone in the Dark with a Panic Button: Purdue’s Whole Body Counter,
+  Martin Mann, _Popular Science_, 181: 90 (October 1962).
+
+  Counter as a Test Instrument, W. H. Bucksbaum, _Electronics World_,
+  68: 48 (November 1962).
+
+  Spiral Capillary Plastic Scintillation Flow Counter for Beta Assay, B.
+  L. Funt and A. Hetherington, _Science_, 129: 1429 (May 22, 1959).
+
+
+Motion Pictures
+
+Available for loan without charge from the AEC Headquarters Film
+Library, Division of Public Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545 and from other AEC film libraries.
+
+  _Understanding the Atom: Radiation Detection by Scintillation_, 30
+  minutes, black and white, sound, 1962. Produced by the Educational
+  Broadcasting Corporation under the direction of the AEC’s Division of
+  Isotopes Development. This semitechnical film describes the
+  scintillation process. Solid and liquid scintillators are shown, a
+  description of a photomultiplier is given, and the pulse-height
+  analyzer principle is illustrated.
+
+  _Human Radioactivity Measurements_, 9 minutes, color and sound, 1958.
+  Produced by AEC’s Los Alamos Scientific Laboratory. This film shows a
+  method developed at LASL to monitor possible intake of radiation by
+  personnel. The liquid scintillation counter is large enough to contain
+  a man and sensitive enough to detect even the minute amounts of his
+  natural gamma radioactivity.
+
+  _Ionizing Radiation in Humans_, 15 minutes, color and sound, 1958.
+  Produced by AEC’s Argonne National Laboratory. Describes the design
+  and operation of ANL’s whole body counter for determining
+  identification, quantity, and location of internally deposited
+  radioelements. Various techniques in accumulation of data are shown.
+
+  _Liquid Scintillation Counting_, 14 minutes, color and sound, 1958.
+  Produced by the Jam Handy Organization for the U. S. Atomic Energy
+  Commission. Describes the use of a liquid scintillator for counting
+  low-energy beta emitters commonly used in biological and medical
+  tracer experiments. Also describes counting techniques, how the
+  counters work, and how a sample is prepared.
+
+
+PHOTO CREDITS
+
+  Cover            courtesy Los Alamos Scientific Laboratory (LASL)
+  Figure 1         A, Argonne National Laboratory (ANL); B and C; LASL;
+                   D, Cornell University.
+  Figure 2         LASL
+  Figure 3         Brookhaven National Laboratory (BNL)
+  Figure 5         LASL
+  Figure 6         LASL
+  Figure 7         BNL
+  Figure 8         LASL
+  Figure 9         LASL
+  Figure 10        Dr. Charles E. Miller, ANL
+  Figure 12        LASL
+  Figure 13        National Reactor Testing Station
+  Figure 18        BNL
+  Figure 19        National Naval Medical Center
+  Figure 20        LASL
+  Figure 21        Colorado State University
+  Figure 23        Cornell University
+  Figure 24        Pacific Northwest Laboratory
+  Center-spread    Professor J. K. Miettinen, University of Helsinki
+
+
+This booklet is one of the “Understanding the Atom” Series. Comments are
+invited on this booklet and others in the series; please send them to
+the Division of Technical Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545.
+
+Published as part of the AEC’s educational assistance program, the
+series includes these titles:
+
+  NUCLEAR POWER AND MERCHANT SHIPPING
+  PLUTONIUM
+  OUR ATOMIC WORLD
+  NUCLEAR ENERGY FOR DESALTING
+  CONTROLLED NUCLEAR FUSION
+  WHOLE BODY COUNTERS
+  PLOWSHARE
+  POPULAR BOOKS ON NUCLEAR SCIENCE
+  SNAP, NUCLEAR SPACE REACTORS
+  NUCLEAR REACTORS
+  ATOMS, NATURE, AND MAN
+  MICROSTRUCTURE OF MATTER
+  SYNTHETIC TRANSURANIUM ELEMENTS
+  COMPUTERS
+  RESEARCH REACTORS
+  GENETIC EFFECTS OF RADIATION
+  POWER FROM RADIOISOTOPES
+  NONDESTRUCTIVE TESTING
+  RARE EARTHS
+  FOOD PRESERVATION BY IRRADIATION
+  FALLOUT FROM NUCLEAR TESTS
+  RADIOACTIVE WASTES
+  RADIOISOTOPES IN INDUSTRY
+  ATOMS AT THE SCIENCE FAIR
+  RADIOISOTOPES AND LIFE PROCESSES
+  ATOMIC FUEL
+  ATOMIC POWER SAFETY
+  DIRECT CONVERSION OF ENERGY
+  CAREERS IN ATOMIC ENERGY
+  RADIOISOTOPES IN MEDICINE
+  ACCELERATORS
+  NUCLEAR TERMS, A BRIEF GLOSSARY
+  NEUTRON ACTIVATION ANALYSIS
+  ATOMS IN AGRICULTURE
+  NUCLEAR CLOCKS
+  POWER REACTORS IN SMALL PACKAGES
+  NUCLEAR POWER PLANTS
+  YOUR BODY AND RADIATION
+
+A single copy of any one booklet, or of no more than three different
+booklets, may be obtained free by writing to:
+
+           USAEC, P. O. BOX 62, OAK RIDGE, TENNESSEE    37830
+
+Complete sets of the series are available to school and public
+librarians, and to teachers who can make them available for reference or
+for use by groups. Requests should be made on school or library
+letterheads and indicate the proposed use.
+
+Students and teachers who need other material on specific aspects of
+nuclear science, or references to other reading material, may also write
+to the Oak Ridge address. Requests should state the topic of interest
+exactly, and the use intended.
+
+In all requests, include “Zip Code” in return address.
+
+
+                Printed in the United States of America
+USAEC Division of Technical Information Extension, Oak Ridge, Tennessee
+                             February 1967
+
+
+
+
+                               FOOTNOTES
+
+
+[1]This is mathematical shorthand for 1.08 followed by 24 zeros, or 1.08
+    million billion billion.
+
+[2]Medicines such as “Radithor” and “Radium Water” were manufactured and
+    sold before it was known that overexposure to radioactivity was
+    harmful.
+
+
+
+
+                          Transcriber’s Notes
+
+
+--Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+--In the text version only, underlined or italicized text is delimited
+  by _underscores_.
+
+--Where possible, UTF superscript and subscript numbers are used; some
+  e-reader fonts may not support these characters.
+
+--In the text versions only, other superscript text is preceded by caret
+  and delimited by ^{brackets}.
+
+--In the text versions only, other subscripted text is preceded by
+  underscore and delimited by _{brackets}.
+
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK WHOLE BODY COUNTERS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
