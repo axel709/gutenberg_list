@@ -1,0 +1,2234 @@
+The Project Gutenberg eBook of Radioisotopes in Medicine
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Radioisotopes in Medicine
+
+Author: Earl W. Phelan
+
+Release date: July 6, 2015 [eBook #49377]
+                Most recently updated: October 24, 2024
+
+Language: English
+
+Credits: Produced by Stephen Hutcheson, Dave Morgan and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK RADIOISOTOPES IN MEDICINE ***
+
+                       Radioisotopes in Medicine
+
+
+The Understanding the Atom Series
+
+Nuclear energy is playing a vital role in the life of every man, woman,
+and child in the United States today. In the years ahead it will affect
+increasingly all the peoples of the earth. It is essential that all
+Americans gain an understanding of this vital force if they are to
+discharge thoughtfully their responsibilities as citizens and if they
+are to realize fully the myriad benefits that nuclear energy offers
+them.
+
+The United States Atomic Energy Commission provides this booklet to help
+you achieve such understanding.
+
+                  [Illustration: Edward J. Brunenkant]
+
+                                          Edward J. Brunenkant, Director
+                                       Division of Technical Information
+
+
+UNITED STATES ATOMIC ENERGY COMMISSION
+
+  Dr. Glenn T. Seaborg, Chairman
+  James T. Ramey
+  Wilfrid E. Johnson
+  Dr. Theos J. Thompson
+  Dr. Clarence E. Larson
+
+
+
+
+                       Radioisotopes in Medicine
+
+
+by Earl W. Phelan
+
+
+
+
+                                CONTENTS
+
+
+  INTRODUCTION                                                          1
+      History                                                           1
+      What Is Radiation?                                                5
+      What Is Radioactivity?                                            5
+      What Are Radioisotopes?                                           6
+      How Are Radioisotopes Used?                                       7
+      What Do We Mean by Tracer Atoms?                                  9
+  DIAGNOSIS                                                            11
+      Pinpointing Disease                                              11
+      Arsenic-74                                                       14
+      Chromium-51                                                      15
+      Cobalt-60                                                        16
+      Iodine-131                                                       18
+      Iron-59                                                          23
+      Phosphorus-32                                                    24
+      Sodium-24                                                        25
+      Technetium-99^{_m_}                                              26
+      Thulium-170 and Gamma Radiography                                27
+      Tritium                                                          28
+      Activation Analysis                                              30
+      Summary                                                          30
+  THERAPY                                                              31
+      A Successful Case                                                31
+      General Principles                                               32
+      Iodine-131 and Iodine-132                                        32
+      Boron-10                                                         33
+      Phosphorus-32                                                    35
+      Gold-198                                                         37
+      Beads, Needles, and Applicators                                  38
+      Teletherapy                                                      41
+  CONCLUSIONS                                                          43
+  APPENDIX                                                             44
+  SUGGESTED REFERENCES                                                 47
+
+                 United States Atomic Energy Commission
+                   Division of Technical Information
+           Library of Congress Catalog Card Number: 66-62749
+                                  1966
+
+[Illustration: THE COVER
+
+This multi-detector positron scanner is used to locate tumors. A
+radioisotope-labeled substance is injected into the body and
+subsequently concentrates in the tumor tissue. The radioisotope emits
+positrons that immediately decay and produce two gamma rays that travel
+in opposite directions. These rays are detected simultaneously on a pair
+of opposing detection crystals and a line is established along which the
+tumor is located. This method is one of many ways doctors use
+radioisotopes to combat disease. In this, as in many other procedures
+described in this booklet, the patient remains comfortable at all
+times.]
+
+[Illustration: THE AUTHOR
+
+Earl W. Phelan is Professor of Chemistry at Tusculum College,
+Greeneville, Tennessee. From 1952 to 1965, he served as Staff Assistant
+in the Laboratory Director’s Office at Argonne National Laboratory,
+where his duties included editing the Argonne Reviews and supplying
+information to students. For 22 years prior to moving to Argonne he
+served as Head of the Chemistry Department of the Valdosta State College
+In Georgia. He received his B.S. and Ph.D. degrees from Cornell
+University.]
+
+
+
+
+                                               Radioisotopes in Medicine
+
+
+                                                       By EARL W. PHELAN
+
+
+
+
+                              INTRODUCTION
+
+
+History
+
+The history of the use of radioisotopes for medical purposes is filled
+with names of Nobel Prize winners. It is inspiring to read how great
+minds attacked puzzling phenomena, worked out the theoretical and
+practical implications of what they observed, and were rewarded by the
+highest honor in science.
+
+For example, in 1895 a German physicist, Wilhelm Konrad Roentgen,
+noticed that certain crystals became luminescent when they were in the
+vicinity of a highly evacuated electric-discharge tube. Objects placed
+between the tube and the crystals screened out some of the invisible
+radiation that caused this effect, and he observed that the greater the
+density of the object so placed, the greater the screening effect. He
+called this new radiation X rays, because _x_ was the standard algebraic
+symbol for an unknown quantity. His discovery won him the first Nobel
+Prize in physics in 1901.
+
+[Illustration: _Wilhelm Roentgen_]
+
+A French physicist, Antoine Henri Becquerel, newly appointed to the
+chair of physics at the Ecole Polytechnique in Paris, saw that this
+discovery opened up a new field for research and set to work on some of
+its ramifications. One of the evident features of the production of X
+rays was the fact that while they were being created, the glass of the
+vacuum tube gave off a greenish phosphorescent glow. This suggested to
+several physicists that substances which become phosphorescent upon
+exposure to visible light might give off X rays along with the
+phosphorescence.
+
+Becquerel experimented with this by exposing various crystals to
+sunlight and then placing each of them on a black paper envelope
+enclosing an unexposed photographic plate. If any X rays were thus
+produced, he reasoned, they would penetrate the wrapping and create a
+developable spot of exposure on the plate. To his delight, he indeed
+observed just this effect when he used a phosphorescent material,
+uranium potassium sulfate. Then he made a confusing discovery. For
+several days there was no sunshine, so he could not expose the
+phosphorescent material. For no particular reason (other than that there
+was nothing else to do) Becquerel developed a plate that had been in
+contact with uranium material in a dark drawer, even though there had
+been no phosphorescence. The telltale black spot marking the position of
+the mineral nevertheless appeared on the developed plate! His conclusion
+was that uranium in its normal state gave off X rays or something
+similar.
+
+[Illustration: _Henri Becquerel_]
+
+At this point, Pierre Curie, a friend of Becquerel and also a professor
+of physics in Paris, suggested to one of his graduate students, his
+young bride, Marie, that she study this new phenomenon. She found that
+both uranium and thorium possessed this property of radioactivity, but
+also, surprisingly, that some uranium minerals were more radioactive
+than uranium itself. Through a tedious series of chemical separations,
+she obtained from pitchblende (a uranium ore) small amounts of two new
+elements, polonium and radium, and showed that they possessed far
+greater radioactivity than uranium itself. For this work Becquerel and
+the two Curies were jointly awarded the Nobel Prize in physics in 1903.
+
+[Illustration: _Pierre and Marie Curie_]
+
+At the outset, Roentgen had noticed that although X rays passed through
+human tissue without causing any immediate sensation, they definitely
+affected the skin and underlying cells. Soon after exposure, it was
+evident that X rays could cause redness of the skin, blistering, and
+even ulceration, either in single doses or in repeated smaller doses. In
+spite of the hazards[1] involved, early experimenters determined that X
+rays could destroy cancer tissues more rapidly than they affected
+healthy organs, so a basis was established quite soon for one of
+Medicine’s few methods of curing or at least restraining cancer.
+
+The work of the Curies in turn stimulated many studies of the effect of
+radioactivity. It was not long before experimenters learned that
+naturally radioactive elements—like radium—were also useful in cancer
+therapy. These elements emitted gamma rays,[2] which are like X rays but
+usually are even more penetrating, and their application often could be
+controlled better than X rays. Slowly, over the years, reliable methods
+were developed for treatment with these radioactive sources, and
+instruments were designed for measuring the quantity of radiation
+received by the patient.
+
+[Illustration: _Frederic and Irene Joliot-Curie_]
+
+The next momentous advance was made by Frederic Joliot, a French chemist
+who married Irene Curie, daughter of Pierre and Marie Curie. He
+discovered in 1934 that when aluminum was bombarded with alpha
+particles[3] from a radioactive source, emission of positrons (positive
+electrons) was induced. Moreover, the emission continued long after the
+alpha source was removed. This was the first example of artificially
+induced radioactivity, and it stimulated a new flood of discoveries.
+Frederic and Irene Joliot-Curie won the Nobel Prize in chemistry in 1935
+for this work.
+
+Others who followed this discovery with the development of additional
+ways to create artificial radioactivity were two Americans, H. Richard
+Crane and C. C. Lauritsen, the British scientists, John Cockcroft and E.
+T. S. Walton, and an American, Robert J. Van de Graaff. Ernest O.
+Lawrence, an American physicist, invented the cyclotron (or “atom
+smasher”), a powerful source of high-energy particles that induced
+radioactivity in whatever target materials they impinged upon. Enrico
+Fermi, an Italian physicist, seized upon the idea of using the newly
+discovered neutron (an electrically neutral particle) and showed that
+bombardment with neutrons also could induce radioactivity in a target
+substance. Cockcroft and Walton, Lawrence, and Fermi all won Nobel
+Prizes for their work.
+
+Patient application of these new sources of bombarding particles
+resulted in the creation of small quantities of hundreds of radioactive
+isotopic species, each with distinctive characteristics. In turn, as we
+shall see, many ways to use radioisotopes have been developed in medical
+therapy, diagnosis, and research. By now, more than 3000 hospitals hold
+licenses from the Atomic Energy Commission to use radioisotopes. In
+addition, many thousands of doctors, dentists, and hospitals have X-ray
+machines that they use for some of the same broad purposes. One of the
+results of all this is that every month new uses of radioisotopes are
+developed.
+
+More persons are trained every year in methods of radioisotope use and
+more manufacturers are producing and packaging radioactive materials.
+This booklet tells some of the successes achieved with these materials
+for medical purposes.
+
+
+What Is Radiation?
+
+Radiation is the propagation of radiant energy in the form of waves or
+particles. It includes electromagnetic radiation ranging from radio
+waves, infrared heat waves, visible light, ultraviolet light, and X rays
+to gamma rays. It may also include beams of particles of which
+electrons, positrons, neutrons, protons, deuterons, and alpha particles
+are the best known.[4]
+
+
+What Is Radioactivity?
+
+It took several years following the basic discovery by Becquerel, and
+the work of many investigators, to systematize the information about
+this phenomenon. Radioactivity is defined as the property, possessed by
+some materials, of spontaneously emitting alpha or beta particles or
+gamma rays as the unstable (or radioactive) nuclei of their atoms
+disintegrate.
+
+
+What Are Radioisotopes?
+
+[Illustration: _Frederick Soddy_]
+
+In the 19th Century an Englishman, John Dalton, put forth his atomic
+theory, which stated that all atoms of the same element were exactly
+alike. This remained unchallenged for 100 years, until experiments by
+the British chemist, Frederick Soddy, proved conclusively that the
+element neon consisted of two different kinds of atoms. All were alike
+in chemical behavior but some had an atomic weight (their mass relative
+to other atoms) of 20 and some a weight of 22. He coined the word
+_isotope_ to describe one of two or more atoms having the same atomic
+number but different atomic weights.[5]
+
+Radioisotopes are isotopes that are unstable, or radioactive, and give
+off radiation spontaneously. Many radioisotopes are produced by
+bombarding suitable targets with neutrons now readily available inside
+atomic reactors. Some of them, however, are more satisfactorily created
+by the action of protons, deuterons, or other subatomic particles that
+have been given high velocities in a cyclotron or similar accelerator.
+
+Radioactivity is a process that is practically uninfluenced by any of
+the factors, such as temperature and pressure, that are used to control
+the rate of chemical reactions. The rate of radioactive decay appears to
+be affected only by the structure of the unstable (decaying) nucleus.
+Each radioisotope has its own half-life, which is the time it takes for
+one half the number of atoms present to decay. These half-lives vary
+from fractions of a second to millions of years, depending only upon the
+atom. We shall see that the half-life is one factor considered in
+choosing a particular isotope for certain uses.
+
+[Illustration: HALF-LIFE PATTERN OF STRONTIUM-90]
+
+ Percent of        100         50          25         12.5        6.75
+ Radioactivity
+                Beginning       1           2           3           4
+                 of Life   Half-life   Half-lives  Half-lives  Half-lives
+                            28 years    56 years    84 years    112 years
+
+Most artificially made radioisotopes have relatively short half-lives.
+This makes them useful in two ways. First, it means that very little
+material is needed to obtain a significant number of disintegrations. It
+should be evident that, with any given number of radioactive atoms, the
+number of disintegrations per second will be inversely proportional to
+the half-life. Second, by the time 10 half-lives have elapsed, the
+number of disintegrations per second will have dwindled to ¹/₁₀₂₄ the
+original number, and the amount of radioactive material is so small it
+is usually no longer significant. (Note the decrease in the figure
+above.)
+
+
+How Are Radioisotopes Used?
+
+A radioisotope may be used either as a source of radiation energy
+(energy is _always_ released during decay), or as a tracer: an
+identifying and readily detectable marker material. The location of this
+material during a given treatment can be determined with a suitable
+instrument even though an unweighably small amount of it is present in a
+mixture with other materials. On the following pages we will discuss
+medical uses of individual radioisotopes—first those used as tracers and
+then those used for their energy. In general, tracers are used for
+analysis and diagnosis, and radiant-energy emitters are used for
+treatment (therapy).
+
+Radioisotopes offer two advantages. First, they can be used in extremely
+small amounts. As little as one-billionth of a gram can be measured with
+suitable apparatus. Secondly, they can be directed to various definitely
+known parts of the body. For example, radioactive sodium iodide behaves
+in the body just the same as normal sodium iodide found in the iodized
+salt used in many homes. The iodine concentrates in the thyroid gland
+where it is converted to the hormone thyroxin. Other radioactive, or
+“tagged”, atoms can be routed to bone marrow, red blood cells, the
+liver, the kidneys, or made to remain in the blood stream, where they
+are measured using suitable instruments.[6]
+
+Of the three types of radiation, alpha particles (helium nuclei) are of
+such low penetrating power that they cannot be used for measurement from
+outside the body. Beta particles (electrons) have a moderate penetrating
+power, therefore they produce useful therapeutic results in the vicinity
+of their release, and they can be detected by sensitive counting
+devices. Gamma rays are highly energetic, and they can be readily
+detected by counters—radiation measurement devices—used outside the
+body.
+
+[Illustration: _Relative penetration of alpha, beta, and gamma
+radiation._]
+
+For comparison, a sheet of paper stops alpha particles, a block of wood
+stops beta particles, and a thick concrete wall stops gamma rays.
+
+In one way or another, the key to the usefulness of radioisotopes lies
+in the energy of the radiation. When radiation is used for treatment,
+the energy absorbed by the body is used either to destroy tissue,
+particularly cancer, or to suppress some function of the body. Properly
+calculated and applied doses of radiation can be used to produce the
+desired effect with minimum side reactions. Expressed in terms of the
+usual work or heat units, ergs or calories, the amount of energy
+associated with a radiation dose is small. The significance lies in the
+fact that this energy is released in such a way as to produce important
+changes in the molecular composition of individual cells within the
+body.
+
+
+What Do We Mean by Tracer Atoms?
+
+When a radioisotope is used as a tracer, the energy of the radiation
+triggers the counting device, and the exact amount of energy from each
+disintegrating atom is measured. This differentiates the substance being
+traced from other materials naturally present.
+
+[Illustration: _This is the first photoscanner, which was developed in
+1954 at the University of Pennsylvania and was retired from service in
+1963. When gamma rays emitted by a tracer isotope in the patient’s body
+struck the scanner, a flashing light produced a dot on photographic
+film. The intensity of the light varied with the counting rate and thus
+diseased tissues that differed little from normal tissue except in their
+uptake of an isotope could be discerned._]
+
+With one conspicuous exception, it is impossible for a chemist to
+distinguish any one atom of an element from another. Once ordinary salt
+gets into the blood stream, for example, it normally has no
+characteristic by which anyone can decide what its source was, or which
+sodium atoms were added to the blood and which were already present. The
+exception to this is the case in which some of the atoms are “tagged” by
+being made radioactive. Then the radioactive atoms are readily
+identified and their quantity can be measured with a counting device.
+
+A radioactive tracer, it is apparent, corresponds in chemical nature and
+behavior to the thing it traces. It is a true part of it, and the body
+treats the tagged and untagged material in the same way. A molecule of
+hemoglobin carrying a radioactive iron atom is still hemoglobin, and the
+body processes affect it just as they do an untagged hemoglobin
+molecule. The difference is that a scientist can use counting devices to
+follow the tracer molecules wherever they go.
+
+[Illustration: _One of the first scans made by a photoscanner. The
+photorecording (dark bands), superimposed on an X-ray picture for
+orientation, shows radioactivity in a cancer in the patient’s neck._]
+
+It should be evident that tracers used in _diagnosis_—to identify
+disease or improper body function—are present in such small quantities
+that they are relatively harmless. Their effects are analogous to those
+from the radiation that every one of us continually receives from
+natural sources within and without the body. _Therapeutic_ doses—those
+given for medical treatment—by contrast, are given to patients with a
+disease that is in need of control, that is, the physician desires to
+destroy selectively cells or tissues that are abnormal. In these cases,
+therefore, the skill and experience of the attending physician must be
+applied to limit the effects to the desired benefits, without damage to
+healthy organs.
+
+This booklet is devoted to these two functions of radioisotopes,
+_diagnosis_ and _therapy_; the field of medical research using
+radioactive tools is so large that it requires separate coverage.[7]
+
+
+
+
+                               DIAGNOSIS
+
+
+Pinpointing Disease
+
+Mr. Peters, 35-year-old father of four and a resident of Chicago’s
+northwest side, went to a Chicago hospital one winter day after
+persistent headaches had made his life miserable. Routine examinations
+showed nothing amiss and his doctor ordered a “brain scan” in the
+hospital’s department of nuclear medicine.
+
+Thirty minutes before “scan time”, Mr. Peters was given, by intravenous
+injection, a minute amount of radioactive technetium. This radiochemical
+had been structured so that, if there were a tumor in his cranium, the
+radioisotopes would be attracted to it. Then he was positioned so an
+instrument called a scanner could pass close to his head.
+
+As the motor-driven scanner passed back and forth, it picked up the
+gamma rays being emitted by the radioactive technetium, much as a Geiger
+counter detects other radiation. These rays were recorded as black
+blocks on sensitized film inside the scanner. The result was a piece of
+exposed film that, when developed, bore an architectural likeness or
+image of Mr. Peters’ cranium.
+
+[Illustration: _The inset picture shows a brain scan made with a
+positron scintillation camera. A tumor is indicated by light area above
+ear. (Light area in facial region is caused by uptake in bone and
+extracellular space.) The photograph shows a patient, completely
+comfortable, receiving a brain scan on one of the three rectilinear
+scanning devices in the nuclear medicine laboratory of a hospital._]
+
+Mr. Peters, who admitted to no pain or other adverse reaction from the
+scanning, was photographed by the scanner from the front and both sides.
+The procedure took less than an hour. The developed film showed that the
+technetium had concentrated in one spot, indicating definitely that a
+tumor was present. Comparison of front and side views made it possible
+to pinpoint the location exactly.
+
+Surgery followed to remove the tumor. Today, thanks to sound and early
+diagnosis, Mr. Peters is well and back on the job. His case is an
+example of how radioisotopes are used in hospitals and medical centers
+for diagnosis.
+
+[Illustration: _The first whole body scanner, which was developed at the
+Donner Laboratory in 1952 and is still being used. The lead collimator
+contains 10 scintillation counters and moves across the subject. The bed
+is moved and serial scans are made and then joined together to form a
+head-to-toe picture of the subject._]
+
+[Illustration: _The diagram shows a scan and the parts of a scanner.
+(Also see page 21.)_]
+
+In one representative hospital, 17 different kinds of radioisotope
+measurements are available to aid physicians in making their diagnoses.
+All the methods use tracer quantities of materials. Other hospitals may
+use only a few of them, some may use even more. In any case they are
+merely tools to augment the doctors’ skill. Examples of measurements
+that can be made include blood volume, blood circulation rate, red blood
+cell turnover, glandular activity, location of cancerous tissue, and
+rates of formation of bone tissue or blood cells.
+
+Of the more than 100 different radioisotopes that have been used by
+doctors during the past 30 years, five have received by far the greatest
+attention. These are iodine-131, phosphorus-32, gold-198, chromium-51,
+and iron-59. Some others have important uses, too, but have been less
+widely employed than these five. The use of individual radioisotopes in
+making important diagnostic tests makes a fascinating story. Typical
+instances will be described in the following pages.
+
+[Illustration: _A differential multi-detector developed at Brookhaven
+National Laboratory locates brain tumors with positron-emitting
+isotopes. By using many pairs of detection crystals, the device shortens
+the scanning time and increases accuracy. (See cover for another type of
+positron scanner.)_]
+
+
+Arsenic-74
+
+Brain tumors tend to concentrate certain ions (charged atoms or
+molecules). When these ions are gamma-ray emitters, it is possible to
+take advantage of the penetrating power of their gamma rays to locate
+the tumor with a scanning device located outside the skull.
+
+Arsenic-74 and copper-64 are isotopes emitting _positrons_,[8] which
+have one peculiar property. Immediately after a positron is emitted from
+a nucleus it decays, producing two gamma rays that travel in exactly
+opposite directions. The scanning device has two detectors called
+scintillation counters, one mounted on each side of the patient’s head.
+
+The electrical circuitry in the scanner is such that only those gamma
+rays are counted that impinge simultaneously on both counters. This
+procedure eliminates most of the “noise”, or scattered and background
+radiation.
+
+
+Chromium-51
+
+Because chromium, in the molecule sodium chromate, attaches itself to
+red blood cells, it is useful in several kinds of tests. The procedures
+are slightly complicated, but yield useful information. In one, a sample
+of the patient’s blood is withdrawn, stabilized with heparin (to prevent
+clotting) and incubated with a tracer of radioactive sodium chromate.
+Excess chromate that is not taken up by the cells is reduced and washed
+away. Then the radioactivity of the cells is measured, just before
+injection into the patient. After a suitable time to permit thorough
+mixing of the added material throughout the blood stream, a new blood
+sample is taken and its radioactivity is measured. The total volume of
+red blood cells then can be calculated by dividing the total
+radioactivity of the injected sample by the activity per milliliter of
+the second sample.
+
+[Illustration: _Spleen scans made with red blood cells, which had been
+altered by heat treatment and tagged with chromium-51. Such damaged
+cells are selectively removed by the spleen. A is a normal spleen. B
+shows an abscess in the spleen. Note dark ring of radioactivity
+surrounding the lighter area of decreased activity at the central
+portion of spleen._]
+
+In certain types of anemia the patient’s red blood cells die before
+completing the usual red-cell lifetime of about 120 days. To diagnose
+this, red cells are tagged with chromium-51 (⁵¹Cr) in the manner just
+described. Then some of them are injected back into the patient and an
+identical sample is injected into a compatible normal individual. If the
+tracer shows that the cells’ survival time is too short in both
+recipients to the same degree, the conclusion is that the red cells
+themselves must be abnormal. On the other hand, if the cell-survival
+time is normal in the normal individual and too short in the patient,
+the diagnosis is that the patient’s blood contains some substance that
+destroys the red cells.
+
+When chromium trichloride, CrCl₃, is used as the tagging agent, the
+chromium is bound almost exclusively to plasma proteins, rather than the
+red cells. Chromium-51 may thus be used for estimating the volume of
+plasma circulating in the heart and blood vessels. The same type of
+computation is carried on for red cells (after correction for a small
+amount of chromium taken up by the red blood cells). This procedure is
+easy to carry out because the radioactive chromium chloride is injected
+directly into a vein.
+
+An ingenious automatic device has been devised for computing a patient’s
+total blood volume using the ⁵¹Cr measurement of the red blood cell
+volume as its basis. This determination of total blood volume is of
+course necessary in deciding whether blood or plasma transfusions are
+needed in cases involving bleeding, burns, or surgical shock. This ⁵¹Cr
+procedure was used during the Korean War to determine how much blood had
+been lost by wounded patients, and helped to save many, many lives.
+
+For several years, iodine-131 has been used as a tracer in determining
+cardiac output, which is the rate of blood flow from the heart. It has
+appeared recently that red blood cells tagged with ⁵¹Cr are more
+satisfactory for this measurement than iodine-labeled albumin in the
+blood serum. It is obvious that the blood-flow rate is an extremely
+important physiological quantity, and a doctor must know it to treat
+either heart ailments or circulatory disturbances.
+
+In contrast to the iodine-131 procedure, which requires that an artery
+be punctured and blood samples be removed regularly for measurement,
+chromium labeling merely requires that a radiation counter be mounted on
+the outside of the chest over the aorta (main artery leaving the heart).
+A sample of labeled red blood cells is introduced into a vein, and the
+recording device counts the radioactivity appearing in the aorta as a
+function of time. Eventually, of course, the counting rate (the number
+of radioactive disintegrations per second) levels off when the indicator
+sample has become mixed uniformly in the blood stream. From the shape of
+the curve on which the data are recorded during the measurements taken
+before that time, the operator calculates the heart output per second.
+
+[Illustration: _In this cardiac output study a probe is positioned over
+the heart and the passage of iodine-131 labeled human serum albumin
+through this area is recorded._]
+
+Obstetricians caring for expectant mothers use red cells tagged with
+⁵¹Cr to find the exact location of the placenta. For example, in the
+condition known as _placenta previa_, the placenta—the organ within the
+uterus by which nourishment is transferred from the mother’s blood to
+that of the unborn child—may be placed in such a position that fatal
+bleeding can occur. A radiation-counting instrument placed over the
+lower abdomen gives information about the exact location of the
+placenta. If an abnormal situation exists, the attending physician is
+then alert and ready to cope with it. The advantages of chromium over
+iodine-131, which has also been used, are that smaller doses are
+required, and that there is no transfer of radioactivity to the fetal
+circulation.
+
+Still another common measurement using ⁵¹Cr-labeled red blood cells is
+the determination of the amount and location of bleeding from the
+gastrointestinal tract (the stomach and bowels). The amount is found by
+simple measurement of chromium in the blood that appears in the stools.
+To find the location is slightly more complicated. The intestinal
+contents are sampled at different levels through an inserted tube, and
+the radiation of the samples determined separately.
+
+Finally, gastrointestinal loss of protein can be measured with the aid
+of ⁵¹Cr-labeled blood serum. The serum is treated with CrCl₃ and then
+injected into a vein. In several very serious ailments there is serious
+loss of blood protein through the intestines. In these conditions the
+⁵¹Cr level in the intestinal excretions is high, and this alerts the
+doctor to apply remedial measures.
+
+
+Cobalt-60
+
+Vitamin B₁₂ is a cobalt compound. Normally the few milligrams of B₁₂ in
+the body are stored in the liver and released to the blood stream as
+needed. In _pernicious anemia_, a potentially fatal but curable disease,
+the B₁₂ content of the blood falls from the usual level of 300-900
+micromicrograms per milliliter (ml) to 0 to 100 micromicrograms per ml.
+The administration of massive doses of B₁₂ is the only known remedy for
+this condition.
+
+If the B₁₂ is labeled with radioactive cobalt, its passage into the
+blood stream may be observed by several different methods. The simplest
+is to give the B₁₂ by mouth, and after about 8 hours study the level of
+cobalt radioactivity in the blood. Cobalt-60 has been used for several
+years, but recently cobalt-58 has been found more satisfactory. It has a
+half-life of 72 days while ⁶⁰Co has a 5.3-year half-life. This reduces
+greatly the amount of radiation to the patient’s liver by the retained
+radioactivity.
+
+
+Iodine-131
+
+Like chromium-51, iodine is a versatile tracer element. It is used to
+determine blood volume, cardiac output, plasma volume, liver activity,
+fat metabolism, thyroid cancer metastases, brain tumors, and the size,
+shape, and activity of the thyroid gland.
+
+[Illustration: _A linear photoscanner produced these pictures of (A) a
+normal thyroid, (B) an enlarged thyroid, and (C) a cancerous thyroid._]
+
+Because of its unique connection with the thyroid gland, iodine-131 is
+most valuable in measurements connected with that organ. Thyroxin, an
+iodine compound, is manufactured in the thyroid gland, and transferred
+by the blood stream to the body tissues. The thyroxin helps to govern
+the oxygen consumption of the body and therefore helps control its
+metabolism. Proper production of thyroxin is essential to the proper
+utilization of nutrients. Lowered metabolism means increased body
+weight. Lowered thyroid activity may mean expansion of the gland,
+causing one form of goiter.
+
+Iodine-131 behaves in the body just as the natural non-radioactive
+isotope, iodine-127, does, but the radioactivity permits observation
+from outside the body with some form of radiation counter. Iodine can
+exist in the body in many different chemical compounds, and the counter
+can tell where it is but not in what form. Hence chemical manipulation
+is necessary in applying this technique to different diagnostic
+procedures.
+
+The thyroid gland, which is located at the base of the neck, is very
+efficient in trapping inorganic iodide from the blood stream,
+concentrating and storing the iodine-containing material and gradually
+releasing it to the blood stream in the form of protein-bound iodine
+(PBI).
+
+One of the common diagnostic procedures for determining thyroid
+function, therefore, is to measure the percentage of an administered
+dose of ¹³¹I that is taken up by the gland. Usually the patient is given
+a very small dose of radioactive sodium iodide solution to drink, and
+two hours later the amount of iodine in the gland is determined by
+measuring the radiation coming from the neck area. In hyperthyroidism,
+or high thyroid gland activity, the gland removes iodide ions from the
+blood stream more rapidly than normal.
+
+[Illustration: Screening test for Hyperthyroidism
+
+Oral dose ¹³¹I
+
+Graph of Uptake in 1 hour (Percent of administered dose) versus Uptake
+in 24 hours (Percent of administered dose)]
+
+[Illustration: _It is especially important in isotope studies on infants
+and small children that the radiation exposure be low. By carrying out
+studies in the whole body counter room, the administered dose can be
+greatly reduced. The photographs illustrate a technique of measuring
+radioiodine uptake in the thyroid gland with extremely small amounts of
+a mixture of iodine-131 and iodine-125. A shows a small television set
+that is mounted above the crystal in such a way that good viewing
+requires that the head be kept in the desired position. This helps solve
+the problem of keeping small children still during a 15-minute counting
+period. B shows a child in position for a thyroid uptake study._]
+
+This simple procedure has been used widely. One difficulty in using it
+is that its success is dependent upon the time interval between
+injection and measurement. An overactive gland both concentrates iodine
+rapidly and also discharges it back to the blood stream as PBI more
+rapidly than normal. Modifications of the test have been made to compare
+the amount of iodine-131 that was administered with the amount
+circulating in the blood as PBI. The system acquires chemical separation
+of the two forms of iodine from a sample of blood removed from a vein,
+followed by separate counting. This computation of the “conversion
+ratio” of radioactive plasma PBI to plasma-total ¹³¹I gives results that
+are less subject to misinterpretation.
+
+To determine local activity in small portions of the thyroid, an
+automatic scanner is used. A collimator[9] shields the detector (a
+Geiger-Müller tube or scintillating crystal) so that only those impulses
+originating within a very small area are accepted by the instrument. The
+detector is then moved back and forth slowly over the entire area and
+the radiation is automatically recorded at definite intervals, creating
+a “map” of the active area. In cases where lumps, or nodules, have been
+discovered in the thyroid, the map is quite helpful in distinguishing
+between cancerous and benign nodules. The former are almost always less
+radioactive than surrounding tissues.
+
+[Illustration: _Seven serial scans made with the whole body scanner were
+put together to provide a whole body scan of this patient with thyroid
+cancer that had spread to the lung. One millicurie of iodine-131 was
+administered and the scan made 72 hours later. Note the uptake in the
+lung. This patient was successfully treated with large doses of
+iodine-131._]
+
+Fragments of cancerous thyroid tissue may migrate to other parts of the
+body and grow there. These new cancers are known as metastatic cancers
+and are a signal of an advanced state of disease. In such a situation
+even complete surgical removal of the original cancer may not save the
+patient. If these metastases are capable of concentrating iodine (less
+than 10% of them are), they can be located by scanning the whole body in
+the manner that was just described. When a thyroid cancer is discovered,
+therefore, a doctor may look for metastases before deciding to operate.
+
+Human blood serum albumin labeled with ¹³¹I is used for measurement of
+the volume of circulating plasma. The procedure is quite similar to that
+used with radioactive chromium. Iodinated human serum albumin labeled
+with ¹³¹I is injected into a vein. Then, after allowing time for
+complete mixing of the sample with the blood, a second sample is counted
+using a scintillation counter.
+
+[Illustration: _Time-lapse motion pictures of the liver of a 3-year-old
+girl were made with the scintillation camera 1 hour after injection of
+50 microcuries of iodine-131-labeled rose bengal dye. This child was
+born without a bile-duct system and an artificial bile duct had been
+created surgically. She developed symptoms that caused concern that the
+duct had closed. These scans show the mass of material containing the
+radioactive material (small light area) moving downward and to the
+right, indicating that the duct was still open._]
+
+For many years, a dye known as _rose bengal_ has been used in testing
+liver function. About 10 years ago this procedure was improved by
+labeling the dye with ¹³¹I. When this dye is injected into a vein it
+goes to the liver, which removes it from the blood stream and transfers
+it to the intestines to be excreted. The rate of disappearance of the
+dye from the blood stream is therefore a measure of the liver activity.
+Immediately after administration of the radioactive dye, counts are
+recorded, preferably continuously from several sites with shielded,
+collimated detectors. One counter is placed over the side of the head or
+the thigh to record the clearance of the dye from the blood stream. A
+second is placed over the liver, and a third over the abdomen to record
+the passage of the dye into the small intestine.
+
+Human serum albumin labeled with ¹³¹I is sometimes used for location of
+brain tumors. It appears that tumors alter a normal “barrier” between
+the brain and blood in such a manner that the labeled albumin can
+penetrate tumorous tissues although it would be excluded from healthy
+brain tissue.
+
+                        [Illustration: Showing:]
+
+  1 Human serum albumin labeled with ¹³¹I
+  2 Tumor selectively localizes labeled albumin
+  3 Survey of gamma radiation (Standard points)
+
+The brain behaves almost uniquely among body tissues in that a
+“blood-brain barrier” exists, so that substances injected into the blood
+stream will not pass into brain cells although they will pass readily
+into muscular tissue. This blood-brain barrier does not exist in brain
+tumors. A systematic scanning of the skull then permits location of
+these cancerous “hot spots”.
+
+
+Iron-59
+
+Iron is a necessary constituent of red blood cells, so its radioactive
+form, ⁵⁹Fe, has been used frequently in measurement of the rate of
+formation of red cells, the lifetime of red cells, and red cell volumes.
+The labeling is more difficult than labeling with chromium for the same
+purposes, so this procedure no longer has the importance it once had.
+
+On the other hand, direct measurement of absorption of iron by the
+digestive tract can be accomplished only by using ⁵⁹Fe. In
+_achlorhydria_ the gastric juice in the stomach is deficient in
+hydrochloric acid, and this condition has been shown to lower the iron
+absorption. A normal diet contains much more iron than the body needs,
+but in special cases, sometimes called “tired blood” in advertising for
+medicines, iron compounds are prescribed for the patient. If ⁵⁹Fe is
+included, its appearance in the blood stream can be monitored and the
+effectiveness of the medication noted.
+
+[Illustration: _This multiple-port scintillation counter is used for
+iron-kinetic studies. The tracer dose of iron-59 is administered into
+the arm vein and then the activities in the bone marrow, liver, and
+spleen are recorded simultaneously with counters positioned over these
+areas, and show distribution of iron-59 as a function of time. When the
+data are analyzed in conjunction with iron-59 content in blood,
+information can be obtained about sites of red blood cell production and
+destruction._]
+
+
+Phosphorus-32
+
+The phosphate ion is a normal constituent of the blood. In many kinds of
+tumors, phosphates seem to be present in the cancerous tissue in a
+concentration several times that of the surrounding healthy tissue. This
+offers a way of using phosphorus-32 to distinguish between cancer cells
+and their neighbors. Due to the fact that ³²P gives off beta rays but no
+gammas, the counter must be placed very close to the suspected tissue,
+since beta particles have very little penetrating power. This fact
+limits the use of the test to skin cancers or to cancers exposed by
+surgery.
+
+Some kinds of brain tumors, for instance, are difficult to distinguish
+visually from the healthy brain tissue. In such cases, the patient may
+be given ³²P labeled phosphate intravenously some hours before surgery.
+A tiny beta-sensitive probe counter then can be moved about within the
+operative site to indicate to the surgeon the limits of the cancerous
+area.
+
+
+Sodium-24
+
+Normal blood is about 1% sodium chloride or ordinary salt. This fact
+makes possible the use of ²⁴Na in some measurements of the blood and
+other fluids. The figure illustrates this technique. A sample of ²⁴NaCl
+solution is injected into a vein in an arm or leg. The time the
+radioisotope arrives at another part of the body is detected with a
+shielded radiation counter. The elapsed time is a good indication of the
+presence or absence of constrictions or obstructions in the circulatory
+system.
+
+                        [Illustration: Showing]
+
+  1 ²⁴NaCl solution injected
+  2 Blood carries ²⁴NaCl to both legs
+  3 High reading—good circulation
+  Site of constriction
+  4 Low reading—poor circulation
+
+The passage of blood through the heart may also be measured with the aid
+of sodium-24. Since this isotope emits gamma rays, measurement is done
+using counters on the outside of the body, placed at appropriate
+locations above the different sections of the heart.
+
+                        [Illustration: Showing:]
+
+  1 ²⁴Na intravenously injected
+  To lungs, To body, From arm, From right lung, From left lung
+  2 Geiger counter detects radiations from ²⁴Na
+  3 Ink writing recorder shows route of ²⁴Na
+
+
+Technetium-99^{m}
+
+Because of its short half-life of six hours, technetium-99^{m}[10] is
+coming into use for diagnosis using scanning devices, particularly for
+brain tumors. It lasts such a short time it obviously cannot be kept in
+stock, so it is prepared by the beta decay of molybdenum-99.[11] A stock
+of molybdenum is kept in a shielded container in which it undergoes
+radioactive decay yielding technetium. Every morning, as the technetium
+is needed, it is extracted from its parent by a brine solution. This
+general procedure of extracting a short-lived isotope from its parent is
+also used in other cases. We shall see later that radon gas is obtained
+by an analogous method from its parent, radium.
+
+[Illustration: _Using a “nuclear cow” to get technetium from its parent
+isotope. The “cow” is being fed saltwater through a tube. The saltwater
+drains through a high-radiation (hot) isotope. The resultant drip-off is
+a daughter such as technetium-99^{m}. This new, mild isotope can be
+mixed with other elements and these become the day’s supply of
+radioisotopes for other scans. Technetium-99^{m} decays in 6 hours. Thus
+greater amounts, with less possibility of injury, can be administered
+and a better picture results._]
+
+
+Thulium-170 and Gamma Radiography
+
+For years it has been recognized that there would be many uses for a
+truly portable device for taking X-ray pictures—one that could be
+carried by the doctor to the bedside or to the scene of an accident.
+Conventional X-ray equipment has been in use by doctors for many years,
+and highly efficient apparatus has become indispensable, especially in
+treating bone conditions. There is, however, a need for a means of
+examining patients who cannot be moved to a hospital X-ray room, and are
+located where electric current sources are not available.
+
+A few years ago, a unit was devised that weighed only a few pounds, and
+could take “X-ray pictures” (actually gamma radiographs) using the gamma
+rays from the radioisotope thulium-170. The thulium source is kept
+inside a lead shield, but a photographic shutter-release cable can be
+pressed to move it momentarily over an open port in the shielding. The
+picture is taken with an exposure of a few seconds. A somewhat similar
+device uses strontium-90 as the source of beta radiation that in turn
+stimulates the emission of gamma rays from a target within the
+instrument.
+
+[Illustration: _A technician holds an inexpensive portable X-ray unit
+that was developed by the Argonne National Laboratory. Compare its size
+with the standard X-ray machine shown at left and above._]
+
+Still more recently, ¹²⁵I has been used very successfully in a portable
+device as a low-energy gamma source for radiography. The gamma rays from
+this source are sufficiently penetrating for photographing the arms and
+legs, and the necessary shielding is easily supplied to protect the
+operator. By contrast with larger devices, the gamma-ray source can be
+as small as one-tenth millimeter in diameter, virtually a point source;
+this makes possible maximum sharpness of image. The latest device, using
+up to one curie[12] of ¹²⁵I, weighs 2 pounds, yet has adequate shielding
+for the operator. It is truly portable.
+
+If this X-ray source is combined with a rapid developing photographic
+film, a physician can be completely freed from dependence upon the
+hospital laboratory for emergency X rays. A finished print can be ready
+for inspection in 10 seconds. The doctor thus can decide quickly whether
+it is safe to move an accident victim, for instance. In military
+operations, similarly, it becomes a simple matter to examine wounded
+soldiers in the field where conventional equipment is not available.
+
+
+Tritium
+
+More than 30 years ago, when deuterium (heavy hydrogen) was first
+discovered, heavy water (D₂O) was used for the determination of total
+body water. A small sample of heavy water was given either intravenously
+or orally, and time was allowed for it to mix uniformly with all the
+water in the body (about 4 to 6 hours). A sample was then obtained of
+the mixed water and analyzed for its heavy water content. This procedure
+was useful but it was hard to make an accurate analysis of low
+concentrations of heavy water.
+
+More recently, however, tritium (³H) (radioactive hydrogen) has been
+produced in abundance. Its oxide, tritiated water (³H₂O), is chemically
+almost the same as ordinary water, but physically it may be
+distinguished by the beta rays given off by the tritium. This very soft
+(low-energy) beta ray requires the use of special counting equipment,
+either a windowless flow-gas counter or a liquid scintillator, but with
+the proper techniques accurate measurement is possible. The total body
+water can then be computed by the general isotope dilution formula used
+for measuring blood plasma volume.
+
+[Illustration: _The total body water is determined by the dilution
+method using tritiated water. This technician is purifying a urine
+sample so that the tritium content can be determined and the total body
+water calculated._]
+
+
+Activation Analysis
+
+Another booklet in this series, _Neutron Activation Analysis_, discusses
+a new process by which microscopic quantities of many different
+materials may be analyzed accurately. Neutron irradiation of these
+samples changes some of their atoms to radioactive isotopes. A
+multichannel analyzer instrument gives a record of the concentration of
+any of about 50 of the known elements.
+
+One use of this technique involved the analysis of a hair from
+Napoleon’s head. More than 100 years after his death it was shown that
+the French Emperor had been given arsenic in large quantities and that
+this possibly caused his death.
+
+The ways in which activation analysis can be applied to medical
+diagnosis are at present largely limited to toxicology, the study of
+poisons, but the future may bring new possibilities.
+
+Knowledge is still being sought, for example, about the physiological
+role played by minute quantities of some of the elements found in the
+body. The ability to determine accurately a few parts per million of
+“trace elements” in the various tissues and body fluids is expected to
+provide much useful information as to the functions of these materials.
+
+
+Summary
+
+A large number of different radioisotopes have been used for measurement
+of disease conditions in the human body. They may measure liquid
+volumes, rates of flow or rates of transfer through organs or membranes;
+they may show the behavior of internal organs; they may differentiate
+between normal and malignant tissues. Hundreds of hospitals are now
+making thousands of these tests annually.
+
+This does not mean that all the diagnostic problems have been solved.
+Much of the work is on an experimental rather than a routine basis.
+Improvements in techniques are still being made. As quantities of
+radioisotopes available for these purposes grow, and as the cost
+continues to drop, it is expected there will be still more applications.
+Finally, this does not mean we no longer need the doctor’s diagnostic
+skill. All radioisotope procedures are merely tools to aid the skilled
+physician. As the practice of medicine has changed from an art to a
+science, radioisotopes have played a useful part.
+
+
+
+
+                                THERAPY
+
+
+A Successful Case
+
+A doctor recently told this story about a cancer patient who was cured
+by irradiation with cobalt-60.
+
+“A 75-year-old white male patient, who had been hoarse for one month,
+was treated unsuccessfully with the usual medications given for a bad
+cold. Finally, examination of his larynx revealed an ulcerated swelling
+on the right vocal cord. A biopsy (microscopic examination of a tissue
+sample) was made, and it was found the swelling was a squamous-cell
+cancer.
+
+“Daily radiation treatment using a cobalt-60 device was started and
+continued for 31 days. This was in September 1959. The cobalt-60 unit is
+one that can be operated by remote control. It positions radioactive
+cobalt over a collimator, which determines the size of the radiation
+beam reaching the patient. The machine may be made to rotate around the
+patient or can be used at any desired angle or position.
+
+                        [Illustration: Showing:]
+
+  ⁶⁰Co source
+  Tungsten alloy shielding
+  Shutter
+  Counterweight and personnel shield
+
+“When the treatment series was in progress, the patient’s voice was
+temporarily made worse, but it returned to normal within two months
+after the treatment ended. The radiation destroyed the cancerous growth,
+and frequent examinations over 6 years since have failed to reveal any
+regrowth.
+
+“The treatment spared the patient’s vocal cords, and his voice, airway,
+and food passage were preserved.”
+
+This dramatic tale with a happy ending is a good one with which to start
+a discussion of how doctors use radioisotopes for treatment of disease.
+
+
+General Principles
+
+Radioisotopes have an important role in the treatment of disease,
+particularly cancer. It is still believed that cancer is not one but
+several diseases with possible multiple causes. Great progress is being
+made in development of chemicals for relief of cancer. Nevertheless,
+radiation and surgery are still the main methods for treating cancer,
+and there are many conditions in which relief can be obtained through
+use of radiation. Moreover, the imaginative use of radioisotopes gives
+much greater flexibility in radiation therapy. This is expected to be
+true for some years to come even as progress continues.
+
+Radioisotopes serve as concentrated sources of radiation and frequently
+are localized within the diseased cells or organs. The dose can be
+computed to yield the maximum therapeutic effect without harming
+adjacent healthy tissues. Let us see some of the ways in which this is
+done.
+
+
+Iodine-131 and Iodine-132
+
+Iodine, as was mentioned earlier, concentrates in the thyroid gland, and
+is converted there to protein-bound iodine that is slowly released to
+the blood stream. Iodine-131, in concentrations much higher than those
+used in diagnostic tests, will irradiate thyroid cells, thereby damage
+them, and reduce the activity of an overactive thyroid
+(hyperthyroidism). The energy is released within the affected gland, and
+much of it is absorbed there. Iodine-131 has a half-life of 8.1 days. In
+contrast, ¹³²I has a half-life of only 2.33 hours. What this means is
+that the same weight of radioactive ¹³²I will give a greater radiation
+dose than ¹³¹I would, and lose its activity rapidly enough to present
+much less hazard by the time the iodine is released to the blood stream.
+Iodine-132 is therefore often preferred for treatment of this sort.
+
+
+Boron-10
+
+Boron-10 has been used experimentally in the treatment of inoperable
+brain tumors. _Glioblastoma multiforme_, a particularly malignant form
+of cancer, is an invariably fatal disease in which the patient has a
+probable life expectancy of only 1 year. The tumor extends roots into
+normal tissues to such an extent that it is virtually impossible for the
+surgeon to remove all malignant tissue even if he removes enough normal
+brain to affect the functioning of the patient seriously. With or
+without operation the patient dies within months. This is therefore a
+case in which any improvement at all is significantly helpful.
+
+The blood-brain barrier that was mentioned earlier minimizes the
+passages of many materials into normal brain tissues. But when some
+organic or inorganic compounds, such as the boron compounds, are
+injected into the blood stream, they will pass readily into brain tumors
+and _not_ move into normal brain cells.
+
+Boron-10 absorbs slow neutrons readily, and becomes boron-11, which
+disintegrates almost immediately into alpha particles and a lithium
+isotope. Alpha particles, remember, have very little penetrating power,
+so all the energy of the alpha radioactivity is expended within the
+individual tumor cells. This is an ideal situation, for it makes
+possible destruction of tumor cells with virtually no harm to normal
+cells, even when the two kinds are closely intermingled.
+
+Slow neutrons pass through the human body with very little damage, so a
+fairly strong dose of them can be safely applied to the head. Many of
+them will be absorbed by the boron-10, and maximum destruction of the
+cancer will occur, along with minimum hazard to the patient. This
+treatment is accomplished by placing the head of the patient in a beam
+of slow neutrons emerging from a nuclear reactor a few minutes after the
+boron-10 compound has been injected into a vein.
+
+[Illustration: SEQUENCE OF EVENTS IN NEUTRON CAPTURE THERAPY USING
+BORON-10
+
+_Neutron capture treatment of a brain tumor, using the Brookhaven
+National Laboratory research reactor (center)._]
+
+  Control console
+  Treatment port (shutter shown open)
+  Observation window
+  Patient treatment room
+  Shutter elevator (hydraulic)
+  Control rod drives
+  Heavy concrete shield
+  Control rods
+  Experimental holes
+  Reactor core
+  Cooling air
+  Cooling water
+
+[Illustration: _(1) A lead shutter shields the patient from reactor
+neutrons._]
+
+[Illustration: _(2) A compound containing the stable element boron is
+injected into the bloodstream; the tumor absorbs most of the boron._]
+
+[Illustration: _(3) After 8 minutes, when the tumor is saturated, the
+shutter is removed and neutrons bombard the brain, splitting boron atoms
+so that fragments destroy tumor tissue._]
+
+[Illustration: _(4) Twenty minutes later the shutter is closed and the
+treatment ends._]
+
+The difficulty is that most boron compounds themselves are poisonous to
+human tissues, and only small concentrations can be tolerated in the
+blood. Efforts have been made, with some success, to synthesize new
+boron compounds that have the greatest possible degree of selective
+absorption by the tumors. Both organic and inorganic compounds have been
+tried, and the degree of selectivity has been shown to be much greater
+for some than for others. So far it is too early to say that any cures
+have been brought about, but results have been very encouraging. The
+ideal drug, one which will make possible complete destruction of the
+cancer without harming the patient, is probably still to be devised.
+
+
+Phosphorus-32
+
+Another disease which is peculiarly open to attack by radioisotopes is
+_polycythemia vera_. This is an insidious ailment of a chronic, slowly
+progressive nature, characterized by an abnormal increase in the number
+of red blood cells, an increase in total blood volume, enlargement of
+the spleen, and a tendency for bleeding to occur. There is some
+indication that it may be related to leukemia.
+
+Until recent years there was no very satisfactory treatment of this
+malady. The ancient practice of bleeding was as useful as anything,
+giving temporary relief but not striking at the underlying cause. There
+is still no true cure, but the use of phosphorus-32 has been very
+effective in causing disappearance of symptoms for periods from months
+to years, lengthening the patient’s life considerably. The purpose of
+the ³²P treatment (using a sodium-radiophosphate solution) is not to
+destroy the excess of red cells, as had been tried with some drugs, but
+rather to slow down their formation and thereby get at the basic cause.
+
+Phosphorus-32 emits pure beta rays having an average path in tissue only
+2 millimeters long. Its half-life is 14.3 days. When it is given
+intravenously it mixes rapidly with the circulating blood and slowly
+accumulates in tissues that utilize phosphates in their metabolism. This
+brings appreciable concentration in the blood-forming tissues (about
+twice as much in blood cells as in general body cells).
+
+                        [Illustration: Showing:]
+
+  1 Patient drinks ³²P in water solution
+  2 ³²P selectively absorbed
+  Blood cell production in bone marrow
+
+[Illustration: _Survival of_ polycythemia vera _patients after ³²P
+therapy_.]
+
+  No. cases                       201
+  Average age                      52
+  Median survival                13.2
+  Survival for
+     5 years                    91.5%
+     10 years                   70.0%
+
+One other pertinent fact is that these rapidly dividing hematopoietic
+cells are extremely sensitive to radiation. (Hematopoietic cells are
+those that are actively forming blood cells and are therefore those that
+should be attacked selectively.) The dose required is of course many
+times that needed for diagnostic studies, and careful observation of the
+results is necessary to determine that exactly the desired effect has
+been obtained.
+
+There exists some controversy over this course of treatment. No one
+denies that the lives of patients have been lengthened notably.
+Nevertheless since the purpose of the procedure is to reduce red cell
+formation, there exists the hazard of too great a reduction, and the
+possibility of causing leukemia (a disease of too few red cells). There
+may be a small increase in the number of cases of leukemia among those
+treated with ³²P compared with the general population. The controversy
+arises over whether the ³²P treatment _caused_ the leukemia, or whether
+it merely prolonged the lives of the patients until leukemia appeared as
+it would have in these persons even without treatment. This is probably
+quibbling, and many doctors believe that the slight unproven risk is
+worth taking to produce the admitted lengthy freedom from symptoms.
+
+
+Gold-198
+
+The last ailment we shall discuss in this section is the accumulation of
+large quantities of excess fluid in the chest and abdominal cavities
+from their linings, as a consequence of the growth of certain types of
+malignant tumors.
+
+Frequent surgical drainage was at one time the only very useful
+treatment, and of course this was both uncomfortable and dangerous. The
+use of radioactive colloidal suspensions, primarily colloidal gold-198,
+has been quite successful in palliative treatment: It does not cure, but
+it does give marked relief.
+
+                        [Illustration: Showing:]
+
+  Colloidal gold in shield
+  Saline solution
+  To peritoneal or pleural cavity
+
+Radioactive colloids (a colloid is a suspension of one very finely
+divided substance in some other medium) can be introduced into the
+abdominal cavity, where they may remain suspended or settle out upon the
+lining. In either case, since they are not dissolved, they do not pass
+through the membranes or cell walls but remain within the cavity.
+Through its destructive and retarding effect on the cancer cells the
+radiation inhibits the oozing of fluids.
+
+Gold-198 offers several advantages in such cases. It has a short
+half-life (2.7 days); it is chemically inert and therefore nontoxic; and
+it emits beta and gamma radiation that is almost entirely absorbed by
+the tissues in its immediate neighborhood.
+
+The results have been very encouraging. There is admittedly no evidence
+of any cures, or even lengthening of life, but there has been marked
+reduction of discomfort and control of the oozing in over two-thirds of
+the cases treated.
+
+
+Beads, Needles, and Applicators
+
+Radium salts were the first materials to be used for radiation treatment
+of cancer. Being both very expensive and very long-lived, they could not
+be injected but were used in temporary implants. Radium salts in powder
+form were packed into tiny hollow needles about 1 centimeter long, which
+were then sealed tightly to prevent the escape of radon gas. As radium
+decays (half-life 1620 years) it becomes gaseous radon. The latter is
+also radioactive, so it must be prevented from escaping. These gold
+needles could be inserted into tumors and left there until the desired
+dosage had been administered. One difficulty in radium treatment was
+that the needles were so tiny that on numerous occasions they were lost,
+having been thrown out with the dressings. Then, both because of their
+value and their hazard, a frantic search ensued when this happened, not
+always ending successfully.
+
+[Illustration: _The needle used for implantation of yttrium-90 pellets
+into the pituitary gland is shown in the top photograph. In the center X
+ray the needle is in place and the pellets have just been passed through
+it into the bone area surrounding the pituitary gland. The bottom X ray
+shows the needle withdrawn and the pellets within the bone._]
+
+The fact that radon, the daughter of radium, is constantly produced from
+its parent, helped to eliminate some of this difficulty. Radium could be
+kept in solution, decaying constantly to yield radon. The latter, with a
+half-life of 4 days, could be sealed into gold seeds 3 by 0.5
+millimeters and left in the patient without much risk, even if he failed
+to return for its removal at exactly the appointed time. The cost was
+low even if the seeds were lost.
+
+During the last 20 years, other highly radioactive sources have been
+developed that have been used successfully. Cobalt-60 is one popular
+material. Cobalt-59 can be neutron-irradiated in a reactor to yield
+cobalt-60 with such a high specific activity that a small cylinder of it
+is more radioactive than the entire world’s supply of radium. Cobalt-60
+has been encapsulated in gold or silver needles, sometimes of special
+shapes for adaptation to specific tumors such as carcinoma of the
+cervix. Sometimes needles have been spaced at intervals on plastic
+ribbon that adapts itself readily to the shape of the organ treated.
+
+Gold-198 is also an interesting isotope. Since it is chemically inert in
+the body, it needs no protective coating, and as is the case with radon,
+its short half-life makes its use simpler in that the time of removal is
+not of critical importance.
+
+Ceramic beads made of yttrium-90 oxide are a moderately new development.
+One very successful application of this material has been for the
+destruction of the pituitary gland.
+
+Cancer may be described as the runaway growth of cells. The secretions
+of the pituitary gland serve to stimulate cell reproduction, so it was
+reasoned that destruction of this gland might well slow down growth of a
+tumor elsewhere in the body. The trouble was that the pituitary is small
+and located at the base of the brain. Surgical removal had brought
+dramatic relief (not cure) to many patients, but the surgery itself was
+difficult and hazardous. Tiny yttrium-90 oxide beads, glasslike in
+nature, can be implanted directly in the gland with much less difficulty
+and risk, and do the work of destroying the gland with little damage to
+its surroundings. The key to the success of yttrium-90 is the fact that
+it is a beta-emitter, and beta rays have so little penetrating power
+that their effect is limited to the immediate area of the implant.
+
+
+Teletherapy
+
+Over 200 teletherapy units are now in use in the United States for
+treatment of patients by using very high intensity sources of cobalt-60
+(usually) or cesium-137. Units carrying sources with intensities of more
+than a thousand curies are common.
+
+[Illustration: _The cobalt-60 unit at the M. D. Anderson Hospital and
+Tumor Institute in Houston, Texas, employs a 3000-curie source. This
+unit has a mechanism that allows for rotation therapy about a stationary
+patient. Many different treatment positions are possible. This patient,
+shown in position for therapy, has above her chest an auxiliary
+diaphragm that consists of an expanded metal tray on which blocks of
+either tungsten or lead are placed to absorb gamma rays and thus shape
+the field of treatment. In this case they allow for irradiation of the
+portions of the neck and chest delineated by the lines visible on the
+patient._]
+
+Since a curie is the amount of radioactivity in a gram of radium that is
+in equilibrium with its decay products, a 1000-curie source is
+comparable to 2 pounds of pure radium. Neglecting for the moment the
+scarcity and enormous cost of that much radium (millions of dollars), we
+have to consider that it would be large in volume and consequently
+difficult to apply. Radiation from such a quantity cannot be focussed;
+consequently, either much of it will fall upon healthy tissue
+surrounding the cancer or much of it will be wasted if a narrow passage
+through the shield is aimed at the tumor. In contrast, a tiny cobalt
+source provides just as much radiation and more if it can be brought to
+bear upon the exact spot to be treated.
+
+              [Illustration: Diagram of teletherapy unit]
+
+Most interesting of all is the principle by which internal cancers can
+be treated with a minimum of damage to the skin. Deep x-irradiation has
+always been the approved treatment for deep-lying cancers, but until
+recently this required very cumbersome units. With the modern rotational
+device shown in the diagram, a very narrow beam is aimed at the patient
+while the source is mounted upon a carrier that revolves completely
+around him. The patient is positioned carefully so that the lesion to be
+treated is exactly at the center of the circular path of the carrier.
+The result is that the beam strikes its internal target during the
+entire circular orbit, but the same amount of radiation is spread out
+over a belt of skin and tissue all the way around the patient. The
+damage to any one skin cell is minimized. The advantage of this device
+over an earlier device, in which the patient was revolved in a
+stationary beam, is that the mechanical equipment is much simpler.
+
+
+
+
+                              CONCLUSIONS
+
+
+In summary, then, we may say that radioisotopes play an important role
+in medicine. For the diagnostician, small harmless quantities of many
+isotopes serve as tools to aid him in gaining information about normal
+and abnormal life processes. The usefulness of this information depends
+upon his ingenuity in devising questions to be answered, apparatus to
+measure the results, and explanations for the results.
+
+For therapeutic uses, on the other hand, the important thing to remember
+is that radiation damages many kinds of cells, especially while they are
+in the process of division (reproduction).[13] Cancer cells are
+self-reproducing cells, but do so in an uncontrolled manner. Hence
+cancer cells are particularly vulnerable to radiation. This treatment
+requires potent sources and correspondingly increases the hazards of
+use.
+
+In all cases, the use of these potentially hazardous materials belongs
+under the supervision of the U. S. Atomic Energy Commission.[14]
+Licenses are issued by the Commission after investigation of the
+training, ability, and facilities possessed by prospective users of
+dangerous quantities. At regular intervals courses are given to train
+individuals in the techniques necessary for safe handling, and graduates
+of these courses are now located in laboratories all over the country.
+
+The future of this field cannot be predicted with certainty. Research in
+hundreds of laboratories is continuing to add to our knowledge, through
+new apparatus, new techniques, and new experiments. Necessarily the
+number of totally new fields is becoming smaller, but most certainly the
+number of cases using procedures already established is bound to
+increase. We foresee steady improvement and growth in all uses of
+radioisotopes in medicine.
+
+
+
+
+                                APPENDIX
+
+
+Measuring Instruments[15]
+
+The measurement of radioactivity must be accomplished indirectly, so use
+is made of the physical, chemical, and electrical effects of radiation
+on materials. One commonly used effect is that of ionization. Alpha and
+beta particles ionize gases through which they pass, thereby making the
+gases electrically conductive. A family of counters uses this principle:
+the ionization chamber, the proportional counter, and the Geiger-Müller
+counter.
+
+Certain crystals, sodium iodide being an excellent example, emit flashes
+of visible light when struck by ionizing radiation. These crystals are
+used in scintillation counters.
+
+
+Ionization Chambers
+
+One of a pair of electrodes is a wire located centrally within a
+cylinder. The other electrode is the wall of the chamber. Radiation
+ionizes the gas within the chamber, permitting the passage of current
+between the electrodes. The thickness of a window in the chamber wall
+determines the type of radiation it can measure. Only gamma rays will
+pass through a heavy metal wall, glass windows will admit all gammas and
+most betas, and plastic (Mylar) windows are necessary to admit alpha
+particles. Counters of this type, when properly calibrated, will measure
+the total amount of radiation received by the body of the wearer.
+
+
+Proportional Counters
+
+This is a type of ionization chamber in which the intensity of the
+electrical pulse it produces is proportional to the energy of the
+incoming particle. This makes it possible to record alpha particles and
+discriminate against gamma rays.
+
+
+Geiger-Müller Counters
+
+These have been widely used and are versatile in their applications. The
+potential difference between the electrodes in the Geiger-Müller tube
+(similar to an ionization chamber) is high. A single alpha or beta
+particle ionizes some of the gas within the chamber. In turn these ions
+strike other gas molecules producing secondary ionization. The result is
+an “avalanche” or high-intensity pulse of electricity passing between
+the electrodes. These pulses can be counted electrically and recorded on
+a meter at rates up to several thousand per minute.
+
+
+Scintillation Counters
+
+Since the development of the photoelectric tube and the photomultiplier
+tube (a combination of photoelectric cell and amplifier), the
+scintillation counter has become the most popular instrument for most
+purposes described in this booklet. The flash of light produced when an
+individual ionizing particle or ray strikes a sodium-iodide crystal is
+noted by a photoelectric cell. The intensity of the flash is a measure
+of the energy of the radiation, so the voltage of the output of the
+photomultiplier tube is a measure of the wavelength of the original
+gamma ray. The scintillation counter can observe up to a million counts
+per minute and discriminate sharply between gamma rays of different
+energies. With proper windows it can be used for alpha or beta counts as
+well.
+
+
+Solid State Counters
+
+The latest development is a tiny silicon (transistor-type) diode
+detector that can be made as small as a grain of sand and placed within
+the body with very little discomfort.
+
+
+Scanners
+
+Many of the applications described in this booklet require accurate
+knowledge of the exact location of the radioactive source within the
+body. Commonly a detecting tube is used having a collimating shield so
+that it accepts only that radiation that strikes it head-on. A
+motor-driven carrier moves the counter linearly at a slow rate.
+Radiation is counted and whenever the count reaches the predetermined
+amount—from one count to many—an electric impulse causes a synchronously
+moving pen to make a dot on a chart. The scanner, upon reaching the end
+of a line moves down to the next line and starts over, eventually
+producing a complete record of the radiation sources it has passed over.
+
+
+
+
+                          SUGGESTED REFERENCES
+
+
+Technical Books
+
+  _Radioactive Isotopes in Medicine and Biology_, Solomon Silver, Lea &
+  Febiger, Philadelphia, Pennsylvania 19106, 1962, 347 pp., $8.00.
+
+  _Atomic Medicine_, Charles F. Behrens and E. Richard King (Eds.), The
+  Williams & Wilkins Company, Baltimore, Maryland 21202, 1964, 766 pp.,
+  $18.00.
+
+  _The Practice of Nuclear Medicine_, William H. Blahd, Franz K. Bauer,
+  and Benedict Cassen, Charles C. Thomas, Publisher, Springfield,
+  Illinois 62703, 1958, 432 pp., $12.50.
+
+  _Progress in Atomic Medicine_, John H. Lawrence (Ed.), Grune &
+  Stratton, Inc., New York 10016, 1965, volume 1, 240 pp., $9.75.
+
+  _Radiation Biology and Medicine_, Walter D. Claus (Ed.),
+  Addison-Wesley Publishing Company, Reading, Massachusetts 01867, 1958,
+  944 pp., $17.50. Part 7, Medical Uses of Atomic Radiation, pp.
+  471-589.
+
+  _Radioisotopes and Radiation_, John H. Lawrence, Bernard Manowitz, and
+  Benjamin S. Loeb, McGraw-Hill Book Company, New York 10036, 1964, 131
+  pp., $18.00. Chapter 1, Medical Diagnosis and Research, pp. 5-45;
+  Chapter 2, Medical Therapy, pp. 49-62.
+
+
+Popular Books
+
+  _Atoms Today and Tomorrow_ (revised edition), Margaret O. Hyde,
+  McGraw-Hill Book Company, Inc., New York 10036, 1966, 160 pp., $3.25.
+  Chapter 9, The Doctor and the Atom, pp. 79-101.
+
+  _Atomic Energy in Medicine_, K. E. Halnan, Philosophical Library,
+  Inc., New York 10016, 1958, 157 pp., $6.00. (Out of print but
+  available through libraries.)
+
+  _Teach Yourself Atomic Physics_, James M. Valentine, The Macmillan
+  Company, New York 10011, 1961, 192 pp., $1.95. (Out of print but
+  available through libraries.) Chapter X, Medical and Biological Uses
+  of Radioactive Isotopes, pp. 173-184.
+
+  _Atoms for Peace_, David O. Woodbury, Dodd, Mead & Company, New York
+  10016, 1965, 259 pp., $4.50. Pp. 174-191.
+
+  _The Atom at Work_, Jacob Sacks, The Ronald Press Company, New York
+  10010, 1956, 341 pp., $5.50. Chapter 13, Radioactive Isotopes in
+  Hospital and Clinic, pp. 244-264.
+
+
+Articles
+
+  Ionizing Radiation and Medicine, S. Warren, _Scientific American_,
+  201: 164 (September 1959).
+
+  Nuclear Nurses Learn to Tame the Atom, W. McGaffin, _Today’s Health_,
+  37: 62 (December 1959).
+
+  How Isotopes Aid Medicine in Tracking Down Your Ailments, J. Foster,
+  _Today’s Health_, 42: 40 (May 1964).
+
+  Nuclear Energy as a Medical Tool, G. W. Tressel, _Today’s Health_, 43:
+  50 (May 1965).
+
+
+Reports
+
+  _Radioisotopes in Medicine_ (SRIA-13), Stanford Research Institute,
+  Clearinghouse for Federal Scientific and Technical Information, 5285
+  Port Royal Road, Springfield, Virginia 22151, 1959, 180 pp., $3.00.
+
+The following reports are available from the Superintendent of
+Documents, U. S. Government Printing Office, Washington, D. C. 20402.
+
+  _Isotopes and Radiation Technology_ (Fall 1963), P. S. Baker, A. F.
+  Rupp, and Associates, Oak Ridge National Laboratory, U. S. Atomic
+  Energy Commission, 123 pp., $0.70.
+
+  _Radioisotopes in Medicine_ (ORO-125), Gould A. Andrews, Marshall
+  Brucer, and Elizabeth B. Anderson, 1956, 817 pp., $6.00.
+
+  _Applications of Radioisotopes and Radiation in the Life Sciences_,
+  Hearings before the Subcommittee on Research, Development, and
+  Radiation of the Joint Committee on Atomic Energy, 87th Congress, 1st
+  Session, 1961, 513 pp., $1.50; Summary Analysis of the Hearings, 23
+  pp., $0.15.
+
+
+Motion Pictures
+
+Available for loan without charge from the AEC Headquarters Film
+Library, Division of Public Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545 and from other AEC film libraries.
+
+  _Radioisotope Applications in Medicine_, 26 minutes, black and white,
+  sound, 1964. Produced by the Educational Broadcasting Corporation
+  under the joint direction of the U. S. Atomic Energy Commission’s
+  Divisions of Isotopes Development and Nuclear Education and Training,
+  and the Oak Ridge Institute of Nuclear Studies. This film traces the
+  development of the use of radioisotopes and radiation in the field of
+  medicine from the early work of Hevesy to the present. Descriptions of
+  the following are given: study of cholesterol and arteriosclerosis;
+  cobalt labeled vitamin B₁₂ used to study pernicious anemia; history of
+  iodine radioisotopes and the thyroid; brain tumor localization;
+  determination of body fluid volumes; red cell lifetime; and use of
+  radioisotopes for the treatment of various diseases.
+
+  _Medicine_, 20 minutes, sound, color, 1957. Produced by the U. S.
+  Information Agency. Four illustrations of the use of radioactive
+  materials in diagnosis and therapy are given: exact preoperative
+  location of brain tumor; scanning and charting of thyroids; cancer
+  therapy research; and the study of blood diseases and hardening of the
+  arteries.
+
+  _Radiation Protection in Nuclear Medicine_, 45 minutes, sound, color,
+  1962. Produced by the Fordel Films for the Bureau of Medicine and
+  Surgery of the U. S. Navy. This semitechnical film demonstrates the
+  procedures devised for naval hospitals to protect against the gamma
+  radiation emitted from materials used in radiation therapy.
+
+The following films in the Magic of the Atom Series were produced by the
+Handel Film Corporation. They are each 12½ minutes long, have sound, and
+are in black and white.
+
+  _The Atom and the Doctor_ (1954) shows three applications of
+  radioisotopes in medicine: testing for leukemia and other blood
+  disorders with radioiron; diagnosis of thyroid conditions with
+  radioiodine; and cancer research and therapy with radiogallium.
+
+  _The Atom in the Hospital_ (1961) (available in color and black and
+  white) illustrates the following facilities at the City of Hope
+  Medical Center in Los Angeles: the stationary cobalt source that is
+  used to treat various forms of malignancies; a rotational therapy unit
+  called the “cesium ring”, which revolves around the patient and
+  focuses its beam on the diseased area; and the total-body irradiation
+  chamber for studying the effects of radiation on living things.
+  Research with these facilities is explained.
+
+  _Atomic Biology for Medicine_ (1956) explains experiments performed to
+  discover effects of radiation on mammals.
+
+  _Atoms for Health_ (1956) outlines two methods of diagnosis and
+  treatment possible with radiation: a diagnostic test of the liver, and
+  cancer therapy with a radioactive cobalt device. Case histories are
+  presented step-by-step.
+
+  _Radiation: Silent Servant of Mankind_ (1956) depicts four uses of
+  controlled radiation that can benefit mankind: bombardment of plants
+  from a radioactive cobalt source to induce genetic changes for study
+  and crop improvement; irradiation of deep-seated tumors with a beam
+  from a particle accelerator; therapy of thyroid cancer with
+  radioactive iodine; and possibilities for treating brain tumors.
+
+
+
+
+                             PHOTO CREDITS
+
+
+Cover Courtesy Brookhaven National Laboratory
+
+  Page
+  1             General Electric Company
+  2, 3, & 4     _Discovery of the Elements._ Mary Elvira Weeks, Journal of
+                Chemical Education
+  6             Nobel Institute
+  12            Chicago Wesley Memorial Hospital (main photo)
+  13            Lawrence Radiation Laboratory (LRL)
+  14            Brookhaven National Laboratory
+  17            LRL
+  21            LRL
+  22            Los Alamos Scientific Laboratory
+  24            LRL
+  28            Argonne National Laboratory
+  39            Paul V. Harper, M. D.
+  41            University of Texas, M. D. Anderson Hospital and Tumor
+                Institute
+
+This booklet is one of the “Understanding the Atom” Series. Comments are
+invited on this booklet and others in the series; please send them to
+the Division of Technical Information, U. S. Atomic Energy Commission,
+Washington, D. C. 20545.
+
+Published as part of the AEC’s educational assistance program, the
+series includes these titles:
+
+  _Accelerators_
+  _Animals in Atomic Research_
+  _Atomic Fuel_
+  _Atomic Power Safety_
+  _Atoms at the Science Fair_
+  _Atoms in Agriculture_
+  _Atoms, Nature, and Man_
+  _Books on Atomic Energy for Adults and Children_
+  _Careers in Atomic Energy_
+  _Computers_
+  _Controlled Nuclear Fusion_
+  _Cryogenics, The Uncommon Cold_
+  _Direct Conversion of Energy_
+  _Fallout From Nuclear Tests_
+  _Food Preservation by Irradiation_
+  _Genetic Effects of Radiation_
+  _Index to the UAS Series_
+  _Lasers_
+  _Microstructure of Matter_
+  _Neutron Activation Analysis_
+  _Nondestructive Testing_
+  _Nuclear Clocks_
+  _Nuclear Energy for Desalting_
+  _Nuclear Power and Merchant Shipping_
+  _Nuclear Power Plants_
+  _Nuclear Propulsion for Space_
+  _Nuclear Reactors_
+  _Nuclear Terms, A Brief Glossary_
+  _Our Atomic World_
+  _Plowshare_
+  _Plutonium_
+  _Power from Radioisotopes_
+  _Power Reactors in Small Packages_
+  _Radioactive Wastes_
+  _Radioisotopes and Life Processes_
+  _Radioisotopes in Industry_
+  _Radioisotopes in Medicine_
+  _SNAP, Nuclear Space Reactors_
+  _Sources of Nuclear Fuel_
+  _Space Radiation_
+  _Spectroscopy_
+  _Synthetic Transuranium Elements_
+  _The Atom and the Ocean_
+  _The Chemistry of the Noble Gases_
+  _The Elusive Neutrino_
+  _The First Reactor_
+  _The Natural Radiation Environment_
+  _Whole Body Counters_
+  _Your Body and Radiation_
+
+A single copy of any one booklet, or of no more than three different
+booklets, may be obtained free by writing to:
+
+           USAEC, P. O. BOX 62, OAK RIDGE, TENNESSEE    37830
+
+Complete sets of the series are available to school and public
+librarians, and to teachers who can make them available for reference or
+for use by groups. Requests should be made on school or library
+letterheads and indicate the proposed use.
+
+Students and teachers who need other material on specific aspects of
+nuclear science, or references to other reading material, may also write
+to the Oak Ridge address. Requests should state the topic of interest
+exactly, and the use intended.
+
+In all requests, include “Zip Code” in return address.
+
+
+                Printed in the United States of America
+USAEC Division of Technical Information Extension, Oak Ridge, Tennessee
+
+
+
+
+                               FOOTNOTES
+
+
+[1]The early dangers from use of X rays, due to incomplete understanding
+    and inadequate shielding, have now been eliminated.
+
+[2]Gamma rays are high-energy electromagnetic radiation.
+
+[3]Alpha particles are large positively charged particles, identical to
+    helium nuclei. For definitions of unfamiliar words see _Nuclear
+    Terms, A Brief Glossary_, a companion booklet in this series.
+
+[4]For detailed descriptions of these waves and particles, see _Our
+    Atomic World_, a companion booklet in this series.
+
+[5]An equivalent statement is that nuclei of isotopes have the same
+    number of protons but different numbers of neutrons.
+
+[6]See Appendix for a description of types of radiation-detection
+    instruments.
+
+[7]See _Radioisotopes and Life Processes_, another booklet in this
+    series, for a discussion of one area of biomedical research.
+
+[8]A positron is an “antielectron”. It has the mass of an electron but a
+    positive charge.
+
+[9]A collimator is a focusing device consisting of a series of slits
+    between blocks of shielding material. Consult the Appendix for
+    descriptions of other instruments mentioned here.
+
+[10]The superscript m after this isotope indicates an excited state of
+    the atom.
+
+[11]As radioactive nuclei disintegrate, they change to other radioactive
+    forms—their “daughter” products. Every radioisotope is thus part of
+    a chain or series of steps that ends with a stable form.
+    Technetium-99^{m} is a daughter product of molybdenum-99; it decays
+    by a process known as isomeric transition to a state of lower energy
+    and longer half-life.
+
+[12]The curie is the basic unit of radiation intensity. One curie is
+    approximately the amount of radioactivity in 1 gram of radium.
+
+[13]See Your Body and Radiation and The Genetic Effects of Radiation,
+    other booklets in this series, for detailed explanations of
+    radiation effects.
+
+[14]The use of radium is not under AEC control.
+
+[15]One family of measuring instruments is described in
+    _Whole Body Counters_,
+    another booklet in this series. These are large devices that make
+      use of scintillating crystals or liquids.
+
+
+
+
+                            Transcriber’s Notes
+
+
+--Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+--Where possible, UTF superscript and subscript numbers are used; some
+  e-reader fonts may not support these characters.
+
+--In the text version only, underlined or italicized text is delimited
+  by _underscores_.
+
+--In the text version only, superscript text is preceded by caret and
+  delimited by ^{brackets}.
+
+--In the text version only, subscripted text is preceded by underscore
+  and delimited by _{brackets}.
+
+
+
+
+
+
+
+End of Project Gutenberg's Radioisotopes in Medicine, by Earl W. Phelan
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK RADIOISOTOPES IN MEDICINE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

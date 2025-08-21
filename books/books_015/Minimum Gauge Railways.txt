@@ -1,0 +1,3144 @@
+The Project Gutenberg eBook of Minimum Gauge Railways
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Minimum Gauge Railways
+
+Author: bart. Sir Arthur Percival Heywood
+
+Release date: December 3, 2013 [eBook #44341]
+
+Language: English
+
+Credits: Transcribed from the third edition by Peter Barnes
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK MINIMUM GAUGE RAILWAYS ***
+
+
+Transcribed from the third edition by Peter Barnes.
+
+
+
+
+
+                         MINIMUM GAUGE RAILWAYS:
+
+
+                     THEIR APPLICATION, CONSTRUCTION,
+
+                               AND WORKING.
+
+                                * * * * *
+
+  Being an account of the origin and evolution of the 15 in. gauge line
+
+       at Duffield Bank, near Derby; also of the installation of a
+
+         similar line at Eaton Hall, near Chester; together with
+
+             various notes on the uses of such Railways, and
+
+                   on the results of some experimental
+
+                     investigations relating thereto.
+
+                                * * * * *
+
+                                    BY
+
+                 Sir ARTHUR PERCIVAL HEYWOOD, Bart., M.A.
+
+                                * * * * *
+
+                             _THIRD EDITION_.
+
+                    _PRINTED FOR PRIVATE CIRCULATION_.
+
+                                * * * * *
+
+
+
+
+Contents.
+
+                                            PAGE
+PREFACE                                     5, 6
+                       I.
+INTRODUCTION                                   7
+                       II
+OBJECTS OF THE 15 IN. GAUGE                    9
+                      III
+CONSTRUCTION OF THE DUFFIELD BANK LINE        11
+                       IV
+DETAILS OF THE EATON HALL LINE                15
+                       V
+LOCOMOTIVES                                   25
+                       VI
+WAGONS AND CARS                               32
+                      VII
+THE DUFFIELD BANK WORKSHOPS                   36
+                      VIII
+SCIENTIFIC CONSIDERATIONS                     38
+                       IX
+REMARKS ON NARROW GAUGE RAILWAYS              42
+                       X
+APPENDIX                                      46
+
+
+
+
+Preface to Second Edition.
+
+
+IN the year 1881, when the Royal Agricultural Society held their show in
+Derby, it was represented to me that, as many of the members were
+interested in the cheap transport offered by narrow gauge railways, it
+would be appreciated if I opened my experimental line at Duffield to
+inspection during the week.
+
+In order to facilitate the comprehension of the objects of this little
+railway, the late Secretary of the Society suggested that I should draw
+up a short descriptive pamphlet to place in the hands of visitors. This
+was done with success and much saving of verbal explanation.
+
+Thirteen years later, having added considerably to the rolling stock and
+improved many of the details, I decided to give a three days exhibition,
+and to issue a general invitation to all interested in the promotion of
+such lines, at the same time taking the opportunity to revise and amplify
+the first edition of this pamphlet.
+
+                                                                  A. P. H.
+
+_August_, _1894_.
+
+
+
+
+Preface to Third Edition.
+
+
+SOME four years have elapsed since the second edition of this pamphlet
+was exhausted. During this period I have constructed and equipped at
+Eaton Hall, Cheshire, a line which has been in regular use since May,
+1896, exactly similar to my own at Duffield. This railway having been
+made wholly for practical purposes and on strictly economic principles, I
+am in a position to present more reliable data, both in regard to cost
+and working, than I could obtain from my own experimental line, which has
+been continually altered and only irregularly worked.
+
+I desire to take this opportunity of expressing my thanks to the Duke of
+Westminster for the free hand accorded me in regard to the arrangement of
+all details of the Eaton Railway; a liberty which has resulted in a
+symmetrical and entirely successful carrying out of the work.
+
+What I am now able to advance will, I trust, amply demonstrate the really
+solid advantages which, under suitable conditions, may be reaped from the
+installation of little railways of the kind described.
+
+                                                                  A. P. H.
+
+_July_, _1898_.
+
+
+
+
+I.
+INTRODUCTION.
+
+
+AT the outset I must offer an apology for making use, throughout this
+pamphlet, of the first person. I do so partly for convenience of
+expression, and partly because almost all that I have to advance is
+derived from my own experience.  In doing so I am far from desiring to
+undervalue the work of others in the same direction. I have, however,
+little hesitation in saying that, with the exception of the late Mr.
+Charles Spooner, the able Engineer of the Festiniog Railway, most of
+those, so far as I know, who are responsible for the design of plant for
+these small lines have been manufacturers whose productions, though often
+of fair workmanship, are clearly indicative of a failure to grasp many of
+the leading principles involved. This shortcoming is the natural result
+of a want of sufficient time for the consideration of details, and a
+consequent tendency to imitate established customs in regard to railway
+work which by no means apply with equal advantage to very narrow gauges,
+where the conditions involved are wholly different. This is especially
+true of small locomotive building, the specimens of which evidence in
+their design not only ignorance on important points, but also a
+deplorable absence of the sense of well-balanced proportion.
+
+I venture to think that, in the twenty-five years during which I have
+devoted much of my time to the subject, I have succeeded in bringing to
+considerable perfection both permanent way and rolling stock suitable for
+these diminutive lines, and more especially the locomotives, which are
+probably, for their weight, the most powerful and flexible ever built to
+work by simple adhesion. Whether this conceit be well founded or no I
+leave to the judgment of those who may be at the pains to acquaint
+themselves with the details and result of my work, which has been
+undertaken wholly as a labour of love with the sole desire to promote
+improvement in what I believe to be an entirely special branch of
+engineering. I have never wasted my money on patents, and, so long as my
+designs are not imitated in a bungling manner, I am glad to see them made
+use of by anyone to whom they may be of service.
+
+It must be understood that I do not here attempt to enter upon the
+comparative merits of narrow gauge railways generally, but merely to give
+particulars of what has come within my own experience. To facilitate a
+comprehension of the conditions under which I have worked, it will be
+well to explain that I make no pretension to be considered a professional
+engineer, and that I speak rather as a self-taught mechanic and surveyor.
+
+My father possessed a beautiful Holtzappfel lathe, with elaborate tools
+for ornamental turning in wood and metal. As a boy of seven or eight I
+can recall watching him as he worked. At ten years old I was promoted to
+stand on a box and turn candlesticks, but, a year or two later, a few
+lessons—the only direct practical instruction I ever had—from an old
+fishing-rod maker in chasing metal screw-threads begot in me an ardent
+desire to construct machinery, particularly anything pertaining to
+railways, for which from my childhood I had an absorbing craze.
+
+By my father’s kindness I, by-and-bye, fitted up a workshop in which the
+tools were driven by a half-horse steam engine; and at eighteen had
+completed my first locomotive, weighing 56 lbs., which, with a dozen or
+so of small wagons, made a fine show on some 40 yards of brass-railed
+permanent way of 4 in. gauge. Locomotive driving was my hobby when I went
+up to Cambridge, and many were the tips that I learned in my illicit
+journeyings on the footplate. The new degree of “Applied Science” had
+just made its appearance, in which, in 1871, I had the doubtful credit of
+appearing alone in the first class. Doubtful, because the papers were
+absurdly simple, and the examiners hardly educated beyond the bare
+theories of the mechanical processes; for it was long anterior to the
+days of Professor Stuart and his engineering laboratory, where,
+by-the-bye, I once remember seeing the “demonstrator” supervising the
+reduction of a 4 in. shaft on a stout 9 or 10 in. lathe by a young turner
+whose nervous and thread-like shavings would have ensured his speedy
+dismissal from any commercial machine-shop.
+
+When I settled at Duffield in 1872, I at once began to put into practice
+the views I had formed in regard to the possibility of advantageously
+superseding horse traction, in cases where a traffic, though heavy, was
+wholly insufficient to justify a more costly railway, by a line of the
+narrowest and consequently the cheapest gauge compatible with safety. It
+is to a setting forth of the results of my experiments during the years
+that have since elapsed, that the following pages are devoted. My claim
+to a hearing is chiefly based upon having always been my own draughtsman,
+and, for my first two larger locomotives, also moulder, machinist, and
+fitter. Owing to the increasing number of experiments, and to other calls
+upon my time, assistance eventually became necessary, and, though I am
+still conceited enough to keep the more delicate manipulations in my own
+hands, so far as I can find time to execute them, it has gradually come
+about that I have seven or eight artisans in the little workshops.
+Practical acquaintance with every detail both in survey, design, and
+construction of narrow-gauge railways has given me something of a pull
+over the professional engineer. Thus it happens that, without the credit
+of any exceptional ability, I have had advantages that fall to few of
+acquiring information which I desire to lay before those who are
+interested in the rapid and economical transport of a moderate annual
+tonnage.
+
+The first three sections of this pamphlet comprise a brief sketch of the
+purposes, origin, and construction of my own line. In Section IV. is
+given a detailed account of the construction, working, and cost of the
+similar line which I made to connect Eaton Hall with the Great Western
+Railway. Sections V., VI., VII., and VIII. are more technical, and may be
+passed over by those not interested in the mechanical details, although
+it is to the care that has been bestowed on these that my success is
+chiefly attributable. Section IX. deals, from such experience as I have
+acquired, with the conditions under which these small railways may be
+profitably installed. In Section X. I have appended a few further items
+of possible interest.
+
+
+
+
+II.
+OBJECTS OF THE 15 IN. GAUGE.
+
+
+WHEN, in 1874, I started on the construction of my experimental railway,
+the more notable narrow-gauge lines in our own country were those of 18
+in. at Crewe, Woolwich, Chatham, and Aldershot—the latter a sad failure
+and the admirable 23½ in. from Portmadoc to the Festiniog Slate Quarries.
+The Festiniog Railway, which owed its success as a locomotive-worked line
+to the persistent energy and ability of the late Mr. Charles Spooner,
+opened the eyes of the transport-interested world to the extraordinary
+capacity of a very narrow gauge. But here the marvel lies in the manner
+in which the work was adapted to the gauge, not in the suitability of the
+gauge to the work. No one but an enthusiast would dare to contend that a
+two-foot gauge was the ideal width for a line employing twenty-ton
+locomotives and hauling about 100,000 passengers and some 150,000 tons of
+minerals and goods per annum. If this development could have been
+foreseen, the selected gauge would doubtless have been wider. Such a
+traffic, however, is quite outside the scope of this pamphlet, the logic
+of which is directed to shewing how a much smaller annual tonnage than
+has been hitherto deemed worthy of a railway may be profitably thus
+conveyed.
+
+An 18 in. line, such as one of those above referred to, would, if of not
+more than three or four miles in length and tolerably level, be capable
+of transporting, with one locomotive, 60,000 tons of minerals annually,
+reckoning the traffic as in one direction only. There are, however, up
+and down the country, a number of cases where a traffic of from 5,000 to
+10,000 tons is annually hauled between two fixed points over the public
+highways by a single employer. Such cases may be classified as large
+mansions, public institutions, mines, quarries, &c. Now it is clear that,
+unless there is a prospect of large increase in the traffic, it would be
+absurd to employ for a maximum of 10,000 tons a railway equal to 60,000
+tons, and so the question arises:—What is the smallest and therefore the
+cheapest railway capable of being practically and advantageously worked?
+This is the question to which I venture to think I can give a reliable
+answer.
+
+In the year 1874, after various preliminary trials, I determined to
+construct a line of 15 in. gauge, as the smallest width possessing the
+necessary stability for practical use, although I once laid down one of 9
+in. gauge for my younger brothers, which proved by no means deficient in
+carrying power.
+
+The stability of this 9 in. line was perfect enough so long as persons
+did not attempt to ride on the ends and edges of the carriages and
+wagons, but man being an article of approximately standard size, it is
+clear there must be a minimum gauge which will be stable enough to be
+independent of such liberties.
+
+Rolling stock properly proportioned to a 15 in. gauge seems the smallest
+that will thoroughly insure safety in this respect, and indeed in France
+the late M. Décauville, who did so much to develop lines of this class,
+arrived at nearly similar conclusions in adopting a minimum width of 16
+in.
+
+It must not, of course, be understood that gauges of such small
+proportions are to be advocated except where the traffic is unlikely to
+increase beyond their capacity, and where the material to be moved can
+conveniently be loaded in moderate sized wagons.
+
+Feeling, however, convinced of the eventual recognition of the utility of
+lines of minimum gauge, I took some pains to become acquainted with what
+had been already achieved in this direction, with the result that,
+excepting only the Festiniog railway, where every detail was most ably
+worked out by the late Mr. Spooner, I found generally both road and
+rolling-stock constructed as mere imitations of those of the standard
+gauge, and showing a want of apprehension of the totally different
+conditions to be satisfied. To endeavour to solve the various problems
+involved in the successful design of engines, carriages, wagons, and
+roadway for a minimum gauge is, therefore, the main object of my little
+railway. The chief ends in view are the application of such lines to
+agricultural or commercial purposes on large estates, or where quarries,
+brick yards, and other industrial establishments need better connection
+with the pier or railway station from which their productions are
+forwarded. An excellent example of such a line is now to be found in the
+one I have constructed at Eaton Hall, particulars of which are given in
+Section IV. There were also problems relating to adhesion and friction,
+particularly from the narrow-gauge point of view, which I was desirous of
+solving, some remarks on which will be found in Section VIII.
+
+
+
+
+III.
+CONSTRUCTION OF THE DUFFIELD BANK LINE.
+
+
+THE construction of my line of 15 in. gauge was commenced in 1874, and
+various additions were made up to 1881, when the length laid amounted to
+a little over a mile, inclusive of sidings. Since the latter date there
+has been no material extension, but the permanent way and its accessories
+have been gradually improved.
+
+The line runs from the farm and workshops, up a gradient varying from 1
+in 10 to 1 in 12 about a quarter-of-a-mile long, to a level 80 ft. above,
+where the experimental course is laid out in the shape of a figure 8, so
+as to admit of continuous runs. This part, somewhat more than half-a-mile
+in length, has a level stretch of a quarter-of-a-mile, the remainder
+consisting of gradients, of which 1 in 20 is the most severe. The minimum
+curve on the main line is 25 ft. radius, but in the sidings some occur as
+sharp as 15 ft. radius.
+
+The permanent way was at first laid with 14 lb. rails, without
+fish-plates, spiked to elm and Spanish chestnut sleepers fallen and sawn
+on the premises, 5 in. wide, 2 in. thick, and 2 ft. 6 in. long, set at 1
+ft. 6 in. centres. The maximum load did not exceed 12 cwt. per axle, but,
+although the work was well done, the road was not equal to the weight,
+and required incessant attention. The line was then re-laid on sleepers
+6½ in. wide, 4 in. thick, and 3 ft. long, with various sections of rails,
+12 lbs., 14 lbs., 18 lbs., and 22 lbs. per yard. These were all fitted
+with fish-plates, the joints being on a sleeper. The spacing of the
+sleepers was varied with the rails, from 1 ft. 6 in. for the 12 lb. to 3
+ft. for the 22 lb. section. Any part of this road carries comfortably 25
+cwt. per axle. The fish-plates and larger area of sleeper more than
+doubled the original carrying power of the rails.
+
+Six years being about the life of these small sleepers, it soon became
+necessary to renew them. Seeing that the rails, owing to the light
+traffic, remained perfectly good, to have to pull the road to pieces for
+the sake of new sleepers only was a serious annoyance. I then determined
+to try a light cast-iron sleeper with the same bearing area. After some
+years of experiment, a thoroughly satisfactory one was perfected, in
+which the rail is held to its place by a curved steel spring key that
+cannot work out. The greater part of the line is now laid on these
+cast-iron sleepers, which weigh 28 lbs. each, inclusive of the chairs,
+which are cast on. This pattern has now had some eighteen years’ test,
+and has proved entirely satisfactory. With a 14 lb. steel rail, the
+sleepers being spaced 2 ft. 3 in., and at the suspended fish-joint 1 ft.
+3 in., the road, under the load of 25 cwt. per axle, requires very little
+repair, some parts having stood for five or six years without being
+touched, though constantly run over.
+
+The length of the sleeper is a very material point. It should project
+beyond the rail a distance of rather more than half the gauge of the line
+thus the rail is equally supported inside and out. When the projection is
+reduced, the centre of the sleepers cannot be packed up solid, because
+the support would then be greatest between the rails, with the result
+that the ballast below would assume a convex form lengthwise of the
+sleepers, and thus produce an unstable road. On lines of the standard
+gauge, if sleepers of this proportion were adopted, and of sufficient
+thickness to distribute the load more widely without bending, a great
+saving in repairs would be effected; but it is not likely that any
+permanent way official will be bold enough to suggest such a radical
+change. On the Festiniog Railway of 23½ in. gauge, a sleeper 4 ft. 6 in.
+long has been adopted with excellent results.
+
+A detail of importance in laying rails is that the joints should be
+opposite one another. For this purpose it is necessary to order a
+proportion of the rails 3 in. to 6 in. shorter than the rest, according
+to the gauge and radius of curves. In this way the joints can be kept
+practically square. A cross-jointed road is not only unpleasant to travel
+on, but is also exceedingly difficult to set up true, particularly on
+sharp curves.
+
+Steel rails are now almost universally employed, but it is worth
+attention that on any part of a line that is either very damp or rarely
+used, iron rails will long outlast steel ones, as every mining engineer
+knows.
+
+In regard to the most suitable length of rail, I have found 15 ft. very
+convenient for weights up to 18 lbs. per yard. A good deal depends upon
+whether the rails come from the makers properly straightened. The longer
+the rail, the more difficult it is to straighten; as a rule even the most
+careful specification will fail to bring them on the ground in a fit
+condition for use. It is a very usual thing to look at rails only in
+regard to their horizontal truth, but in reality the vertical correction
+is of far more importance, and, to detect this, the rail must be turned
+on its side. I cannot too strongly insist on the vital importance of
+laying only straight and level rails. A good running road can never be
+made if any humpy rails are laid, and it is quite impossible to
+subsequently rectify the defect without taking up such rails and treating
+them under the press. Rail-straighteners should be directed to level a
+rail before straightening it, that is, to correct it vertically first,
+then horizontally; the reason being that vertical pressing disturbs the
+horizontal truth, while the horizontal pressing does not affect the
+vertical accuracy.
+
+I have employed a rail-press fitted up on a wagon, specially arranged
+with drilling machine for fish bolt holes, with tool boxes, and a brake.
+The screw works horizontally, and the rail runs on adjustable rollers at
+each end of the wagon. The amount of curve is thus readily appreciated by
+the eye as the process proceeds, while with a vertical screw it is
+scarcely possible to judge correctly. For sharp curves I use a roller
+bender of a type I designed many years ago for the use of the Royal
+Engineers in their field railway experiments. In this machine, which
+consists of the usual three rollers with the centre one adjustable by a
+screw, two men wind the rail through, and, except at the extreme ends,
+effect a perfect curve. This machine, however, is of little use for the
+ordinary straightening, and, though saving some time on a long curve, is
+laborious to work. A curve made under the ordinary screw-press is of
+course really a succession of what are technically termed “dog-legs,”
+but, unless it be of smaller radius than one chain, these are
+imperceptible if the successive pressures are not applied more than about
+14 ins. apart. By pressing at still smaller intervals it is possible to
+produce sharper curves of reasonable truth, but I find the rails on such
+curves work smoother and wear better if bent with the roller machine.
+
+Rails can be laid round moderate curves without requiring to be bent, by
+screwing up the fish plates tight and then springing the rail. The extent
+to which this can be effected depends on the weight of the rail and on
+its length; the longer rail being the more accommodating. It is not
+advisable to attempt to spring a 14 lb. rail round a sharper curve than
+five chains, or an 18 lb. rail beyond ten chains radius.
+
+The result of attempting too much springing is that the rails, under the
+traffic and changes of temperature, work outwards at the joints and make
+“dog legs” more or less serious. Where the ballast is of a loose dry
+nature very little, if anything, can be done with springing. I have
+enlarged upon this subject of rail-laying because it is of prime
+importance to a good road, and a matter that, on narrow-gauge lines, does
+not receive the attention it requires.
+
+To return to a description of my line, there are on it three tunnels, two
+bridges, and a viaduct 91 feet long and 20 feet high. The latter was
+erected in 1878, as an improvement upon one at Aldershot, put up by a
+gentleman who induced the War Office to sanction a short experimental
+line for army transport upon a hopelessly inconvenient and ridiculous
+plan.
+
+My structure is of pitch pine, and stood for 16 years without repair. It
+is a trestle bridge, the trestles being so designed that each member is a
+multiple of the height. The roadway is carried on four timbers; formerly,
+for a 8 ton engine, 11 in. deep and 8 in. wide; now, for one of 5 tons,
+13 in. deep and 3½ in. wide. These are bolted together in pairs, one pair
+under each rail, the two being kept parallel by stretchers and through
+bolts at every 5 feet. In each pair the timbers break joint with one
+another on alternate trestles, the latter being 15 ft. apart, and each
+timber 30 ft. long. The advantages of this arrangement are two-fold, the
+timbers can be run forward from trestle to trestle as the work advances
+without scaffolding or lifting tackle, and, should one trestle sink out
+of line, the continuity of the upper work checks it, and obviates the
+dangerous “dog legs” to be almost invariably observed in this class of
+bridge. The original cost with the lighter timbers was £30, including
+every item of expenditure—equal to £1 per yard. The average height is 15
+ft. The details are arranged to require but little skilled labour, the
+connections being made entirely by bolts and cast angle-plates. Two
+carpenters, in five days framed the five trestles including cutting the
+timber to length; and in three more days, with the assistance of three
+labourers, the whole was erected and the rails laid ready for traffic. A
+platform and railing were, however, subsequently added for the
+convenience of foot passengers, thus materially increasing the cost. When
+rebuilt in 1894 with stronger timbers, the original trestles were
+retained.
+
+Where the line crosses field-fences a dyke is dug about 5 to 6 ft. square
+and 3 ft. deep, across which the rails are carried on two narrow girders,
+thus effectually preventing the passage of cattle, and avoiding both the
+delay of gates and the expense of side fencing.
+
+The line is properly equipped with interlocking signals and points on a
+very simple plan. These are for the most part worked from two
+signal-boxes in telephonic communication.
+
+Particulars of the cost of such a line will be found in Sections IV. and
+IX. On my experimental course there are six stations, at three of which
+are sheds for the accommodation of the rolling stock. When the line is
+used on the occasion of a garden party, a regular service of passenger
+trains is run, and several times trains of eight long bogie cars,
+carrying 120 passengers, have been hauled up the gradient of 1 in 20, and
+up the still more trying one of 1 in 47 situate on a three-quarter-circle
+curve of 40 ft. radius.
+
+In the year 1894 I exhibited the line to the engineering public during
+three days. On this occasion a variety of experiments in haulage and
+shunting were shewn, and for part of each day two trains were run
+concurrently.
+
+
+
+
+IV.
+DETAILS OF THE EATON HALL LINE.
+
+
+DURING the exhibition of my railway at Duffield in 1894, one of the
+visitors was the Hon. Cecil Parker, agent to the Duke of Westminster, who
+was desirous of laying some sort of light railway from Eaton Hall to the
+Great Western Railway, three miles distant. It was necessary that the
+line should be unobtrusive in appearance, of a thoroughly permanent
+character, yet moderate in cost. The traffic was, as it proved, correctly
+estimated at from 5,000 to 6,000 tons annually. Here was a perfect
+opportunity for a practical experiment with the 15 in. gauge, which was
+ample for five times that amount. I was asked to inspect the route, and
+subsequently roughly estimated the cost, exclusive of buildings, at about
+£6,000. I had some doubt at first whether it was possible for me to find
+time to lay out and construct the whole line and rolling stock myself,
+but the difficulty of getting special designs effectively carried out by
+commercial firms at a reasonable cost decided me to undertake everything.
+It was at my desire eventually agreed that I should have a free hand in
+regard to all the designs, doing the work at cost price and without
+charge for my own time.
+
+The line will now be generally described, after which some of the more
+interesting details will be enlarged upon.
+
+The Eaton estate railway connects the Hall with the Great Western Railway
+at Balderton, 3 miles distant. The total length of line laid is 4½ miles,
+which includes, besides the main line, a branch ¾ mile in length to the
+estate works near Pulford, together with several shorter branches to the
+estate brickyard and other points. The traffic to be dealt with,
+consisting chiefly of coal, road metal, and building material, was
+computed at about 6,000 tons per annum. As it was desired that the line
+should be as inconspicuous as possible, since it had to cross the park
+and the three principal drives, and the required capacity being small, it
+was decided to adopt the 15 in. gauge.
+
+The line is laid with steel flat-bottomed rails, weighing 16½ lbs. per
+yard, and, to reduce repairs to a minimum, these are carried throughout
+on cast-iron sleepers, 3 ft. long, 6½ in. wide, weighing 28 lbs., and
+coated with anti-corrosive. Steel spring-keys secure the rails in jaws
+cast on the sleepers, which are spaced at 2 feet 3 inches centres, and,
+at the joints, at 1 ft. 4 in. Steel girders, on cast-iron foundation
+plates, are used for all the bridge-work. Thus no timber whatever is
+employed in the permanent way, and the depreciation is practically
+limited to wear of rails.
+
+The rails for the points are rivetted on to flat-topped cast-iron
+sleepers, and were built up in my workshops, and forwarded ready for
+laying down. A set of points with seven sleepers carrying them, and with
+lever, counterweight, base plate, and the necessary rods, weighs about 4
+cwts., and costs £7 15s. 0d. All the switches are planed out of the
+solid, and the crossings are of cast steel. Special cast-iron sleepers
+are employed on the girder bridges. These are of bar form, having below a
+cross-piece which is tightened up to the sleeper by two bolts, and which
+grips the inner flange of each girder. It is thus possible to set the
+rails to any moderate curve, on straight girders. For crossing roads a
+short and very strong sleeper, only 2 feet in length, is employed, with
+jaws fitted to take a second rail on each side to act as a guard-rail to
+the running one. These sleepers have a concrete foundation, and are
+packed to the required level with tarred macadam. The spaces are then
+filled in with the same material, and the road finished to a surface
+level with the top of the rails with a mixture of tar, pitch, and
+screenings. The flange space is of course left free; this is 1½ in. wide
+so as to avoid any chance of the shoes of draft horses jamming therein.
+The field crossings, to permit of carts crossing the line at convenient
+points in the various fields, are arranged with a similar double rail,
+but on a specially strong sleeper of the standard length, packed with
+ordinary ballast.
+
+The ballast is red furnace cinder, 5 to 6 in. in depth below the
+sleepers. The surface width is 4 ft., and through the park the top of the
+ballast is level with the turf, the drainage here being effected by a
+central 4 in. pipe. The appearance is thus that of a narrow garden walk.
+For the remainder of the route, which is entirely over grass land with a
+stiff clay subsoil, the ballast is above ground.
+
+The railway is unfenced throughout, and passes from field to field on
+short open girders with a dyke excavated below, thus preventing the
+passage of cattle. Two high roads besides the three drives are crossed on
+the level, and several brooks by girder bridges, the longest span being
+28 ft. The line is practically a surface one, there being few noticeable
+cuttings and embankments. The cost of the earthwork has been £205 per
+mile. The maximum gradient against the load is 1 in 70, the highest point
+of the line is 63 ft. above the lowest, and the Eaton terminus is 51 ft.
+above the junction with the Great Western Railway. The curves on the main
+line do not run below 300 ft. in radius, but curves of 60 ft. radius,
+and, at difficult points, of still less, occur at some of the termini and
+on the branches. At Eaton a large covered coal stove 80 ft. long and 33
+ft. wide has been erected, so arranged that the little wagons run in at a
+high level and readily discharge their contents.
+
+The rolling stock, which is all capable of traversing a minimum curve of
+25 ft. radius, is fitted throughout with self-acting coupler-buffers, and
+all similar parts are interchangeable. It comprises the following:—
+
+One four-coupled locomotive weighing 3 tons in working order, and
+carrying enough water and fuel for an hour’s running.
+
+Thirty wagons 6 ft. long, 3 ft. wide, 1 ft. 3 in. deep, weighing each 7½
+cwts., and holding 16 to 17 cwts. of coal, or 20 to 22 cwts. of bricks
+and road metal. The sides are of box form and removable, so that the
+floors can be used as flat wagons for the conveyance of large stones,
+castings, &c. Fittings are attachable to any wagon for carrying long
+timber. Also one bogie passenger car 20 ft. long and 3 ft. 6 in. wide,
+weighing 23 cwts. and seating 16 persons, and one parcel van, to carry 2
+tons, of approximately similar construction.
+
+Various other vehicles; among which are a brake van, 6 wagons capable of
+carrying 1½ tons each, and 2 for 2 tons each. Full particulars of the
+construction of the rolling-stock, now increased, will be found in
+Sections V. and VI.
+
+The gross load which the engine, exclusive of its own weight, will haul
+in regular work is 40 tons on the level, and 20 tons up the ruling
+gradient of 1 in 70; the speed being about 10 miles per hour. In an
+experimental trip, however, a speed of 20 miles per hour was attained
+without undue oscillation. This weight of train is by no means the limit
+which can be hauled on the line, for, on the Duffield Bank railway, the
+eight-wheel-coupled engine draws far more than this load, and on one
+occasion took eight bogie passenger cars carrying 124 persons up a
+gradient of 1 in 47 on which is a half-circle curve of only 40 ft.
+radius.
+
+The entire cost of construction has been £1,095 per mile, exclusive of
+sheds. This figure would have been materially less but for the
+considerable expense attending the extra levelling and turfing required
+to avoid undue prominence. The cost of rolling stock has been £214 per
+mile, thus bringing the total outlay to £1,309 per mile.
+
+The annual expenses were computed thus:—          £     s.     d.
+     Interest at 4 per cent, on gross           285      0      0
+     expenditure
+     Renewal of permanent way, 4 per cent        80      0      0
+     on £2,000 (25 years life)
+     Renewal of rolling stock, 8 per cent,       72      0      0
+     on £900 (12½ years life)
+     Working expenses       £     s.     d.
+     Driver                91      0      0
+     Brakesman (boy)       26      0      0
+     Two Platelayers       99      0      0
+     Fuel and oil          39      0      0
+                                                255      0      0
+                          Total annual cost     642      0      0
+
+The cost of loading being the same for railway wagons as for carts is not
+considered. With a minimum traffic of 5,000 tons per annum over an
+average distance of 2½ miles—equal to 12,500 ton-miles—the cost of
+transport is almost precisely 1s. per ton per mile; which is materially
+less than the cost of the cart haulage. The same rolling-stock and staff
+could readily deal with 40 tons per working day of eight hours—equal, at
+five days per week, to upwards of 10,000 tons a year. If the traffic were
+to reach this amount, the cost per ton of transport would be greatly
+reduced With a more powerful engine and additional rolling stock, such a
+line is capable of conveying an annual traffic of 40,000 tons.
+
+There are probably many localities in which a diminutive railway like
+that at Eaton, ample in its capacity for estate requirements and
+extremely flexible in threading existing buildings, would well repay
+construction. The unobtrusiveness of so small a line and rolling stock,
+the relief to the roads, and the convenience of constant connection with
+the nearest railway, are points which are deserving of consideration
+where the conditions make such an installation possible.
+
+The laying of the line was begun in August, 1895. The earthwork was
+already well advanced. On account of the large amount of game in the
+neighbourhood of the line, it was considered wiser to employ no
+contractor, nor were any men obtainable with a knowledge of such
+diminutive platelaying. For the first fortnight I worked away myself with
+beater, rammer, and crowbar, till I had taught a proportion of my staff
+of 16 the use of these tools, and how to put the permanent way together.
+My assistant engineer, new to railway work, soon picked up the right
+ideas of what was required, and in a month, when I had to leave,
+everything was going nicely. A bonus was paid on every rail-length beyond
+a quarter-of-a-mile per week completed. This, compared with the fine work
+done by the Royal Engineers in the Soudan, appears a poor performance,
+but it must be remembered that we had to bring not only rails and
+sleepers from our base, but also all the ballast, and that we left our
+work thoroughly packed, the banks soiled and turfed, the road crossings
+laid in concrete and asphalte with double rails and special sleepers, the
+field-crossings for carts made good, the girder bridges and fence bridges
+(cattle stops) erected, and all points and crossings permanently finished
+off. About Christmas we reached Eaton Hall, and in the following May
+(1896) had pretty well finished all the branches.
+
+Of course work done with such care and by the day was costly, and it
+would doubtless be possible to construct a similar line by contract at
+two-thirds of the price. But it is a question whether much would have
+been saved in the long run, for, except the usual platelayers’ work, no
+repairs of any sort have been necessary since completion, nor has any
+part of the mechanism failed or given trouble; a result not usually
+attained in contract work.
+
+It may interest those who have similar work to deal with if I explain
+that in making this line all our material had to be hauled from our base
+on the Great Western Railway at Balderton. The procedure was as
+follows:—At the rail-end four 15 ft. lengths of light timber framing 9
+in. deep were laid on the bare formation. A train then backed up with
+eight wagons of ballast, and on top of them four lengths of rail ready
+keyed to sleepers. The rails were lifted off alongside where they were to
+be laid, the “tops” of the wagons were removed and the ballast shovelled
+off on each side. The train then drew away to refill. The length of
+framing next the rail-end was lifted forward to the end of furthest
+framing, and so consecutively with the other three, thus leaving between
+the rail end and the fresh laid framing a space of 60 ft. with the loose
+ballast lying thereon. Four men with shovels and four with rammers then
+put the ballast in shape and rammed it solid, and also true to a level
+given by the engineer. The rails and sleepers were next lifted into
+place, and the fish plates affixed. The sleepers next the joints were
+temporarily packed, by which time a fresh train had arrived. The process
+was then repeated. In this manner, with a staff of ten men at the
+rail-end, a driver and boy with the train, six men loading ballast, three
+men straightening and bending rails, and three fixing them in sleepers,
+60 ft. were laid in about forty minutes, including delays for field
+crossings and cattle-stop bridges. After a day or two of this work the
+men were set to packing and finishing what had been laid. With a larger
+staff the two processes might, but less conveniently, have proceeded at
+the same time.
+
+The following is a detailed account of the cost of construction:—
+
+                                                       £     s.     d.
+Earthwork to formation level                         923     18      0
+Drain pipes                                           33      2      1
+Rails, sleepers (cast iron), and fastenings        1,814     15      1
+Girders and fittings for four bridges and            143      5      9
+nineteen cattle-stops
+Foreman, trainmen, and platelayers                   563      5      8
+Ballast (red furnace cinder)                         337     10      4
+Road metal, cement, and asphalte                      39      1      7
+Fencing at cattle-stops                               42     10      2
+Sodding in park and finishing banks                  224      5      5
+Locomotive coal, oil, &c.                             17      3     11
+Laying water-supply, Balderton, Belgrave, and         90      8      6
+Eaton
+Weigh bridge, Balderton                               22     18      2
+Tools, huts, carriage of goods, repairs, &c.         248     13      4
+Resident engineer                                    427      5      3
+                    Total cost of construction     4,928      3      3
+The cost of rolling stock was as follows:—
+1 four-wheel locomotive, 4⅝ in. by 7 in.             400      0      0
+cylinders, 15 in. wheels
+1 covered bogie parcel van                            50      0      0
+1 open bogie passenger car (16 seats)                 40      0      0
+1 covered brake van (4 seats)                         25      0      0
+28 wagons (load 1 ton) ... at £12                    336      0      0
+2 special wagons (load 2 tons) ... at £14             29      0      0
+10s.
+1 rail bending wagon with press and drill             32      0      0
+1 platelayers’ trolley and tool chest                  9      2      0
+8 sets timber carriers, and sundries                  43     17      9
+                   Total cost of rolling stock       964     19      8
+                              Add construction     4,928      3      3
+                                         Total     5,893      2     11
+
+The amount per mile to which the above works out has already been given.
+I am unable to give the cost of the coal store at Eaton, and of the
+engine and wagon sheds, although I designed them. They were executed by
+the estate, and being, for the most part, of the excellence and solidity
+of the neighbouring buildings, were doubtless somewhat expensive.
+
+For all practical purposes simple wooden sheds would usually answer every
+requirement, and the extra amount spent at Eaton on levelling and sodding
+in the park much more than outweighed the omission of this item. As to
+the coal store this was altogether a special matter which does not affect
+the estimate of the cost per mile of this class of railway.
+
+It will be of interest to give the actual amount of working expenses as
+compared with their estimated amount.
+
+                                        1896.                       1897.
+                                       £        s.     d.       £        s.     d.
+Wages driver and boy                 115         3      4     115        12      0
+,, platelayers                       145         8      8      94        15      8
+Locomotive coal                       19        15      0      19        17      7
+Oil, stores, and sundries              8         1     10       9         7      1
+                                     288         8     10     239        12      4
+
+                            Tons of          6,067                    5,986
+                            material
+                            hauled
+                            No. days in        225                      207
+                            steam
+                            Tons hauled         27                       29
+                            per day in
+                            steam
+
+The best Welsh smokeless coal is used, costing about £1 per ton.
+
+From the above figures the following deductions may be drawn:—
+
+The locomotive worked an average of 4 days per week, hauling an average
+of 28 tons each day, and burning 1¾ cwts. of coal at a cost of 1s. 9d.
+
+Full particulars of the hauling powers of the locomotive are given at the
+end of this section, where it will be seen that 70 tons a day can readily
+be dealt with, and that, in an emergency, 100 tons would be quite within
+reasonable compass.
+
+It is required, at Eaton, that the engine should meet the wants of
+several independent departments on the estate, and in different
+directions, added to which only a limited number of men are usually
+available for loading. In effect, instead of matters being arranged
+primarily with a view to the economy of the working of the railway, the
+railway is made an instrument for the economical working of the various
+departments supplied by it. There is doubtless much to be said for the
+view that, as the driver’s wages have to be paid, he may as well have his
+engine in steam as often as required. But, notwithstanding this easy mode
+of working the traffic, the cost of haulage is 3d. per ton per mile less
+than the average cost of carting, including interest on capital as well
+as working expenses.
+
+I may say that the line is kept in the most admirable order, clean, well
+packed, and neatly ballasted, and that, under the astute direction of the
+Hon. Cecil Parker, the Duke’s agent, the painstaking Superintendent of
+the line, Mr. Forster, records with the greatest accuracy the weight of
+every truck load of goods hauled, and the exact amount of all expenditure
+on the railway, thus giving a value to this somewhat novel experiment
+which it would not otherwise possess.
+
+It should be mentioned that the amount expended on platelayers’ wages
+during 1896 exceeded the probably normal sum spent in 1897, on account of
+the road not having become till the latter year properly consolidated.
+The cinder ballast, though admirably porous, has proved somewhat
+deficient in solidity, and the sleepers have required a good deal more
+packing than should have been necessary.
+
+Since the completion of the line in May, 1896, some additions have been
+made to the rolling-stock, with a view of obviating the necessity for the
+immediate unloading of every wagon. There was a strongly expressed idea
+among the employes that tip wagons would be more serviceable than the box
+wagons with loose “tops” supplied by me. I have always felt that the
+greater dead-weight of the former class of wagons in proportion to the
+load carried, and also their increased cost, heavily discounted their
+only advantage: celerity in unloading. In order, however, to bring the
+question to a definite proof, I constructed six tip wagons entirely of
+steel and cast iron which are fully described in Section VI. In practice
+these were found to work as well as it is possible for a tip wagon to do,
+but, nevertheless, the unloading advantages were wholly incommensurate
+with the drawbacks of greater dead-weight and less capacity. There was
+the further disability that a wagon of this class could not be used, as
+can the others, for the conveyance of timber or other bulky goods. In the
+end I removed all but two, which were left as samples, and replaced them
+with wagons of the original type.
+
+I conclude this account of the Eaton railway by giving particulars of the
+trial trips of the small four-wheeled locomotive and of its hauling
+powers, and also of a test day’s work on time line.
+
+The trials of No. 4 locomotive at Eaton were carried out in Sept., 1896,
+and the particulars were as follows (all weights being accurately taken
+on the weighbridge):—
+
+Weight of engine in working order, with two men on the footplate, 3 tons
+5 cwt.; weight of brake-van, with two men and a boy, 14 cwt.; pressure of
+steam throughout trials, 155 to 165 lbs. per sq. in.; ruling gradient
+between Balderton (G.W.R.) and Eaton, 1 in 70 rise from Balderton to
+Eaton, 51 ft.; rise from lowest to highest point, 63 ft.
+
+Trip 1.—Balderton to Eaton, distance 3 miles exactly. To show that engine
+could haul its guaranteed load of 15 tons gross, exclusive of own weight.
+Coal train of thirteen wagons and van:—
+
+                           Tons.     cwt.     qrs.
+Coal                          10       10        3
+Thirteen wagons                4       18        1
+Van                            0       14        0
+                        —
+Gross load                    16        3        0
+Engine                         3        5        0
+                        —
+Total weight of train         19        8        0
+
+Time from start to stop, 17 mins.; speed. 10 miles per hour.  In all
+cases trains have to stop dead on a rising gradient of 1 in 100 before
+crossing the high road one mile from Balderton.
+
+Trip 2.—Eaton to Balderton. To test capacity of engine for fast running.
+The same train as above, empty. Time from start to stop, 12 mins.; speed,
+15 miles per hour.
+
+Trip 3.—Balderton to Eaton. To determine maximum speed at which average
+weight of train could be run. Gross load, exclusive of engine, 14 tons;
+time from start to stop, 15 mins.; speed, 12 miles per hour.
+
+Trip 4.—Eaton to Balderton. To test power of engine to haul a long train
+round the curve of 60 ft. radius on a gradient of 1 in 60, with which the
+line starts from Eaton. Gross load, exclusive of engine, 14 tons,
+consisting of 33 vehicles. The gradient was surmounted without
+difficulty. No time taken.
+
+Trip 5. Balderton to Eaton. To test maximum capacity of engine.
+
+Coal train of 20 wagons and van:—   Tons.     cwt.     qrs.
+Coal                                      14        6        2
+Twenty wagons                              7       13        0
+Van                                        0       14        0
+                              —
+Gross load                                22       13        2
+Engine                                     3        5        0
+                              —
+Total weight of train                     25       18        2
+
+Time from start to stop, 21½ mins.; speed, 8½ miles per hour. The first
+mile, fairly level, was run at 6¼ miles per hour only. The long gradient
+up to Eaton was run at just under 10 miles per hour, the steam blowing
+off freely with injector full on and damper three-quarters closed nearly
+all the last mile-and-a-half.
+
+Trip 6:—From 1¼ to 2¼ mile posts, chiefly up gradient of 1 in 80. To test
+maximum running speed with light trains. Load: bogie passenger-car and
+van only. The maximum speed was attained on passing the 1½ mile post, but
+fell off slightly after passing the 1¾ post. Time by stop watch, from 1½
+to 2 mile post, 1½ mins. exactly. Average speed, 20 miles per hour.
+
+It is to be noted, since the 15 in. gauge is almost precisely one-quarter
+that of the standard railway gauge, and since possible speed is in direct
+proportion to gauge, that 10, 15, and 20 miles on the one equal 40, 60,
+and 80 on the other. Thus the average speed of 10 to 12 miles per hour
+usually maintained, including the road-crossing stop, by the mineral
+trains on the Eaton line is considerably in excess of the proportionate
+speed of similar trains on the standard railways.
+
+In August, 1897, arrangements were courteously made at my request by the
+Hon. Cecil Parker and by Mr. W. A. Forster, to enable me to test the
+weight of minerals that could be transported in a full day’s work, over
+the three miles of line from Balderton to Eaton. Care was taken to
+obviate any delays in loading and unloading, but every truck had to be
+weighed separately on leaving Balderton, a process occupying about ten
+minutes with each train. Six trips were run during the day, and 69 tons
+of coal and road-metal were transported. There were four loaders at
+Balderton, and two unloaders at Eaton. The trains consisted of 12 wagons
+and van. The average gross weight, exclusive of engine, was about 17
+tons, and the weight of minerals, or paying load, 12 tons. The speed was
+just under 10 miles per hour for the loaded trains, and 11.5 miles per
+hour for the empties. The engine left the shed at 8.15 a.m., and returned
+at 5.45 p.m., with a delay of 55 minutes for dinner. The weather was as
+bad as possible, slight showers all through the day making the rails so
+greasy as to necessitate the constant use of sand up the inclines. Time
+was also wasted in an extra journey for empty wagons, and in other
+unavoidable delays. About 1 hour 10 minutes was the average time taken
+over a trip out and back, reckoning to the time of next start. It is thus
+apparent that, with a little more arrangement, eight trips could have
+been run in the day. In the earlier trips, the gross loads hauled were
+only about sixteen tons, increasing later in the day to eighteen and
+nineteen tons. These larger loads might just as well have been also
+hauled on the earlier trips and it was apparent that, under less adverse
+conditions, 100 tons of paying load could have been transported in the
+day. Only 3 cwt. of coal was burned, including lighting up. The total
+distance run was 41 miles, and the average consumption of coal per mile,
+including that burned while standing, was 83 lbs. For Eaton Railway
+Regulations see Appendix C.
+
+
+
+
+V.
+LOCOMOTIVES.
+
+
+THE first locomotive put upon my line was completed in 1875. This engine
+was constructed, not so much as a model of what a small locomotive should
+be, as to provide the requisite motive power for the experiments I
+desired to carry out. No great care was, therefore, observed in the
+details, and in its construction a good deal of material which happened
+to be at hand was utilized to save time and expense; this much in excuse
+of the want of proportion in some of the dimensions, which will be found
+in detail under the head of No. 1 in the table of locomotive dimensions
+on page 31.
+
+The boiler was of the launch type, a cylindrical shell with a cylindrical
+fire-box terminating in tubes. This pattern of boiler, though giving less
+heating surface for its size than one of ordinary locomotive design, has
+the great merit of having no fire-box projecting below the barrel, thus
+enabling the over-hang of the frame beyond the wheel-base to be equalised
+at each end, a matter of the first importance in small tank engines. Its
+low first cost and the ease with which it can be kept in order are
+additional advantages. So well was I satisfied with the working, that in
+the four boilers since designed for my locomotives I have adhered to the
+original plan, which was copied from some shunting engines made by Mr.
+Ramsbottom for the London and North Western Railway. I go so far as to
+think that, without getting rid of a depending fire-box, no really
+satisfactory tank engine can be constructed for a small gauge railway
+unless idle wheels are introduced, a proceeding that cannot too strongly
+be deprecated. The gradients, which are almost invariably the
+concomitants of these small lines, make it essential that the whole of
+the available weight should be utilized for adhesion.
+
+The difficulty of carrying on four wheels a boiler of sufficient length
+for a more powerful engine, and the unsuitableness of an ordinary
+six-coupled engine to the sharp curves in which narrow-gauge lines
+generally abound, led me, in 1877, to work out a design by which the
+wheel-base of an engine of the latter type could be made to accommodate
+itself to any required degree of curvature. At this time I was in
+communication with officers engaged in promoting a scheme for an army
+field railway, where great power conjoined with perfect flexibility was
+essential. As the result, I constructed the engine of which the
+dimensions are given under No. 2 in the table, this being put to work in
+1881. While avoiding the complication of the double-bogie system, this
+engine possesses most, if not all, of its advantages. It is six-coupled
+in the ordinary way, the axles having outside bearings and cranks. The
+wheels, of cast steel, are not fixed upon the axles, but each pair is
+keyed upon a cast iron sleeve, through which the axle passes. The sleeve
+upon the middle axle is capable of sliding 1 in. in each direction
+laterally, but cannot revolve upon its axle thus, when the engine reaches
+a curve, the arc of the rail draws the middle wheels on their sleeve to
+an amount equal to the versed sine of the arc, without interfering with
+the rigid position of the axle. The leading and trailing pairs are
+likewise mounted on sleeves, but here the connection of the sleeve with
+the axle is by means of a ball joint at the centre, so constructed as to
+leave the sleeve free to radiate in any direction, but obliging it to
+revolve with the axle. The middle sleeve is so connected by external
+hoops and links with the leading and trailing sleeves that, when the
+former makes a lateral diversion, the two latter are radiated precisely
+to the required curve, providing it is within the limit of the travel of
+the middle sleeve, which, in this case, is arranged for a radius of 25
+ft. This engine excited considerable interest among visitors to my
+railway at the time of the Royal Agricultural Show in Derby in 1881, but
+the opinion was expressed that the arrangement would not stand hard work.
+A few years later, however, when some officers of the Royal Engineers
+were trying the engine with a view to adopting the plan on the military
+railway at Chatham, they subjected it to very severe tests, loading it up
+steep inclines to its utmost capacity; stopping it with the steam brake
+almost dead when travelling at various speeds and over the most awkward
+places; and, finally, giving it a fifty mile run with all the load that
+could be got together, at an average speed of seven and a half miles an
+hour, stops being made for water, &c., for twelve minutes in each hour.
+This was followed, shortly after, by a continuous run with a similar load
+for an hour and thirty-five minutes, the extreme limit to which the water
+in the tanks would hold out.
+
+There was no heating of any part during the trials, nor failure of any
+kind. After eight years’ work, chiefly on gradients of 1 in 10 to 1 in
+12, where sand has to be used freely, the engine came into the shops to
+be overhauled. During this time there had been no mishap or breakage
+whatever, nor had a wheel ever left the rails, except on one occasion in
+descending the steep incline, when, owing to the slippery state of the
+rails, and sand failing, the engine slid away and left the road; less
+than an hour, however, sufficing to get it running again.
+
+On removing and examining, shortly after this, the working parts of the
+radiating gear, they were found in perfect order, the tool marks being
+still visible in the ball joints; and in August, 1895, the engine, which
+was then sent over to do the ballast work on the Eaton Railway, where it
+worked for thirteen months, showed still a clean bill of health. The
+engine is now rebuilding, and it is proof of the excellence of the
+radiating gear that this part is being put together again without
+re-adjustment of any kind. There is thus no doubt of the success of this
+radiating principle.
+
+This engine is fitted, as already noticed, with a steam brake, which can
+also be applied by hand but the latter alone is far too slow in action
+for the abrupt stops necessary on a line like mine.
+
+The space between the frames being occupied by the radiating
+arrangements, the valve gear is necessarily outside, and, to avoid
+overhung eccentrics, I designed a modification of one of Mr. Charles
+Brown’s Swiss valve gears, which are also the parents of what is known in
+this country as Joy’s gear. I venture to think that my plan, in which
+nothing projects below the connecting-rod, is better suited to small
+engines where the motion is almost always near the ground than any yet
+produced. The gear is extremely simple, and has worked without any
+trouble, the only setting required being the adjustment to length of the
+valve spindles, and the setting of one fixed centre on each side of the
+engine.
+
+The springs consist of rubber pads placed between the axle-box and the
+horn-block. They are simple to fit, take up no room, never get out of
+order, and last many years. I have no steel-carrying spring on any of my
+stock.
+
+The safety-valve spring is entirely within the boiler, so that it cannot
+be tampered with or injured by accident.
+
+The connecting-rod brasses are peculiar. In order to avoid the twist to
+the slide bar when the driving axle, owing to inequalities in the road,
+fails to preserve its horizontal parallelism with the frame, the brasses
+are shaped circular, so as to turn slightly in their straps, the latter
+being bored out in the direction of their length instead of slotted. This
+plan not only relieves both crank-pin and slide-bar of torsion, but also
+forms a much more rigid union between the strap and the rod end.
+
+The steam jet is worked by the regulator handle, the valve being so
+arranged that when the handle is moved beyond the point at which steam is
+shut off, the jet is opened. A spring stop prevents the jet being opened
+inadvertently. Thus when steam is put on, the jet is by the same action
+closed, steam is saved, and two motions are performed in one.
+
+An important point in this, as in all the locomotives I have built, is
+that the over-hang at the two ends is equal, and the weight also on both
+leading and trailing axles practically the same, when the driver is on
+the foot plate. A further arrangement of value is that in all my engines
+the cranks are counter-balanced. It is impossible to effect the
+counter-balancing on the wheels, nor, even if feasible, will the result
+be so good, as counter-balance weights on the wheel are not at the same
+distance from the axle centre as the disturbing weights, and therefore
+not equable in their effect at different speeds.
+
+This engine was built for tractive power, not speed, and eighteen miles
+an hour is the highest rate registered over the short straight course
+available. The previous engine, with 15½ in. wheels, reached a speed
+equal to 23 miles an hour, the time being in both cases taken over a
+measured distance with a stop watch. About 11 miles an hour is the usual
+average speed with passenger cars, which, owing to the severe curves, it
+is not deemed wise to exceed.
+
+The net cost of the engine under consideration was £309, exclusive of
+drawings and patterns. At the time it was built a joiner and occasionally
+a labourer were my only assistants; the work consequently proceeded but
+slowly, occupying altogether two years and a half.  Reducing the time to
+hours, the whole of my own labour was almost precisely equal to that
+worked in one year by an artisan, and that of my assistants together to
+about half the amount. This includes the time occupied in moulding, for
+all the castings were made on the premises, with the exception of the
+steel wheels.
+
+The boiler, frame-plates, and some of the brass fittings, were purchased,
+but the whole of the machine work and fitting was executed on the spot.
+The cost of all material, the hours of labour and engine power, interest
+on tools, &c., were all carefully booked, and it will probably not be far
+from a fair trade price for the engine if 10 per cent, for drawings and
+patterns, and 20 per cent, for profit, are added to the cost given above,
+thus bringing the amount to about £400.
+
+The working of the radiating gear of engine No. 2 proving so
+satisfactory, I elaborated the principle so as to apply it to an
+eight-wheeled locomotive. (No. 3 in the table.) In this case both of the
+middle pairs of wheels have the traversing motion already described, but,
+instead of the leading and trailing wheels being radiated from one
+central pair, the second pair of wheels radiates the leading pair, and
+the third pair of wheels the trailing pair, thus forming a mechanism
+practically equal to a double bogie. By this arrangement an eight-coupled
+engine is obtained capable of passing round curves as severe as may be
+necessary. In the present instance, the travel is constructed for a
+minimum radius of 25 ft. The details of the engine are similar to those
+of No. 2, but numerous improvements have been effected, into all of which
+it would be tedious to enter. It may, however, be mentioned that the ends
+of all the crank pins are boxed in by the connecting and coupling rod
+brasses, to exclude dirt. A steam water-lifter has also been added, by
+which the tanks can be filled without delay during frost.
+
+The blast-nozzle is made adjustable by raising or lowering an internal
+cone. Owing to the steep gradient before alluded to, it was impossible to
+get a fixed size of nozzle that would keep up steam with a light load on
+the level, without being so contracted as to lift the fire off the bars
+on the incline.
+
+The boiler fittings have been made as symmetrical as possible, and
+circular nuts have been substituted for hexagon, as more easy to clean.
+The water-gauge glasses are put in through the top cock and fastened by a
+single cap nut, thus doing away with the usual external glands. The steam
+brake has a 5 in. cylinder, and the rigging is arranged to swing with the
+traversing wheels.
+
+The locomotive for the Eaton Railway (No. 4 in the table) was built as an
+example of a four-wheeled engine for use where the traffic was small and
+the gradient reasonable. With the exception of radial axles, it is fitted
+up precisely as No. 8. It has not, however, been altogether a success.
+From the data of its hauling powers, it will readily be seen that there
+is no deficiency in this respect; indeed, the maximum load handled
+exceeded all my expectations. In its working, for now nearly two years,
+nothing has gone amiss, nor has there been any trouble. On the contrary,
+the engine has on all these points given full satisfaction. But it is
+with regard to its effect on the road that I have my doubts. The running
+is steady enough, and 20 miles an hour has been attained without undue
+oscillation, yet nevertheless the road suffers as it never suffers under
+the six and eight-wheeled engines. The long and short of my experience is
+that I should not again recommend a four-wheeler except for very short
+distances and low speeds. Nothing but the experience I have had with this
+engine could have impressed so forcibly on me the very distinct
+advantages of such a radial action as I have adopted in my other
+locomotives, which enables them to go round a considerably sharper curve
+than the four-wheeler with an ease and absence of grinding quite
+remarkable, to say nothing of the saving to the road by the distribution
+of weight over more points. The relief seems to be by no means so much in
+the lessening of the weight per axle, which is not very great, as in the
+increased number of points of support. I am well aware this is not a new
+discovery, but it has come home to me with a practical force that leads
+me to insist somewhat strongly upon its importance.
+
+The whole of the foregoing locomotives have been entirely made in my
+workshops, with the exception of the boilers and steel castings. The
+former have been chiefly supplied to me of excellent workmanship by
+Messrs. Abbott and Co., of Newark, and the latter by the Hadfield Steel
+Foundry Co., of Sheffield.
+
+The last locomotive in the table (No. 5) is now being commenced, and will
+combine all the advantages of the previous ones in a less costly engine
+than No. 8 which was built specially with a view to see how powerful and
+fast travelling an engine could be put on the 15 in. gauge. No. 5, with
+its smaller wheel, is not very inferior in hauling power to No. 8, and
+the expense of the extra axle is saved. This is the engine that, if I had
+to build another for the Eaton Railway, I should certainly recommend in
+preference to the four-wheeled No. 4.
+
+The wheels of such little locomotives, since speed is no object, should
+be kept as small as possible, and the stroke should be of the greatest
+length. The nearer the stroke can be extended to half the diameter of the
+wheel, the more successful will the engine prove on steep inclines. Good
+sand-boxes, front and back, of ample capacity are essential, but it is
+not advisable to fit any steam sanding apparatus, for, owing to the low
+position of the motion, a good deal of the sand will rebound into the
+joints and bearings, as I found by experiment.
+
+Cabs on such small engines are to be avoided as unbearably hot in summer,
+dangerous in case of emergency, and inconvenient at all times on account
+of the contracted dimensions. A stout mackintosh is cheaper and far
+better for the driver.
+
+A steam water-lifter is a convenience in frosty weather when the water
+supply above ground may be frozen up, but in summer the engine tanks get
+so hot from their proximity to the boiler that the water, which becomes
+lukewarm in the process of being raised by the lifter, is then very soon
+at a temperature which makes the action of the injectors precarious.
+
+I may say that in all my locomotives I use Holden and Brooke’s restarting
+injector, which, after experiment with many types, I find takes the
+hottest water and is in all ways most reliable. I place brass wire
+strainers in both steam and water-supply pipes close to the injector,
+which is invaribly fixed below the tanks, so that when the injector is
+overheated the water will run through by gravity and cool it; a most
+important advantage.
+
+NUMBER, DATE OF COMPLETION,   No. 1. 1875.   No. 2. 1881.   No. 3. 1894.   No. 4. 1896.      No. 5.
+AND NAME OF ENGINE.             “EFFIE.”        “ELLA.”       “MURIEL.”      “KATIE.”
+Diameter of cylinders             4 in.         4⅞ in.         6¼ in.         4⅝ in.         5½ in.
+Length of stroke                  6 in.          7 in.          8 in.          7 in.          8 in.
+Diameter of wheels             1 ft 3½ in     1 ft 1½ in     1 ft. 6 in.    1 ft. 3 in.    1 ft. 4 in.
+Length of wheel-base           2 ft. 6 in.    4 ft. 6 in.       6 ft.          3 ft.          5 ft.
+Number of wheels (all               4              6              8              4              6
+coupled)
+Length over framing               7 ft.       8 ft. 8 in.   10 ft. 9 in.       8 ft.         10 ft.
+Overhang at each end           2 ft. 3 in.    2 ft. 1 in.   2 ft. 4½ in.    2 ft. 6 in.    2 ft. 6 in.
+Width over framing             2 ft. 3 in.   3 ft. 10 in.   3 ft. 10 in.   3 ft. 10 in.   3 ft. 10 in.
+Length of boiler               4 ft. 6 in.    6 ft. 6 in.    8 ft. 3 in.    5 ft. 8 in.    7 ft. 8 in.
+Diameter of boiler            1 ft. 10 in.    2 ft. 1 in.    2 ft. 1 in.    2 ft. 1 in.    2 ft. 1 in.
+Length of firebox (flue)       1 ft. 9 in.    2 ft. 3 in.       3 ft.       2 ft. 3 in.       3 ft.
+Diameter of firebox              11 in.      1 ft. 3¼ in.   1 ft. 3¼ in.   1 ft. 3¼ in.   1 ft. 3¼ in.
+Number of tubes (brass, 1⅜         23             57             57             57             57
+in.)
+Heating surface                23 sq. ft.     70 sq. ft.     91 sq. ft.     53 sq. ft.     80 sq. ft.
+Grate area                    1.25 sq. ft.   2.12 sq. ft.     3 sq. ft.    2.12 sq. ft.     3 sq. ft.
+Capacity of tanks               18 gals.       50 gals.       84 gals.       49 gals.       77 gals.
+Working steam pressure per       125 lb.        160 lb.        160 lb.        160 lb.        160 lb.
+sq. in
+Weight in working order       1 ton 3 cwt.     3 tons 15       5 tons        3 tons 5       4 tons 5
+                                                 cwt.                          cwt.         cwt. (?)
+Co-efficient of adhesion at        3.6            4.7            4.5          4.9 lb         4.3 (?)
+145 lb. mean pressure
+Tractive power per lb.           6.2 lb.       12.3 lb.       17.3 lb.        9.9 lb.       15.1 lb.
+pressure in cylinders
+If diameter cylinder2 = 1,         207            425            336            356            381
+ratio heating surface =
+If diameter cylinder2= 1,         11.2           12.8           11.0           14.2           14.3
+ratio grate area =
+Load (exclusive of engine)      15 tons.       35 tons.       49 tons.       28 tons.       44 tons.
+on level.
+(These are     up 1 in 100       9 tons.       21 tons.       30 tons.       17 tons.       27 tons.
+average
+working
+loads which
+can be
+considerably
+exceeded on
+the easier
+gradients.)
+               up 1 in 50       6.4 tons.     14.6 tons.      21 tons.       11 tons.       18 tons.
+               up 1 in 25       3.8 tons.      8.3 tons.      12 tons.       6.5 tons.      11 tons.
+               up 1 in 12       1.8 tons.      3.4 tons.      4.9 tons.      2.5 tons.      4.4 tons.
+
+
+
+
+VI.
+WAGONS AND CARS
+
+
+THE wagons first put upon my line measured only 4 ft. by 2 ft. inside. It
+soon became apparent, however, that a gauge of 15 in. could carry with
+safety a much larger vehicle. In fact it may be taken as a reasonable
+rule that the floor area of narrow gauge wagons should not be less than
+four times the gauge in length and twice the gauge in width. I have found
+such a wagon very handy for light work, but on the Eaton Railway I
+adopted an over measurement of 6 ft. by 3 ft. with 1 ft. 3 in. depth of
+side. The wheel base is, in all cases, half the length of the wagon. The
+larger wagon above described carries 16 cwts. of coal, and from 20 to 22
+cwts. of sand, road metal, bricks, etc., and weighs about 7½ cwts., or
+one-fourth of its total gross loaded weight, _i.e._, it carries three
+times its own weight. The axles in this case are 2 in. diameter. For
+heavier loads I have made the wagons with 2¼ in. axles to carry 30 cwts.
+which is the standard I have finally adopted; and also with 2½ in. axles
+to carry two tons. Two of these last were built for the Eaton line, on
+which logs of timber up to 30 in. square and 60 ft. long have to be
+conveyed from the G. W. Railway to the Estate works. Each end of the log
+rests on a “timber fork,” which can be fitted on to any wagon, and in
+this way, not only timber, but any kind of lengthy goods can be carried
+with the greatest ease. My resident engineer at Eaton gave me an amusing
+account of the arrival from Messrs. Handyside & Co. of the ironwork for
+the coal store at Eaton. This included a number of long and awkward
+shaped pieces, and the foreman sent by this firm to erect the shed was in
+despair at seeing the toy wagons provided for the transport of pieces
+that with some difficulty had been loaded in the main line wagons. To his
+surprise the 15 in. gauge handled them with far greater facility than the
+4 ft. 8½ in., owing to length being no drawback.
+
+My standard wagons are constructed of pitch pine with angle-iron rims,
+and the box sides are framed together independently of the wagon itself,
+thus a flat wagon is converted into a box wagon by merely placing this
+frame upon it. These sides, or “tops” as they have come to be called, are
+about 15 in. deep, and the wagons being constructed to a standard size,
+are interchangeable. An iron rim on each enables two or three of the tops
+to be placed one above another upon any wagon, to give an extra depth. To
+empty the wagon, two men readily lift off the top, and, if necessary,
+turn it over sideways, sufficiently to shoot off the contents; or the
+load may be upset without removing the top. This mode is almost as rapid
+as emptying a tip wagon, which, though convenient to unload, is a fraud
+as to capacity, and cannot be designed to carry more than one-and-a-half
+times its own weight; and even then there is the objection that the
+centre of gravity is far higher than in the box wagon.
+
+For carrying timber or other lengthy loads swivelling carriers can be
+placed on any two wagons; and if a greater length is required, these two
+wagons can be set a distance apart, with or without other wagons placed
+between them. By adopting the flat wagon as a standard, it is possible to
+adapt each one to any class of work, without the necessity of keeping a
+large variety for various purposes. A narrow gauge is said not to lend
+itself advantageously to the carrying of bulky material, but by loading a
+train of wagons without break from end to end, I clear hay off land, to
+which it happens that carts cannot have access, with great despatch.
+There is, therefore, no valid objection on this score. The cost of these
+wagons is from 80s. to 85s. per cwt. In the two years the Eaton line has
+been at work they have proved convenient in every way and show no signs
+as yet of wear.
+
+In addition to a number of wagons, some of which are fitted with brakes,
+there are on my line seven bogie passenger cars and a bogie van; also a
+variety of miscellaneous stock, such as workmen’s car, screw and roller
+rail-benders, dynamometer car, and various small trolleys. The
+dynamometer car is constructed to indicate the tractive effort of the
+engine, the speed, and the distance travelled. The roller rail bender is
+worked by three men, two of whom work the winch which draws the rail
+through the rollers, while the third adjusts the pressure to produce the
+required curvature. The screw bender has two thrust blocks, opposite
+which works a horizontal screw, which straightens or bends rails with
+great accuracy, but in long or sharp curves the roller bender is more
+rapid and efficient, as elsewhere noted.
+
+The passenger stock, which, like everything else, was built on the
+premises, requires a somewhat more detailed notice. There are four open
+cars, holding sixteen persons each, two abreast. These are 19 ft. 6 in.
+long and 8 ft. 6 in. wide, and are carried on two bogies of 1 ft. 6 in.
+wheel base, the total wheel base being 16 ft. 6 in. A foot brake is
+fitted to one bogie on each car. The weight of these cars is 20 cwt.;
+they therefore only weigh 1¼ cwt. per passenger seat, and reckoning
+sixteen persons to the ton, the proportion of live to dead weight is as 1
+to 1. On the main lines it is more than 1 to 5. The cost of these cars,
+stained, varnished, and lined with linoleum, was £37 each.
+
+In order to demonstrate the capabilities of even so small a gauge, a
+closed car of the same dimensions as those already described was
+constructed, which has doors and windows of the usual kind. Lest it
+should be supposed that the space is unduly cramped, I may mention that a
+visitor 6 ft. 3½ in. in height, when seated, found ample clearance for
+his tall hat. The cost of this car was £67, and the weight is 24 cwt.
+Here the proportion of live to dead weight is as 5 to 6.
+
+As a further test of the capacity of a 15 in. gauge, I have built a
+dining car and a sleeping car of the same dimensions as the cars already
+described. The former seats eight persons and carries a suitable cooking
+stove in a compartment to itself. The latter contains four berths 6 ft. 6
+in. long and 1 ft. 10 in. wide, with a lavatory and other fittings. This,
+though hardly an essential accompaniment to a line under one mile in
+length, can be utilised as an overflow bedroom for my boys when the house
+is full of guests. I am unable to state the exact cost of these two
+vehicles, but exclusive of fittings, it is little, if at all in excess of
+that of the closed car already quoted. The weights are somewhat greater,
+owing to the bogie truck frames being of cast iron instead of elm.
+
+A closed luggage van, 15 ft. in length, but otherwise of the same pattern
+as the cars, concludes the list, and is used to convey luncheons, teas,
+etc., for large parties, to the station where refreshments are served.
+The extreme height of the closed cars is 6 ft.
+
+All the wagons and cars are carried on chilled iron wheels, 13½ in.
+diameter, cast in my foundry. The axles, as has been stated, vary from 2
+in. to 2½ in. in diameter, and on to these the wheel on one side is
+forced by a hydraulic pressure of about 15 tons, while the opposite wheel
+runs loose to reduce the curve friction. The journals run in cast-iron
+boxes, which are lubricated by sponges placed in oil receptacles below.
+The horn-blocks and axle-boxes, with a rubber block between them to form
+the spring, and a cover to the oil reservoir, are secured together by a
+single bolt, after the insertion of which no part can come loose. The
+castings are put together as they come from the foundry, without
+machining or fitting of any kind, the axle bedding well into the
+cast-iron box after a few days’ wear. For the Eaton railway, however, I
+bored out the boxes, but have not found any advantage to result. These
+bearings require oiling only at intervals of several weeks, and although
+some of them have been in use more than eighteen years, there has been no
+case of heating or other failure. The cost of each complete bearing,
+including horn-block box, cover, spring, and bolt, is only 5s., 1s. of
+which goes for the rubber.
+
+The buffers and couplings are central. A single east-iron buffer, which
+in the case of the cars is mounted on a spring draw-bar, has a coupler of
+the same metal hinged to it by a bolt. The latter is self-coupling or not
+as desired; but, when turned back so as not to couple, the driver can, by
+bringing the buffers smartly together, cause it to fall and couple up.
+These couplers allow the wagons and cars to be shunted out of the train,
+when the engine is either pushing or drawing, by a quick manipulation of
+the points, the hook sliding laterally from its hold as the vehicles
+diverge on different lines. I designed some cast-steel coupler-buffers of
+this type lately for the Royal Engineers’ 30 in. gauge experimental field
+railway, near Chatham, which, though for reasons unconnected with their
+construction not adopted, are reported as the only ones of several types
+experimented with ‘which fulfilled the necessary requirements. In the
+bogie stock the coupler-buffers are fitted to the bogie, and not to the
+car frame, on account of the severe curves. In the construction of the
+wagons and cars almost every part is made to gauge, and put together
+without fitting.
+
+The aim throughout has been to make the details of all the rolling-stock
+as simple, cheap, and efficient as possible, which has been principally
+achieved by adopting designs and modes of construction largely at
+variance with commonly accepted notions. The totally different conditions
+under which minimum-gauge lines work, as compared with ordinary railways,
+renders this possible without any sacrifice of safety or durability.
+
+In Section IV. mention was made of tip-wagons supplied as an experiment
+to the Eaton line. These consist of steel tubs, U shaped in section, hung
+at each end on two trunnions riding in cast-iron pedestals, the latter
+being bolted to an under-frame of channel steel fitted with cast iron
+ends rivetted in, and so formed as to carry a drawbar with rubber
+cushions, to the end of which the coupler-buffer is attached. These
+wagons cost £20 as against £12 for the standard box wagon. They weigh 11½
+cwts., and carry about this weight of coal, or a little more. Loaded with
+coal, they average a trifle under 24 cwt., exactly the same as the box
+wagon, which weighs 7½ cwt., and carries 16 to 17 cwt. of coal. Thus the
+paying loads of the two are as 3 to 4 for the same hauled weight. For
+short distances, where the emptying bears a greater proportional relation
+to the running time, or where the load must be got rid of in a
+particularly short space of time, tip-wagons may answer. For such
+purposes as my experience has had to deal with, they are a drawback,
+which, as I have previously pointed out, is increased by their
+inadaptability to the carriage of bulky goods. One of my strong
+contentions is that, on a small line, to avoid expense in rolling stock,
+every vehicle should be available for every purpose.
+
+
+
+
+VII.
+THE DUFFIELD BANK WORKSHOPS.
+
+
+A BRIEF account of my little works will be of some interest to engineers.
+I have already, in Section I., given an outline of my progress as a
+mechanic.
+
+I will now describe the machinery by which the locomotives, carriage and
+wagon stock, and permanent way fittings have been constructed.
+
+The machine-shop contains an 11 in. lathe for wheel turning, cylinder
+boring, and the heavier work; an 8 in. lathe for surfacing, sliding, and
+general work; a 7 in. lathe for screw-cutting and fine work; a 4 in.
+Pittler universal lathe, with a variety of automatic and other fittings,
+chiefly used for the smaller brass work, such as cocks, glands,
+lubricators, &c.; a 3 in. sliding and screw-cutting lathe, for very light
+work; a planing machine to take work 4 ft. by 1 ft. 6 in. by 1 ft 6 in.;
+an 8 in. stroke double-table shaping machine, fitted for hollow and
+circular shaping, specially used for machining coupling rods, &c.; a 4½
+in. shaping machine with circular motion, for light work; a milling
+machine; a 9 in. stroke slotting-machine with compound table, for heavy
+work; a 2½ in. spindle drilling and boring machine; a 1¾ in. drilling
+machine, for general work; a screwing and tapping machine, to 1½ in. for
+bolts and to 2 in. for pipes; a cold-sawing machine, to cut iron up to 2¼
+in. square; a slot drilling machine; a twist-drill grinding machine; two
+grindstones, three bench vices, and complete sets of screwing tackle and
+fitters’ tools.
+
+The smith’s shop contains two fires, of which one is blown by a fan, and
+is suited for the heavier work; anvils for ordinary purposes and also for
+the treatment of angle iron, &c.; a 2½ cwt. gas hammer; a punching and
+shearing machine; a bench vice, and complete set of smiths’ tools.
+
+The erecting shop contains an overhead travelling crane; an engine pit; a
+30-ton hydraulic press for putting axles into wheels, crank pins into
+cranks, testing samples, &c.; a hand screwing and tapping machine to ¾
+in. for bolts and to 1 in. for pipes; standards for fitting up
+frame-plates; a rivet heating forge; two bench vices, and tools for tube
+extracting and other special processes connected with the construction
+and repair of locomotives.
+
+The iron-foundry contains a 16 in. cupola worked through a double tuyère
+by a “Root’s” blower; an overhead travelling crane; a core stove;
+charge-weighing scales; a large supply of boxes for general purposes, and
+special ones for cylinders, chilled-wheels, sleepers, gutters, &c., with
+all ladles and other appliances suitable for producing castings up to
+half-a-ton weight. Especial pains have been taken to turn out chilled
+wheels (13½ in. diameter), for the rolling stock, of perfect smoothness
+and of even depth of chill.
+
+The brass foundry contains a furnace, a metal moulding bench, and the
+usual fittings.
+
+The carriage shop has two lines of 15 in. gauge formed of cast plates
+bolted together and bedded in concrete, and contains a wood-morticing and
+boring machine; fitters and joiners’ vices, with every convenience for
+erecting, finishing, and painting two of the long 20 ft. bogie cars
+simultaneously, or eight of the standard wagons, according to
+requirements; all bulky joiners’ and carpenters’ work is also done in
+this shop.
+
+The pattern and joiners’ shop contains a 5 in. Holtzappfel lathe; and a
+small circular saw; 2 instantaneous-grip vices; saw tooth-setting
+machine; and a variety of other special appliances, in addition to a full
+set of joiners’ tools.
+
+The saw-shed contains a 30 in. circular saw bench; a band saw; a small
+general joiner; an 11 in. planing machine, and a small emery grinder.
+
+The engine house contains an 8 horse-power Otto gas-engine, of which the
+water circulation is effected by a small centrifugal pump.
+
+The drawing office is fitted up with the usual appliances, and is in
+telephonic communication with my house and two of the stations on the
+railway.
+
+The general stores comprise timber; foundry sand of various qualities;
+five kinds of pig iron; copper, spelter, tin, &c.; bar, rod, and angle
+iron; wrought-iron tubing up to 2 in.; bolts, rivets, nuts, and pins;
+steam fittings of all kinds; every sort of requisite needed in the
+construction of small railways and rolling stock, and also for meeting
+house and farm requirements.
+
+The pattern store contains patterns for all the locomotive, carriage,
+wagon, signal, permanent way, and general experimental work; and for
+drain grates, gutters, &c. which are supplied from Duffield for my other
+estates.
+
+The shops are lit by gas, and the 15 in. gauge line runs throughout. The
+construction, both in wood and iron, is done as far as possible to
+template, and every endeavour is made to turn out the very best work,
+which is perhaps the more easily attained in that there are no profits to
+be considered. At the same time it should be explained that the shops and
+machinery are, throughout, though good and sufficient for their purpose,
+in no way models of excellence. Their object is only to turn out the
+chiefly experimental work required, and the gradual additions that have
+been made during the twenty-five years of their existence have been done
+as cheaply as was consistent with efficiency.
+
+Outside the shops are a weigh-bridge for weighing rolling-stock and
+loads, and a six-ton crane to tranship heavy goods from drays to the 15
+in. railway.
+
+Adjoining the workshops is the locomotive shed, with rails raised 30 in.
+above the floor, so as to get more easily at the lower parts of these
+small engines. It is arranged for two locomotives, and is fitted with an
+air jet for raising steam, and with a water supply.
+
+The carriage and wagon stock is, for the most part, housed in three sheds
+at various stations on the main part of the railway, 80 ft. above the
+workshops.
+
+
+
+
+VIII.
+SCIENTIFIC CONSIDERATIONS.
+
+
+THE present section contains the result of experiments and experience on
+points which, for the most part, are of interest only to those who study
+the scientific side of railway work. I here take the opportunity of
+placing on record various considerations, more or less connected with the
+subject of narrow-gauge railways, of too technical a nature to be mixed
+up with the descriptive pages. This explanation will account for the
+somewhat disjointed nature of the statements which follow.
+
+The fact that narrow gauge locomotives are usually required to surmount
+much steeper gradients than are generally to be found on standard
+railways, makes adhesion a question of the first importance. It is very
+generally supposed that the co-efficient of adhesion between a wheel and
+a rail is a constant fraction of the insistent weight, varying slightly
+with the molecular structure of the metals in contact. There is, however,
+reason to believe that it decreases considerably with an increase of
+weight. In locomotives of the standard gauge, with from 12 to 18 tons per
+driven axle, it is generally held that a co-efficient of adhesion of
+one-sixth is all that can be counted on with certainty. From a number of
+experiments on the Festiniog Railway, with the results of which the late
+Mr. Spooner, who himself supported the theory, was good enough to supply
+me, I found that the load there per driven axle was five tons, the
+co-efficient averaging about one-fifth. Again, with my small engines that
+have a load on each axle of from 1.2 to 1.6 tons, the calculated
+co-efficient is two-ninths, in support of which I give the following
+experiment, conducted in the presence of two gentlemen belonging to a
+firm of locomotive builders, when it was under consideration to build for
+military purposes some engines on the plan of the No. 2 described in
+Section V.
+
+I guaranteed that the locomotive referred to should take a load equal to
+its own weight up a gradient of 1 in 10 a quarter of a mile long, which
+then was, in parts, as steep as 1 in 9, with a short curve of
+half-a-chain radius at the severest part. This was satisfactorily
+accomplished. The day being dry, I was requested to ascertain what was
+the maximum load that could be hauled. On reaching four tons, when the
+start had to be made on a less gradient, the engine barely struggled up,
+and this was evidently all it could do. When full up with coal and water
+it weighed at that time 3 tons 6 cwt. During the experiment, however,
+there were but 3 tons 2 cwt. on the three axles, all of which were
+coupled. The boiler pressure was 145 lbs. exactly, and, the gross weight
+of engine and train being 7 tons 2 cwt., the gravity resistance on the
+gradient of 1 in 10 was equal to 14.2 cwt. The weight of 3 tons 2 cwt.
+available for adhesion, reduced by a tenth part, which the gradient
+converts into gravity resistance, was equal to 56 cwt. Thus, without
+reckoning the curve friction of the whole train and the journal friction
+of the wagons, both uncertain quantities, the proportion of developed
+tractive power to load was as 1 to 3.9. This result confirms the
+probability of the truth of the above assertion. Assuming its
+correctness, which appears beyond doubt, what is the explanation of
+increased proportionate adhesion with a decreased weight on the driven
+axles?  The reduced diameter of wheel in the smaller engines might seem
+to offer a solution of the problem. Experience, however, goes to prove
+that, if there is any difference, a larger wheel has, with equal
+insistent weights, a better grip of the rail than a small one. I am of
+opinion that the weight is directly responsible for the difference. A
+wheel rests upon a rail on one point, or possibly on a transverse line of
+which the length is equal to the width of the rail. With a small
+insistent weight the molecules of the wheel and rail interlock without
+injury, and adhesion, on the principle of an infinitesimal rack and
+pinion, is the result. As the weight is increased on the fine bearing
+area, the molecules become disturbed, and fail to offer so firm a
+fulcrum. Ultimately they become displaced, and move as rollers between
+the two surfaces, materially reducing the adhesion. If this theory be the
+correct one, as is not improbable, the graduated reduction in the
+adhesion would be accounted for.
+
+That the rolling wheel and rail do actually interlock was demonstrated by
+Sir Douglas Galton in his experiments on the retarding power of brakes,
+when he pointed out that, on a wheel becoming skidded, the rack and
+pinion motion was converted into a series of jumps of the wheel across
+the microscopic teeth of the rack, with a consequent reduction in
+adhesion proportionate to the sliding speed. In confirmation of this
+statement I detailed, during the meeting of the British Association at
+Sheffield, an experiment I made by reversing a locomotive so as to skid
+the wheels, and ultimately to cause them to revolve in a contrary
+direction, while descending an incline. With skidded wheels the descent
+was at a certain speed with backward revolution of the wheels the speed
+increased rapidly, the effect of the reversal being to cause the wheel to
+slip over the rail at a speed greater than that at which the engine was
+moving, thus showing that Sir Douglas Galton’s theory of the adhesion
+diminishing in proportion to the extent of departure from the
+interlocking or rolling motion of the wheel on the rail remained
+consistent even beyond sliding contact, and disposing of the old theory
+that the loss of adhesion with a skidded wheel was due to the creation of
+a polished point of contact on the wheel.
+
+Another somewhat curious point in connection with adhesion is the slip of
+the driving wheels, which is naturally in the direction of causing a
+greater number of revolutions of the wheels than would be due to the
+length of rail travelled over. Occasionally, however, I have, in
+experimenting, noticed that fewer revolutions are made than would suffice
+to travel the distance as measured on a centre line between the rails.
+That is, the wheels slipped forward instead of back. This freak is
+probably due to the outer wheel on a curve slipping forward when, owing
+to considerable superelevation and a low speed, the inner wheel is the
+more heavily weighted, the distance then travelled being the reduced
+length of the inner rail.
+
+I now proceed to explain the basis of calculation of the net loads hauled
+on various gradients, as appended to particulars of each locomotive
+described in Section V. The resistance on the level consists of journal
+friction, tire friction, and locomotive internal friction. Tire friction
+is practically nil, except on curves and in strong side winds. Journal
+friction I find, in the case of my small rolling stock, to be covered by
+an allowance of 10 lbs. per ton. Owing to the numerous curves another 10
+lbs. per ton must be added to cover tire friction. A tractive power of 20
+lbs. per ton proves quite sufficient to keep the train in motion on the
+level. It is not, however, enough to start the train on a curve, nor to
+overcome the inertia due to journal friction when, as on an incline,
+there is no slack between the wagons, and the whole train must be started
+at once. After considerable experience I find it necessary to add a
+further 20 lbs. per ton to the required tractive power. A total of 40
+lbs. per ton is thus allowed as a good working equivalent of the
+frictional resistance of the train.
+
+The friction of the locomotive is a much more complicated question. There
+seems very little information available on this point. It has been said,
+in the case of full sized engines, to absorb thirty per cent. of the
+tractive power, but this is a vague estimate, out of all reason
+excessive, unless it be intended to include gravity resistance on a steep
+incline. It is desirable to consider the nature of the various causes of
+resistance to motion separately. Viewed as a carriage only, the journal
+and tire friction of the locomotive may be taken at the same amount per
+ton of its weight as in the case of the trains, namely, 40 lbs. The
+additional resistance due to friction of the moving parts of the
+mechanism cannot be calculated as a constant. If the engine is developing
+but a small portion of its power, the amount will be small; when loaded
+to its full capacity there will be a large increase of internal
+resistance, varying, however, in proportion to the accuracy with which it
+is put together, and the stiffness of the framing.
+
+Such experiments as I have made show clearly that, when exerting
+approximately its full power, the total frictional resistance of the
+engine does not exceed 100 lbs. per ton, and when running light is much
+less, but in what proportion less I have as yet failed to ascertain
+satisfactorily. Of this 100 lbs. per ton, from 20 to 40 lbs. is due to
+journal and tire friction, leaving from 60 lbs. to 80 lbs. per ton as the
+deduction for internal friction.
+
+I thus conclude that an allowance of 40 lbs. per ton for train
+resistance, and 100 lbs. per ton for engine resistance, is a basis for
+calculating the tractive power required on the level that is sufficient
+under all possible narrow-gauge conditions. In the case of gradients
+there must, of course, be added the gravity resistance of the engine and
+train, which is, on a gradient of 1 in 100, one-100th of the gross
+weight; on a gradient of 1 in 50, one-50th, and so on.
+
+In calculating the tractive power of the engine, the effective pressure
+in the cylinders may be reckoned at fully nine-tenths of the boiler
+pressure, on account of the low piston speed.
+
+The above particulars are not to be taken as representative of what can
+be got out of a narrow-gauge engine in a few isolated experiments only,
+but of what is well within the compass of daily work.
+
+
+
+
+IX.
+REMARKS ON NARROW GAUGE RAILWAYS.
+
+
+UP to this point I have merely detailed the particulars of the
+construction of my experimental railway and of the line at Eaton, giving
+at the same time the reasons that have led me to adopt certain methods
+and designs. I now propose, in conclusion, to offer a few remarks upon
+the application, in this country and abroad, of small railways of 2 ft.
+gauge and under to do work at present done by means of horses and carts.
+
+The cases in which such lines can be profitably applied may be classed
+under two heads; the one, where, in a country possessing ports or a
+system of railways, large establishments, private, public, or industrial,
+might be connected therewith by a narrow gauge line so as to reduce the
+cost of transport below that which has to be paid for haulage by animal
+power on roads; the other, when no roads worthy of the name are
+available, and the choice is a light railway or nothing. The chief
+condition of success in both cases is a sufficient traffic between two or
+more definite points. Military railways, however, must be regarded from a
+somewhat different standpoint, as the object here is to supply a movable
+centre as expeditiously as possible with the vast commissariat
+requirements of an army rather than to study economy. It is not my
+intention to enter into the pros and cons of small railways for war
+purposes. Suffice it to say that some countries are ahead of us in the
+matter, which is one that has, in England, been allowed to drop rather
+into the background.
+
+Returning to the consideration of cases where a fairly large traffic has
+to be delivered to a port or railway system, the first question that
+arises is that of transhipment. Material of any kind can be as
+effectively delivered on ship-board by narrow gauge railway wagons as by
+horses and carts, if not better. In reckoning up the cost of transhipment
+from small wagons on to a railway system—no great matter with proper
+appliances—it must not be lost sight of that, even if a branch of
+standard gauge were constructed to many establishments, the large wagons
+cannot, as a rule, be got up to the point where the material lies, and a
+preliminary transference in barrows or carts is necessary. With the
+little wagons it is usually possible to get right up to the place and to
+load direct, in which case there is clearly no additional expense
+incurred. It is, further, often forgotten that there is on the standard
+railways endless transhipment for the sake of economical transport, in no
+way connected with a break of gauge.
+
+Again, a small line can be carried round curves, up gradients, and
+through confined premises, where a wider line would be inadmissible. In
+many places the unsightliness of the standard gauge would be objected to,
+nor can such a line be made very light if it has to carry, as it must,
+the 7 or 8 tons per axle of a full sized coal wagon (see Appendix A).
+
+The narrow gauge has also the advantage in first cost, and by bringing
+the small wagons on to a level with the floors of the large ones, or, in
+the case of minerals, by erecting a simple shoot, the transhipment
+difficulty may be reduced to a minimum.
+
+It is not well to have gradients steeper than 1 in 40 where avoidable, as
+difficulty will be experienced in slippery weather; but it is quite
+possible with suitable engines to work inclines of moderate length, as
+steep as 1 in 12. The diminution of the power of the locomotive on
+gradients is also a matter for consideration, the importance of which
+will be clear when it is stated that if an engine will haul, as it
+should, in addition to itself, ten times its own weight on the level, it
+will haul, speaking roughly, only four times its weight up 1 in 50, twice
+its weight up 1 in 25, and once its weight up 1 in 12. More work can be
+done if adhesion does not fail, but the above is an approximate working
+average.
+
+The speed on small lines is not generally a matter of much moment, owing
+to their usually moderate length. A locomotive that is sufficiently
+powerful to start a given load, will without difficulty get it along at
+from 8 to 10 miles an hour. It has occurred to me that a very fair
+approximation to the reasonable running speed of which any gauge is
+capable is to be found in estimating that the speed of passenger trains
+is equal to as many miles per hour as the gauge is inches wide, and, for
+goods trains, to half that amount.
+
+The permanent way should be made a thoroughly sound job, as it will then
+cost but little for repairs. Particulars of what is recommended will be
+found in Sections III. and IV. I am no advocate of portable railways,
+which may be well enough for hand trains, or even for horse traction, but
+a locomotive requires a solid and clean road if it is to work to
+advantage.
+
+It is often possible to carry a narrow gauge railway by the roadside or,
+as at Eaton, over pasture lands without the necessity of fencing the line
+in. Fences can be crossed as described in Sections III. and IV., so long
+as arable land is avoided. Where the route is not wholly the property of
+the projector of the railway, the requisite way-leave may frequently be
+leased by paying an annual acknowledgment of from 3d. to 6d. per yard
+run.
+
+It now remains to show what traffic is required in order that a line of
+this description may repay the outlay upon it. This may best be effected
+by drawing a comparison between the cost of locomotive traction on rails
+and horse traction on roads. The cost of loading and unloading will not
+be included, as these are the same in both cases. (See also Section IV.)
+
+Taking the minimum distance apart of two points, between which haulage
+may be supposed to be required, as one mile, the smallest and cheapest
+gauge as 15 in., and allowing 2,000 yds. to the mile so as to include the
+necessary sidings, the cost of the line will be as follows:—
+
+2,000 yds. of 16 lbs. steel rails, cast-iron sleepers,            £650
+ballast, and laying
+Fence bridges, field crossings, fencing, and other                £200
+structural works; but exclusive of river bridges, tunnels,
+or other costly requirements
+Earthwork, if an approximately surface line ... say               £250
+One 4½ in. cylinder four-wheeled locomotive                       £400
+12 wagons to hold 1 cube yd., at £12 each                         £144
+Extras ... say                                                    £156
+                  Cost of 1 mile of line, equipped complete     £1,800
+
+If laid with pitch pine sleepers a reduction of about £100 per mile would
+be effected, the cost of renewal being correspondingly increased.
+
+The engine would be capable of hauling a gross load, exclusive of its own
+weight, of 12 tons up a gradient of 1 in 50, which may be taken as a fair
+ruling gradient for a surface line. This would be equal to an average
+paying load of about 8 tons; so that, supposing the engine to make one
+trip per hour, about 60 tons would be moved per day; although, with a
+double set of wagons and men, 100 tons would easily be handled.
+
+If the engine worked two days a week, or say 100 days per annum, it would
+have hauled 6,000 tons one mile in the year. A less load hauled on the
+return journeys need not be taken into account, as this would make no
+difference in the comparison, such work being practically done without
+extra cost in both cases.
+
+The cost of the line per annum would be as follows:—
+
+Interest on £1,800 at 4 per cent.                                  £72
+Driver and boy, who would keep the rolling stock and line in      £100
+order
+Fuel, oil, stores, and sundries, at 5s. per day                    £25
+Renewal of permanent way and rolling stock at 15 years life        £80
+on £1,200
+Cost of moving 6,000 tons one mile                                £277
+
+This is equal to about 11d. per ton. Now the same haulage by horses and
+carts in Great Britain would usually cost about 1s. 3d. per ton, and in
+this case there is the advantage of being able to haul, if necessary, in
+other directions if required, which would somewhat reduce the financial
+advantage of the railway, but still leave it a distinct superiority.
+
+It is probable that a traffic of 5,000 tons annually over a mile of line
+is the smallest amount that would repay the construction of a narrow
+gauge railway, for the estimate has been based upon the narrowest line
+which can profitably be employed. If the line were longer, the balance in
+its favour would be greater. This would also be the case if the traffic
+were greater, and with the maximum amount which the line, using only one,
+but a larger engine, could accommodate, say 40,000 tons, the concern
+would be very profitable, for the extra charge for renewals would not be
+heavy, and the cost per ton carried would be reduced to about 5d. or 6d.
+
+No allowance has been made for way leaves or purchase of land. Should
+there be outlay under these heads, the cost of transport would be
+increased accordingly.
+
+In concluding these comparisons, in which it may be thought that the
+railway is shown in a less attractive light than might have been expected
+from an enthusiast, I may explain that I am no advocate of ill considered
+schemes, planned without proper knowledge, cheaply constructed, and
+carelessly worked. My figures represent thoroughly sound and serviceable
+plant, kept in good repair. If it is not worth while to go to such
+expense, then it is not worth while to construct a railway at all. I have
+been fortunate enough to work my line for twenty years without the
+slightest injury to a single person of the many thousands that have been
+carried as invited guests for pleasure, as visitors interested in my
+experiments, or as workmen on the premises. None of the rolling stock has
+sustained more than the most trivial damage; and derailments, beyond an
+occasional mishap in shunting, are unknown. The working of the Eaton line
+has been equally satisfactory. This immunity from accident I attribute
+entirely to proper care having been taken to construct every part, not
+only of the best materials and workmanship, but also with a careful eye
+to the fitness of each detail for the purpose it has to serve.
+
+That there are many openings for lines of 2 ft. gauge and under, is
+beyond dispute. But while, already, this mode of transport is largely
+made use of abroad and in our colonies, a deeply rooted prejudice has
+hitherto prevented it from gaining a footing in England and Scotland.
+
+Admirable articles pointing out the advantages of light railways have
+appeared from time to time in the daily press with little or no effect.
+It is one of the strangest anomalies in the progress of civilisation in
+this country that Great Britain almost wholly refused till lately to
+countenance such lines. The reasons for this obstinacy are not readily
+discoverable. Probably the innate conservatism of every Englishman—for
+there exists here no such thing as liberalism out of the region of
+politics—has been the principal factor in determining this course of
+inaction.
+
+Even now that the Light Railway Act has passed, there is little or no
+movement in the direction of making small lines such as I refer to, and
+not much in respect of larger ones. Whether, in the future, private
+individuals will, in their own interest and in that of their neighbours
+and dependents, lay out money in this way, it is impossible to foresee.
+But undoubtedly there are many openings for such installations,
+particularly on large estates, where the possession of the land gives the
+owner a free hand.
+
+
+
+
+X.
+APPENDIX
+
+
+A
+
+
+THE following letter, which appeared in _The Times_ two years ago, is
+here reprinted as bearing on various points connected with narrow-gauge
+railways. Special attention is directed to what is advanced under the
+third head.
+
+                             LIGHT RAILWAYS.
+                    _TO THE EDITOR OF_ “_THE TIMES_.”
+
+Sir,—The movement in favour of secondary railways has evoked from your
+numerous correspondents widely divergent views. This want of accord is
+more apparent than real, and it would facilitate the proceedings of the
+approaching conference {46} if conflicting opinions could be partially
+reconciled beforehand.
+
+The causes to which these differences are due may be summarized under
+three heads:—
+
+1. The absence of a defined terminology of the distinctive kinds of
+railways.
+
+2. The failure to appreciate that a scheme which is good for one locality
+is not of necessity the best for all.
+
+3. The apparently meagre acquaintance on the part of those who state
+their views with the practical working of any but the standard railways
+of the country.
+
+Under the first head, some confusion has arisen in consequence of the
+application of the term “light railway” now to lines of the standard
+gauge only, and again to narrow-gauge lines also. Similarly with other
+expressions. It may be pointed out that the term “light railway” is
+properly applicable and should be confined to a line of standard gauge,
+of which the entire construction is lighter, cheaper, and simpler than is
+obligatory where weighty engines, heavy traffic, and high speeds are
+dealt with. Any line of less than the standard, gauge is correctly
+described as a “narrow-gauge railway,” and such lines, when not of a
+permanent character, come under the title, simply, of “portable
+railways,” for these are invaribly of less than the normal width. The
+term “tramway” should be restricted to its modern meaning of a line laid
+in the metalled or paved surface of a road or street. Finally, the not
+unfamiliar appellation of “secondary railways” might be fitly adopted as
+generally descriptive of all lines not amenable to the standard railway
+regulations of the Board of Trade. It would be well that the conference
+should pronounce on these points.
+
+In regard to the second head, needless controversy is engendered by
+attempting to assume that, because a light railway is right here,
+therefore a narrow-gauge railway is wrong there, or vice versa. In
+estimating the transport requirements of any particular locality, if
+connection is to be made with the railway system, the applicability of a
+light railway, as above defined, should first be considered. By its
+adoption the use of existing rolling-stock is secured, transhipment is
+avoided, and the line can be subsequently and without difficulty
+transformed, if necessary, into a railway of standard
+construction—advantages for which much may be sacrificed. But as it would
+be almost invariably essential to build a light railway of sufficient
+strength to carry the 15 tons gross weight of a standard coal wagon, the
+permanent way would be of a somewhat costly character, and, in the case
+of severe gradients, considerable difficulty would arise in providing
+suitable locomotive power.
+
+Where the impediments in the way of a light railway branch are
+insuperable, or where the proposed line has no connexion with the railway
+system, the advantages of a narrow-gauge railway may properly be
+weighed—such as the smaller width occupied, the sharper curves
+admissible, the lighter, cheaper, and more easily-handled permanent way
+and rolling-stock, the absence of much of the unsightliness of a line of
+standard gauge, the ease with which, in the ease of gauges under 2 ft.,
+the rails can be laid among and into existing buildings, and, lastly, the
+convenience of being able to load and unload small wagons at the exact
+point required without the intervention of carts or barrows.
+
+In regard to the third head, it may be noticed as a curious fact, that
+the strong and commendable predilections of English engineers for the
+standard gauge, whenever obtainable, appear to lead them, where
+circumstances compel the adoption of a narrower one, to advocate as
+little reduction as possible. Now, the general result of foreign
+experience goes strongly to show that narrow gauges exceeding 30 in.
+approximate so closely to a full-size line as to forfeit, to a
+considerable extent, the advantages of either system. This attitude is
+probably due to ignorance of what can be done on the narrowest gauges,
+for, in spite of the fact that many hundreds of miles of lines of less
+than 2 ft. gauge are at work abroad, our professional advisers persist in
+regarding such railways as mere toys. Yet a line of 15 in. gauge has been
+at work in this country for twenty years, on which thousands of
+passengers have been carried without a single accident, as many as 120 in
+one train, over gradients as steep as 1 in 20, the goods traffic being
+worked in all weathers up a long gradient of 1 in 11 without difficulty.
+{48}
+
+It would be well that our railway engineers should inform themselves more
+fully on the subject, as otherwise their valuable assistance, which would
+insure that narrow-gauge railways were constructed in a solid and
+reliable manner, will be thrust on one side by the requirements of the
+times, and the work will be wholly in the hands of the many manufacturers
+of narrow-gauge plant, whose designs, being chiefly of what is known as
+the portable class, are, for the most part, ill adapted for permanent
+locomotive traffic. If so, it is likely that, in the push that may very
+possibly be presently made for secondary railways, the results will not
+be so satisfactory as would be the case if the work were carried out
+under the direction of professional advisers.
+
+Under the same head, attention may be directed to the fact that it is
+entirely unnecessary to urge the adoption of a standard narrow gauge. The
+circumstances of each case will decide the most suitable gauge, and it is
+only where there is a possibility, as in the North Wales district, of a
+wide ramification of connected narrow-gauge lines that the adoption of a
+particular standard is of any importance.
+
+                    I am, Sir, your obedient servant,
+
+                                                  ARTHUR PERCIVAL HEYWOOD.
+
+
+
+B.
+
+
+The annexed letter, published in The Times about two years ago, deals
+with possible difficulties to be met with by those who make a private
+line of railway. I brought to bear all the influence I could to obtain
+the insertion of a clause in the Act which would meet the “public road
+crossing” difficulty, but without success. The course which I took in the
+case of the Eaton Railway here detailed may be of service.
+
+                         PRIVATE LIGHT RAILWAYS.
+                    _TO THE EDITOR OF_ “_THE TIMES_.”
+
+Sir,—May I, through your columns, draw attention to a class of light
+railway which does not apparently come within the purview of the Bill now
+before Parliament—that of lines constructed by private individuals or
+firms for their own purposes? These will usually confer advantage upon
+the district in which they may be situate by relieving the roads of a
+more or less heavy traffic, and in some cases by offering facilities of
+transport to a section of the neighbourhood.
+
+In a proposed route two difficulties may arise. In the first place, land
+not in possession of the projector may have to be invaded, and way-leaves
+obtained by a judicious tact in selecting the ground and in approaching
+the owners, since private interest is properly debarred from invoking
+compulsory powers. This problem, then, may frequently be satisfactorily
+solved. The second and more common impediment is the crossing or skirting
+of highways, and it is to this point that my letter is specially
+directed. The county and district councils are usually ready in their own
+interest to permit a private line to cross a road on the level—an over or
+under bridge is almost invariably impossible by reason of the expense—or
+to make use for a short distance of waste space by the road side. But—and
+here is the crux—no permanent agreement is obtainable, because councils
+have apparently no power to bind their successors in office, and without
+such guarantee the projector is naturally unwilling to risk his capital
+when the possible rescinding of the concession would render his entire
+outlay abortive.
+
+The Light Railway Bill contains, apparently, no provision under which
+this disability can be remedied, for it is improbable that the
+Commissioners would take action in respect of a private concern. The
+above difficulty was lately met with in the construction of a private
+narrow-gauge line for the Duke of Westminster, which crosses a main road.
+The matter was ultimately compromised by the insertion of a clause in the
+agreement to the effect that, should the county council give notice to
+discontinue the crossing, the Duke should be entitled to appeal to the
+Board of Trade for arbitration. There is, however, no assurance that the
+Board would consent to appoint an arbitrator if called upon, but it is
+very certain that if a provision legalizing such an appeal could be
+incorporated in the Bill a serious hardship would be thereby removed, and
+some encouragement given to private persons to embark capital in
+enterprises of the kind.
+
+As a case in point, and doubtless there are plenty of others, a quarry
+owner of my acquaintance is at the present time conveying some 80,000
+tons of stone annually by means of traction-engines from his works to the
+railway along 2½ miles of highway. The road authorities, levying £400 a
+year for extraordinary traffic, are utterly incapable of coping with the
+destructive action of the heavy loads, and the roads are in a state of
+disintegration that baffles description. The proprietor of the quarry
+would at once set about making a narrow-gauge line at his own expense,
+with the cordial good-will of the county and district councils and his
+neighbours generally, could he only obtain some guarantee that the
+permission to cross and, in some parts, run alongside the road, which
+to-day would be gratefully accorded, would not be suddenly revoked at a
+future date.
+
+Perhaps those in charge of the Bill will see their way to give this point
+their consideration.
+
+                    I am, Sir, your obedient servant,
+
+                                                  ARTHUR PERCIVAL HEYWOOD.
+
+                                * * * * *
+
+                         FROM A MANCHESTER PAPER.
+
+According to a correspondent in yesterday’s _Times_ projectors of private
+light railways have hitherto been very chary of risking their capital
+owing to the precarious nature of their running powers. In nine cases out
+of ten the light railway proposes to cross or skirt the highways at
+certain points, and the permission which may be given by one district
+council in such cases is revocable by the next. This must be so
+inevitably, for circumstances might well arise under which a level
+crossing, for instance, would become a public danger. The difficulty
+might well be met by an appeal to arbitration in all cases of proposed
+revocation of the running powers; and if the Board of Trade were to
+undertake to nominate the arbitrator, the projector ought to have no
+reasonable ground for timidity. The present Bill can only be regarded as
+proposing to set an example and provide occasional assistance to the
+construction of light railways. Seeing, therefore, that its chief result,
+if successful, will be to encourage a more extensive construction of
+railways, it is important that all obstacles in the way of private
+enterprise in this direction should be at once removed. The _Times_
+correspondent suggests that the insertion of a clause providing for
+arbitration in all cases of dispute with the highway authorities would
+meet the difficulty.
+
+
+
+C.
+
+
+The regulations given below, which I drew up for use on the Eaton line,
+and which have worked very well for two years, may, to some, be of
+interest.
+
+                              EATON RAILWAY.
+
+
+GENERAL REGULATIONS.
+
+
+1. All persons connected with the Railway shall be held responsible for
+making themselves acquainted with such of the regulations as apply to
+them, and for acting in accordance therewith.
+
+2. All workmen on the Estate shall be liable to such fines for infraction
+of the Railway Regulations as are herein set forth, and as the Estate
+Office may see fit further to order.
+
+3. All men employed on the Railway Staff shall promptly report any
+infraction of the Regulations which may come under their notice, or they
+shall be themselves liable to any penalty which may attach to such
+offence.
+
+4. All workmen on the Estate are particularly requested to remove any
+impediment, such as sticks or stones, which they may see on the line; and
+in case of any serious block, such as a tree fallen across the rails, to
+give prompt notice to one of the Railway Staff.
+
+5. No wagon or car shall (under a penalty of 1s.) be moved by hand on to
+or along the main line, except by special arrangement with the
+engine-driver; and the term “main line” shall be understood to include
+every part of the railway not being a siding or within a terminal yard.
+
+6. Hand shunting of vehicles on sidings shall be done carefully, so as to
+avoid injury to the rolling stock; but no vehicle shall be moved at all
+except by an authorised person.
+
+7. No vehicle shall (under a penalty of 1s.) be left in such a position
+on a siding as to interfere with the free passage of other vehicles along
+adjoining rails.
+
+8. If it is necessary to throw over time weight of any point-lever, this
+shall be done gently, and the weight shall always be returned as soon as
+possible to the position in which the white bar thereon is uppermost.
+Point levers of which the weights are pinned in one direction, shall not
+(under a penalty of 1s.) have the locking pins tampered with.
+
+9. No material of any kind whatever shall (under a penalty of 1s.) be
+deposited within a distance of two feet from the rail on any part of the
+main line or sidings.
+
+10. No heavy weight shall be dropped upon the rails or sleepers, and no
+carts shall cross any part of the line except where a proper crossing of
+double rails is provided. But in the terminal yards light loads may cross
+the rails where the ballast is for that purpose made level with the top
+of the metals. Any unintentional damage to rolling stock or the line
+shall be at once reported to the engine-driver or foreman platelayer.
+
+11. No unauthorised person shall ride on any part of the train, and those
+having permission shall, whenever possible, travel in vehicles provided
+with seats.
+
+12. It is desired that all workmen on the Estate should understand that
+there exists the same liability to accident on a narrow-gauge line as on
+one of full size, and that it is only by a similar careful observance of
+proper regulations that serious mishaps will be avoided.
+
+
+REGULATIONS FOR YARDMEN.
+
+
+13. Yardmen shall carefully observe the General Regulations for the safe
+conduct of traffic comprised in Rules 1 to 12 inclusive.
+
+14. The yardman at each terminus shall clean and oil all points in or
+near his yard at least once a week, and keep them perfectly free from
+grit, leaves, etc.
+
+15. In frost or snow the points shall receive daily attention, and great
+care shall be taken in releasing frozen switches not to strain them. Salt
+for this purpose, shall, on account of its injurious effect on the rails,
+be used only as a last resource.
+
+16. Yardmen shall take care that the loads on wagons are securely placed,
+evenly balanced, and not in excess of the specified weight.
+
+17. Lengthy articles shall be loaded on a sufficient number of wagons to
+ensure that the ends thereof do not catch against other wagons.
+
+18. All vehicles shall be loaded to the satisfaction of the
+engine-driver.
+
+19. Yardmen shall give the earliest possible intimation to the
+engine-driver of the nature and quantity of the material requiring
+transport from their respective yards, that he may provide the necessary
+wagons at the proper time.
+
+20. Yardmen shall take care that the wagons and cars are not roughly
+handled, and shall see that heavy lumps of coal or other material are not
+thrown carelessly on to the wagon bottoms.
+
+21. The yardman at Balderton shall be responsible for the washing of all
+wagons when necessary, and the yardman at Eaton shall similarly see to
+all the bogie cars. Care shall be taken in washing that no water is
+allowed to run into the axle boxes.
+
+22. Yardmen shall use their best endeavours to get the rolling stock in
+their respective yards promptly unloaded, and also put under cover at
+night and in wet weather.
+
+
+REGULATIONS FOR PLATELAYERS.
+
+
+23. Platelayers shall carefully observe the General Regulations for the
+safe conduct of traffic comprised in Rules 1 to 12 inclusive.
+
+24. The foreman platelayer shall be responsible for keeping the whole of
+the permanent way, bridges, cattle stops, banks, road crossings, etc., in
+proper repair.
+
+25. He shall see that every set of points on the line is kept in good
+working order, but he shall only be responsible for the oiling and
+cleaning (as under Rules 14 and 15) of such points as are not under
+charge of a yardman. He shall report to the engine-driver any set of
+points not under his personal charge which he finds neglected, as also
+any defect which he is himself unable to repair.
+
+26. He shall keep clear all road and field crossing grooves, and shall at
+once acquaint the engine-driver when repair to the surface of any road
+crossing is necessary.
+
+27. At least once a week he shall walk over the whole length of the main
+line and sidings, observing carefully that the keys, bridge bolts, fish
+bolts, and sleepers are in order.
+
+28. He shall, at the same time note, and as soon as possible rectify, all
+loose sleepers, crooked rails, and defective superelevation.
+
+29. He shall pay particular attention to the prompt repair of all parts
+of the line marked by the engine-driver as defective, but, independently
+of such notice, he shall be responsible for detecting defective places.
+
+30. In regard to any special repairs, or other emergencies of the
+traffic, he shall be under the direction and obey the instructions of the
+engine-driver.
+
+31. When any part of the line is under repair, care shall be taken that
+the surface of the rails is kept clear of ballast grit, and that the free
+passage of trains is in no way obstructed.
+
+32. When it is necessary to remove a sleeper, a red flag shall be set up
+between the rails in such a position that the engine-driver can discern
+it from a distance of at least 150 yards in each direction. Such flag
+shall remain until the line is made good. On no account shall the engine
+or a loaded wagon pass over any rail from which a sleeper is removed.
+
+33. If from any cause it is necessary to remove a rail, or otherwise
+block the line, the foreman platelayer shall previously notify the
+engine-driver, and arrange with him a convenient time for the work to be
+done; and without such notification the line shall under no circumstances
+whatever be so blocked. A red flag (as directed under Rule 32) shall
+remain exhibited until the line is clear.
+
+34. No platelayer other than the foreman shall be authorised to undertake
+any work interfering with the free passage of trains.
+
+35. If, for ballasting or other purposes, wagons are left by the
+engine-driver at any point on the main line, such wagons shall on no
+account be subsequently moved by hand to any other point on the main
+line, except by special arrangement with the engine-driver.
+
+36. The platelayer’s trolley shall under no circumstances be left
+standing on the main line and when not in use, or unattended, the trolley
+shall always be put at a safe distance from the line, with the wheels
+padlocked.
+
+37. The foreman platelayer shall report to the engine-driver any case of
+material found deposited within two feet of the rail, and likewise any
+other infraction of Regulations which may come to his notice.
+
+
+REGULATIONS FOR ENGINE-DRIVER.
+
+
+38. The engine-driver shall be responsible for the efficient working of
+the line, and shall use the utmost promptitude in dealing with the
+traffic as notified to him by the yardmen.
+
+39. He shall be responsible also for the care of the locomotive, rolling
+stock, and fittings appertaining thereto, any defect in which that is
+beyond his own power to rectify he shall at once notify to the
+Superintendent, with whom any further responsibility in regard to such
+defect shall then rest. But the washing of the wagons and cars shall be
+done by the yardmen as set forth under Rule 21.
+
+40. He shall, further, be responsible for the proper oiling of the axle
+boxes, spring slides, swivelling forks, and bake gear of the whole of the
+rolling stock; and shall on no account run on the train a loaded wagon
+having a hot axle box or a bent axle.
+
+41. He shall see that all rolling stock is kept, as far as possible,
+under cover at night and in wet weather.
+
+42. He shall watch carefully that the whole of the line and its
+accessories are kept in thorough working order, and shall direct the
+foreman platelayer in regard to any part requiring attention.
+
+43. He shall put down white mark pegs, of which he shall at all times
+carry a sufficient supply in the brake van, at all points of the line
+which he may notice to be in special need of repair.
+
+44. He shall arrange with the foreman platelayer, as set forth under Rule
+33, in regard to the time of execution of any work requiring the blocking
+of the line.
+
+45. He shall promptly enquire into, and report to the Superintendent, any
+case of material left within two feet of the rails, as also any other
+infraction of the Regulations which may be brought to his notice. He
+shall take care that Rule 11, in regard to passengers by the train, is
+strictly observed, and shall allow no person to ride on the engine
+without permission of the Duke or from the Estate Office.
+
+46. He shall carefully observe the following County Council Regulations
+in regard to crossing the public roads, and shall be personally liable to
+the County and District Councils respectively for the consequences of any
+infraction thereof:—
+
+  (_a_) Every train about to cross the road shall be brought to a stand
+  at a point not less than 10 yds. therefrom, and the brakesman shall
+  proceed to the centre of the road with a red flag, and shall, as soon
+  as any approaching vehicles have crossed the railway, wave the said
+  flag as a warning to distant vehicles and as a sign to the
+  engine-driver to proceed and shall continue to wave until the whole of
+  the train shall have passed over the road. After dusk a red lamp shall
+  be used in place of a flag (but a green light shall be momentarily
+  shewn to the driver when the road is clear).
+
+  (_b_) No train shall cross the road at a greater speed than five miles
+  an hour, nor shall any train impede the traffic along the road further
+  than is necessary for the crossing thereof, which shall in no case
+  exceed three minutes.
+
+  (_c_) Every train crossing the road shall be in charge of a competent
+  engine-driver and brakesman, and shall consist of not more than
+  twenty-five vehicles, exclusive of the engine.
+
+47. He shall take care to run no train without a brake-van at the rear
+end, and a brakesman in attendance.
+
+48. He shall at all times whistle before putting his engine in motion,
+and also on approaching all road crossings, termini, and other points
+where a warning may be desirable. He shall, during fog, proceed with the
+utmost caution, particularly in crossing roads, and shall be ready to
+stop promptly where cattle may be upon the line.
+
+49. He shall approach all facing points with caution, especially after
+dark, and shall see that his train is well under control in descending
+inclines, particularly the gradient by the Eaton cricket ground.
+
+50. He shall cross the Great Western Siding at Balderton only when the
+yard gates are closed, and at dead slow speed, and shall be personally
+responsible for any mishap resulting from neglect of this rule.
+
+51. He shall perform no fly-shunting with the engine pushing, and in
+draw-shunting he shall proceed with the utmost caution.
+
+52. He shall take care to avoid injury to the rolling stock from shocks,
+careless usage, or foul shunting.
+
+53. He shall, between September and February inclusive, carry on the
+train all necessary lamps ready trimmed.
+
+54. He shall take care that the breakdown tackle is always kept ready on
+the brake van in case of emergency.
+
+55. He shall under no circumstances leave his engine with the steam up
+without the hand-brake hard down, the lever out of gear, and the cylinder
+cocks open.
+
+56. He shall take care that the spark arrester is kept effective; the
+sand boxes full, and that, in conveying passengers, condensed water is
+cleared from the cylinders before starting.
+
+57. He shall keep his engine in good working order, clean, and smart;
+executing all necessary repairs at the earliest opportunity.
+
+58. He shall keep a careful watch that point-lever weights are left in
+the right positions, and that the white bars thereon are kept clearly
+painted.
+
+59. He shall notify to the Superintendent at the earliest possible time
+any requirement for the rolling stock or line, such as coal, stores,
+material for repairs, oil, waste, etc., etc., and shall keep such booked
+records of the working as are required.
+
+60. He shall impress upon the brakesman the following orders
+
+  (_a_) To travel always in the brake-van; to keep a sharp look-out and
+  promptly put down his brake should occasion require, or on receiving a
+  signal from the engine.
+
+  (_b_) To carefully watch the loaded wagons, and in the event of any
+  part of the load appearing unsafe, to signal at once to the
+  engine-driver to stop the train.
+
+  (_c_) To carry always on the van a red flag, and, between September and
+  February inclusive, a hand lamp ready trimmed, which latter, in
+  travelling after dusk, shall shew a red light at the back of the train.
+
+  (_d_) To perform shunting operations with caution, taking care that all
+  point-lever weights are left in their proper position.
+
+  (_e_) To keep his van clean and smart, washing it when required.
+
+  (_f_) To carefully observe such of the Railway Regulations as apply to
+  the brakesman’s work.
+
+
+SIGNALLING REGULATIONS.
+
+
+61. The engine-driver shall give three short whistles when he requires
+the brake-van brakes to be put down, and one short whistle when they are
+to be released. When he requires facing points to be set for the main
+line he shall give two, and for a branch or siding three medium whistles.
+A whistle continued for several minutes is a call for assistance, and
+workmen within hearing should at once proceed to the spot.
+
+62. A red light is a signal to stop; a green light, to proceed
+cautiously; and a white light, to go a-head. In shunting, a green light,
+if waved up and down, is a signal to move a-head; if from side to side,
+to back.
+
+63. It is important that all persons having to do with shunting
+operations should understand that if an engine is either in contact with
+no vehicles, or has vehicles both in front and behind, it is said to go
+a-head when it moves chimney first, and to back when it moves fire-box
+first. If in contact with vehicles at one end only, it is said to go
+a-head when it draws and to back when it pushes such vehicles, without
+regard to its own direction.
+
+
+
+D.
+
+
+The following rather neat parody, which appeared in a London evening
+paper at the time of the passing of the Light Railways Act, expresses a
+very reasonable doubt, in which I fully share, as to the specially
+beneficial effect of the measure on agriculture. Fortunately, the Act has
+been taken very quietly, and such schemes as have been promoted will, for
+the most part, be of considerable general advantage. Certainly there are
+some cases in which farmers would be the gainers by a light railway, but
+these are an infinitesimal proportion of their whole number.
+
+                     THAT TIGHT LITTLE, LIGHT LITTLE
+
+
+
+    “Non si male nunc et olim
+    Sic erit.”
+
+   YOU farmers, who lately
+   Have suffered so greatly
+      From agricultural depression,
+   Shake off gloom and sorrow,
+   A brighter to-morrow
+      Will dawn in the course of the Session.
+
+   By no relaxation
+   Of rates or taxation,
+      By a certain sure-never-to-fail way,
+   Through Government’s pleasure
+   To bring in a measure
+      For giving some districts a railway:
+         A tight little, light little railway,
+            A nice little, light little railway,
+         O think of the joy
+         Of that exquisite toy,
+            A tight little, light little railway.
+
+   Your wheat may grow cheaper,
+   The pay of your reaper
+      May rise to a figure outrageous;
+   The weather may lay all
+   Your crops, and your hay all
+      Be ruined by tempests rampageous;
+   Your stock mayn’t grow fatter,
+   But that does not matter,
+      Except in a bargain and sale way:
+   What are these to the blessing
+   Of really possessing
+      A tight little, light little railway?
+
+                                 (_Chorus_.)
+
+   You may not have a fraction
+   Of produce for traction,
+      Not a stone’s weight to put in a wagon,
+   Not a horse in your stable,
+   No bread on your table,
+      Not a shoe to your foot, not a rag on:
+   All this would be frightful
+   Were it not so delightful
+      To see in as-slow-as-a-snail way
+   The trucks all go gliding
+   From track into siding,
+      From siding to track on your railway.
+
+                                 (_Chorus_.)
+
+   Then, oh _fortunati_
+   _Agricolœ_, wait, aye
+      Wait, for the clouds to roll by you:
+   Your troubles are over;
+   To-morrow, in clover,
+      You’ll laugh at the ills that now try you.
+   “_Ex machinâ Deus_
+   Is coming to free us,
+      Not in an old-fashioned or stale way.”
+   Let this be your chorus—
+   “A future’s before us;
+      Three cheers for the light little railway!”
+
+                                 (_Chorus_.)
+
+
+
+
+PLATES.
+
+
+Tennis Ground station, Duffield Bank Railway.
+
+
+         [Picture: Tennis Ground station, Duffield Bank Railway]
+
+
+
+Tennis Ground station, Duffield Bank Railway.
+
+
+         [Picture: Tennis Ground station, Duffield Bank Railway]
+
+
+
+Viaduct, Duffield Bank Railway.
+
+
+                [Picture: Viaduct, Duffield Bank Railway]
+
+
+
+Curve, 25 feet radius, Duffield Bank Railway.
+
+
+         [Picture: Curve, 25 feet radius, Duffield Bank Railway]
+
+
+
+Engine No 2 and Goods Train, Duffield Bank Railway.
+
+
+      [Picture: Engine No 2 and Goods Train, Duffield Bank Railway]
+
+
+
+Engine No 1 and Passenger Train, Duffield Bank Railway.
+
+
+    [Picture: Engine No 1 and Passenger Train, Duffield Bank Railway]
+
+
+
+Balderton Junction—Engine and Waggon Sheds, Eaton Railway.
+
+
+   [Picture: Balderton Junction—Engine and Waggon Sheds, Eaton Railway]
+
+
+
+Engine No 4 and Train, Eaton Railway.
+
+
+             [Picture: Engine No 4 and Train, Eaton Railway]
+
+
+
+Eaton Terminus—Coal Store and Carriage Shed, Eaton Railway.
+
+
+  [Picture: Eaton Terminus—Coal Store and Carriage Shed, Eaton Railway]
+
+
+
+Estate Works Sidings, Eaton Railway.
+
+
+              [Picture: Estate Works Sidings, Eaton Railway]
+
+
+
+Belgrave Engine Shed, Eaton Railway.
+
+
+              [Picture: Belgrave Engine Shed, Eaton Railway]
+
+
+
+Engine No 1, Duffield Bank Railway, 1874.
+
+
+           [Picture: Engine No 1, Duffield Bank Railway, 1874]
+
+
+
+Engine No 2, Duffield Bank Railway, 1881.
+
+
+           [Picture: Engine No 2, Duffield Bank Railway, 1881]
+
+
+
+Engine No 3, Duffield Bank Railway, 1894.
+
+
+           [Picture: Engine No 3, Duffield Bank Railway, 1894]
+
+
+
+Engine No 4, Eaton Railway, 1896.
+
+
+               [Picture: Engine No 4, Eaton Railway, 1896]
+
+
+
+Dining Car (to seat eight), Duffield Bank Railway.
+
+
+       [Picture: Dining Car (to seat eight), Duffield Bank Railway]
+
+
+
+Parcel Van, Duffield Bank Railway.
+
+
+               [Picture: Parcel Van, Duffield Bank Railway]
+
+
+
+Arrangement drawing of Dining Carriage to seat eight.
+
+
+     [Picture: Arrangement drawing of Dining Carriage to seat eight]
+
+
+
+Arrangement drawing of Sleeping Carriage with four berths.
+
+
+   [Picture: Arrangement drawing of Sleeping Carriage with four berths]
+
+
+
+Side elevation of Passenger Carriage to seat sixteen.
+
+
+     [Picture: Side elevation of Passenger Carriage to seat sixteen]
+
+
+
+Arrangement of Radiating Wheels on six-coupled engine No. 2.
+
+
+  [Picture: Arrangement of Radiating Wheels on six-coupled engine No. 2]
+
+
+
+Plan and Section of Eaton Railway
+
+
+               [Picture: Plan and Section of Eaton Railway]
+
+
+
+Cross Sections of Eaton Railway
+
+
+                [Picture: Cross Sections of Eaton Railway]
+
+
+
+
+FOOTNOTES
+
+
+{46}  The then approaching Board of Trade Light Railway Conference.
+
+{48}  The Duffield Bank Railway is here referred to.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK MINIMUM GAUGE RAILWAYS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
