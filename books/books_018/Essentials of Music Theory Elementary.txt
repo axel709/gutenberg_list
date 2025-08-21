@@ -1,0 +1,2762 @@
+The Project Gutenberg eBook of Essentials of Music Theory: Elementary
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Essentials of Music Theory: Elementary
+
+Author: Carl E. Gardner
+
+Release date: June 4, 2021 [eBook #65500]
+
+Language: English
+
+Credits: Jane Robins and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK ESSENTIALS OF MUSIC THEORY: ELEMENTARY ***
+
+    +------------------------------------------------+
+    |                  Note:                         |
+    |                                                |
+    | Bold surrounding =text=.                       |
+    | Italics surrounding _text_.                    |
+    |                                                |
+    +------------------------------------------------+
+
+
+
+
+
+    ESSENTIALS OF
+
+    MUSIC THEORY
+
+
+    ELEMENTARY
+
+
+    BY
+
+    CARL E. GARDNER
+
+    AUTHOR OF "MUSIC COMPOSITION"
+
+
+    [Illustration]
+
+
+    NEW YORK
+
+    CARL FISCHER
+
+    1912
+
+
+
+
+    COPYRIGHT, 1912,
+
+    BY
+
+    CARL FISCHER
+
+
+    International Copyright Secured
+
+
+
+
+PREFACE.
+
+
+The primary object in the following pages is to supply the teacher
+and student with a text book to accompany the work on instrumental or
+vocal technic. Because of the great amount of time required to obtain
+proficient technic, text books are often neglected, and, if exhaustive,
+are usually ignored. Brevity and conciseness characterize this volume
+and it is planned to meet the needs of the busy teacher and student.
+
+Many pupils may not see the importance of some of the following
+text, such as the research for theoretical keys; but the results
+thus obtained are nothing more than the natural outcome of simple
+mathematical reasoning, and are inevitable if the -structure- of the
+scales is understood. Pupils should be impressed with the structure of
+scales rather than be taught their keys and signatures by rote. Rote
+methods have little to recommend them in modern pedagogical ideals,
+and are used principally in teaching the young. The lack of knowledge
+of the -whys- and -wherefores- of scales, intervals, and chords among
+instrumentalists and singers is appalling, and is due partly to the
+neglect of text books and partly to incompetent teachers.
+
+A further object of the text is to offer a course of preparation
+for the study of harmony, composition, and appreciation. Music
+Appreciation, as a cultural course of study, is growing in popularity
+and large enthusiastic classes in this subject are to be found in
+all our colleges. These students are frequently handicapped by poor
+preparation in the essential rudiments of music such as are treated in
+this volume.
+
+The author's gratitude for valuable aid, criticisms, and suggestions
+is due his wife, Marion Dillon Gardner, and his sisters, Mabel Gardner
+Bankart and Lena Gardner Lewis.
+
+
+
+
+CONTENTS.
+
+
+                                                              PAGE
+
+
+    PREFACE                                                    iii
+
+
+    I. RHYTHM: NOTE VALUES: TIME SIGNATURES: TEMPO               3
+
+
+    II. THEORY OF SCALES (Major and Minor)                      10
+
+            The Major Scale                                     11
+
+            The Minor Scale                                     21
+
+
+    III. INTERVALS AND CHORD BUILDING                           32
+
+            Inversion of Intervals                              36
+
+            Chord Construction                                  38
+
+            Inversion of Triads                                 40
+
+            The Seventh Chord                                   41
+
+            Inversion of Seventh Chords                         43
+
+
+    IV. EPITOMIZED ACOUSTICS                                    47
+
+
+    V. EAR TRAINING                                             51
+
+            The Normal Intervals of the Major Scale             52
+
+            The Normal Intervals of the Minor Scale             55
+
+            Altered Intervals                                   56
+
+            Arpeggio Chords                                     60
+
+            Two Voiced Chords                                   61
+
+            The Four Voiced Chord                               63
+
+
+
+
+ESSENTIALS OF MUSIC THEORY
+
+
+
+
+CHAPTER I.
+
+RHYTHM.
+
+
+Sound is the effect produced by propagated atmospheric waves which
+affect the sense of hearing. Irregular impulses, propagated through the
+air, produce noise. Regular impulses produce musical -tone-.
+
+The duration of tone is indicated by symbols called -notes-. Following
+is a list of notes:--
+
+    [Double whole note] or [Breve] Double whole note or -Breve-.
+
+    [Semibreve] Whole note or -Semibreve-.
+
+    [Minim] Half note or -Minim-.
+
+    [Quarter] Quarter note or -Crotchet-.
+
+    [Eighth] Eighth note or -Quaver-.
+
+    [Semiquaver] Sixteenth note or -Semiquaver-.
+
+    [Demisemiquaver] Thirty-second note or -Demisemiquaver-.
+
+Occasionally the sixty-fourth note ([Sixty-fourth note]) is used.
+Following is a table of the relative value of notes:--
+
+[Illustration]
+
+The -breve- or double whole note is not given in this table as it is
+but seldom used. The value of it is twice the whole note, four times
+the half, etc.
+
+The whole note is represented by an open oval; the half, by an open
+oval and stem; the quarter, by a closed head and stem; the eighth note
+is the same as the quarter with a flag; the sixteenth, the same with
+two flags; the thirty-second, the same with three flags. As is seen
+in the table, the eighth, sixteenth and thirty-second notes are often
+grouped when more than one occurs in succession.
+
+Suspension of tone is indicated by symbols called -rests-. Each note
+has its equivalent rest. Following is a list of rests:--
+
+    [Double whole rest] Double whole rest.
+    [Whole rest] Whole rest.
+    [Half rest] Half rest.
+    [Quarter rest] Quarter rest.
+    [Eighth rest] Eighth rest.
+    [Sixteenth rest] Sixteenth rest.
+    [Thirty-second rest] Thirty-second rest.
+
+The rate of vibration is called -pitch-. Rapid vibrations produce
+"high" (shrill) tones. Slow vibrations produce "low" tones. More
+complete information on sound, tone and pitch is given later under the
+heading "Acoustics."
+
+The notes are written on the staff which consists of five horizontal
+lines together with their spaces. The duration of a tone is determined
+by the note used; the pitch, by the note's position on the staff.
+
+A dot placed after a note or rest adds one half its value. A "tie" is
+a curved line connecting two notes of the same pitch. Examples of dots
+and ties:--
+
+    [Semibreve with Augmentation dot] equals [Semibreve tied with
+        Minim] or 1 + 1/2.
+
+    [dotted half note] equals [half note tied to quarter note] or
+        1/2 + 1/4.
+    [dotted quarter note] equals [quarter note tied to eight note] or
+        1/4 + 1/8.
+    etc., etc.
+
+A double dot adds one half and one fourth its value, thus:--
+
+    [double dotted whole note] equals [tied notes; tied whole, half
+        and quarter note] or 1 + 1/2 + 1/4.
+    [double dotted half note] equals [tied notes; tied half, quarter
+        and eighth note] or 1/2 + 1/4 + 1/8.
+    [double dotted quarter note] equals [music symbol; tied quarter,
+        eighth and sixteenth notes] or 1/4 + 1/8 + 1/16.
+    etc., etc.
+
+Bars are lines drawn vertically across the staff dividing music into
+-measures-. The contents of the measure is determined by the fraction
+at the beginning. The denominator of the fraction shows the kind of
+notes, and the numerator, the number of that kind contained in a
+measure. Each measure must contain the number and kind of notes or
+rests designated by the fraction, or their equivalents.
+
+-Artificial groups- are groups of notes played and summed in other
+than their fractional value. The most common artificial groups are the
+-triplet- and -sextuplet-. A triplet is a group of three notes played
+in the time and summed in the value of two of its own kind. A sextuplet
+is a group of six notes played in the time and summed in the value of
+four of its own kind. A group of five notes is played in the time and
+summed in the value of four of its own kind. A group of seven notes
+is played in the time and summed in the value of six of its own kind.
+Occasionally a group of two notes occurs. This group differs from other
+artificial groups inasmuch as it is played more slowly than the tempo
+notes. A group of two notes is played in the time and summed in the
+value of three of its own kind. Artificial groups are designated by a
+curved line over or under the notes with a figure showing the kind of
+group, thus:--
+
+    triplet                  [Illustration: [triplet]]
+    sextuplet                [Illustration: [sextuplet]]
+    group of two notes       [Illustration: [2-note group]]
+
+In "counting" music, it is customary to give as many counts to each
+measure as the numerator of the fraction indicates. Each of these
+counts is called a -pulse-. Pulses should occur regularly unless
+otherwise marked. Irregularities in the occurrence of pulses are
+marked in various ways. The -ritardando-, the -hold- ([Fermata]),
+and the -accelerando- are the principal marks of irregularities. The
+-ritardando- (abbreviated -ritard.- or -rit.-) means to lessen the
+speed, the -accelerando- (abbreviated -accel.-) to quicken the speed,
+and the -hold- ([Fermata]) to hold the note, over or under which it is
+placed, as long as musical taste dictates.
+
+This occurrence of pulses is called -rhythm-. The most common rhythms
+are =4/4= or [common time], =3/4=, =2/4=, =6/8=,
+=3/8=, =4/8=, =9/8=, =12/8=, and =2/2= or [2/2
+alla breve] also called -alla breve-. Other rhythms not so common are
+=6/4=, =8/4=, =1/4=, =2/8=, =1/2=, =6/2=,
+=3/2=, =4/2=, =3/16=, and less often =1/1=,
+=5/4=, =5/8= and =5/16=, etc.
+
+On the first pulse of all kinds of rhythm is a primary accent called
+-thesis-. Secondary accents, called -arsis-, occur in =4/4= on
+the third count and in =6/8= on the fourth count. These natural
+accents give a "swing" to the music. They can only be displaced or
+overshadowed by artificial accents which are designated in various
+ways. The most common artificial accents are the -forzando- (designated
+thus: [Sforzato], [Marcato], or -fz-), meaning a sudden strong
+accent to the note or chord over or under which it is placed; the
+-rinforzando- (which is not quite so marked as the -forzando-); the
+-staccato- (designated by a dot placed over or under the note or
+chord) which makes the note thus indicated short and crisp, and the
+-syncopation-, which is a form of rhythm displacing the natural accent
+by the note's entrance on an unaccented part of the measure and its
+sustentation through the pulse.
+
+The rapidity of the occurrence of pulses is called -tempo-, which is
+indicated at the beginning of a movement by Italian words usually, the
+most common of which are as follows:--
+
+-Grave-, slow and solemn (the slowest tempo).
+
+-Largo-, slow, a trifle faster than Grave.
+
+-Larghetto-, a trifle faster than Largo.
+
+-Adagio-, a trifle faster than Larghetto.
+
+-Lento-, slow.
+
+-Andante-, moderately slow.
+
+-Andantino-, translated literally means slower than Andante, but it is
+more often used incorrectly meaning faster than Andante.
+
+-Moderato-, moderate; the mediate between fast and slow.
+
+-Allegretto-, cheerful.
+
+-Allegro-, quick.
+
+-Vivo-, quick.
+
+-Presto-, very quick.
+
+To many of the above words is added the ending -issimo- which gives
+the word to which it is added its superlative degree. Other terms are
+oftentimes combined with the above words to characterize the movement.
+Every pupil should have a dictionary of musical terms for constant
+reference.
+
+The majority of piano students have an absolute disregard for note
+values and tempo marks which are so important that the pupils fail to
+gain any good results from their study unless they understand and pay
+strict attention to these marks. The incompetency of so many teachers
+is somewhat responsible for this state of affairs, but the majority of
+piano studies and methods is more largely responsible. In second grade
+studies, there are many which, if written in a judicious manner, would
+be excellent second grade work, but when played as they are written
+and as their tempo mark demands require a virtuoso to execute them
+correctly. These studies have led pupils to playing -allegro- movements
+in -largo- tempo. At the end of a week's practice a -moderato tempo-
+may be the result. Continued enforced disregard can produce nothing
+but habitual disregard for tempo marks. The teacher should constantly
+remind the student of these facts and, in as far as possible, omit such
+studies as cannot be played -a tempo-. Many exercises may be rewritten
+in a playable manner by the teacher, who, by so doing, would not only
+impress the pupil with the importance of tempo marks, but would develop
+his ability to read from manuscript, an ability which, unfortunately,
+is almost universally lacking in pupils.
+
+
+EXERCISES.
+
+ORAL AND WRITTEN.
+
+1. What is sound?
+
+2. Tell the difference between noise and musical tone.
+
+3. What is a note?
+
+4. Describe the most common notes.
+
+5. Write a table of the relative value of notes commencing with the
+whole note.
+
+6. Write a table of the relative value of notes commencing with the
+dotted half note.
+
+7. Describe the rests.
+
+8. For each dotted note, show its equivalent by two tied notes.
+
+9. For each double dotted note, show its equivalent by three tied notes.
+
+10. Describe measure and bar and upon what the measure's contents
+depends.
+
+11. Describe the manner of counting the different rhythms.
+
+12. Name the marks that designate irregularities in rhythms and
+describe the character of each mark.
+
+13. Describe the natural accent.
+
+14. Name the most common artificial accents and describe the character
+of each.
+
+15. What is meant by tempo?
+
+16. Name and define twelve different tempo marks.
+
+17. Explain and notate artificial groups.
+
+
+
+
+CHAPTER II.
+
+THEORY OF SCALES.
+
+MAJOR AND MINOR.
+
+
+As stated before (Chapter I, page 4), the rate of vibration
+is called pitch. Tones vibrating an equal number of times produce
+an -unison- which is a perfect concordance and is pleasant to the
+ear. Equally as pleasant to the ear is the ratio of two vibrations
+against one. A tone vibrating twice as fast as a given tone is called
+the given tone's -octave-. Between these two tones many tones may be
+found. For example, suppose a note vibrating two hundred times in a
+second, its octave would vibrate four hundred times in the second.
+Between these two tones there would be (avoiding fractions which would
+produce more different pitches) one hundred and ninety-nine tones of
+different pitch. The ear is incapable of locating all these tones and
+modern custom has divided all octaves into twelve parts, each part
+being called a half step or, literally incorrect, a -semi-tone-. These
+semi-tones sounded successively upwards or downwards from any tone to
+its octave produce the -chromatic scale-.[A]
+
+[Footnote A: All references to scales, intervals and enharmonic changes
+treat of the tempered scale.]
+
+A -diatonic scale- is a progression from any tone to its octave in
+which certain chromatic steps are omitted. In modern music there are
+three forms of diatonic scales, called:--
+
+    1. Major.
+    2. Harmonic minor.
+    3. Melodic minor.
+
+All three forms have eight tones, the eighth being the octave of the
+first and is given the same name.
+
+The tones of the diatonic scale are named in four different ways:--
+
+    1. by numerals (Arabic and Roman),
+    2. by the first seven letters of the alphabet,
+    3. by the Italian syllables (-do-, -re-, -mi-, -fa-, -sol-,
+        -la-, -si-,) and
+    4. by the theory names (-tonic-, -supertonic-, -mediant-,
+       -subdominant-, -dominant-, -submediant- and -subtonic-).
+
+-The key-tone is the tone from which a diatonic scale is built.-
+
+The numerical system is a movable system which means that 1 is always
+the key-tone. The theory name system is a movable system, the tonic
+being always the key-tone or 1. The alphabet system is a fixed system
+which means that a letter is always the same tone or its octave. The
+Italian system is treated as both a fixed system and a movable system.
+This book treats of the movable -do-, -do- always being the key-tone, 1
+and tonic.
+
+
+THE MAJOR SCALE.
+
+A major scale is a progression from any tone to its octave in which
+chromatic steps are omitted between 1 and 2,--2 and 3,--4 and 5,--5 and
+6,--6 and 7; from 3 to 4 and from 7 to 8 half steps are made.
+
+Following is a diagram of a two octave keyboard:--
+
+[Illustration:
+
+      C♯  D♯  F♯  G♯  A♯   C♯  D♯  F♯  G♯  A♯
+      or  or  or  or  or   or  or  or  or  or
+      D♭ E♭  G♭ A♭  B♭ D♭  E♭ G♭ A♭  B♭
+
+      C   D   E  F  G  A  B  C  D   E   F  G  A  B  C
+]
+
+The keyboard shows white and black keys. The black keys are in groups
+of two and three. As can be seen in the diagram, the white key next
+to the left of the group of two black keys is -c-. The white keys in
+order to the right of -c- are respectively -d-, -e-, -f-, -g-, -a- and
+-b-. Following -b- is a repetition of -c- at the distance of an octave.
+Notice that between -e- and -f- there is no black key as is also the
+case between -b- and -c-. In these two cases, where no black key
+separates the white keys, the white keys are one semi-tone apart. Two
+white keys separated by a black key are one whole step apart. A black
+key is at the distance of a semi-tone from an adjoining white key. The
+black keys derive their letter names from the white keys. A black key
+is named from either of the white keys between which it is situated.
+The black key between -c- and -d- is named -c sharp- (♯) or -d flat-
+(♭).
+
+Starting at -c- and sounding the white keys in order to the right as
+far as the octave produces the ascending major scale of -C-; sounding
+in order to the left produces the descending major scale of -C-. Notice
+that no black keys are necessary in the case of the -C- major scale,
+the whole and half steps being in their proper places; namely, whole
+steps between 1 and 2, 2 and 3, 4 and 5, 5 and 6, 6 and 7, and half
+steps between 3 and 4 and between 7 and 8. The student must constantly
+keep in mind the order of whole and half steps in all scales explained.
+In each scale explained the letters will be numbered and a curved line
+will connect those figures representing tones one half step apart.
+
+All major keys except -C- major require one or more black keys. The
+number of sharps or flats required for a key is placed at the beginning
+of the staff and this is called the signature.
+
+A sharp (♯) placed before a note raises the tone one half step and a
+flat (♭) lowers a tone one half step.
+
+The sharp keys will be considered first and a sharp major scale will be
+built from each of the twelve tones.
+
+       *       *       *       *       *
+
+=Rule 1. The Fifth of a Scale is the Tonic (or 1) of the Scale having
+the next Number of Sharps.=
+
+-C- has no sharps, the fifth of -C- is -g- and therefore by following
+the rule, we find that -G- has one sharp. The scale of -G- is as
+follows:--
+
+    G a b c d e f♯ G
+    1 2 3⌣4 5 6 7⌣8
+
+Notice that the seventh of the scale is a black key.
+
+The fifth of -G- is -d- and has two sharps:--
+
+    D e f♯ g a b c♯ D
+    1 2 3⌣4 5 6 7⌣8
+
+Notice that -f- remains sharped and the added sharp is the seventh of
+the scale. This is always the case, the added sharp is the seventh of
+the new scale.
+
+The fifth of -D- is -a- and has three sharps:--
+
+    A b c♯ d e f♯ g♯ A
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -A- is -e- and has four sharps:--
+
+    E f♯ g♯ a b c♯ d♯ E
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -E- is -b- and has five sharps:--
+
+    B c♯ d♯ e f♯ g♯ a♯ B
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -B- is -f-♯ and has six sharps:--
+
+    F♯ g♯ a♯ b c♯ d♯ e♯ F♯
+    1 2 3⌣4 5 6 7⌣8
+
+Notice that -e-♯ is not a black key but the white key which has been
+previously considered as -f-. It must be called -e-♯ to retain the
+alphabetical order.
+
+The fifth of -F-♯ is -c-♯ and has seven sharps:--
+
+    C♯ d♯ e♯ f♯ g♯ a♯ b♯ C♯
+    1 2 3⌣4 5 6 7⌣8
+
+In this scale all the notes are sharped. The -b-♯ as well as the -e-♯
+is a white key.
+
+The fifth of -C-♯ is -g-♯ and has eight sharps. This key necessitates
+one double sharp and -f- is double sharped. The double sharps are
+added in the same order that the single sharps are. The double sharp
+(designated thus: =x=) raises a tone one whole step.
+
+    G♯ a♯ b♯ c♯ d♯ e♯ f=x= G♯
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -G-♯ is -d-♯ and has nine sharps (two double sharps, -f-
+and -c-):--
+
+    D♯ e♯ f=x= g♯ a♯ b♯ c=x= D♯
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -D-♯ is -a-♯ and has ten sharps (three double sharps, -f-,
+-c- and -g-):--
+
+    A♯ b♯ c=x= d♯ e♯ f=x= g=x= A♯
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -A-♯ is -e-♯ and has eleven sharps (four double sharps,
+-f-, -c-, -g- and -d-):--
+
+    E♯ f=x= g=x= a♯ b♯ c=x= d=x= E♯
+    1 2 3⌣4 5 6 7⌣8
+
+The fifth of -E-♯ is -b-♯ and has twelve sharps (five double sharps,
+-f-, -c-, -g-, -d- and -a-):--
+
+    B♯ c=x= d=x= e♯ f=x= g=x= a=x= B♯
+    1 2 3⌣4 5 6 7⌣8
+
+-B-♯ has taken us back to our starting key called by a different name.
+
+All twelve keys have now been named with their sharp signatures. To
+continue counting five would take us over the same keys called by
+different names. The student is advised to do a little of this for
+mental discipline. If this is done beyond fourteen sharps, it will be
+necessary to add triple sharps. Of course, triple sharps are never used
+in musical notation and such a research would be entirely arithmetical.
+
+The order of the letters in the sharp signature which follows should be
+committed to memory:--
+
+    F C G D A E B.
+
+All keys having one double sharp or more would be difficult to read,
+and so instead of using the sharp signatures on such keys, the flat
+signatures are used. All twelve keys with their flat signatures will
+now be given.
+
+       *       *       *       *       *
+
+=Rule 2. The Fourth of a Scale is the Tonic of the Scale having the
+Next Number of Flats.=
+
+-C- has no flats; the fourth of -C- is -f-; therefore, by following the
+rule, we find that -F- has one flat:--
+
+    F g a b♭ c d e F
+    1 2 3⌣4 5 6 7⌣8
+
+Notice the fourth of the scale is a black key.
+
+The fourth of -F- is -b-♭ and has two flats:--
+
+    B♭ c d e♭ f g a B♭
+    1 2 3⌣4 5 6 7⌣8
+
+Notice that the -b- remains flat and that the added flat is the fourth
+of the scale. This is always the case--the added flat is the fourth of
+the new scale.
+
+The fourth of -B-♭ is -e-♭ and has three flats:--
+
+    E♭ f g a♭ b♭ c d E♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -E-♭ is -a-♭ and has four flats:--
+
+    A♭ b♭ c d♭ e♭ f g A♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -A-♭ is -d-♭ and has five flats:--
+
+    D♭ e♭ f g♭ a♭ b♭ c D♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -D-♭ is -g-♭ and has six flats:--
+
+    G♭ a♭ b♭ c♭ d♭ e♭ f G♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of G♭ is -c-♭ and has seven flats:--
+
+    C♭ d♭ e♭ f♭ g♭ a♭ b♭ C♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -C-♭ is -f-♭ and has eight flats. This key necessitates
+one double flat and -b- has the double flat. The double flats are
+added in the same order that the single flats are. The double flat
+(designated: ♭♭) lowers a tone one whole step.
+
+    F♭ g♭ a♭ b♭♭ c♭ d♭ e♭ F♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -F-♭ is -b-♭♭ and has nine flats (two double
+flats, -b-♭♭and -e-♭♭):--
+
+    B♭♭ c♭ d♭ e♭♭ f♭ g♭ a♭ B♭♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -B-♭♭ is -e-♭♭ and has ten flats (three double flats,
+-b-♭♭, -e-♭♭ and -a-♭♭):--
+
+    E♭♭ f♭ g♭ a♭♭ b♭♭ c♭ d♭ E♭♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -E-♭♭ is -a-♭♭ and has eleven flats (four double
+flats, -b-♭♭, -e-♭♭, -a-♭♭ and -d-♭♭):--
+
+    A♭♭ b♭♭ c♭ d♭♭ e♭♭ f♭ g♭ A♭♭
+    1 2 3⌣4 5 6 7⌣8
+
+The fourth of -A-♭♭ is -d-♭♭ and has twelve flats (five double
+flats, -b-♭♭, -e-♭♭, -a-♭♭, -d-♭♭, and -g-♭♭):--
+
+    D♭♭ e♭♭ f♭ g♭♭ a♭♭ b♭♭, c♭ D♭♭
+    1 2 3⌣4 5 6 7⌣8
+
+D♭♭ has taken us back to our starting key called by a different name as
+was the case when we had twelve sharps. To continue counting four would
+take us over the same keys called by different names. As was advised in
+the sharp keys, this research should be continued by the student. If
+more than fourteen flats are considered, it will be necessary to add
+triple flats.
+
+The order of the letters in the flat signature which follows should be
+committed to memory:--
+
+    B E A D G C F.
+
+By comparing the order of the letters in the flat signature with that
+of the sharp signature, it will be seen that the order of the letters
+in the flat signature is that of the sharp signature reversed.
+
+Notice that each key has more than one name; for example, the white key
+next to the left of the group of two black keys has been called -C-,
+-D-♭♭ and -B-♯.
+
+       *       *       *       *       *
+
+=Rule 3. An Enharmonic Change is the Change of a Name of a Tone
+without Altering its Pitch.=
+
+Two or more scales played from the same pitched tone but called by
+different names are called -enharmonic scales-. In practice,[B] fifteen
+major scales are used, three of which are enharmonic scales. Following
+is a list of the major scales used in practice together with their
+signatures:--
+
+    C       no sharps or flats
+    G       1 sharp (f)
+    D       2 sharps (f and c)
+    A       3 sharps (f, c and g)
+    E       4 sharps (f, c, g and d)
+    F 1 flat (b)
+    B♭ 2 flats (b and e)
+    E♭ 3 flats (b, e and a)
+    A♭ 4 flats (b, e, a and d)
+    D♭ 5 flats (b, e, a, d and g). enharmonical to C♯.
+    G♭ 6 flats (b, e, a, d, g and c) enharmonical to F♯
+    C♭ 7 flats (b, e, a, d, g, c and f) enharmonical to B
+    B 5 sharps (f, c, g, d and a)
+    F♯ 6 sharps (f, c, g, d, a and e)
+    C♯ 7 sharps (f, c, g, d, a, e and b)
+
+[Footnote B: Theoretical keys appear in many compositions during
+transitions, but they are not obvious (except by analysis) because of
+the fact that their signatures do not appear.]
+
+The enharmonic keys used in practice are:--
+
+    B (five sharps) enharmonical to C♭ (seven flats)
+    F♯ (six sharps) enharmonical to G♭ (six flats)
+    C♯ (seven sharps) enharmonical to D♭ (five flats)
+
+       *       *       *       *       *
+
+=Rule 4. The Sum of the Enharmonic Flat and Sharp Signatures is
+Twelve.= Notice that this is true in the above three keys.
+
+By this rule the theoretical keys (that is, those having more than
+seven sharps or flats) are easily found. For example:--to find the key
+having eleven flats; the key having eleven flats is enharmonical to the
+key having one sharp (11 + 1 = 12). -G- has one sharp and changing its
+name to the enharmonic flat key, we obtain -A-♭♭ which, therefore, has
+eleven flats. This process should be applied to all keys having eight
+to eleven sharps and eight to eleven flats inclusive.
+
+As stated in the first chapter, the pitch of a tone is determined
+by the note's position on the staff. The staff of five lines with
+its spaces allows of the designation of but one octave and one step,
+whereas, in modern music, there is need of the notation of at least six
+octaves. This necessitates the use of symbols called -clefs-, and lines
+added to the staff called ledger lines. Ledger lines are short lines
+parallel to the staff lines added above or below the staff lines.
+
+There are three clefs:--
+
+    1. the treble or G clef, 2. the tenor, movable or C clef, 3. the
+    bass or F clef.
+
+Middle -C- is the tone which all voices can sing. It is in the lower
+register of the high female voice and in the upper register of the low
+male voice.
+
+The -G clef- (treble clef) is for high voices or instruments. Its
+symbol shows the position of the -G- next above middle -C- thus:
+[Illustration: [music]]. Middle -C- is found on the first ledger line
+below the -G clef-, thus: [Illustration: [music]].
+
+The -tenor- or -C clef- is for the use of medium voices or instruments.
+Its symbol shows the position of middle -C-. This clef is movable
+and may place middle -C- on any line or space of the staff. Its most
+common position is on the third line of the staff, thus: [Illustration:
+[music]]. It is not uncommon, however, to find it on the second or
+fourth line. For vocal music it is often written in the third space.
+
+The -bass- or -F clef- is for the use of low voices or instruments.
+Its symbol shows the position of the -F- next below middle -C-, thus:
+[Illustration: [music]]. Middle -C- is found on the first ledger line
+above the -F clef-, thus: [Illustration: [music]].
+
+The notation in the treble clef of all the major scales used in
+practice follows:
+
+    Scale of C [Illustration: [Music: C d e f g a b C]]
+
+    Scale of G [Illustration: [Music: G a b c d e f♯ G]]
+
+    Scale of D [Illustration: [Music: D e f♯ g a b c♯ D]]
+
+    Scale of A [Illustration: [Music: A b c♯ d e f♯ g♯ A]]
+
+    Scale of E [Illustration: [Music: E f♯ g♯ a b c♯ d♯ E]]
+
+    Scale of B [Illustration: [Music: B c♯ d♯ e f♯ g♯ a♯ B]]
+
+    Scale of F♯ [Illustration: [Music: F♯ g♯ a♯ b c♯ d♯
+      e♯ F♯]]
+
+    Scale of C♯ [Illustration:
+      [Music: C♯ d♯ e♯ f♯ g♯ a♯ b♯ C♯]]
+
+    Scale of F [Illustration: [Music: F g a b♭ d e F]]
+
+    Scale of B♭ [Illustration: [Music: B♭ c d e♭ f g a B♭]]
+
+    Scale of E♭ [Illustration: [Music: E♭ f g a♭ b♭ c d E♭]]
+
+    Scale of A♭ [Illustration: [Music: A♭ b♭ c d♭ e♭ f g A♭]]
+
+    Scale of D♭ [Illustration: [Music: D♭ e♭ f g♭ a♭ b♭ c
+        D♭]]
+
+    Scale of G♭ [Illustration: [Music: G♭ a♭ b♭ c♭ d♭ e
+       f G♭]]
+
+    Scale of C♭ [Illustration: [Music: C♭ d♭ e♭ f♭ g♭
+       a♭ b♭ C♭]]
+
+
+THE MINOR SCALE.
+
+There are two forms of minor scales, -harmonic- and -melodic-, both
+differing in construction from the major form.
+
+The minor key having no sharps or flats in the signature is -a-.
+Starting at -a- and sounding the seven white keys in order to the right
+produces a form of scale with whole steps between 1 and 2, 3 and 4, 4
+and 5, 6 and 7, 7 and 8, and half steps between 2 and 3 and between
+5 and 6. This scale is unsatisfactory to the ear as its subtonic is
+not a -leading tone-. The effect of a leading tone should be urgent,
+restless, and demand its tonic in order to obtain a restful effect.
+This urgent effect can only be obtained by the subtonic being one
+half step below the tonic. This may be obtained by simply raising the
+seventh one semi-tone in the above scale formation and thus is produced
+the so-called -harmonic minor- scale.
+
+The symbols for raising a note are the -sharp- (♯), the -double sharp-
+(=x=), and the -cancel- (♮) (also called -natural-) when placed
+before a note that has been previously affected by a flat. The symbols
+for lowering a note are the -flat- (♭), the -double flat- (♭♭), and
+the -cancel- when placed before a note that has been previously affected
+by a sharp. By these statements it can be seen that the cancel (♮) is
+both a lowering and a raising symbol. The -cancel- lowers a tone when it
+cancels a sharp and raises a tone when it cancels a flat.
+
+-The harmonic minor scale- is formed by whole steps between 1 and 2,--3
+and 4,--4 and 5,--half steps between 2 and 3,--5 and 6,--7 and 8,
+and an interval of one and one-half steps (called an augmented step)
+between 6 and 7. In demonstrating the minor keys, a curved line will be
+used to connect those figures representing tones one half step apart
+and a bracket to connect those figures representing tones an augmented
+step apart.
+
+The key of -a minor- (harmonic form) is as follows:--
+
+    a b c d e f g♯ a
+
+    1 2 3⌣4 5⌣6⌴7⌣8
+
+The student will notice that this scale has one sharp (-g-).
+Nevertheless, the -a minor- is the minor key which has neither sharps
+nor flats in its signature. The raised seventh of all minor keys is
+-never- present in the signature, but appears as -accidental-.
+
+When a sharp, double sharp, flat, double flat or cancel, which is
+not present in the signature, is placed before a note, it is called
+an accidental. If the raised seventh were present in the signature,
+uniform signatures in the minor would be impossible. It may also be
+remarked here that the seventh is not always raised during the course
+of a composition and is necessarily raised only when the composer
+desires the listener's ear to come at rest on the tonic, in which case
+the tonic must be preceded by the raised seventh, if the subtonic
+precedes the tonic in the melody or harmony.
+
+The same rules (pages 13 and 15) used in the major for finding the key
+having the next number of sharps and the key having the next number of
+flats are applicable in the minor. The order of the letters in both the
+sharp and flat signatures is the same in the minor as in the major.
+
+-A- minor has no sharps, the fifth of -a- is -e- and has one sharp
+(-f-):--
+
+    e f♯ g a b c d♯ e
+    1 2⌣3 4 5⌣6⌴7 ⌣8
+
+The fifth of -e- is -b- and has two sharps (-f- and -c-):--
+
+    b c♯ d e f♯ g a♯ b
+    1  2⌣3 4 5⌣6 ⌴7⌣8
+
+The fifth of -b- is -f-♯ and has three sharps (-f-, -c- and -g-):--
+
+    f♯ g♯ a b c♯ d e♯ f♯
+    1  2⌣ 3 4 5⌣6 ⌴7 ⌣8
+
+The fifth of -f-♯ is -c-♯ and has four sharps (-f-, -c-, -g- and
+-d-):--
+
+    c♯ d♯ e f♯ g♯ a b♯ c♯
+    1  2⌣ 3 4  5⌣ 6⌴7 ⌣8
+
+The fifth of -c-♯ is -g-♯ and has five sharps (-f-, -c-, -g-, -d- and
+-a-):--
+
+    g♯ a♯ b c♯ d♯ e fx g♯
+     1 2 ⌣3 4  5⌣6 ⌴7 ⌣8
+
+The student will notice that in this key, -f- is double sharped. -F- is
+sharped in the signature, but because the subtonic requires raising,
+-f- demands a double sharp.
+
+The fifth of -g-♯ is -d-♯ and has six sharps (-f-, -c-, -g-, -d-, -a-
+and -e-):--
+
+    d♯ e♯ f♯ g♯ a♯ b cx d♯
+    1  2 ⌣3  4  5⌣ 6⌴7 ⌣8
+
+The fifth of -d-♯ is -a-♯ and has seven sharps (-f-, -c-, -g-, -d-,
+-a-, -e- and -b-):--
+
+    a♯ b♯ c♯ d♯ e♯  f♯  gx a♯
+    1   2⌣ 3 4  5⌣ 6 ⌴  7⌣8
+
+The minor keys having more than seven sharps should be found by the
+student and submitted to the teacher for correction. For the sake of
+brevity, they are not given here, but the student should be thoroughly
+capable, by this time, of finding them all.
+
+-A- minor has no flats, the fourth of -a- is -d- and has one flat
+(-b-):--
+
+    d e f  g a b♭ c♯ d
+    1 2⌣3  4 5⌣6⌴ 7⌣8
+
+The fourth of -d- is -g- and has two flats (-b- and -e-):--
+
+    g a b♭ c d e♭ f♯ g
+    1 2 ⌣3  4 5⌣6 ⌴7⌣8
+
+The fourth of -g- is -c- and has three flats (-b-, -e- and -a-):--
+
+    c d e♭ f g a♭ b♮ c
+    1 2⌣3  4  5⌣6 ⌴7⌣8
+
+The student will notice a contradiction in the above scale; it is
+stated that -c- has three flats and in the example, -b- is cancelled.
+This cancel, however, appears as -accidental- (the raised seventh) and
+must be a flat in the signature.
+
+The fourth of -c- is -f- and has four flats (-b-, -e-, -a- and -d-):--
+
+    f g a♭ b♭ c d♭ e♮ f
+    1 2⌣3   4  5⌣6 ⌴7 ⌣8
+
+The fourth of -f- is -b-♭ and has five flats (-b-, -e-, -a-, -d- and
+-g-):--
+
+    b♭ c d♭ e♭ f g♭ a♮ b♭
+    1  2⌣ 3  4   5⌣6  ⌴7⌣8
+
+The fourth of -b-♭ is -e-♭ and has six flats (-b-, -e-, -a-, -d-, -g-
+and -c-):--
+
+    e♭ f g♭ a♭ b♭ c♭ d♮ e♭
+    1   2⌣3  4   5⌣ 6⌴  7 ⌣8
+
+The fourth of -e-♭ is -a-♭ and has seven flats (-b-, -e-, -a-, -d-,
+-g-, -c- and -f-):--
+
+    a♭ b♭ c♭ d♭ e♭ f♭ g♮ a♭
+    1    2 ⌣3  4   5⌣ 6⌴  7 ⌣8
+
+The student should find the minor keys having more than seven flats.
+
+The harmonic minor scale is awkward in formation on account of the
+augmented second step between steps six and seven. All augmented
+intervals sound harsh and are difficult to sing tunefully. For this
+reason, another form of minor scale is sometimes used which eliminates
+the augmented second step. This form is called -melodic minor- and
+is used, as its name implies, only for melodic purposes. It defies
+harmonization for the obvious reason that its ascending form differs
+from its descending form.
+
+-The melodic minor scale- has the sixth as well as the seventh raised
+by -accidental- in ascending, but in descending, both the sixth and
+seventh are restored. The ascending form has whole steps between 1 and
+2,--3 and 4,--4 and 5,--5 and 6,--6 and 7, and half steps between 2 and
+3 and between 7 and 8. The descending form has its half steps between
+6 and 5 and between 3 and 2. Notice that the descending form is as its
+signature dictates.
+
+                          raised raised
+    Ascending:--1  2⌣3 4 5  6    7⌣8
+    Descending:--8 7 6⌣5 4  3⌣   2 1
+
+The ascending form of the melodic minor is nearly the same as the major
+scale, and for this reason it is best not to retain the raised sixth
+and seventh in descending. The subtonic in a descending scale does not
+lead (progress) to the tonic and therefore need not necessarily be
+situated one half step below the tonic.
+
+Any minor key is called the relative of the major key having the same
+signature; therefore, the relative minor of -C- major is -a-[C] as they
+both have neither sharps nor flats.
+
+[Footnote C: Capital letters are used to designate major keys and small
+letters to designate minor keys.]
+
+       *       *       *       *       *
+
+=Rule 5. The Relative Minor is found on the Sixth of the Major
+Scale.=
+
+       *       *       *       *       *
+
+=Rule 6. The Relative Major is found on the Third of the Minor
+Scale.=
+
+Some writers have called the -relative- minor -parallel- minor, using
+-relative- and -parallel- synonymously. This is a usage to be regretted
+as it causes considerable confusion. By most writers, the parallel
+minor is treated as the scale commencing on the same key-note as the
+major and will thus be treated in this book, therefore:--
+
+    the relative minor of C is -a-;
+    the parallel minor of C is -c-.
+
+The parallel minor scale has three more flats or three less sharps in
+its signature than the major scale. In other words, by lowering steps
+3, 6 and 7 of the major scale one semi-tone, the signature of the
+parallel minor is obtained.
+
+The notation in the treble clef of all the minor scales (harmonic and
+melodic) follows:--
+
+    Scale of a [Illustration: [music]]
+    Harmonic
+
+    Scale of a [Illustration: [music]]
+    Melodic
+
+    Scale of e [Illustration: [music]]
+    Harmonic
+
+    Scale of e [Illustration: [music]]
+    Melodic
+
+    Scale of b [Illustration: [music]]
+    Harmonic
+
+    Scale of b [Illustration: [music]]
+    Melodic
+
+    Scale of f♯ [Illustration: [music]]
+    Harmonic
+
+    Scale of f♯ [Illustration: [music]]
+    Melodic
+
+    Scale of c♯ [Illustration: [music]]
+    Harmonic
+
+    Scale of c♯ [Illustration: [music]]
+    Melodic
+
+    Scale of g♯ [Illustration: [music]]
+    Harmonic
+
+    Scale of g♯ [Illustration: [music]]
+    Melodic
+
+    Scale of d♯ [Illustration: [music]]
+    Harmonic
+
+    Scale of d♯ [Illustration: [music]]
+    Melodic
+
+    Scale of a♯ [Illustration: [music]]
+    Harmonic
+
+    Scale of a♯ [Illustration: [music]]
+    Melodic
+
+    Scale of d [Illustration: [music]]
+    Harmonic
+
+    Scale of d [Illustration: [music]]
+    Melodic
+
+    Scale of g [Illustration: [music]]
+    Harmonic
+
+    Scale of g [Illustration: [music]]
+    Melodic
+
+    Scale of c [Illustration: [music]]
+    Harmonic
+
+    Scale of c [Illustration: [music]]
+    Melodic
+
+    Scale of f [Illustration: [music]]
+    Harmonic
+
+    Scale of f [Illustration: [music]]
+    Melodic
+
+    Scale of b♭ [Illustration: [music]]
+    Harmonic
+
+    Scale of b♭ [Illustration: [music]]
+    Melodic
+
+    Scale of e♭ [Illustration: [music]]
+    Harmonic
+
+    Scale of e♭ [Illustration: [music]]
+    Melodic
+
+    Scale of a♭ [Illustration: [music]]
+    Harmonic
+
+    Scale of a♭ [Illustration: [music]]
+    Melodic
+
+
+EXERCISES
+
+    ORAL AND WRITTEN
+
+1. Into how many parts does modern custom divide an octave?
+
+2. What is each part called?
+
+3. What is the difference between a chromatic scale and a diatonic
+scale?
+
+4. How many forms of diatonic scales are there and what are their names?
+
+5. Name and define the four ways in which the tones of the diatonic
+scales are named.
+
+6. What is the key-tone?
+
+7. Describe the movable and fixed systems.
+
+8. Describe the major scale.
+
+9. Describe the effect of a sharp; of a double sharp; of a flat; of a
+double flat; of a cancel.
+
+10. State the rule for finding the key having the next number of sharps
+and the rule for finding the key having the next number of flats.
+
+11. Write on the staff, using the treble clef, all the major keys to
+eleven sharps and eleven flats. Write several scales (the teacher
+deciding the number) using the bass and tenor clefs. (Show by curved
+line those notes situated one semi-tone apart.)
+
+12. What is the order of the letters in the sharp signature? In the
+flat signature?
+
+13. What is meant by -enharmonic?-
+
+14. What are the -enharmonic- scales used in practice?
+
+15. Give -enharmonic- letter names for each of the twelve keys.
+
+16. What is the sum of sharp and flat signatures of enharmonic keys?
+
+17. By the use of this enharmonic sum, find all the theoretical
+keys.
+
+18. What is the construction of the harmonic minor scale? Of the
+melodic minor?
+
+19. Write on the staff all the minor scales (both harmonic and
+melodic) to eleven sharps and eleven flats, letting the teacher
+determine which clef or clefs to use.
+
+20. What is the reason for raising the seventh in harmonic minor?
+
+21. What is the reason for raising the sixth in melodic minor?
+
+22. Why does the descending form of melodic minor differ from the
+ascending form?
+
+23. Why does not the raised sixth or seventh appear in the
+signature?
+
+24. What is an accidental?
+
+25. What is the -relative- minor and how is it found?
+
+26. What is the -parallel- minor and how does its signature differ
+from its parallel major?
+
+    N. B. Before proceeding to the next chapter all these exercises should
+    be properly answered and corrected by the teacher.
+
+
+
+
+CHAPTER III.
+
+INTERVALS AND INTRODUCTION TO CHORD BUILDING.
+
+
+An interval is the distance between two tones; intervals are named
+by the ordinals. The number of letters comprised in the notation
+of two tones determines the ordinal name of the interval. Example:
+[Illustration: [music]] -c- to -d- is an interval of a second because
+two letters are comprised. It makes no difference whether or not either
+or both of the above tones is affected by an accidental, the interval
+still comprises two letters and is a second.
+
+Reckoning from the tonic of the major scale to each degree of the scale
+produces the following intervals:--
+
+8th or prime. 2nd 3rd 4th 5th 6th 7th octave 9th
+
+[Illustration: [music]
+
+    prime. 2nd 3rd 4th 5th 6th 7th 8th    or 9th
+                                   octave
+]
+
+The interval of the ninth is often called a second, the octave not
+being considered.
+
+These intervals are the normal intervals of the major scale. These
+normal intervals are qualified in two ways. The prime, fourth, fifth
+and octave are called perfect. The second, third, sixth and seventh are
+called -major;- thus:--
+
+[Illustration: [music]
+
+    perf. maj. maj. perf. perf. maj. maj. perf.  maj.
+    prime 2nd  3rd  4th   5th   6th  7th  octave 9th
+]
+
+All intervals should be reckoned from the lower note, which is
+considered a major key-note. If the upper note is in the major scale
+of the lower note, the interval is normal; that is, either perfect or
+major. If the upper note is not in the major scale of the lower note,
+the interval is a derivative interval. The derivative intervals are
+called -minor-, -diminished- and -augmented-.
+
+A minor interval is derived from a major interval and is one semi-tone
+smaller. By lowering the upper tone of any major interval one half step
+or by raising the lower tone of any major interval one half step (not
+altering the letter name in either case) a minor interval is formed,
+thus:--
+
+[Illustration: minor 2nd
+
+[music]]
+
+[Illustration: minor 3rd
+
+[music]]
+
+[Illustration: minor 6th
+
+[music]]
+
+[Illustration: minor 7th
+
+[music]]
+
+etc.
+
+A diminished interval is one half step smaller than a minor or a
+perfect interval. By lowering the upper tone of any minor or any
+perfect interval one half step, or by raising the lower tone of any
+minor or any perfect interval one half step (not altering the letter
+name in either case) a diminished interval is formed, thus:--
+
+[Illustration:
+
+    dim.  dim.  dim.  dim.  dim.  dim.  dim.
+    2nd   3rd   4th   5th   6th   7th   8th
+
+    [music]
+
+    etc.
+]
+
+The tones of the diminished second are the same pitch, but must be
+called a second because two letters are comprised. The diminished
+prime is possible melodically, but harmonically, only in theory. It is
+[Illustration: [music]].
+
+An augmented interval is one half step larger than a major or a perfect
+interval. By raising the upper tone of any major or perfect interval
+one half step, or by lowering the lower tone of any major or perfect
+interval one half step (not altering the letter name in either case) an
+augmented interval is formed, thus:--
+
+[Illustration:
+
+    aug.   aug.  aug.  aug.  aug.  aug.  aug. aug.
+    prime  2nd   3rd   4th   5th   6th   7th  8th
+
+    [music]
+
+    etc.
+]
+
+Notice that the tones of the augmented seventh are the same pitch, but
+must be called a seventh as seven letters are comprised.
+
+The following intervals are the same in sound, but not in name:--
+
+    perfect prime      sounds the same as diminished 2nd
+    augmented prime      "     "    "   " minor 2nd
+    diminished prime     "     "    "   " minor 2nd
+    major 2nd            "     "    "   " diminished 3rd
+    minor 3rd            "     "    "   " augmented 2nd
+    major 3rd            "     "    "   " diminished 4th
+    perfect 4th          "     "    "   " augmented 3rd
+    augmented 4th        "     "    "   " diminished 5th
+    perfect 5th          "     "    "   " diminished 6th
+    minor 6th            "     "    "   " augmented 5th
+    major 6th            "     "    "   " diminished 7th
+    minor 7th            "     "    "   " augmented 6th
+    major 7th            "     "    "   " diminished 8th
+    perfect octave       "     "    "   " augmented 7th
+
+From the preceding list the following rule is apparent:--
+
+       *       *       *       *       *
+
+=Rule 7. By Changing Enharmonically Either or Both of the Tones of an
+Interval, a Different Interval is Obtained Which Sounds the Same as the
+Original Interval.=
+
+The distance in semi-tones of all the intervals to an octave is as
+follows:--
+
+    prime           = unison      comprises 1 letter
+    augmented prime = 1 semi-tone     "     1   "
+    diminished 2nd  = unison          "     2 letters
+    minor 2nd       = 1 semi-tone     "     2   "
+    major 2nd       = 2 semi-tones    "     2   "
+    augmented 2nd   = 3    "          "     2   "
+    diminished 3rd  = 2    "          "     3   "
+    minor 3rd       = 3    "          "     3   "
+    major 3rd       = 4    "          "     3   "
+    augmented 3rd   = 5    "          "     3   "
+    diminished 4th  = 4    "          "     4   "
+    perfect 4th     = 5    "          "     4   "
+    augmented 4th   = 6    "          "     4   "
+    diminished 5th  = 6    "          "     5   "
+    perfect 5th     = 7    "          "     5   "
+    augmented 5th   = 8    "          "     5   "
+    diminished 6th  = 7    "          "     6   "
+    minor 6th       = 8    "          "     6   "
+    major 6th       = 9    "          "     6   "
+    augmented 6th   = 10   "          "     6   "
+    diminished 7th  = 9    "          "     7   "
+    minor 7th       = 10   "          "     7   "
+    major 7th       = 11   "          "     7   "
+    augmented 7th   = 12   "          "     7   "
+    diminished 8th  = 11   "          "     8   "
+    perfect 8th     = 12   "          "     8   "
+
+A quicker and better method of determining an interval than by
+committing to memory the above table is to consider the lower note
+the tonic of the major scale. If the upper note is in the major scale
+of the lower note, the interval is normal (major or perfect). After a
+little practice the number of letters in an interval can be determined
+at a glance. If the upper note is not in the major scale of the lower
+note the interval is derivative and is determined by the information
+heretofore given.
+
+
+INVERSION OF INTERVALS.
+
+Intervals are said to be inverted when the lower note of the original
+interval is placed an octave higher, thereby becoming the upper note
+of the interval thus formed. Example: the inversion of [Illustration:
+[music]] is [Illustration: [music]]. The same letters are in both
+intervals, but the first interval is a third and the inverted interval
+is a sixth.
+
+       *       *       *       *       *
+
+=Rule 8. The Sum of an Interval and Its Inversion is Nine.=
+
+The above rule, therefore, gives the following inversions:--
+
+    a prime inverts to an octave  (1 + 8 = 9)
+    a second   "     "  a seventh (2 + 7 = 9)
+    a third    "     "  a sixth   (3 + 6 = 9)
+    a fourth   "     "  a fifth   (4 + 5 = 9)
+    a fifth    "     "  a fourth  (5 + 4 = 9)
+    a sixth    "     "  a third   (6 + 3 = 9)
+    a seventh  "     "  a second  (7 + 2 =9)
+    an octave  "     "  a prime   (8 + 1 = 9)
+
+To find to what intervals ninths, tenths, elevenths, twelfths, etc.,
+invert, consider them respectively as seconds, thirds, fourths,
+fifths, etc., and consider the lower note placed two octaves higher
+instead of one octave.
+
+Qualifications invert in the following manner:--
+
+    -major-       intervals invert to -minor-      intervals
+    -minor-           "         "   " -major-           "
+    -perfect-         "         "   " -perfect-         "
+    -diminished-      "         "   " -augmented-       "
+    -augmented-       "         "   " -diminished-      "
+
+By the use of the above table and rule 8, all inversions may be
+determined. Examples:--
+
+         major                  minor
+           2nd                   7th
+
+    [Illustration: [music]]   inverts to  [Illustration: [music]]
+
+         major                  minor
+           6th                   3rd
+
+    [Illustration: [music]]     "      "  [Illustration: [music]]
+
+          perf.                  perf.
+          prime                  8th
+
+    [Illustration: [music]]     "     "   [Illustration: [music]]
+
+          perf.                 perf.
+          4th                   5th
+
+    [Illustration: [music]]     "     "  [Illustration: [music]]
+
+          aug.                  dim.
+          4th                   5th
+
+    [Illustration: [music]]     "     "  [Illustration: [music]]
+
+          dim.                  aug.
+          7th                   2nd
+
+    [Illustration: [music]]     "     "  [Illustration: [music]]
+
+             etc.                    etc.
+
+The -prime- is also called an -unison-, but in speaking of intervals,
+it should always be called a -prime-. Correctly speaking, a -perfect
+prime- is not an interval, but in the theory of music it is so called.
+There is good reason for making this error, but none for calling a
+-diminished prime- a -diminished unison-. Notice that the -diminished
+second- as well as the -perfect prime- is an -unison-.
+
+Intervals are considered both harmonically and melodically, or in other
+words, both when sounded together or separately. In either case, the
+lower note is the one from which to determine the interval.
+
+
+CHORD CONSTRUCTION.
+
+A chord is a combination of two or more tones sounded simultaneously.
+All chords are constructed in -thirds-. The -fundamental tone- of a
+chord is the tone on which the chord is constructed.
+
+A chord of three tones is a -triad- which consists of a -fundamental-
+together with its third and its fifth. Triads are divided into two
+classes, -independent- and -dependent-. The independent triads have no
+dissonant intervals and may end a composition. The dependent chords
+have one or more dissonant intervals and are "restless" chords and
+demand another chord to follow. The progression of a dependent chord
+to an independent chord, thereby obtaining a restful effect, is called
+-resolution-.
+
+There are two kinds of independent triads, -major- and -minor-. -A
+major triad- consists of the fundamental, the -major- third, and the
+-perfect- fifth. Example:-- [Illustration: [music]]. -A minor triad-
+consists of the fundamental, the -minor- third, and the -perfect-
+fifth. Example:-- [Illustration: [music]].
+
+If the fifth of a triad is augmented or diminished, the triad is a
+dependent. Dependent triads are found constructed on the subtonic of
+major keys; on the subtonic, supertonic, and mediant of the minor keys.
+The triad on the mediant of the minor key is an augmented triad and the
+first three mentioned triads are diminished.
+
+Music written for four voices necessitates the doubling of one of the
+factors of the triad. Any factor of the triad may be doubled. The
+factor most frequently doubled is the fundamental in the octave, double
+octave, or unison. The four voices are -soprano- (high female voice),
+-alto- (low female voice), -tenor- (high male voice), and -bass- (low
+male voice). Chords are figured under the bass by Roman numerals. Large
+numerals designate -major- triads; small numerals designate -minor-
+triads; large numerals with the mark (´) affixed designate augmented
+triads; small numerals with a cipher affixed designate diminished
+triads. The notation of the triads on each degree of the major and
+minor scales follows:--
+
+[Illustration:
+
+    Major Mode.       N.B.
+
+[music]
+
+    I     II  III  IV  V  VI  VII°
+]
+
+[Illustration:
+
+Minor Mode.
+
+[music]
+
+    I  IIº  III´  IV  V  VI  VIIº
+]
+
+N. B. Although doubled in the above examples, the fundamental of the
+subtonic triad is seldom doubled in four voice writing and if doubled,
+a bad progression results in many cases.
+
+The three upper voices in a fundamental chord may be arranged in a
+different manner:--
+
+With the fundamental in the soprano:-- [Illustration: [music C I]].
+
+
+With the third in the soprano:-- [Illustration: [music C I]].
+
+If the three upper voices do not exceed the compass of an octave, the
+chord is said to be in "close position." If the three upper voices
+exceed the compass of an octave, the chord is said to be in "open
+position."
+
+
+INVERSION OF TRIADS.
+
+A chord is inverted when a factor other than the fundamental is in the
+bass. The first inversion of the triad is where we have the third in
+the bass. It is called the chord of the sixth, because the fundamental
+is the sixth of the bass. This chord is figured by a small Arabic
+figure (⁶) over the bass note, the Roman numeral under the bass showing
+the fundamental. Examples:--
+
+[Illustration: doubled fundamental
+
+[music: C I]]
+
+[Illustration: doubled third
+
+[music: C I]]
+
+The second inversion of the triad has the fifth in the bass and is
+called the chord of the sixth and fourth, or six-four chord, because
+the fundamental is the fourth of the bass. This chord is figured by the
+small Arabic figures (6/4) over the bass, the Roman numeral under the
+bass showing the fundamental. Examples:--
+
+[Illustration:
+
+    doubled
+    fifth
+
+[music: 6/4, C I]]
+
+[Illustration:
+
+    doubled
+    fundamental
+
+[music: 6/4, C I]]
+
+
+THE SEVENTH CHORD.
+
+The seventh chord is obtained by adding the seventh of the fundamental
+to any triad. A seventh chord may be formed on each degree of the major
+and minor scales. It is figured with the Roman numerals below the bass
+and a small Arabic (7) over the bass. The notation of the seventh
+chords on each degree of the major and minor scales follows:--
+
+[Illustration:
+
+C Major.
+
+[music]
+
+    7 7 7 7 7 7 7
+
+    I  II  III  IV  V  VI  VII°
+]
+
+[Illustration:
+
+a̲ Minor.
+
+[music]
+
+    7 7 7 7 7 7 7
+
+    I  II° III´ IV  V  VI  VII°
+]
+
+The tonic and subdominant of the major mode and the submediant of the
+minor mode are formed with the major triad and the major seventh. The
+dominant seventh in both modes is formed with the major triad and the
+minor seventh. The seventh chords on II, III and VI in the major mode
+and on IV of the minor mode are formed with the minor triad and the
+minor seventh. The seventh chords on VII° in the major mode and on II°
+in the minor mode are formed with the diminished triad and the minor
+seventh. The subtonic seventh chord in the minor mode is called the
+-diminished seventh- and is formed with the diminished triad and the
+diminished seventh. The seventh chord on the mediant in the minor mode
+is formed with the augmented triad and the major seventh. The seventh
+chord on the tonic of the minor mode is formed with the minor triad
+and the major seventh. In four voice writing, all the seventh chords
+with the exception of those on the subtonic of both modes are often
+written without the fifth and with the doubled fundamental. All seventh
+chords are dependent chords and their natural resolution is to the
+chord the fundamental of which is situated a fourth above or a fifth
+below the fundamental of the seventh chord. This progression is called
+"cadencing resolution." The subtonic seventh chord of both modes may
+also naturally resolve to the tonic. The most important seventh chord
+is the dominant, which resolves to the tonic. This progression is
+called the -authentic close-. Another method of ending a composition is
+by the -plagal close- which is a progression from subdominant harmony
+(triad) to tonic. The plagal close is preceded by the authentic close
+and is also called the -after cadence- and the -Amen cadence-.
+
+
+INVERSION OF SEVENTH CHORDS.
+
+The first inversion of the seventh chord is called the chord of the
+fifth and sixth (six-five chord). The chord is figured by the Roman
+numeral below the bass note and the Arabic figures (6/5) over the bass.
+Example:--
+
+[Illustration:
+
+[music]
+
+    6/5
+
+    C  V⁷
+]
+
+The second inversion is called the chord of the third, fourth and
+sixth (four-three chord). It is figured by the Roman numeral below the
+bass and the Arabic figures (6/4/3) or simply (4/3) over the bass.
+Example:--
+
+[Illustration: [Music]
+
+    4/3
+
+    C V⁷
+]
+
+The third inversion is called the chord of the second and fourth. It
+is figured by the Roman numeral below the bass and the Arabic figures
+(6/4/2), (4/2), or simply (2) over the bass. Example:--
+
+[Illustration: [Music]
+
+    2
+
+    C V⁷
+]
+
+The study of chord progression, altered chords, melody writing, passing
+tones, etc., belongs properly to the study of harmony and counterpoint
+which is not the subject of this volume.
+
+
+EXERCISES.
+
+    ORAL AND WRITTEN.
+
+    1. What is an interval?
+
+    2. How are intervals named?
+
+    3. What are the normal intervals?
+
+    4. Qualify the derived intervals; from what is each derived?
+
+    5. Notate all the normal intervals and all the derivative intervals.
+
+    6. Name all the following intervals:--
+
+    (Accidentals affect only those notes before which they are placed.)
+
+[Illustration:
+
+[music]]
+
+    7. Name several intervals (the teacher to determine the number)
+    having different names, but sounding the same.
+
+    8. What is the sum of inversions?
+
+    9. State the manner in which qualifications invert.
+
+    10. Invert all the intervals given in exercise 6.
+
+    11. Notate and figure all the triads in several different major and
+    minor keys. Which are dependent and which are independent?
+
+    12. Describe a dependent triad.
+
+    13. Describe open and close position.
+
+    14. Notate and figure several sixth chords; several six-four
+    chords.
+
+    15. Notate and figure all the seventh chords in several different
+    major and minor keys.
+
+    16. What is the most important seventh chord?
+
+    17. What is the authentic close?
+
+    18. What is the plagal close?
+
+    19. Notate and figure a six-five dominant chord in several major
+    and minor keys.
+
+    20. Notate and figure a four-three dominant chord in several major
+    and minor keys.
+
+    21. Notate and figure a four-two dominant chord in several major
+    and minor keys.
+
+    22. Choose some standard chorals (Bach's are advised) and analyze
+    the chords therein.
+
+
+
+
+CHAPTER IV.
+
+EPITOMIZED ACOUSTICS.
+
+
+The science of sound, including its cause and effect and the manner,
+velocity, and intensity of its conveyance through different media, is
+called -acoustics-.
+
+The medium through which sound is most commonly propagated is air.
+Through this medium, at a temperature of 32° Fahrenheit, sound travels
+at a rate of 1090 feet per second. The quality and intensity of sound
+do not alter the rate of speed. If this were not true, ensemble music
+would be impossible. Intensity of sound is greater in condensed air;
+velocity of sound is greater in a warm temperature.
+
+Many experiments have been made to determine the velocity of sound,
+the most reliable of which vary not over seven feet per second. The
+average of six of the best experiments, made in the early part of the
+nineteenth century, is 1089.7 feet per second at 32° Fahrenheit. Ten
+hundred and ninety feet per second is the rate now generally adopted.
+
+Wind and temperature are the only circumstances affecting the velocity
+of sound in the air to any extent. Sound travels about four times
+faster through water than through air, and about ten times faster
+through solids such as metals and wood than through air. A sudden
+displacement of the molecules of a medium produces sound which travels
+in waves at an equal velocity in all directions. An idea of the manner
+in which sound waves travel may be obtained by throwing a stone in
+water; small waves are propagated from the point of impact which, if
+the water be still, spread equally in all directions, but if it be
+running water, the waves extend a greater distance down stream than up
+stream. The effect of wind on sound waves may be compared to the effect
+of running water on the waves propagated by the impact of the stone.
+
+Musical tone is produced by regular vibrations; noise by irregular
+vibrations. The tones of the tempered chromatic scale have the
+following number of vibrations per second:--
+
+    Middle   c               258.6
+        c♯ or d♭  274.0
+             d               290.3
+        d♯ or e♭  307.6
+             e               325.9
+             f               345.2
+        f♯ or g♭  365.8
+             g               387.5
+        g♯ or a♭  410.5
+             a               435.0
+        a♯ or b♭  460.8
+             b               488.2
+
+The preceding figures represent the vibrations of the "International
+Pitch" which was adopted by the Piano Manufacturers' meeting in 1891.
+A is the standard pitch having 435 double vibrations per second at a
+temperature of 68° Fahrenheit. Many pitches have prevailed in different
+countries at different times. At the time of Handel and Mozart, the
+pitch was lower (422.5 and 421.6). England has had the pitch run as
+high 454.7 and the United States as high as 460.8.
+
+Sounds vibrating below a certain number lose the character of musical
+tones as do those vibrating above a certain number. Great discrepancies
+of opinion exist among theorists on this subject. Savart claims the
+lowest audible sound has eight vibrations per second; Helmholtz claims
+that there is no definite pitch of sounds having less than forty
+vibrations per second; Herr Appum claims to hear fifteen vibrations
+by the use of specially loaded tongues in reed pipes. He claims the
+character of tone commences at twenty vibrations, but the musical
+character of bass tones does not exist until frequencies exceed
+twenty-four vibrations per second. On the subject of the audibility
+of acute sounds, opinions are advanced ranging from 6,400 to 36,000
+vibrations per second.
+
+The limits of the human voices are tabulated below:--
+
+    Bass          E   81.5     D        290.3
+    Baritone      F   86.3     F♯       365.8
+    Tenor         A  108.7     A        435.0
+    Contralto     E  163.0     F        690.5
+    Mezzo Soprano F  172.6     A        870.0
+    Soprano       A  217.5     C       1034.6
+
+Occasionally there are exceptional voices having a wider range than the
+above scale indicates.
+
+Ratio of Intervals:--
+
+    Octave           1-- 2
+    Perfect fifth    2-- 3
+    Perfect fourth   3-- 4
+    Major third      4-- 5
+    Minor third      5-- 6
+    Major sixth      3-- 5
+    Minor sixth      5-- 8
+    Major second     8-- 9
+    Minor second    15--16
+    Major seventh    8--15
+    Minor seventh    9--16
+
+Each tone generates "over tones" called -harmonics-. These -harmonics-
+are the octave, the twelfth (perfect fifth), the seventeenth (major
+third), the twenty-first (minor seventh) and the twenty-third (minor
+ninth). Other -harmonics- than the above exist but are not used at the
+present time in chord construction. The old theorists treated chords of
+the eleventh and thirteenth, but modern theorists treat these intervals
+as suspensions, anticipations, etc.[D] The origin of chord construction
+may be seen from these -harmonics-. These over tones, generated from
+a fundamental, are the pure (untempered) intervals. The tempered
+intervals, with the exception of the octave, are slightly out of tune
+but not enough so to shock the ear.
+
+[Footnote D: Composers of the present day often use these intervals as
+chord factors.]
+
+The pure (untempered) scale of C has the following number of vibrations
+per second:--
+
+    Middle c    261.0
+           d    293.6
+           e    326.2
+           f    348.0
+           g    391.5
+           a    435.0
+           b    489.3
+
+An entire volume would be necessary to explain completely the science
+of acoustics. All ambitious students should consult books on acoustics.
+The author recommends the books on sound by the following writers:--
+
+    Appum
+    G. B. Airy
+    Pietro Blaserno
+    Helmholtz
+    Pole
+    Benjamin Peirce
+    Rodolphe Radau
+    Savart
+    Tyndall
+    J. August Zahn
+
+
+
+
+CHAPTER V.
+
+EAR TRAINING.
+
+
+A person with an untrained ear can appreciate music comparatively
+little, even though he is well educated in the theory of music.
+Absolute pitch is the ability to recognize and intonate any tone
+indicated. Very few persons possess naturally absolute pitch, but it
+may be acquired by a systematic study of ear training. Relative pitch
+is the ability to recognize a tone by comparison with a known tone.
+Advancement in relative pitch eventually leads to the attainment of
+absolute pitch.
+
+In practicing ear training, only a few minutes at a sitting are
+advised. Too much time at once devoted to this practice tires the ear
+and does more harm than good. On the other hand, these sittings should
+be many each day. Students who do not have a teacher daily, should
+have a member of the household play the exercises in ear training and
+correct the mistakes. If no member of the household is musical, the
+student should co-operate with another student.
+
+Each exercise should be thoroughly learned before proceeding to the
+following exercise. It may be recognizable and properly intonated
+at once or it may take several sittings. The pitch A at 435 is the
+standard for orchestral tuning and is recommended to the student for a
+fundamental. The student should carry upon his person a tuning fork of
+this pitch and sound it as often as an opportunity permits, and thereby
+fix this fundamental thoroughly in his mind. Eventually, the student
+will recognize this pitch whenever he hears it. Other tones will be
+recognizable by comparison with this fundamental. Any other pitch for a
+fundamental may be chosen with equally good results. The argument is in
+favor of A because of its use in orchestral tuning.
+
+Many systems of ear training, which produce the desired results, exist.
+The following system has been found the most satisfactory by the
+author.[E] Deviations from and additions to this system do no harm and
+are advisable in certain individual cases.
+
+[Footnote E: Many young children find difficulty in intonating small
+intervals and it is necessary in such cases to commence with large
+intervals and work toward the smaller intervals.]
+
+The Italian syllables should be used in singing the exercises.
+Movable -do- is advised. Any instrument may be used by the teacher or
+co-operator to play the exercises. For low voices, the exercises should
+be played two octaves lower than indicated, and for medium voices, one
+octave lower. The teacher, after having played an exercise, should
+explain the interval or intervals therein. The student should sing the
+exercise first with the instrument and then without. Each exercise
+should be faultlessly intonated before proceeding to the following
+exercise.
+
+
+GROUP I.
+
+    THE NORMAL INTERVALS OF THE MAJOR SCALE.
+
+1. Major scale:--
+
+[Illustration: [music]]
+
+2. All intervals of the major scale:--
+
+[Illustration: [music]]
+
+3. Tonic triad:--
+
+[Illustration: [music]]
+
+4. Perfect fifth:--
+
+[music]
+
+The teacher should use various rhythms besides those given.
+
+5. Perfect fourth:--
+
+[Illustration: a)
+
+[music]]
+
+[Illustration: b)
+
+[music]]
+
+6. Perfect octave:--
+
+[Illustration: a)
+
+[music]]
+
+[Illustration: b)
+
+[music]]
+
+7. Perfect intervals combined:--
+
+[music]
+
+The teacher should combine these intervals in various ways and in
+several different rhythms and the student should notate the exercise.
+The teacher may also choose some melody free from accidentals and play
+it slowly while the student notates. Such practice accomplishes a
+two-fold result, ability to notate rhythm as well as intervals.
+
+8. Major third:--
+
+[Illustration: [music]]
+
+9. Minor sixth:--
+
+[Illustration: [music]]
+
+10. Major sixth:--
+
+[Illustration: [music]]
+
+11. Minor third:--
+
+[Illustration: [music]]
+
+The first measure of exercise 2 contains the major second which is an
+easily recognized interval. The last measure but two of exercise 2
+contains the major seventh. This interval is ordinarily a difficult
+interval to intonate but coming as it does in exercise 2 it is easy
+to intonate because of the ascending scale on the second half of the
+measures. For the present, it is not advisable to practice the major
+seventh except in some such sequence as exercise 2. All other normal
+intervals may be practiced separately and in combinations. After the
+student has become thoroughly proficient in recognizing and properly
+intonating all the intervals in group I, he may proceed to the
+intervals of the minor scale found in group II.
+
+
+GROUP II.
+
+    THE NORMAL INTERVALS OF THE MINOR SCALE.
+
+1. Melodic minor scale:--
+
+[Illustration: [music]]
+
+2. Harmonic minor scale:--
+
+[Illustration: [music]]
+
+If the student finds difficulty in singing the harmonic form with the
+awkward augmented step, the singing of this scale may be postponed.
+
+3. Play alternatively the major scale and both forms of minor, and
+require the student to distinguish between them. Do not proceed until
+the student is capable of recognizing and distinguishing between all
+diatonic scales.
+
+    4. All intervals of the harmonic minor scale:--
+
+    [Illustration: [music]]
+
+    5. All intervals of the ascending melodic minor scale:--
+
+    [Illustration: [music]]
+
+
+    6. The minor triad:--
+
+    [Illustration: [music]]
+
+    7. The minor third:--
+
+    [Illustration: [music]]
+
+    8. The major sixth:--
+
+    [Illustration: [music]]
+
+    9. The minor sixth:--
+
+    [Illustration: [music]]
+
+    10. The major third:--
+
+    [Illustration: [music]]
+
+11. Play slowly several minor melodies free from modulations and
+require the student to notate.
+
+The teacher should now play melodies in which are transitions from
+major to -parallel- minor and -vice versa-. Great familiarity with the
+normal intervals is necessary before studying altered intervals. It is
+hoped that the major seventh may now be properly intonated.
+
+The student may experience considerable difficulty with the following
+group, in which case it is advisable to postpone this group until
+the ear is more thoroughly trained. The object of its following the
+normal intervals is to fix firmly the fundamental and all intervals by
+comparison with this fundamental.
+
+
+GROUP III.
+
+    ALTERED INTERVALS.
+
+    1. The chromatic
+    scale:--
+
+    [Illustration: [music]]
+
+In syllabicating the chromatic scale or any of the altered intervals,
+the syllable -ah- may be used on each tone. To those wishing to adhere
+to the Italian syllables, the tonic sol-fa syllables, invented by Miss
+Sarah Ann Glover, may be used which are as follows: ascending chromatic
+scale---doh-, -de-, -ray-, -re-, -me-, -fah-, -fe-, -soh-, -se-, -lah-,
+-le-, -te-, -doh;- descending chromatic scale---doh-, -te-, -ta-,
+-lah-, -la-, -soh-, -sa-, -fah-, -me-, -ma-, -ray-, -ra-, -doh-. Miss
+Glover changed the spelling of the Italian syllables to coincide with
+the English pronunciation. She also changed the subtonic from -si- to
+-te-.
+
+2. -The augmented fourth- is found as a scale interval between the
+fourth and seventh steps of the major scale (-fah- to -te-). It is more
+difficult to conceive and intonate properly the augmented fourth when
+it is constructed upon the tonic. In order to make this interval less
+difficult, the following exercise contains the intermediate scale steps
+previous to the skip of an augmented fourth:--
+
+[Illustration: [music]]
+
+It may be necessary with some students to interpolate some or all the
+intermediate steps previous to skips to all altered intervals. It may
+not be amiss to state here that in correct melody writing augmented and
+diminished intervals are usually avoided. Singers almost invariably
+intonate them out of tune. When these intervals exist as constituent
+parts of an arpeggio chord progression, they are comparatively easy.
+As altered intervals these skips are given to instruments (instruments
+being capable of properly intonating all skips) when a dramatic effect
+is desired.
+
+3. -The diminished fifth- is analogous to the augmented fourth. Being
+the inversion of the augmented fourth, it is found as a scale interval
+between the seventh and fourth steps (-te- to -fah-). The following
+exercise contains the diminished fifth built upon the tonic:--
+
+[Illustration: [music]]
+
+4. -The augmented fifth- is analogous to the minor sixth. It is found
+as a scale interval between the third and seventh steps of the harmonic
+minor scale and ascending melodic minor scale. The following exercise
+contains the augmented fifth built upon the major tonic:--
+
+[Illustration: [music]]
+
+5. -The diminished fourth- is the inversion of the augmented fifth and
+is analogous to the major third:--
+
+[Illustration: [music]]
+
+6. -The augmented second- is analogous to the minor third. It is found
+as a scale interval between the sixth and seventh steps of the harmonic
+minor. The following exercise contains the augmented second built upon
+the major tonic:--
+
+[Illustration: [music]]
+
+7. -The diminished seventh- is the inversion of the augmented second
+and is analogous to the major sixth:--
+
+[Illustration: [music]]
+
+8. -The augmented third- is analogous to the perfect fourth. This
+interval is found in the altered minor triad between the third and the
+raised fifth of the triad. Derivation of the augmented third:--
+
+[Illustration: [music]]
+
+E II]
+
+Exercise:--
+
+[Illustration: [music]]
+
+9. -The augmented sixth- is analogous to the minor seventh. This
+interval is found in the augmented sixth chord. Origin of the augmented
+sixth chord:--
+
+[Illustration: [music]]
+
+E II]
+
+-The diminished sixth-, which is the inversion of the augmented third
+and analogous to the perfect fifth, is not used melodically. -The
+diminished third-, which is the inversion of the augmented sixth and
+analogous to the major second, is but seldom used melodically.
+
+If the singing of the harmonic minor scale has been postponed, it
+should now be practiced. Exercises containing the major seventh may now
+be given.
+
+
+GROUP IV.
+
+    ARPEGGIO CHORDS.
+
+If the fundamental is not yet fixed in the student's mind exercises
+pertaining to groups I and II should be given before proceeding. The
+intervals already given should be expanded, the major second to a major
+ninth, the major third to a major tenth, etc., etc.
+
+In practicing the following exercises, the student should name the
+intervals between consecutive notes and between each note of the chord
+and the fundamental.
+
+    1. The major triad:--
+
+    [Illustration: [music]]
+
+    2. The minor triad:--
+
+    [Illustration: [music]]
+
+    3. The diminished triad:--
+
+    [Illustration: [music]]
+
+    4. The augmented triad:--
+
+    [Illustration: [music]]
+
+    A III'
+
+    5. The dominant seventh chord:--
+
+    [Illustration: [music]]
+
+The teacher should explain the dominant seventh chord and its
+resolution. Also give exercises on the skip of a minor seventh.
+
+6. The supertonic seventh chord:--
+
+[Illustration: [music]]
+
+7. The subtonic seventh chord:--
+
+[Illustration: [music]]
+
+8. The diminished seventh chord:--
+
+[Illustration: [music]]
+
+A great many exercises on these chords should be given together with
+the natural resolution of the dependent chords. Exercises on the
+inversions of these chords may be given when the student has obtained
+proficiency on the fundamental position. The inversions may be found in
+Chapter III.
+
+
+GROUP V.
+
+    TWO VOICED CHORDS.
+
+The student should name the interval that one voice forms with the
+other. The upper melody should then be sung as the exercise is played.
+Repeat the exercise, the student singing the lower melody this time. If
+the student experiences difficulty in naming the intervals, the chords
+should be played in arpeggio style.
+
+1. Thirds:--
+
+[Illustration: [music]]
+
+2. Sixths:--
+
+[Illustration: [music]]
+
+3. Mixed intervals and rhythm (contrapuntal):--
+
+[Illustration: Cherubini
+
+[music]]
+
+
+GROUP VI.
+
+    THE FOUR VOICED CHORD.
+
+It becomes necessary to use organ or piano for this group. The student
+should name the kind of chord and sing the upper voice.
+
+    1. The primary triads:--
+
+    [Illustration: [music]]
+
+2. The primary and secondary triads:--
+
+[Illustration: [music]]
+
+3. Introducing the dominant seventh chord:--
+
+[Illustration: (a)
+
+[music]]
+
+[Illustration: (b)
+
+[music]]
+
+4. Introducing the dominant and secondary seventh chords:--
+
+[Illustration: (a)
+
+[music]]
+
+[Illustration: (b)
+
+[music]]
+
+The chorals that were chosen for analysis in Chapter III should now
+be played for ear training. The teacher's judgment is very necessary
+in deciding the limitations of each individual student. At the
+proper time modulations may be made. Before the student may be called
+proficient, he must be capable of instantly recognizing and properly
+intonating any and all chords sounded.
+
+
+
+
+Can You Compose Music?
+
+
+In this, the latest of methods for the study of Harmony, the author,
+Carl E. Gardner, presents a system of training which, both in purpose
+and plan, provides, what up to the present has frequently been hinted
+at, but never practically accomplished--a "direct" method for the
+teaching of music composition.
+
+In the writing of the work the student's practical development has been
+uppermost in the author's mind and to this end he has provided not a
+mere treatise on musical grammar, along conventional, hackneyed lines,
+but a new method which will -allow and encourage the student to compose
+as he advances and develops-.
+
+    MUSIC COMPOSITION
+
+    A NEW METHOD OF HARMONY
+
+    BY
+
+    CARL E. GARDNER
+
+    Author of "Essentials of Music Theory."
+
+    Price, $1.50
+
+       *       *       *       *       *
+
+
+OPINION OF THE PRESS
+
+"His work--numbering 161 small pages--is of necessity simply an
+abbreviated affair. It is soundly done, the work of a man who knows his
+subject through and through, and it is capitally written."
+
+    MUSICAL AMERICA.
+
+"The author calls his method the direct method, in that he makes the
+pupil begin to compose from the beginning instead of after a long and
+tedious course of technical rules. Time will tell whether this new
+method will make better composers than the old way or not, but the
+new method will certainly make the way of the pupil less thorny. The
+average student will probably enjoy learning composition according to
+the method by Carl E. Gardner. There is no reason whatever why this
+method should not be as useful as the long established methods of
+Jadassohn, Prout, Richter and others who believe in keeping the pupil's
+nose to the grindstone for several years before furnishing him with
+wings."
+
+    MUSICAL COURIER.
+
+"'Music Composition,' a 'new method of harmony,' by Carl E. Gardner,
+published by Carl Fischer, New York, is a meritorious text book which
+seeks to combine, in efficient manner, the teaching of simple forms
+with the customary guidance in chord connection. The abandoning of the
+isolated manner in which harmony is generally taught and the stimulus
+of life it undoubtedly receives by joining to it symmetry, rhythm and
+melody, is undeniably a progress."
+
+    CANADIAN JOURNAL OF MUSIC.
+
+            PUBLISHED BY
+            CARL FISCHER
+    BOSTON    NEW YORK    CHICAGO
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK ESSENTIALS OF MUSIC THEORY: ELEMENTARY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
