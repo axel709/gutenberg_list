@@ -1,0 +1,3425 @@
+The Project Gutenberg eBook of The Elements of Perspective
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Elements of Perspective
+
+Author: John Ruskin
+
+Release date: November 30, 2019 [eBook #60816]
+                Most recently updated: October 17, 2024
+
+Language: English
+
+Credits: Produced by Juliet Sutherland, David Wilson and the Online
+        Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE ELEMENTS OF PERSPECTIVE ***
+
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  | Transcriber’s Note                                                 |
+  |                                                                    |
+  | In the original book the author used lowercase italic letters and  |
+  | lowercase small capitals to label the geometric diagrams. These    |
+  | have been here transcribed as lowercase and uppercase italic       |
+  | letters respectively (_aA_).                                       |
+  |                                                                    |
+  | This file should be read using a font that supports the following  |
+  | Unicode characters:                                                |
+  |   ∠ angle, ∶ ratio, ∷ proportion, ∴ therefore, ′ prime, and        |
+  |   ″ double prime.                                                  |
+  |                                                                    |
+  +--------------------------------------------------------------------+
+
+
+
+
+  +----------------------------------+
+  |                                  |
+  |         Library Edition          |
+  |                                  |
+  +----------------------------------+
+  |                                  |
+  |                                  |
+  |        THE COMPLETE WORKS        |
+  |                OF                |
+  |           JOHN RUSKIN            |
+  |                                  |
+  |                                  |
+  |     ELEMENTS OF DRAWING AND      |
+  |           PERSPECTIVE            |
+  |          THE TWO PATHS           |
+  |          UNTO THIS LAST          |
+  |         MUNERA PULVERIS          |
+  |        SESAME AND LILIES         |
+  |        ETHICS OF THE DUST        |
+  |                                  |
+  |                                  |
+  +----------------------------------+
+  |   NATIONAL LIBRARY ASSOCIATION   |
+  |   NEW YORK             CHICAGO   |
+  +----------------------------------+
+
+
+
+
+           THE ELEMENTS OF PERSPECTIVE
+
+         ARRANGED FOR THE USE OF SCHOOLS
+
+  AND INTENDED TO BE READ IN CONNECTION WITH THE
+           FIRST THREE BOOKS OF EUCLID.
+
+
+
+
+                CONTENTS.
+
+                                                              PAGE
+  Preface                                                       ix
+
+  Introduction                                                   1
+
+                PROBLEM I.
+  To fix the Position of a given Point                          10
+
+                PROBLEM II.
+  To draw a Right Line between two given Points                 13
+
+                PROBLEM III.
+  To find the Vanishing-Point of a given Horizontal Line        17
+
+                PROBLEM IV.
+  To find the Dividing-Points of a given Horizontal Line        23
+
+                PROBLEM V.
+  To draw a Horizontal Line, given in Position and Magnitude,
+    by means of its Sight-Magnitude and Dividing-Points         24
+
+                PROBLEM VI.
+  To draw any Triangle, given in Position and Magnitude, in a
+    Horizontal Plane                                            27
+
+                PROBLEM VII.
+  To draw any Rectilinear Quadrilateral Figure, given in
+    Position and Magnitude, in a Horizontal Plane               29
+
+                PROBLEM VIII.
+  To draw a Square, given in Position and Magnitude, in a
+    Horizontal Plane                                            31
+
+                PROBLEM IX.
+  To draw a Square Pillar, given in Position and Magnitude,
+    its Base and Top being in Horizontal Planes                 34
+
+                PROBLEM X.
+  To draw a Pyramid, given in Position and Magnitude, on a
+    Square Base in a Horizontal Plane                           36
+
+                PROBLEM XI.
+  To draw any Curve in a Horizontal or Vertical Plane           38
+
+                PROBLEM XII.
+  To divide a Circle drawn in Perspective into any given
+    Number of Equal Parts                                       42
+
+                PROBLEM XIII.
+  To draw a Square, given in Magnitude, within a larger
+    Square given in Position and Magnitude; the Sides of the
+    two Squares being Parallel                                  45
+
+                PROBLEM XIV.
+  To draw a Truncated Circular Cone, given in Position and
+    Magnitude, the Truncations being in Horizontal Planes,
+    and the Axis of the Cone vertical                           47
+
+                PROBLEM XV.
+  To draw an Inclined Line, given in Position and Magnitude     50
+
+                PROBLEM XVI.
+  To find the Vanishing-Point of a given Inclined Line          53
+
+                PROBLEM XVII.
+  To find the Dividing-Points of a given Inclined Line          55
+
+                PROBLEM XVIII.
+  To find the Sight-Line of an Inclined Plane in which Two
+    Lines are given in Position                                 57
+
+                PROBLEM XIX.
+  To find the Vanishing-Point of Steepest Lines in an Inclined
+    Plane whose Sight-Line is given                             59
+
+                PROBLEM XX.
+  To find the Vanishing-Point of Lines perpendicular to the
+    Surface of a given Inclined Plane                           61
+
+
+                APPENDIX.
+
+                I.
+  Practice and Observations on the preceding Problems           69
+
+                II.
+  Demonstrations which could not conveniently be included in
+    the Text                                                    99
+
+
+
+
+PREFACE.
+
+
+For some time back I have felt the want, among Students of Drawing, of a
+written code of accurate Perspective Law; the modes of construction in
+common use being various, and, for some problems, insufficient. It would
+have been desirable to draw up such a code in popular language, so as to
+do away with the most repulsive difficulties of the subject; but finding
+this popularization would be impossible, without elaborate figures and
+long explanations, such as I had no leisure to prepare, I have arranged
+the necessary rules in a short mathematical form, which any schoolboy
+may read through in a few days, after he has mastered the first three
+and the sixth books of Euclid.
+
+Some awkward compromises have been admitted between the first-attempted
+popular explanation, and the severer arrangement, involving irregular
+lettering and redundant phraseology; but I cannot for the present do
+more, and leave the book therefore to its trial, hoping that, if it be
+found by masters of schools to answer its purpose, I may hereafter bring
+it into better form.[1]
+
+An account of practical methods, sufficient for general purposes of
+sketching, might indeed have been set down in much less space: but if
+the student reads the following pages carefully, he will not only find
+himself able, on occasion, to solve perspective problems of a complexity
+greater than the ordinary rules will reach, but obtain a clue to many
+important laws of pictorial effect, no less than of outline. The subject
+thus examined becomes, at least to my mind, very curious and
+interesting; but, for students who are unable or unwilling to take it up
+in this abstract form, I believe good help will be soon furnished, in a
+series of illustrations of practical perspective now in preparation by
+Mr. Le Vengeur. I have not seen this essay in an advanced state, but the
+illustrations shown to me were very clear and good; and, as the author
+has devoted much thought to their arrangement, I hope that his work will
+be precisely what is wanted by the general learner.
+
+Students wishing to pursue the subject into its more extended branches
+will find, I believe, Cloquet’s treatise the best hitherto published.[2]
+
+
+  [1] Some irregularities of arrangement have been admitted merely for
+      the sake of convenient reference; the eighth problem, for
+      instance, ought to have been given as a case of the seventh, but
+      is separately enunciated on account of its importance.
+
+      Several constructions, which ought to have been given as problems,
+      are on the contrary given as corollaries, in order to keep the
+      more directly connected problems in closer sequence; thus the
+      construction of rectangles and polygons in vertical planes would
+      appear by the Table of Contents to have been omitted, being given
+      in the corollary to Problem IX.
+
+  [2] Nouveau Traité Élémentaire de Perspective. Bachelier, 1823.
+
+
+
+
+THE ELEMENTS OF PERSPECTIVE.
+
+
+
+
+INTRODUCTION.
+
+
+When you begin to read this book, sit down very near the window, and
+shut the window. I hope the view out of it is pretty; but, whatever the
+view may be, we shall find enough in it for an illustration of the first
+principles of perspective (or, literally, of “looking through”).
+
+Every pane of your window may be considered, if you choose, as a glass
+picture; and what you see through it, as painted on its surface.
+
+And if, holding your head still, you extend your hand to the glass, you
+may, with a brush full of any thick color, trace, roughly, the lines of
+the landscape on the glass.
+
+But, to do this, you must hold your head very still. Not only you must
+not move it sideways, nor up and down, but it must not even move
+backwards or forwards; for, if you move your head forwards, you will see
+_more_ of the landscape through the pane; and, if you move it backwards,
+you will see _less_: or considering the pane of glass as a picture, when
+you hold your head near it, the objects are painted small, and a great
+many of them go into a little space; but, when you hold your head some
+distance back, the objects are painted larger upon the pane, and fewer
+of them go into the field of it.
+
+But, besides holding your head still, you must, when you try to trace
+the picture on the glass, shut one of your eyes. If you do not, the
+point of the brush appears double; and, on farther experiment, you will
+observe that each of your eyes sees the object in a different place on
+the glass, so that the tracing which is true to the sight of the right
+eye is a couple of inches (or more, according to your distance from the
+pane,) to the left of that which is true to the sight of the left.
+
+Thus, it is only possible to draw what you see through the window
+rightly on the surface of the glass, by fixing one eye at a given point,
+and neither moving it to the right nor left, nor up nor down, nor
+backwards nor forwards. Every picture drawn in true perspective may be
+considered as an upright piece of glass,[3] on which the objects seen
+through it have been thus drawn. Perspective can, therefore, only be
+quite right, by being calculated for one fixed position of the eye of
+the observer; nor will it ever appear _deceptively_ right unless seen
+precisely from the point it is calculated for. Custom, however, enables
+us to feel the rightness of the work on using both our eyes, and to be
+satisfied with it, even when we stand at some distance from the point it
+is designed for.
+
+Supposing that, instead of a window, an unbroken plate of crystal
+extended itself to the right and left of you, and high in front, and
+that you had a brush as long as you wanted (a mile long, suppose), and
+could paint with such a brush, then the clouds high up, nearly over your
+head, and the landscape far away to the right and left, might be traced,
+and painted, on this enormous crystal field.[4] But if the field were so
+vast (suppose a mile high and a mile wide), certainly, after the picture
+was done, you would not stand as near to it, to see it, as you are now
+sitting near to your window. In order to trace the upper clouds through
+your great glass, you would have had to stretch your neck quite back,
+and nobody likes to bend their neck back to see the top of a picture. So
+you would walk a long way back to see the great picture—a quarter of a
+mile, perhaps,—and then all the perspective would be wrong, and would
+look quite distorted, and you would discover that you ought to have
+painted it from the greater distance, if you meant to look at it from
+that distance. Thus, the distance at which you intend the observer to
+stand from a picture, and for which you calculate the perspective,
+ought to regulate to a certain degree the size of the picture. If you
+place the point of observation near the canvas, you should not make the
+picture very large: _vice versâ_, if you place the point of observation
+far from the canvas, you should not make it very small; the fixing,
+therefore, of this point of observation determines, as a matter of
+convenience, within certain limits, the size of your picture. But it
+does not determine this size by any perspective law; and it is a mistake
+made by many writers on perspective, to connect some of their rules
+definitely with the size of the picture. For, suppose that you had what
+you now see through your window painted actually upon its surface, it
+would be quite optional to cut out any piece you chose, with the piece
+of the landscape that was painted on it. You might have only half a
+pane, with a single tree; or a whole pane, with two trees and a cottage;
+or two panes, with the whole farmyard and pond; or four panes, with
+farmyard, pond, and foreground. And any of these pieces, if the
+landscape upon them were, as a scene, pleasantly composed, would be
+agreeable pictures, though of quite different sizes; and yet they would
+be all calculated for the same distance of observation.
+
+In the following treatise, therefore, I keep the size of the picture
+entirely undetermined. I consider the field of canvas as wholly
+unlimited, and on that condition determine the perspective laws. After
+we know how to apply those laws without limitation, we shall see what
+limitations of the size of the picture their results may render
+advisable.
+
+But although the size of the _picture_ is thus independent of the
+observer’s distance, the size of the _object represented_ in the picture
+is not. On the contrary, that size is fixed by absolute mathematical
+law; that is to say, supposing you have to draw a tower a hundred feet
+high, and a quarter of a mile distant from you, the height which you
+ought to give that tower on your paper depends, with mathematical
+precision, on the distance at which you intend your paper to be placed.
+So, also, do all the rules for drawing the form of the tower, whatever
+it may be.
+
+Hence, the first thing to be done in beginning a drawing is to fix, at
+your choice, this distance of observation, or the distance at which you
+mean to stand from your paper. After that is determined, all is
+determined, except only the ultimate size of your picture, which you may
+make greater, or less, not by altering the size of the things
+represented, but by _taking in more, or fewer_ of them. So, then, before
+proceeding to apply any practical perspective rule, we must always have
+our distance of observation marked, and the most convenient way of
+marking it is the following:
+
+  [Illustration: Fig. 1. PLACING OF THE SIGHT-POINT, SIGHT-LINE,
+   STATION-POINT, AND STATION-LINE.]
+
+
+I. THE SIGHT-POINT.—Let _ABCD_, Fig. 1., be your sheet of paper, the
+larger the better, though perhaps we may cut out of it at last only a
+small piece for our picture, such as the dotted circle _NOPQ_. This
+circle is not intended to limit either the size or shape of our picture:
+you may ultimately have it round or oval, horizontal or upright, small
+or large, as you choose. I only dot the line to give you an idea of
+whereabouts you will probably like to have it; and, as the operations of
+perspective are more conveniently performed upon paper underneath the
+picture than above it, I put this conjectural circle at the top of the
+paper, about the middle of it, leaving plenty of paper on both sides and
+at the bottom. Now, as an observer generally stands near the middle of a
+picture to look at it, we had better at first, and for simplicity’s
+sake, fix the point of observation opposite the middle of our
+conjectural picture. So take the point _S_, the center of the circle
+_NOPQ_;—or, which will be simpler for you in your own work, take the
+point _S_ at random near the top of your paper, and strike the circle
+_NOPQ_ round it, any size you like. Then the point _S_ is to represent
+the point _opposite_ which you wish the observer of your picture to
+place his eye, in looking at it. Call this point the “Sight-Point.”
+
+
+II. THE SIGHT-LINE.—Through the Sight-point, _S_, draw a horizontal
+line, _GH_, right across your paper from side to side, and call this
+line the “Sight-Line.”
+
+This line is of great practical use, representing the level of the eye
+of the observer all through the picture. You will find hereafter that if
+there is a horizon to be represented in your picture, as of distant sea
+or plain, this line defines it.
+
+
+III. THE STATION-LINE.—From _S_ let fall a perpendicular line, _SR_, to
+the bottom of the paper, and call this line the “Station-Line.”
+
+This represents the line on which the observer stands, at a greater or
+less distance from the picture; and it ought to be _imagined_ as drawn
+right out from the paper at the point s. Hold your paper upright in
+front of you, and hold your pencil horizontally, with its point against
+the point _S_, as if you wanted to run it through the paper there, and
+the pencil will represent the direction in which the line _SR_ ought to
+be drawn. But as all the measurements which we have to set upon this
+line, and operations which we have to perform with it, are just the same
+when it is drawn on the paper itself, below _S_, as they would be if it
+were represented by a wire in the position of the leveled pencil, and as
+they are much more easily performed when it is drawn on the paper, it is
+always in practice, so drawn.
+
+
+IV. THE STATION-POINT.—On this line, mark the distance _ST_ at your
+pleasure, for the distance at which you wish your picture to be seen,
+and call the point T the “Station-Point.”
+
+  [Illustration: Fig. 2.]
+
+In practice, it is generally advisable to make the distance _ST_ about
+as great as the diameter of your intended picture; and it should, for
+the most part, be more rather than less; but, as I have just stated,
+this is quite arbitrary. However, in this figure, as an approximation to
+a generally advisable distance, I make the distance _ST_ equal to the
+diameter of the circle _NOPQ_. Now, having fixed this distance, _ST_,
+all the dimensions of the objects in our picture are fixed likewise, and
+for this reason:—
+
+Let the upright line _AB_, Fig. 2., represent a pane of glass placed
+where our picture is to be placed; but seen at the side of it,
+edgeways; let _S_ be the Sight-point; _ST_ the Station-line, which, in
+this figure, observe, is in its true position, drawn out from the paper,
+not down upon it; and _T_ the Station-point.
+
+Suppose the Station-line _ST_ to be continued, or in mathematical
+language “produced,” through _S_, far beyond the pane of glass, and let
+_PQ_ be a tower or other upright object situated on or above this line.
+
+Now the _apparent_ height of the tower _PQ_ is measured by the angle
+_QTP_, between the rays of light which come from the top and bottom of
+it to the eye of the observer. But the _actual_ height of the _image_ of
+the tower on the pane of glass _AB_, between us and it, is the distance
+_P′Q′_ between the points where the rays traverse the glass.
+
+Evidently, the farther from the point _T_ we place the glass, making
+_ST_ longer, the larger will be the image; and the nearer we place it to
+_T_, the smaller the image, and that in a fixed ratio. Let the distance
+_DT_ be the direct distance from the Station-point to the foot of the
+object. Then, if we place the glass _AB_ at one-third of that whole
+distance, _P′Q′_ will be one-third of the real height of the object; if
+we place the glass at two-thirds of the distance, as at _EF_, _P″Q″_
+(the height of the image at that point) will be two-thirds the height[5]
+of the object, and so on. Therefore the mathematical law is that _P′Q′_
+will be to _PQ_ as _ST_ to _DT_. I put this ratio clearly by itself that
+you may remember it:
+
+  _P′Q′_ ∶ _PQ_ ∷ _ST_ ∶ _DT_
+
+or in words:
+
+  _P_ dash _Q_ dash is to _PQ_ as _ST_ to _DT_
+
+In which formula, recollect that _P′Q′_ is the height of the appearance
+of the object on the picture; _PQ_ the height of the object itself; _S_
+the Sight-point; _T_ the Station-point; _D_ a point at the direct
+distance of the object; though the object is seldom placed actually on
+the line _TS_ produced, and may be far to the right or left of it, the
+formula is still the same.
+
+For let _S_, Fig. 3., be the Sight-point, and _AB_ the glass—here seen
+looking _down_ on its _upper edge_, not sideways;—then if the tower
+(represented now, as on a map, by the dark square), instead of being at
+_D_ on the line _ST_ produced, be at _E_, to the right (or left) of the
+spectator, still the apparent height of the tower on _AB_ will be as
+_S′T_ to _ET_, which is the same ratio as that of _ST_ to _DT_.
+
+  [Illustration: Fig. 3.]
+
+Now in many perspective problems, the position of an object is more
+conveniently expressed by the two measurements _DT_ and _DE_, than by
+the single oblique measurement _ET_.
+
+I shall call _DT_ the “direct distance” of the object at _E_, and _DE_
+its “lateral distance.” It is rather a license to call _DT_ its “direct”
+distance, for _ET_ is the more direct of the two; but there is no other
+term which would not cause confusion.
+
+Lastly, in order to complete our knowledge of the position of an object,
+the vertical height of some point in it, above or below the eye, must be
+given; that is to say, either _DP_ or _DQ_ in Fig. 2.[6]: this I shall
+call the “vertical distance” of the point given. In all perspective
+problems these three distances, and the dimensions of the object, must
+be stated, otherwise the problem is imperfectly given. It ought not to
+be required of us merely to draw _a_ room or _a_ church in perspective;
+but to draw _this_ room from _this_ corner, and _that_ church on _that_
+spot, in perspective. For want of knowing how to base their drawings on
+the measurement and place of the object, I have known practiced students
+represent a parish church, certainly in true perspective, but with a
+nave about two miles and a half long.
+
+It is true that in drawing landscapes from nature the sizes and
+distances of the objects cannot be accurately known. When, however, we
+know how to draw them rightly, if their size were given, we have only to
+_assume a rational approximation_ to their size, and the resulting
+drawing will be true enough for all intents and purposes. It does not in
+the least matter that we represent a distant cottage as eighteen feet
+long, when it is in reality only seventeen; but it matters much that we
+do not represent it as eighty feet long, as we easily might if we had
+not been accustomed to draw from measurement. Therefore, in all the
+following problems the measurement of the object is given.
+
+The student must observe, however, that in order to bring the diagrams
+into convenient compass, the measurements assumed are generally very
+different from any likely to occur in practice. Thus, in Fig. 3., the
+distance _DS_ would be probably in practice half a mile or a mile, and
+the distance _TS_, from the eye of the observer to the paper, only two
+or three feet. The mathematical law is however precisely the same,
+whatever the proportions; and I use such proportions as are best
+calculated to make the diagram clear.
+
+Now, therefore, the conditions of a perspective problem are the
+following:
+
+  The Sight-line _GH_ given, Fig. 1.;
+  The Sight-point _S_ given;
+  The Station-point _T_ given; and
+  The three distances of the object,[7] direct, lateral, and vertical,
+    with its dimensions, given.
+
+The size of the picture, conjecturally limited by the dotted circle, is
+to be determined afterwards at our pleasure. On these conditions I
+proceed at once to construction.
+
+
+  [3] If the glass were not upright, but sloping, the objects might
+      still be drawn through it, but their perspective would then be
+      different. Perspective, as commonly taught, is always calculated
+      for a vertical plane of picture.
+
+  [4] Supposing it to have no thickness; otherwise the images would be
+      distorted by refraction.
+
+  [5] I say “height” instead of “magnitude,” for a reason stated in
+      Appendix I., to which you will soon be referred. Read on here at
+      present.
+
+  [6] _P_ and _Q_ being points indicative of the place of the tower’s
+      base and top. In this figure both are above the sight-line; if the
+      tower were below the spectator both would be below it, and
+      therefore measured below _D_.
+
+  [7] More accurately, “the three distances of any point, either in the
+      object itself, or indicative of its distance.”
+
+
+
+
+PROBLEM I.
+
+TO FIX THE POSITION OF A GIVEN POINT.[8]
+
+
+Let _P_, Fig. 4., be the given point.
+
+  [Illustration: Fig. 4.]
+
+Let its direct distance be _DT_; its lateral distance to the left, _DC_;
+and vertical distance _beneath_ the eye of the observer, _CP_.
+
+[Let _GH_ be the Sight-line, _S_ the Sight-point, and _T_ the
+Station-point.][9]
+
+It is required to fix on the plane of the picture the position of the
+point P.
+
+Arrange the three distances of the object on your paper, as in
+Fig. 4.[10]
+
+Join _CT_, cutting _GH_ in _Q_.
+
+From _Q_ let fall the vertical line _QP′_.
+
+Join _PT_, cutting _QP_ in _P′_.
+
+_P′_ is the point required.
+
+If the point _P_ is _above_ the eye of the observer instead of below it,
+_CP_ is to be measured upwards from _C_, and _QP′_ drawn upwards from
+_Q_. The construction will be as in Fig. 5.
+
+  [Illustration: Fig. 5.]
+
+And if the point _P_ is to the right instead of the left of the
+observer, _DC_ is to be measured to the right instead of the left.
+
+The figures 4. and 5., looked at in a mirror, will show the construction
+of each, on that supposition.
+
+Now read very carefully the examples and notes to this problem in
+Appendix I. (page 69). I have put them in the Appendix in order to keep
+the sequence of following problems more clearly traceable here in the
+text; but you must read the first Appendix before going on.
+
+
+   [8] More accurately, “To fix on the plane of the picture the apparent
+       position of a point given in actual position.” In the headings of
+       all the following problems the words “on the plane of the
+       picture” are to be understood after the words “to draw.” The
+       plane of the picture means a surface extended indefinitely in the
+       direction of the picture.
+
+   [9] The sentence within brackets will not be repeated in succeeding
+       statements of problems. It is always to be understood.
+
+  [10] In order to be able to do this, you must assume the distances to
+       be small; as in the case of some object on the table: how large
+       distances are to be treated you will see presently; the
+       mathematical principle, being the same for all, is best
+       illustrated first on a small scale. Suppose, for instance, _P_ to
+       be the corner of a book on the table, seven inches below the eye,
+       five inches to the left of it, and a foot and a half in advance
+       of it, and that you mean to hold your finished drawing at six
+       inches from the eye; then _TS_ will be six inches, _TD_ a foot
+       and a half, _DC_ five inches, and _CP_ seven.
+
+
+
+
+PROBLEM II.
+
+TO DRAW A RIGHT LINE BETWEEN TWO GIVEN POINTS.
+
+
+  [Illustration: Fig. 6.]
+
+Let _AB_, Fig. 6., be the given right line, joining the given points _A_
+and _B_.
+
+Let the direct, lateral, and vertical distances of the point _A_ be
+_TD_, _DC_, and _CA_.
+
+Let the direct, lateral, and vertical distances of the point _B_ be
+_TD′_, _DC′_, and _C′B_.
+
+Then, by Problem I., the position of the point _A_ on the plane of the
+picture is _a_.
+
+And similarly, the position of the point _B_ on the plane of the picture
+is _b_.
+
+Join _ab_.
+
+Then _ab_ is the line required.
+
+
+COROLLARY I.
+
+If the line _AB_ is in a plane parallel to that of the picture, one end
+of the line _AB_ must be at the same direct distance from the eye of the
+observer as the other.
+
+Therefore, in that case, _DT_ is equal to _D′T_.
+
+Then the construction will be as in Fig. 7.; and the student will find
+experimentally that _ab_ is now parallel to _AB_.[11]
+
+  [Illustration: Fig. 7.]
+
+And that _ab_ is to _AB_ as _TS_ is to _TD_.
+
+Therefore, to draw any line in a plane parallel to that of the picture,
+we have only to fix the position of one of its extremities, _a_ or _b_,
+and then to draw from _a_ or _b_ a line parallel to the given line,
+bearing the proportion to it that _TS_ bears to _TD_.
+
+
+COROLLARY II.
+
+If the line _AB_ is in a horizontal plane, the vertical distance of one
+of its extremities must be the same as that of the other.
+
+Therefore, in that case, _AC_ equals _BC′_ (Fig. 6.).
+
+And the construction is as in Fig. 8.
+
+  [Illustration: Fig. 8.]
+
+In Fig. 8. produce _ab_ to the sight-line, cutting the sight-line in
+_V_; the point _V_, thus determined, is called the VANISHING-POINT of
+the line _AB_.
+
+Join _TV_. Then the student will find experimentally that _TV_ is
+parallel to _AB_.[12]
+
+
+COROLLARY III.
+
+If the line _AB_ produced would pass through some point beneath or above
+the station-point, _CD_ is to _DT_ as _C′D′_ is to _D′T_; in which case
+the point _c_ coincides with the point _c′_, and the line _ab_ is
+vertical.
+
+Therefore every vertical line in a picture is, or may be, the
+perspective representation of a horizontal one which, produced, would
+pass beneath the feet or above the head of the spectator.[13]
+
+
+  [11] For by the construction _AT_ ∶ _aT_ ∷ _BT_ ∶ _bT_; and therefore
+       the two triangles _ABT_, _abT_, (having a common angle _ATB_,)
+       are similar.
+
+  [12] The demonstration is in Appendix II. Article I.
+
+  [13] The reflection in water of any luminous point or isolated object
+       (such as the sun or moon) is therefore, in perspective, a
+       vertical line; since such reflection, if produced, would pass
+       under the feet of the spectator. Many artists (Claude among the
+       rest) knowing something of optics, but nothing of perspective,
+       have been led occasionally to draw such reflections towards a
+       point at the center of the base of the picture.
+
+
+
+
+PROBLEM III.
+
+TO FIND THE VANISHING-POINT OF A GIVEN HORIZONTAL LINE.
+
+
+  [Illustration: Fig. 9.]
+
+Let _AB_, Fig. 9., be the given line.
+
+From _T_, the station-point, draw _TV_ parallel to _AB_, cutting the
+sight-line in _V_.
+
+_V_ is the Vanishing-point required.[14]
+
+
+COROLLARY I.
+
+As, if the point _b_ is first found, _V_ may be determined by it, so, if
+the point _V_ is first found, _b_ may be determined by it. For let _AB_,
+Fig. 10., be the given line, constructed upon the paper as in Fig. 8.;
+and let it be required to draw the line _ab_ without using the point
+_C′_.
+
+  [Illustration: Fig. 10.]
+
+Find the position of the point _A_ in _a_. (Problem I.)
+
+Find the vanishing-point of _AB_ in _V_. (Problem III.)
+
+Join _aV_.
+
+Join _BT_, cutting _aV_ in _b_.
+
+Then _ab_ is the line required.[15]
+
+
+COROLLARY II.
+
+We have hitherto proceeded on the supposition that the given line was
+small enough, and near enough, to be actually drawn on our paper of its
+real size; as in the example given in Appendix I. We may, however, now
+deduce a construction available under all circumstances, whatever may be
+the distance and length of the line given.
+
+  [Illustration: Fig. 11.]
+
+From Fig. 8. remove, for the sake of clearness, the lines _C′D′_, _bV_,
+and _TV_; and, taking the figure as here in Fig. 11., draw from _a_, the
+line _aR_ parallel to _AB_, cutting _BT_ in _R_.
+
+  Then _aR_ is to _AB_ as _aT_ is to _AT_.
+       ----       ---- as _cT_ is to _CT_.
+       ----       ---- as _TS_ is to _TD_.
+
+That is to say, _aR_ is the sight-magnitude of _AB_.[16]
+
+  [Illustration: Fig. 12.]
+
+Therefore, when the position of the point _A_ is fixed in _a_, as in
+Fig. 12., and _aV_ is drawn to the vanishing-point; if we draw a line
+_aR_ from _a_, parallel to _AB_, and make _aR_ equal to the
+sight-magnitude of _AB_, and then join _RT_, the line _RT_ will cut _aV_
+in _b_.
+
+So that, in order to determine the length of _ab_, we need not draw the
+long and distant line _AB_, but only _aR_ parallel to it, and of its
+sight-magnitude; which is a great gain, for the line _AB_ may be two
+miles long, and the line _aR_ perhaps only two inches.
+
+
+COROLLARY III.
+
+In Fig. 12., altering its proportions a little for the sake of
+clearness, and putting it as here in Fig. 13., draw a horizontal line
+_aR′_ and make _aR′_ equal to _aR_.
+
+Through the points _R_ and _b_ draw _R′M_, cutting the sight-line in
+_M_. Join _TV_. Now the reader will find experimentally that _VM_ is
+equal to _VT_.[17]
+
+  [Illustration: Fig. 13.]
+
+Hence it follows that, if from the vanishing-point _V_ we lay off on
+the sight-line a distance, _VM_, equal to _VT_; then draw through _a_ a
+horizontal line _aR′_, make _aR′_ equal to the sight-magnitude of _AB_,
+and join _R′M_; the line _R′M_ will cut _aV_ in _b_. And this is in
+practice generally the most convenient way of obtaining the length of
+_ab_.
+
+
+COROLLARY IV.
+
+Removing from the preceding figure the unnecessary lines, and retaining
+only _R′M_ and _aV_, as in Fig. 14., produce the line _aR′_ to the other
+side of _a_, and make _aX_ equal to _aR′_.
+
+Join _Xb_, and produce _Xb_ to cut the line of sight in _N_.
+
+  [Illustration: Fig. 14.]
+
+Then as _XR′_ is parallel to _MN_, and _aR′_ is equal to _aX_, _VN_
+must, by similar triangles, be equal to _VM_ (equal to _VT_ in
+Fig. 13.).
+
+Therefore, on whichever side of _V_ we measure the distance _VT_, so as
+to obtain either the point _M_, or the point _N_, if we measure the
+sight-magnitude _aR′_ or _aX_ on the opposite side of the line _aV_, the
+line joining _R′M_ or _XN_ will equally cut _aV_ in _b_.
+
+The points _M_ and _N_ are called the “DIVIDING-POINTS” of the original
+line _AB_ (Fig. 12.), and we resume the results of these corollaries in
+the following three problems.
+
+
+  [14] The student will observe, in practice, that, his paper lying flat
+       on the table, he has only to draw the line _TV_ on its horizontal
+       surface, parallel to the given horizontal line _AB_. In theory,
+       the paper should be vertical, but the station-line _ST_
+       horizontal (see its definition above, page 5); in which case
+       _TV_, being drawn parallel to _AB_, will be horizontal also, and
+       still cut the sight-line in _V_.
+
+       The construction will be seen to be founded on the second
+       Corollary of the preceding problem.
+
+       It is evident that if any other line, as _MN_ in Fig. 9.,
+       parallel to _AB_, occurs in the picture, the line _TV_, drawn
+       from _T_, parallel to _MN_, to find the vanishing-point of _MN_,
+       will coincide with the line drawn from _T_, parallel to _AB_, to
+       find the vanishing-point of _AB_.
+
+       Therefore _AB_ and _MN_ will have the same vanishing-point.
+
+       Therefore all parallel horizontal lines have the same
+       vanishing-point.
+
+       It will be shown hereafter that all parallel _inclined_ lines
+       also have the same vanishing-point; the student may here accept
+       the general conclusion—“_All parallel lines have the same
+       vanishing-point._”
+
+       It is also evident that if _AB_ is parallel to the plane of the
+       picture, _TV_ must be drawn parallel to _GH_, and will therefore
+       never cut _GH_. The line _AB_ has in that case no
+       vanishing-point: it is to be drawn by the construction given in
+       Fig. 7.
+
+       It is also evident that if _AB_ is at right angles with the plane
+       of the picture, _TV_ will coincide with _TS_, and the
+       vanishing-point of _AB_ will be the sight-point.
+
+  [15] I spare the student the formality of the _reductio ad absurdum_,
+       which would be necessary to prove this.
+
+  [16] For definition of Sight-Magnitude, see Appendix I. It ought to
+       have been read before the student comes to this problem; but I
+       refer to it in case it has not.
+
+  [17] The demonstration is in Appendix II. Article II. p. 101.
+
+
+
+
+PROBLEM IV.
+
+TO FIND THE DIVIDING-POINTS OF A GIVEN HORIZONTAL LINE.
+
+
+  [Illustration: Fig. 15.]
+
+Let the horizontal line _AB_ (Fig. 15.) be given in position and
+magnitude. It is required to find its dividing-points.
+
+Find the vanishing-point _V_ of the line _AB_.
+
+With center _V_ and distance _VT_, describe circle cutting the
+sight-line in _M_ and _N_.
+
+Then _M_ and _N_ are the dividing-points required.
+
+In general, only one dividing-point is needed for use with any
+vanishing-point, namely, the one nearest _S_ (in this case the point
+_M_). But its opposite _N_, or both, may be needed under certain
+circumstances.
+
+
+
+
+PROBLEM V.
+
+TO DRAW A HORIZONTAL LINE, GIVEN IN POSITION AND MAGNITUDE, BY MEANS
+OF ITS SIGHT-MAGNITUDE AND DIVIDING-POINTS.
+
+
+  [Illustration: Fig. 16.]
+
+Let _AB_ (Fig. 16.) be the given line.
+
+Find the position of the point _A_ in _a_.
+
+Find the vanishing-point _V_, and most convenient dividing-point _M_,
+of the line _AB_.
+
+Join _aV_.
+
+Through _a_ draw a horizontal line _ab′_ and make _ab′_ equal to the
+sight-magnitude of _AB_. Join _b′M_, cutting _aV_ in _b_.
+
+Then _ab_ is the line required.
+
+
+COROLLARY I.
+
+  [Illustration: Fig. 17.]
+
+Supposing it were now required to draw a line _AC_ (Fig. 17.) twice as
+long as _AB_, it is evident that the sight-magnitude _ac′_ must be
+twice as long as the sight-magnitude _ab′_; we have, therefore, merely
+to continue the horizontal line _ab′_, make _b′c′_ equal to _ab′_,
+join _cM′_, cutting _aV_ in _c_, and _ac_ will be the line required.
+Similarly, if we have to draw a line _AD_, three times the length of
+_AB_, _ad′_ must be three times the length of _ab′_, and, joining
+_d′M_, _ad_ will be the line required.
+
+The student will observe that the nearer the portions cut off, _bc_,
+_cd_, etc., approach the point _V_, the smaller they become; and,
+whatever lengths may be added to the line _AD_, and successively cut
+off from _aV_, the line _aV_ will never be cut off entirely, but the
+portions cut off will become infinitely small, and apparently “vanish”
+as they approach the point _V_; hence this point is called the
+“vanishing” point.
+
+
+COROLLARY II.
+
+It is evident that if the line _AD_ had been given originally, and we
+had been required to draw it, and divide it into three equal parts, we
+should have had only to divide its sight-magnitude, _ad′_, into the
+three equal parts, _ab′_, _b′c′_, and _c′d′_, and then, drawing to _M_
+from _b′_ and _c′_, the line _ad_ would have been divided as required
+in _b_ and _c_. And supposing the original line _AD_ be divided
+_irregularly into any number_ of parts, if the line _ad′_ be divided
+into a similar number in the same proportions (by the construction
+given in Appendix I.), and, from these points of division, lines are
+drawn to _M_, they will divide the line _ad_ in true perspective into
+a similar number of proportionate parts.
+
+The horizontal line drawn through _a_, on which the sight-magnitudes
+are measured, is called the “MEASURING-LINE.”
+
+And the line _ad_, when properly divided in _b_ and _c_, or any other
+required points, is said to be divided “IN PERSPECTIVE RATIO” to the
+divisions of the original line _AD_.
+
+If the line _aV_ is above the sight-line instead of beneath it, the
+measuring-line is to be drawn above also: and the lines _b′M_, _c′M_,
+etc., drawn _down_ to the dividing-point. Turn Fig. 17. upside down,
+and it will show the construction.
+
+
+
+
+PROBLEM VI.
+
+TO DRAW ANY TRIANGLE, GIVEN IN POSITION AND MAGNITUDE, IN A HORIZONTAL
+PLANE.
+
+
+  [Illustration: Fig. 18.]
+
+Let _ABC_ (Fig. 18.) be the triangle.
+
+As it is given in position and magnitude, one of its sides, at least,
+must be given in position and magnitude, and the directions of the two
+other sides.
+
+Let _AB_ be the side given in position and magnitude.
+
+Then _AB_ is a horizontal line, in a given position, and of a given
+length.
+
+Draw the line _AB_. (Problem V.)
+
+Let _ab_ be the line so drawn.
+
+Find _V_ and _V′_, the vanishing-points respectively of the lines _AC_
+and _BC_. (Problem III.)
+
+From _a_ draw _aV_, and from _b_, draw _bV′_, cutting each other in
+_c_.
+
+Then _abc_ is the triangle required.
+
+If _AC_ is the line originally given, _ac_ is the line which must be
+first drawn, and the line _V′b_ must be drawn from _V′_ to _c_ and
+produced to cut _ab_ in _b_. Similarly, if _BC_ is given, _Vc_ must be
+drawn to _c_ and produced, and _ab_ from its vanishing-point to _b_,
+and produced to cut _ac_ in _a_.
+
+
+
+
+PROBLEM VII.
+
+TO DRAW ANY RECTILINEAR QUADRILATERAL FIGURE, GIVEN IN POSITION AND
+MAGNITUDE, IN A HORIZONTAL PLANE.
+
+
+  [Illustration: Fig. 19.]
+
+Let _ABCD_ (Fig. 19.) be the given figure.
+
+Join any two of its opposite angles by the line _BC_.
+
+Draw first the triangle _ABC_. (Problem VI.)
+
+And then, from the base _BC_, the two lines _BD_, _CD_, to their
+vanishing-points, which will complete the figure. It is unnecessary to
+give a diagram of the construction, which is merely that of Fig. 18.
+duplicated; another triangle being drawn on the line _AC_ or _BC_.
+
+
+COROLLARY.
+
+It is evident that by this application of Problem VI. any given
+rectilinear figure whatever in a horizontal plane may be drawn, since
+any such figure may be divided into a number of triangles, and the
+triangles then drawn in succession.
+
+More convenient methods may, however, be generally found, according
+to the form of the figure required, by the use of succeeding problems;
+and for the quadrilateral figure which occurs most frequently in
+practice, namely, the square, the following construction is more
+convenient than that used in the present problem.
+
+
+
+
+PROBLEM VIII.
+
+TO DRAW A SQUARE, GIVEN IN POSITION AND MAGNITUDE, IN A HORIZONTAL
+PLANE.
+
+
+  [Illustration: Fig. 20.]
+
+Let _ABCD_, Fig. 20., be the square.
+
+As it is given in position and magnitude, the position and magnitude
+of all its sides are given.
+
+Fix the position of the point _A_ in _a_.
+
+Find _V_, the vanishing-point of _AB_; and _M_, the dividing-point of
+_AB_, nearest _S_.
+
+Find _V′_, the vanishing-point of _AC_; and _N_, the dividing-point of
+_AC_, nearest _S_.
+
+Draw the measuring-line through _a_, and make _ab′_, _ac′_, each equal
+to the sight-magnitude of _AB_.
+
+(For since _ABCD_ is a square, _AC_ is equal to _AB_.)
+
+Draw _aV′_ and _c′N_, cutting each other in _c_.
+
+Draw _aV_, and _b′M_, cutting each other in _b_.
+
+Then _ac_, _ab_, are the two nearest sides of the square.
+
+Now, clearing the figure of superfluous lines, we have _ab_, _ac_,
+drawn in position, as in Fig. 21.
+
+  [Illustration: Fig. 21.]
+
+And because _ABCD_ is a square, _CD_ (Fig. 20.) is parallel to _AB_.
+
+And all parallel lines have the same vanishing-point. (Note to
+Problem III.)
+
+Therefore, _V_ is the vanishing-point of _CD_.
+
+Similarly, _V′_ is the vanishing-point of _BD_.
+
+Therefore, from _b_ and _c_ (Fig. 22.) draw _bV′_, _cV_, cutting each
+other in _d_.
+
+Then _abcd_ is the square required.
+
+
+COROLLARY I.
+
+It is obvious that any rectangle in a horizontal plane may be drawn by
+this problem, merely making _ab′_, on the measuring-line, Fig. 20.,
+equal to the sight-magnitude of one of its sides, and _ac′_ the
+sight-magnitude of the other.
+
+
+COROLLARY II.
+
+Let _abcd_, Fig. 22., be any square drawn in perspective. Draw the
+diagonals _ad_ and _bc_, cutting each other in _C_. Then _C_ is the
+center of the square. Through _C_, draw _ef_ to the vanishing-point of
+_ab_, and _gh_ to the vanishing-point of _ac_, and these lines will
+bisect the sides of the square, so that _ag_ is the perspective
+representation of half the side _ab_; _ae_ is half _ac_; _ch_ is half
+_cd_; and _bf_ is half _bd_.
+
+  [Illustration: Fig. 22.]
+
+
+COROLLARY III.
+
+Since _ABCD_, Fig. 20., is a square, _BAC_ is a right angle; and as
+_TV_ is parallel to _AB_, and _TV′_ to _AC_, _V′TV_ must be a right
+angle also.
+
+As the ground plan of most buildings is rectangular, it constantly
+happens in practice that their angles (as the corners of ordinary
+houses) throw the lines to the vanishing-points thus at right angles;
+and so that this law is observed, and _VTV′_ is kept a right angle, it
+does not matter in general practice whether the vanishing-points are
+thrown a little more or a little less to the right or left of _S_: but
+it matters much that the relation of the vanishing-points should be
+accurate. Their position with respect to _S_ merely causes the
+spectator to see a little more or less on one side or other of the
+house, which may be a matter of chance or choice; but their
+rectangular relation determines the rectangular shape of the building,
+which is an essential point.
+
+
+
+
+PROBLEM IX.
+
+TO DRAW A SQUARE PILLAR, GIVEN IN POSITION AND MAGNITUDE, ITS BASE AND
+TOP BEING IN HORIZONTAL PLANES.
+
+
+Let _AH_, Fig. 23., be the square pillar.
+
+Then, as it is given in position and magnitude, the position and
+magnitude of the square it stands upon must be given (that is, the
+line _AB_ or _AC_ in position), and the height of its side _AE_.
+
+  [Illustration: Fig. 23.]  [Illustration: Fig. 24.]
+
+Find the sight-magnitudes of _AB_ and _AE_. Draw the two sides _ab_,
+_ac_, of the square of the base, by Problem VIII., as in Fig. 24. From
+the points _a_, _b_, and _c_, raise vertical lines _ae_, _cf_, _bg_.
+
+Make _ae_ equal to the sight-magnitude of _AE_.
+
+Now because the top and base of the pillar are in horizontal planes,
+the square of its top, _FG_, is parallel to the square of its base,
+_BC_.
+
+Therefore the line _EF_ is parallel to _AC_, and _EG_ to _AB_.
+
+Therefore _EF_ has the same vanishing-point as _AC_, and _EG_ the same
+vanishing-point as _AB_.
+
+From _e_ draw _ef_ to the vanishing-point of _ac_, cutting _cf_ in
+_f_.
+
+Similarly draw _eg_ to the vanishing-point of _ab_, cutting _bg_ in
+_g_.
+
+Complete the square _gf_ in _h_, by drawing _gh_ to the
+vanishing-point of _ef_, and _fh_ to the vanishing-point of _eg_,
+cutting each other in _h_. Then _aghf_ is the square pillar required.
+
+
+COROLLARY.
+
+It is obvious that if _AE_ is equal to _AC_, the whole figure will be
+a cube, and each side, _aefc_ and _aegb_, will be a square in a given
+vertical plane. And by making _AB_ or _AC_ longer or shorter in any
+given proportion, any form of rectangle may be given to either of the
+sides of the pillar. No other rule is therefore needed for drawing
+squares or rectangles in vertical planes.
+
+Also any triangle may be thus drawn in a vertical plane, by inclosing
+it in a rectangle and determining, in perspective ratio, on the sides
+of the rectangle, the points of their contact with the angles of the
+triangle.
+
+And if any triangle, then any polygon.
+
+A less complicated construction will, however, be given hereafter.[18]
+
+
+  [18] See page 96 (note), after you have read Problem XVI.
+
+
+
+
+PROBLEM X.
+
+TO DRAW A PYRAMID, GIVEN IN POSITION AND MAGNITUDE, ON A SQUARE BASE
+IN A HORIZONTAL PLANE.
+
+
+  [Illustration: Fig. 25.]
+
+Let _AB_, Fig. 25., be the four-sided pyramid. As it is given in
+position and magnitude, the square base on which it stands must be
+given in position and magnitude, and its vertical height, _CD_.[19]
+
+  [Illustration: Fig. 26.]
+
+Draw a square pillar, _ABGE_, Fig. 26., on the square base of the
+pyramid, and make the height of the pillar _AF_ equal to the vertical
+height of the pyramid _CD_ (Problem IX.). Draw the diagonals _GF_,
+_HI_, on the top of the square pillar, cutting each other in _C_.
+Therefore _C_ is the center of the square _FGHI_. (Prob. VIII.
+Cor. II.)
+
+  [Illustration: Fig. 27.]
+
+Join _CE_, _CA_, _CB_.
+
+Then _ABCE_ is the pyramid required. If the base of the pyramid is
+above the eye, as when a square spire is seen on the top of a
+church-tower, the construction will be as in Fig. 27.
+
+
+  [19] If, instead of the vertical height, the length of _AD_ is
+       given, the vertical must be deduced from it. See the Exercises
+       on this Problem in the Appendix, p. 79.
+
+
+
+
+PROBLEM XI.
+
+TO DRAW ANY CURVE IN A HORIZONTAL OR VERTICAL PLANE.
+
+
+  [Illustration: Fig. 28.]
+
+Let _AB_, Fig. 28., be the curve.
+
+Inclose it in a rectangle, _CDEF_.
+
+Fix the position of the point _C_ or _D_, and draw the rectangle.
+(Problem VIII. Coroll. I.)[20]
+
+Let _CDEF_, Fig. 29., be the rectangle so drawn.
+
+  [Illustration: Fig. 29.]
+
+If an extremity of the curve, as _A_, is in a side of the rectangle,
+divide the side _CE_, Fig. 29., so that _AC_ shall be (in perspective
+ratio) to _AE_ as _AC_ is to _AE_ in Fig. 28. (Prob. V. Cor. II.)
+
+Similarly determine the points of contact of the curve and rectangle
+_e_, _f_, _g_.
+
+If an extremity of the curve, as _B_, is not in a side of the
+rectangle, let fall the perpendiculars _Ba_, _Bb_ on the rectangle
+sides. Determine the correspondent points _a_ and _b_ in Fig. 29., as
+you have already determined _A_, _B_, _e_, and _f_.
+
+From _b_, Fig. 29., draw _bB_ parallel to _CD_,[21] and from _a_ draw
+_aB_ to the vanishing-point of _DF_, cutting each other in _B_. Then
+_B_ is the extremity of the curve.
+
+Determine any other important point in the curve, as _P_, in the same
+way, by letting fall _Pq_ and _Pr_ on the rectangle’s sides.
+
+Any number of points in the curve may be thus determined, and the
+curve drawn through the series; in most cases, three or four will be
+enough. Practically, complicated curves may be better drawn in
+perspective by an experienced eye than by rule, as the fixing of the
+various points in haste involves too many chances of error; but it is
+well to draw a good many by rule first, in order to give the eye its
+experience.[22]
+
+
+COROLLARY.
+
+If the curve required be a circle, Fig. 30., the rectangle which
+incloses it will become a square, and the curve will have four points
+of contact, _ABCD_, in the middle of the sides of the square.
+
+  [Illustration: Fig. 30.]
+
+Draw the square, and as a square may be drawn about a circle in any
+position, draw it with its nearest side, _EG_, parallel to the
+sight-line.
+
+Let _EF_, Fig. 31., be the square so drawn.
+
+Draw its diagonals _EF_, _GH_; and through the center of the square
+(determined by their intersection) draw _AB_ to the vanishing-point of
+_GF_, and _CD_ parallel to _EG_. Then the points _ABCD_ are the four
+points of the circle’s contact.
+
+  [Illustration: Fig. 31.]
+
+On _EG_ describe a half square, _EL_; draw the semicircle _KAL_; and
+from its center, _R_, the diagonals _RE_, _RG_, cutting the circle in
+_x_, _y_.
+
+From the points _x_ _y_, where the circle cuts the diagonals, raise
+perpendiculars, _Px_, _Qy_, to _EG_.
+
+From _P_ and _Q_ draw _PP′_, _QQ′_, to the vanishing-point of _GF_,
+cutting the diagonals in _m_, _n_, and _o_, _p_.
+
+Then _m_, _n_, _o_, _p_ are four other points in the circle.
+
+Through these eight points the circle may be drawn by the hand
+accurately enough for general purposes; but any number of points
+required may, of course, be determined, as in Problem XI.
+
+The distance _EP_ is approximately one-seventh of _EG_, and may be
+assumed to be so in quick practice, as the error involved is not
+greater than would be incurred in the hasty operation of drawing the
+circle and diagonals.
+
+It may frequently happen that, in consequence of associated
+constructions, it may be inconvenient to draw _EG_ parallel to the
+sight-line, the square being perhaps first constructed in some oblique
+direction. In such cases, _QG_ and _EP_ must be determined in
+perspective ratio by the dividing-point, the line _EG_ being used as a
+measuring-line.
+
+  [_Obs._ In drawing Fig. 31. the station-point has been taken much
+  nearer the paper than is usually advisable, in order to show the
+  character of the curve in a very distinct form.
+
+  If the student turns the book so that _EG_ may be vertical,
+  Fig. 31. will represent the construction for drawing a circle in a
+  vertical plane, the sight-line being then of course parallel to
+  _GL_; and the semicircles _ADB_, _ACB_, on each side of the
+  diameter _AB_, will represent ordinary semicircular arches seen in
+  perspective. In that case, if the book be held so that the line
+  _EH_ is the top of the square, the upper semicircle will represent
+  a semicircular arch, _above_ the eye, drawn in perspective. But if
+  the book be held so that the line _GF_ is the top of the square,
+  the upper semicircle will represent a semicircular arch, _below_
+  the eye, drawn in perspective.
+
+  If the book be turned upside down, the figure will represent a
+  circle drawn on the ceiling, or any other horizontal plane above
+  the eye; and the construction is, of course, accurate in every
+  case.]
+
+
+  [20] Or if the curve is in a vertical plane, Coroll. to Problem IX.
+       As a rectangle may be drawn in any position round any given
+       curve, its position with respect to the curve will in either
+       case be regulated by convenience. See the Exercises on this
+       Problem, in the Appendix, p. 85.
+
+  [21] Or to its vanishing-point, if _CD_ has one.
+
+  [22] Of course, by dividing the original rectangle into any number
+       of equal rectangles, and dividing the perspective rectangle
+       similarly, the curve may be approximately drawn without any
+       trouble; but, when accuracy is required, the points should be
+       fixed, as in the problem.
+
+
+
+
+PROBLEM XII.
+
+TO DIVIDE A CIRCLE DRAWN IN PERSPECTIVE INTO ANY GIVEN NUMBER OF EQUAL
+PARTS.
+
+
+Let _AB_, Fig. 32., be the circle drawn in perspective. It is required
+to divide it into a given number of equal parts; in this case, 20.
+
+Let _KAL_ be the semicircle used in the construction. Divide the
+semicircle _KAL_ into half the number of parts required; in this case,
+10.
+
+Produce the line _EG_ laterally, as far as may be necessary.
+
+From _O_, the center of the semicircle _KAL_, draw radii through the
+points of division of the semicircle, _p_, _q_, _r_, etc., and produce
+them to cut the line _EG_ in _P_, _Q_, _R_, etc.
+
+From the points _PQR_ draw the lines _PP′_, _QQ′_, _RR′_, etc.,
+through the center of the circle _AB_, each cutting the circle in two
+points of its circumference.
+
+Then these points divide the perspective circle as required.
+
+If from each of the points _p_, _q_, _r_, a vertical were raised to
+the line _EG_, as in Fig. 31., and from the point where it cut _EG_ a
+line were drawn to the vanishing-point, as _QQ′_ in Fig. 31., this
+line would also determine two of the points of division.
+
+  [Illustration: Fig. 32.]
+
+If it is required to divide a circle into any number of given
+_un_equal parts (as in the points _A_, _B_, and _C_, Fig. 33.), the
+shortest way is thus to raise vertical lines from _A_ and _B_ to the
+side of the perspective square _XY_, and then draw to the
+vanishing-point, cutting the perspective circle in _a_ and _b_, the
+points required. Only notice that if any point, as _A_, is on the
+nearer side of the circle _ABC_, its representative point, _a_, must
+be on the nearer side of the circle _abc_; and if the point _B_ is on
+the farther side of the circle _ABC_, _b_ must be on the farther side
+of _abc_. If any point, as _C_, is so much in the lateral arc of the
+circle as not to be easily determinable by the vertical line, draw the
+horizontal _CP_, find the correspondent _p_ in the side of the
+perspective square, and draw _pc_ parallel to _XY_, cutting the
+perspective circle in _c_.
+
+  [Illustration: Fig. 33.]
+
+
+COROLLARY.
+
+It is obvious that if the points _P′_, _Q′_, _R_, etc., by which the
+circle is divided in Fig. 32., be joined by right lines, the resulting
+figure will be a regular equilateral figure of twenty sides inscribed
+in the circle. And if the circle be divided into given unequal parts,
+and the points of division joined by right lines, the resulting figure
+will be an irregular polygon inscribed in the circle with sides of
+given length.
+
+Thus any polygon, regular or irregular, inscribed in a circle, may be
+inscribed in position in a perspective circle.
+
+
+
+
+PROBLEM XIII.
+
+TO DRAW A SQUARE, GIVEN IN MAGNITUDE, WITHIN A LARGER SQUARE GIVEN IN
+POSITION AND MAGNITUDE; THE SIDES OF THE TWO SQUARES BEING PARALLEL.
+
+
+  [Illustration: Fig. 34.]
+
+Let _AB_, Fig. 34., be the sight-magnitude of the side of the smaller
+square, and _AC_ that of the side of the larger square.
+
+Draw the larger square. Let _DEFG_ be the square so drawn.
+
+Join _EG_ and _DF_.
+
+On either _DE_ or _DG_ set off, in perspective ratio, _DH_ equal to
+one half of _BC_. Through _H_ draw _HK_ to the vanishing-point of
+_DE_, cutting _DF_ in _I_ and _EG_ in _K_. Through _I_ and _K_ draw
+_IM_, _KL_, to vanishing-point of _DG_, cutting _DF_ in _L_ and _EG_
+in _M_. Join _LM_.
+
+Then _IKLM_ is the smaller square, inscribed as required.[23]
+
+
+COROLLARY.
+
+  [Illustration: Fig. 36.]
+
+If, instead of one square within another, it be required to draw one
+circle within another, the dimensions of both being given, inclose
+each circle in a square. Draw the squares first, and then the circles
+within, as in Fig. 36.
+
+
+  [23] [Illustration: Fig. 35.] If either of the sides of the greater
+       square is parallel to the plane of the picture, as _DG_ in
+       Fig. 35., _DG_ of course must be equal to _AC_, and _DH_ equal
+       to _BC_/2, and the construction is as in Fig. 35.
+
+
+
+
+PROBLEM XIV.
+
+TO DRAW A TRUNCATED CIRCULAR CONE, GIVEN IN POSITION AND MAGNITUDE,
+THE TRUNCATIONS BEING IN HORIZONTAL PLANES, AND THE AXIS OF THE CONE
+VERTICAL.
+
+
+Let _ABCD_, Fig. 37., be the portion of the cone required.
+
+  [Illustration: Fig. 37.]
+
+As it is given in magnitude, its diameters must be given at the base
+and summit, _AB_ and _CD_; and its vertical height, _CE_.[24]
+
+And as it is given in position, the center of its base must be given.
+
+  [Illustration: Fig. 38.]
+
+Draw in position, about this center,[25] the square pillar _afd_,
+Fig. 38., making its height, _bg_, equal to _CE_; and its side, _ab_,
+equal to _AB_.
+
+In the square of its base, _abcd_, inscribe a circle, which therefore
+is of the diameter of the base of the cone, _AB_.
+
+In the square of its top, _efgh_, inscribe concentrically a circle
+whose diameter shall equal _CD_. (Coroll. Prob. XIII.)
+
+Join the extremities of the circles by the right lines _kl_, _nm_.
+Then _klnm_ is the portion of cone required.
+
+
+COROLLARY I.
+
+If similar polygons be inscribed in similar positions in the circles
+_kn_ and _lm_ (Coroll. Prob. XII.), and the corresponding angles of
+the polygons joined by right lines, the resulting figure will be a
+portion of a polygonal pyramid. (The dotted lines in Fig. 38.,
+connecting the extremities of two diameters and one diagonal in the
+respective circles, occupy the position of the three nearest angles of
+a regular octagonal pyramid, having its angles set on the diagonals
+and diameters of the square _ad_, inclosing its base.)
+
+If the cone or polygonal pyramid is not truncated, its apex will be
+the center of the upper square, as in Fig. 26.
+
+
+COROLLARY II.
+
+If equal circles, or equal and similar polygons, be inscribed in the
+upper and lower squares in Fig. 38., the resulting figure will be a
+vertical cylinder, or a vertical polygonal pillar, of given height and
+diameter, drawn in position.
+
+
+COROLLARY III.
+
+If the circles in Fig. 38., instead of being inscribed in the squares
+_bc_ and _fg_, be inscribed in the sides of the solid figure _be_ and
+_df_, those sides being made square, and the line _bd_ of any given
+length, the resulting figure will be, according to the constructions
+employed, a cone, polygonal pyramid, cylinder, or polygonal pillar,
+drawn in position about a horizontal axis parallel to _bd_.
+
+Similarly, if the circles are drawn in the sides _gd_ and _ec_, the
+resulting figures will be described about a horizontal axis parallel
+to _ab_.
+
+
+  [24] Or if the length of its side, _AC_, is given instead, take
+       _ae_, Fig. 37., equal to half the excess of _AB_ over _CD_;
+       from the point _e_ raise the perpendicular _ce_. With center
+       _a_, and distance _AC_, describe a circle cutting _ce_ in _c_.
+       Then _ce_ is the vertical height of the portion of cone
+       required, or _CE_.
+
+  [25] The direction of the side of the square will of course be
+       regulated by convenience.
+
+
+
+
+PROBLEM XV.
+
+TO DRAW AN INCLINED LINE, GIVEN IN POSITION AND MAGNITUDE.
+
+
+We have hitherto been examining the conditions of horizontal and
+vertical lines only, or of curves inclosed in rectangles.
+
+  [Illustration: Fig. 39.]  [Illustration: Fig. 40.]
+
+We must, in conclusion, investigate the perspective of inclined lines,
+beginning with a single one given in position. For the sake of
+completeness of system, I give in Appendix II. Article III. the
+development of this problem from the second. But, in practice, the
+position of an inclined line may be most conveniently defined by
+considering it as the diagonal of a rectangle, as _AB_ in Fig. 39.,
+and I shall therefore, though at some sacrifice of system, examine it
+here under that condition.
+
+If the sides of the rectangle _AC_ and _AD_ are given, the slope of
+the line _AB_ is determined; and then its position will depend on that
+of the rectangle. If, as in Fig. 39., the rectangle is parallel to the
+picture plane, the line _AB_ must be so also. If, as in Fig. 40., the
+rectangle is inclined to the picture plane, the line _AB_ will be so
+also. So that, to fix the position of _AB_, the line _AC_ must be
+given in position and magnitude, and the height _AD_.
+
+  [Illustration: Fig. 41.]
+
+If these are given, and it is only required to draw the single line
+_AB_ in perspective, the construction is entirely simple; thus:—
+
+Draw the line _AC_ by Problem I.
+
+Let _AC_, Fig. 41., be the line so drawn. From _a_ and _c_ raise the
+vertical lines _ad_, _cb_. Make _ad_ equal to the sight-magnitude of
+_AD_. From _d_ draw _db_ to the vanishing-point of _ac_, cutting _bc_
+in _b_.
+
+Join _ab_. Then _ab_ is the inclined line required.
+
+  [Illustration: Fig. 42.]
+
+If the line is inclined in the opposite direction, as _DC_ in
+Fig. 42., we have only to join _dc_ instead of _ab_ in Fig. 41., and
+_dc_ will be the line required.
+
+I shall hereafter call the line _AC_, when used to define the position
+of an inclined line _AB_ (Fig. 40.), the “relative horizontal” of the
+line _AB_.
+
+
+OBSERVATION.
+
+  [Illustration: Fig. 43.]
+
+In general, inclined lines are most needed for gable roofs, in which,
+when the conditions are properly stated, the vertical height of the
+gable, _XY_, Fig. 43., is given, and the base line, _AC_, in position.
+When these are given, draw _AC_; raise vertical _AD_; make _AD_ equal
+to sight-magnitude of _XY_; complete the perspective-rectangle _ADBC_;
+join _AB_ and _DC_ (as by dotted lines in figure); and through the
+intersection of the dotted lines draw vertical _XY_, cutting _DB_ in
+_Y_. Join _AY_, _CY_; and these lines are the sides of the gable. If
+the length of the roof _AA′_ is also given, draw in perspective the
+complete parallelopiped _A′D′BC_, and from _Y_ draw _YY′_ to the
+vanishing-point of _AA′_, cutting _D′B′_ in _Y′_. Join _A′Y_, and you
+have the slope of the farther side of the roof.
+
+  [Illustration: Fig. 44.]
+
+The construction above the eye is as in Fig. 44.; the roof is reversed
+in direction merely to familiarize the student with the different
+aspects of its lines.
+
+
+
+
+PROBLEM XVI.
+
+TO FIND THE VANISHING-POINT OF A GIVEN INCLINED LINE.
+
+
+If, in Fig. 43. or Fig. 44., the lines _AY_ and _A′Y′_ be produced,
+the student will find that they meet.
+
+Let _P_, Fig. 45., be the point at which they meet.
+
+From _P_ let fall the vertical _PV_ on the sight-line, cutting the
+sight-line in _V_.
+
+Then the student will find experimentally that _V_ is the
+vanishing-point of the line _AC_.[26]
+
+Complete the rectangle of the base _AC′_, by drawing _A′C′_ to _V_,
+and _CC′_ to the vanishing-point of _AA′_.
+
+Join _Y′C′_.
+
+Now if _YC_ and _Y′C′_ be produced downwards, the student will find
+that they meet.
+
+Let them be produced, and meet in _P′_.
+
+Produce _PV_, and it will be found to pass through the point _P′_.
+
+Therefore if _AY_ (or _CY_), Fig. 45., be any inclined line drawn in
+perspective by Problem XV., and _AC_ the relative horizontal (_AC_ in
+Figs. 39, 40.), also drawn in perspective.
+
+Through _V_, the vanishing-point of _AV_, draw the vertical _PP′_
+upwards and downwards.
+
+Produce _AY_ (or _CY_), cutting _PP′_ in _P_ (or _P′_).
+
+Then _P_ is the vanishing-point of _AY_ (or _P′_ of _CY_).
+
+  [Illustration: Fig. 45.]
+
+The student will observe that, in order to find the point _P_ by this
+method, it is necessary first to draw a portion of the given inclined
+line by Problem XV. Practically, it is always necessary to do so, and,
+therefore, I give the problem in this form.
+
+Theoretically, as will be shown in the analysis of the problem, the
+point _P_ should be found by drawing a line from the station-point
+parallel to the given inclined line: but there is no practical means
+of drawing such a line; so that in whatever terms the problem may be
+given, a portion of the inclined line (_AY_ or _CY_) must always be
+drawn in perspective before P can be found.
+
+
+  [26] The demonstration is in Appendix II. Article III.
+
+
+
+
+PROBLEM XVII.
+
+TO FIND THE DIVIDING-POINTS OF A GIVEN INCLINED LINE.
+
+
+  [Illustration: Fig. 46.]
+
+Let _P_, Fig. 46., be the vanishing-point of the inclined line, and
+_V_ the vanishing-point of the relative horizontal.
+
+Find the dividing-points of the relative horizontal, _D_ and _D′_.
+
+Through _P_ draw the horizontal line _XY_.
+
+With center _P_ and distance _DP_ describe the two arcs _DX_ and
+_D′Y_, cutting the line _XY_ in _X_ and _Y_.
+
+Then _X_ and _Y_ are the dividing-points of the inclined line.[27]
+
+_Obs._ The dividing-points found by the above rule, used with the
+ordinary measuring-line, will lay off distances on the retiring
+inclined line, as the ordinary dividing-points lay them off on the
+retiring horizontal line.
+
+Another dividing-point, peculiar in its application, is sometimes
+useful, and is to be found as follows:—
+
+  [Illustration: Fig. 47.]
+
+Let _AB_, Fig. 47., be the given inclined line drawn in perspective,
+and _Ac_ the relative horizontal.
+
+Find the vanishing-points, _V_ and _E_, of _Ac_ and _AB_; _D_, the
+dividing-point of _Ac_; and the sight-magnitude of _Ac_ on the
+measuring-line, or _AC_.
+
+From _D_ erect the perpendicular _DF_.
+
+Join _CB_, and produce it to cut _DE_ in _F_. Join _EF_.
+
+Then, by similar triangles, _DF_ is equal to _EV_, and _EF_ is
+parallel to _DV_.
+
+Hence it follows that if from _D_, the dividing-point of _Ac_, we
+raise a perpendicular and make _DF_ equal to _EV_, a line _CF_, drawn
+from any point _C_ on the measuring-line to _F_, will mark the
+distance _AB_ on the inclined line, _AB_ being the portion of the
+given inclined line which forms the diagonal of the vertical rectangle
+of which _AC_ is the base.
+
+
+  [27] The demonstration is in Appendix II., p. 104.
+
+
+
+
+PROBLEM XVIII.
+
+TO FIND THE SIGHT-LINE OF AN INCLINED PLANE IN WHICH TWO LINES ARE
+GIVEN IN POSITION.[28]
+
+
+As in order to fix the position of a line two points in it must be
+given, so in order to fix the position of a plane, two lines in it
+must be given.
+
+  [Illustration: Fig. 48]
+
+Let the two lines be _AB_ and _CD_, Fig. 48.
+
+As they are given in position, the relative horizontals _AE_ and _CF_
+must be given.
+
+Then by Problem XVI. the vanishing-point of _AB_ is _V_, and of _CD_,
+_V′_.
+
+Join _VV′_ and produce it to cut the sight-line in _X_.
+
+Then _VX_ is the sight-line of the inclined plane.
+
+Like the horizontal sight-line, it is of indefinite length; and may be
+produced in either direction as occasion requires, crossing the
+horizontal line of sight, if the plane continues downward in that
+direction.
+
+_X_ is the vanishing-point of all horizontal lines in the inclined
+plane.
+
+
+  [28] Read the Article on this problem in the Appendix, p. 97, before
+       investigating the problem itself.
+
+
+
+
+PROBLEM XIX.
+
+TO FIND THE VANISHING-POINT OF STEEPEST LINES IN AN INCLINED PLANE
+WHOSE SIGHT-LINE IS GIVEN.
+
+
+  [Illustration: Fig. 49.]
+
+Let _VX_, Fig. 49., be the given sight-line.
+
+Produce it to cut the horizontal sight-line in _X_.
+
+Therefore _X_ is the vanishing-point of horizontal lines in the given
+inclined plane. (Problem XVIII.)
+
+Join _TX_, and draw _TY_ at right angles to _TX_.
+
+Therefore _Y_ is the rectangular vanishing-point corresponding to
+_X_.[29]
+
+From _Y_ erect the vertical _YP_, cutting the sight-line of the
+inclined plane in _P_.
+
+Then _P_ is the vanishing-point of steepest lines in the plane.
+
+All lines drawn to it, as _QP_, _RP_, _NP_, etc., are the steepest
+possible in the plane; and all lines drawn to _X_, as _QX_, _OX_,
+etc., are horizontal, and at right angles to the lines _PQ_, _PR_,
+etc.
+
+
+  [29] That is to say, the vanishing-point of horizontal lines drawn at
+       right angles to the lines whose vanishing-point is _X_.
+
+
+
+
+PROBLEM XX.
+
+TO FIND THE VANISHING-POINT OF LINES PERPENDICULAR TO THE SURFACE OF A
+GIVEN INCLINED PLANE.
+
+
+  [Illustration: Fig. 50.]
+
+As the inclined plane is given, one of its steepest lines must be given,
+or may be ascertained.
+
+Let _AB_, Fig. 50., be a portion of a steepest line in the given plane,
+and _V_ the vanishing-point of its relative horizontal.
+
+Through _V_ draw the vertical _GF_ upwards and downwards.
+
+From _A_ set off any portion of the relative horizontal _AC_, and on
+_AC_ describe a semicircle in a vertical plane, _ADC_, cutting _AB_ in
+_E_.
+
+Join _EC_, and produce it to cut _GF_ in _F_.
+
+Then _F_ is the vanishing-point required.
+
+For, because _AEC_ is an angle in a semicircle, it is a right angle;
+and therefore the line _EF_ is at right angles to the line _AB_; and
+similarly all lines drawn to _F_, and therefore parallel to _EF_, are
+at right angles with any line which cuts them, drawn to the
+vanishing-point of _AB_.
+
+And because the semicircle _ADC_ is in a vertical plane, and its
+diameter _AC_ is at right angles to the horizontal lines traversing
+the surface of the inclined plane, the line _EC_, being in this
+semicircle, is also at right angles to such traversing lines. And
+therefore the line _EC_, being at right angles to the steepest lines
+in the plane, and to the horizontal lines in it, is perpendicular to
+its surface.
+
+       *       *       *       *       *
+
+The preceding series of constructions, with the examples in the first
+Article of the Appendix, put it in the power of the student to draw
+any form, however complicated,[30] which does not involve intersection
+of curved surfaces. I shall not proceed to the analysis of any of
+these more complex problems, as they are entirely useless in the
+ordinary practice of artists. For a few words only I must ask the
+reader’s further patience, respecting the general placing and scale of
+the picture.
+
+As the horizontal sight-line is drawn through the sight-point, and the
+sight-point is opposite the eye, the sight-line is always on a level
+with the eye. Above and below the sight-line, the eye comprehends, as
+it is raised or depressed while the head is held upright, about an
+equal space; and, on each side of the sight-point, about the same
+space is easily seen without turning the head; so that if a picture
+represented the true field of easy vision, it ought to be circular,
+and have the sight-point in its center. But because some parts of any
+given view are usually more interesting than others, either the
+uninteresting parts are left out, or somewhat more than would
+generally be seen of the interesting parts is included, by moving the
+field of the picture a little upwards or downwards, so as to throw the
+sight-point low or high. The operation will be understood in a moment
+by cutting an aperture in a piece of pasteboard, and moving it up and
+down in front of the eye, without moving the eye. It will be seen to
+embrace sometimes the low, sometimes the high objects, without
+altering their perspective, only the eye will be opposite the lower
+part of the aperture when it sees the higher objects, and _vice
+versâ_.
+
+There is no reason, in the laws of perspective, why the picture should
+not be moved to the right or left of the sight-point, as well as up or
+down. But there is this practical reason. The moment the spectator
+sees the horizon in a picture high, he tries to hold his head high,
+that is, in its right place. When he sees the horizon in a picture
+low, he similarly tries to put his head low. But, if the sight-point
+is thrown to the left hand or right hand, he does not understand that
+he is to step a little to the right or left; and if he places himself,
+as usual, in the middle, all the perspective is distorted. Hence it is
+generally unadvisable to remove the sight-point laterally, from the
+center of the picture. The Dutch painters, however, fearlessly take
+the license of placing it to the right or left; and often with good
+effect.
+
+The rectilinear limitation of the sides, top, and base of the picture
+is of course quite arbitrary, as the space of a landscape would be
+which was seen through a window; less or more being seen at the
+spectator’s pleasure, as he retires or advances.
+
+The distance of the station-point is not so arbitrary. In ordinary
+cases it should not be less than the intended greatest dimension
+(height or breadth) of the picture. In most works by the great masters
+it is more; they not only calculate on their pictures being seen at
+considerable distances, but they like breadth of mass in buildings,
+and dislike the sharp angles which always result from station-points
+at short distances.[31]
+
+Whenever perspective, done by true rule, looks wrong, it is always
+because the station-point is too near. Determine, in the outset, at
+what distance the spectator is likely to examine the work, and never
+use a station-point within a less distance.
+
+There is yet another and a very important reason, not only for care in
+placing the station-point, but for that accurate calculation of
+distance and observance of measurement which have been insisted on
+throughout this work. All drawings of objects on a reduced scale are,
+if rightly executed, drawings of the appearance of the object at the
+distance which in true perspective reduces it to that scale. They are
+not _small_ drawings of the object seen near, but drawings the _real
+size_ of the object seen far off. Thus if you draw a mountain in a
+landscape, three inches high, you do not reduce all the features of
+the near mountain so as to come into three inches of paper. You could
+not do that. All that you can do is to give the appearance of the
+mountain, when it is so far off that three inches of paper would
+really hide it from you. It is precisely the same in drawing any other
+object. A face can no more be reduced in scale than a mountain can. It
+is infinitely delicate already; it can only be quite rightly rendered
+on its own scale, or at least on the slightly diminished scale which
+would be fixed by placing the plate of glass, supposed to represent
+the field of the picture, close to the figures. Correggio and Raphael
+were both fond of this slightly subdued magnitude of figure. Colossal
+painting, in which Correggio excelled all others, is usually the
+enlargement of a small picture (as a colossal sculpture is of a small
+statue), in order to permit the subject of it to be discerned at a
+distance. The treatment of colossal (as distinguished from ordinary)
+paintings will depend therefore, in general, on the principles of
+optics more than on those of perspective, though, occasionally,
+portions may be represented as if they were the projection of near
+objects on a plane behind them. In all points the subject is one of
+great difficulty and subtlety; and its examination does not fall
+within the compass of this essay.
+
+Lastly, it will follow from these considerations, and the conclusion
+is one of great practical importance, that, though pictures may be
+enlarged, they cannot be reduced, in copying them. All attempts to
+engrave pictures completely on a reduced scale are, for this reason,
+nugatory. The best that can be done is to give the aspect of the
+picture at the distance which reduces it in perspective to the size
+required; or, in other words, to make a drawing of the distant effect
+of the picture. Good painting, like nature’s own work, is infinite,
+and unreduceable.
+
+I wish this book had less tendency towards the infinite and
+unreduceable. It has so far exceeded the limits I hoped to give it,
+that I doubt not the reader will pardon an abruptness of conclusion,
+and be thankful, as I am myself, to get to an end on any terms.
+
+
+  [30] As in algebraic science, much depends, in complicated
+       perspective, on the student’s ready invention of expedients,
+       and on his quick sight of the shortest way in which the
+       solution may be accomplished, when there are several ways.
+
+  [31] The greatest masters are also fond of parallel perspective,
+       that is to say, of having one side of their buildings fronting
+       them full, and therefore parallel to the picture plane, while
+       the other side vanishes to the sight-point. This is almost
+       always done in figure backgrounds, securing simple and balanced
+       lines.
+
+
+
+
+APPENDIX.
+
+
+I.
+
+PRACTICE AND OBSERVATIONS.
+
+
+II.
+
+DEMONSTRATIONS.
+
+
+
+
+I.
+
+PRACTICE AND OBSERVATIONS ON THE PRECEDING PROBLEMS.
+
+
+
+
+PROBLEM I.
+
+
+An example will be necessary to make this problem clear to the general
+student.
+
+The nearest corner of a piece of pattern on the carpet is 4½ feet
+beneath the eye, 2 feet to our right and 3½ feet in direct distance
+from us. We intend to make a drawing of the pattern which shall be
+seen properly when held 1½ foot from the eye. It is required to fix
+the position of the corner of the piece of pattern.
+
+  [Illustration: Fig. 51.]
+
+Let _AB_, Fig. 51., be our sheet of paper, some 3 feet wide. Make _ST_
+equal to 1½ foot. Draw the line of sight through _S_. Produce _TS_,
+and make _DS_ equal to 2 feet, therefore _TD_ equal to 3½ feet. Draw
+_DC_, equal to 2 feet; _CP_, equal to 4 feet. Join _TC_ (cutting the
+sight-line in _Q_) and _TP_.
+
+Let fall the vertical _QP′_, then _P′_ is the point required.
+
+If the lines, as in the figure, fall outside of your sheet of paper,
+in order to draw them, it is necessary to attach other sheets of paper
+to its edges. This is inconvenient, but must be done at first that
+you may see your way clearly; and sometimes afterwards, though there
+are expedients for doing without such extension in fast sketching.
+
+It is evident, however, that no extension of surface could be of any
+use to us, if the distance _TD_, instead of being 3½ feet, were 100
+feet, or a mile, as it might easily be in a landscape.
+
+It is necessary, therefore, to obtain some other means of
+construction; to do which we must examine the principle of the
+problem.
+
+
+In the analysis of Fig. 2., in the introductory remarks, I used the
+word “height” only of the tower, _QP_, because it was only to its
+vertical height that the law deduced from the figure could be applied.
+For suppose it had been a pyramid, as _OQP_, Fig. 52., then the image
+of its side, _QP_, being, like every other magnitude, limited on the
+glass _AB_ by the lines coming from its extremities, would appear only
+of the length _Q′S_; and it is not true that _Q′S_ is to _QP_ as _TS_
+is to _TP_. But if we let fall a vertical _QD_ from _Q_, so as to get
+the vertical height of the pyramid, then it is true that _Q′S_ is to
+_QD_ as _TS_ is to _TD_.
+
+  [Illustration: Fig. 52.]
+
+Supposing this figure represented, not a pyramid, but a triangle on
+the ground, and that _QD_ and _QP_ are horizontal lines, expressing
+lateral distance from the line _TD_, still the rule would be false for
+_QP_ and true for _QD_. And, similarly, it is true for all lines which
+are parallel, like _QD_, to the plane of the picture _AB_, and false
+for all lines which are inclined to it at an angle.
+
+Hence generally. Let _PQ_ (Fig. 2. in Introduction, p. 6) be any
+magnitude _parallel to the plane of the picture_; and _P′Q′_ its image
+on the picture.
+
+Then always the formula is true which you learned in the Introduction:
+_P′Q′_ is to _PQ_ as _ST_ is to _DT_.
+
+Now the magnitude _P_ dash _Q_ dash in this formula I call the
+“SIGHT-MAGNITUDE” of the line _PQ_. The student must fix this term,
+and the meaning of it, well in his mind. The “sight-magnitude” of a
+line is the magnitude which bears to the real line the same proportion
+that the distance of the picture bears to the distance of the object.
+Thus, if a tower be a hundred feet high, and a hundred yards off; and
+the picture, or piece of glass, is one yard from the spectator,
+between him and the tower; the distance of picture being then to
+distance of tower as 1 to 100, the sight-magnitude of the tower’s
+height will be as 1 to 100; that is to say, one foot. If the tower is
+two hundred yards distant, the sight-magnitude of its height will be
+half a foot, and so on.
+
+But farther. It is constantly necessary, in perspective operations,
+to measure the other dimensions of objects by the sight-magnitude of
+their vertical lines. Thus, if the tower, which is a hundred feet
+high, is square, and twenty-five feet broad on each side; if the
+sight-magnitude of the height is one foot, the measurement of the
+side, reduced to the same scale, will be the hundredth part of
+twenty-five feet, or three inches: and, accordingly, I use in this
+treatise the term “sight-magnitude” indiscriminately for all lines
+reduced in the same proportion as the vertical lines of the object. If
+I tell you to find the “sight-magnitude” of any line, I mean, always,
+find the magnitude which bears to that line the proportion of _ST_ to
+_DT_; or, in simpler terms, reduce the line to the scale which you
+have fixed by the first determination of the length _ST_.
+
+Therefore, you must learn to draw quickly to scale before you do
+anything else; for all the measurements of your object must be
+reduced to the scale fixed by _ST_ before you can use them in your
+diagram. If the object is fifty feet from you, and your paper one
+foot, all the lines of the object must be reduced to a scale of one
+fiftieth before you can use them; if the object is two thousand feet
+from you, and your paper one foot, all your lines must be reduced to
+the scale of one two-thousandth before you can use them, and so on.
+Only in ultimate practice, the reduction never need be tiresome, for,
+in the case of large distances, accuracy is never required. If a
+building is three or four miles distant, a hairbreadth of accidental
+variation in a touch makes a difference of ten or twenty feet in
+height or breadth, if estimated by accurate perspective law. Hence it
+is never attempted to apply measurements with precision at such
+distances. Measurements are only required within distances of, at the
+most, two or three hundred feet. Thus it may be necessary to represent
+a cathedral nave precisely as seen from a spot seventy feet in front
+of a given pillar; but we shall hardly be required to draw a cathedral
+three miles distant precisely as seen from seventy feet in advance of
+a given milestone. Of course, if such a thing be required, it can be
+done; only the reductions are somewhat long and complicated: in
+ordinary cases it is easy to assume the distance _ST_ so as to get at
+the reduced dimensions in a moment. Thus, let the pillar of the nave,
+in the case supposed, be 42 feet high, and we are required to stand
+70 feet from it: assume _ST_ to be equal to 5 feet. Then, as 5 is to
+70 so will the sight-magnitude required be to 42; that is to say, the
+sight-magnitude of the pillar’s height will be 3 feet. If we make _ST_
+equal to 2½ feet, the pillar’s height will be 1½ foot, and so on.
+
+And for fine divisions into irregular parts which cannot be measured,
+the ninth and tenth problems of the sixth book of Euclid will serve
+you: the following construction is, however, I think, more practically
+convenient:—
+
+The line _AB_ (Fig. 53.) is divided by given points, _a_, _b_, _c_,
+into a given number of irregularly unequal parts; it is required to
+divide any other line, _CD_, into an equal number of parts, bearing
+to each other the same proportions as the parts of _AB_, and arranged
+in the same order.
+
+Draw the two lines parallel to each other, as in the figure.
+
+Join _AC_ and _BD_, and produce the lines _AC_, _BD_, till they meet
+in _P_.
+
+Join _aP_, _bP_, _cP_, cutting _cD_ in _f_, _g_, _h_.
+
+Then the line _CD_ is divided as required, in _f_, _g_, _h_.
+
+In the figure the lines _AB_ and _CD_ are accidentally perpendicular
+to _AP_. There is no need for their being so.
+
+  [Illustration: Fig. 53.]
+
+Now, to return to our first problem.
+
+The construction given in the figure is only the quickest mathematical
+way of obtaining, on the picture, the sight-magnitudes of _DC_ and
+_PC_, which are both magnitudes parallel with the picture plane. But
+if these magnitudes are too great to be thus put on the paper, you
+have only to obtain the reduction by scale. Thus, if _TS_ be one foot,
+_TD_ eighty feet, _DC_ forty feet, and _CP_ ninety feet, the distance
+_QS_ must be made equal to one eightieth of _DC_, or half a foot; and
+the distance _QP′_, one eightieth of _CP_, or one eightieth of ninety
+feet; that is to say, nine eighths of a foot, or thirteen and a half
+inches. The lines _CT_ and _PT_ are thus _practically_ useless, it
+being only necessary to measure _QS_ and _QP_, on your paper, of the
+due sight-magnitudes. But the mathematical construction, given in
+Problem I., is the basis of all succeeding problems, and, if it is
+once thoroughly understood and practiced (it can only be thoroughly
+understood by practice), all the other problems will follow easily.
+
+Lastly. Observe that any perspective operation whatever may be
+performed with reduced dimensions of every line employed, so as to
+bring it conveniently within the limits of your paper. When the
+required figure is thus constructed on a small scale, you have only to
+enlarge it accurately in the same proportion in which you reduced the
+lines of construction, and you will have the figure constructed in
+perspective on the scale required for use.
+
+
+
+
+PROBLEM IX.
+
+
+The drawing of most buildings occurring in ordinary practice will
+resolve itself into applications of this problem. In general, any
+house, or block of houses, presents itself under the main conditions
+assumed here in Fig. 54. There will be an angle or corner somewhere
+near the spectator, as _AB_; and the level of the eye will usually be
+above the base of the building, of which, therefore, the horizontal
+upper lines will slope down to the vanishing-points, and the base
+lines rise to them. The following practical directions will, however,
+meet nearly all cases:—
+
+  [Illustration: Fig. 54.]
+
+Let _AB_, Fig. 54., be any important vertical line in the block of
+buildings; if it is the side of a street, you may fix upon such a line
+at the division between two houses. If its real height, distance,
+etc., are given, you will proceed with the accurate construction of
+the problem; but usually you will neither know, nor care, exactly how
+high the building is, or how far off. In such case draw the line _AB_,
+as nearly as you can guess, about the part of the picture it ought to
+occupy, and on such a scale as you choose. Divide it into any
+convenient number of equal parts, according to the height you presume
+it to be. If you suppose it to be twenty feet high, you may divide it
+into twenty parts, and let each part stand for a foot; if thirty feet
+high, you may divide it into ten parts, and let each part stand for
+three feet; if seventy feet high, into fourteen parts, and let each
+part stand for five feet; and so on, avoiding thus very minute
+divisions till you come to details. Then observe how high your eye
+reaches upon this vertical line; suppose, for instance, that it is
+thirty feet high and divided into ten parts, and you are standing so
+as to raise your head to about six feet above its base, then the
+sight-line may be drawn, as in the figure, through the second division
+from the ground. If you are standing above the house, draw the
+sight-line above _B_; if below the house, below _A_; at such height or
+depth as you suppose may be accurate (a yard or two more or less
+matters little at ordinary distances, while at great distances
+perspective rules become nearly useless, the eye serving you better
+than the necessarily imperfect calculation). Then fix your sight-point
+and station-point, the latter with proper reference to the scale of
+the line _AB_. As you cannot, in all probability, ascertain the exact
+direction of the line _AV_ or _BV_, draw the slope _BV_ as it appears
+to you, cutting the sight-line in _V_. Thus having fixed one
+vanishing-point, the other, and the dividing-points, must be
+accurately found by rule; for, as before stated, whether your entire
+group of points (vanishing and dividing) falls a little more or less
+to the right or left of _S_ does not signify, but the relation of the
+points to each other _does_ signify. Then draw the measuring-line
+_BG_, either through _A_ or _B_, choosing always the steeper slope of
+the two; divide the measuring-line into parts of the same length as
+those used on _AB_, and let them stand for the same magnitudes. Thus,
+suppose there are two rows of windows in the house front, each window
+six feet high by three wide, and separated by intervals of three feet,
+both between window and window and between tier and tier; each of the
+divisions here standing for three feet, the lines drawn from _BG_ to
+the dividing-point _D_ fix the lateral dimensions, and the divisions
+on _AB_ the vertical ones. For other magnitudes it would be necessary
+to subdivide the parts on the measuring-line, or on _AB_, as required.
+The lines which regulate the inner sides or returns of the windows
+(_a_, _b_, _c_, etc.) of course are drawn to the vanishing-point of
+_BF_ (the other side of the house), if _FBV_ represents a right angle;
+if not, their own vanishing-point must be found separately for these
+returns. But see Practice on Problem XI.
+
+  [Illustration: Fig. 55.]
+
+Interior angles, such as _EBC_, Fig. 55. (suppose the corner of a
+room), are to be treated in the same way, each side of the room having
+its measurements separately carried to it from the measuring-line. It
+may sometimes happen in such cases that we have to carry the
+measurement _up_ from the corner _B_, and that the sight-magnitudes
+are given us from the length of the line _AB_. For instance, suppose
+the room is eighteen feet high, and therefore _AB_ is eighteen feet;
+and we have to lay off lengths of six feet on the top of the room
+wall, _BC_. Find _D_, the dividing-point of _BC_. Draw a
+measuring-line, _BF_, from _B_; and another, _gC_, anywhere above. On
+_BF_ lay off _BG_ equal to one third of _AB_, or six feet; and draw
+from _D_, through _G_ and _B_, the lines _Gg_, _Bb_, to the upper
+measuring-line. Then _gb_ is six feet on that measuring-line. Make
+_bc_, _ch_, etc., equal to _bg_; and draw _ce_, _hf_, etc., to _D_,
+cutting _BC_ in _e_ and _f_, which mark the required lengths of six
+feet each at the top of the wall.
+
+
+
+
+PROBLEM X.
+
+
+This is one of the most important foundational problems in
+perspective, and it is necessary that the student should entirely
+familiarize himself with its conditions.
+
+In order to do so, he must first observe these general relations of
+magnitude in any pyramid on a square base.
+
+Let _AGH′_, Fig. 56., be any pyramid on a square base.
+
+  [Illustration: Fig. 56.]
+
+The best terms in which its magnitude can be given, are the length of
+one side of its base, _AH_, and its vertical altitude (_CD_ in
+Fig. 25.); for, knowing these, we know all the other magnitudes. But
+these are not the terms in which its size will be usually
+ascertainable. Generally, we shall have given us, and be able to
+ascertain by measurement, one side of its base _AH_, and either _AG_
+the length of one of the lines of its angles, or _BG_ (or _B′G_) the
+length of a line drawn from its vertex, _G_, to the middle of the side
+of its base. In measuring a real pyramid, _AG_ will usually be the
+line most easily found; but in many architectural problems _BG_ is
+given, or is most easily ascertainable.
+
+Observe therefore this general construction.
+
+  [Illustration: Fig. 57.]
+
+Let _ABDE_, Fig. 57., be the square base of any pyramid.
+
+Draw its diagonals, _AE_, _BD_, cutting each other in its center, _C_.
+
+Bisect any side, _AB_, in _F_.
+
+From _F_ erect vertical _FG_.
+
+Produce _FB_ to _H_, and make _FH_ equal to _AC_.
+
+Now if the vertical altitude of the pyramid (_CD_ in Fig. 25.) be
+given, make _FG_ equal to this vertical altitude.
+
+Join _GB_ and _GH_.
+
+Then _GB_ and _GH_ are the true magnitudes of _GB_ and _GH_ in
+Fig. 56.
+
+If _GB_ is given, and not the vertical altitude, with center _B_, and
+distance _GB_, describe circle cutting _FG_ in _G_, and _FG_ is the
+vertical altitude.
+
+If _GH_ is given, describe the circle from _H_, with distance _GH_,
+and it will similarly cut _FG_ in _G_.
+
+It is especially necessary for the student to examine this
+construction thoroughly, because in many complicated forms of
+ornaments, capitals of columns, etc., the lines _BG_ and _GH_ become
+the limits or bases of curves, which are elongated on the longer (or
+angle) profile _GH_, and shortened on the shorter (or lateral) profile
+_BG_. We will take a simple instance, but must previously note another
+construction.
+
+It is often necessary, when pyramids are the roots of some ornamental
+form, to divide them horizontally at a given vertical height. The
+shortest way of doing so is in general the following.
+
+  [Illustration: Fig. 58.]
+
+Let _AEC_, Fig. 58., be any pyramid on a square base _ABC_, and _ADC_
+the square pillar used in its construction.
+
+Then by construction (Problem X.) _BD_ and _AF_ are both of the
+vertical height of the pyramid.
+
+Of the diagonals, _FE_, _DE_, choose the shortest (in this case _DE_),
+and produce it to cut the sight-line in _V_.
+
+Therefore _V_ is the vanishing-point of _DE_.
+
+Divide _DB_, as may be required, into the sight-magnitudes of the
+given vertical heights at which the pyramid is to be divided.
+
+  [Illustration: Fig. 59.]  [Illustration: Fig. 60.]
+
+From the points of division, 1, 2, 3, etc., draw to the
+vanishing-point _V_. The lines so drawn cut the angle line of the
+pyramid, _BE_, at the required elevations. Thus, in the figure, it is
+required to draw a horizontal black band on the pyramid at three
+fifths of its height, and in breadth one twentieth of its height. The
+line _BD_ is divided into five parts, of which three are counted from
+_B_ upwards. Then the line drawn to _V_ marks the base of the black
+band. Then one fourth of one of the five parts is measured, which
+similarly gives the breadth of the band. The terminal lines of the
+band are then drawn on the sides of the pyramid parallel to _AB_ (or
+to its vanishing-point if it has one), and to the vanishing-point of
+_BC_.
+
+If it happens that the vanishing-points of the diagonals are awkwardly
+placed for use, bisect the nearest base line of the pyramid in _B_, as
+in Fig. 59.
+
+Erect the vertical _DB_ and join _GB_ and _DG_ (_G_ being the apex of
+pyramid).
+
+Find the vanishing-point of _DG_, and use _DB_ for division, carrying
+the measurements to the line _GB_.
+
+In Fig. 59., if we join _AD_ and _DC_, _ADC_ is the vertical profile
+of the whole pyramid, and _BDC_ of the half pyramid, corresponding to
+_FGB_ in Fig. 57.
+
+  [Illustration: Fig. 61.]
+
+We may now proceed to an architectural example.
+
+Let _AH_, Fig. 60., be the vertical profile of the capital of a
+pillar, _AB_ the semi-diameter of its head or abacus, and _FD_ the
+semi-diameter of its shaft.
+
+Let the shaft be circular, and the abacus square, down to the level
+_E_.
+
+Join _BD_, _EF_, and produce them to meet in _G_.
+
+Therefore _ECG_ is the semi-profile of a reversed pyramid containing
+the capital.
+
+Construct this pyramid, with the square of the abacus, in the required
+perspective, as in Fig. 61.; making _AE_ equal to _AE_ in Fig. 60.,
+and _AK_, the side of the square, equal to twice _AB_ in Fig. 60. Make
+_EG_ equal to _CG_, and _ED_ equal to _CD_. Draw _DF_ to the
+vanishing-point of the diagonal _DV_ (the figure is too small to
+include this vanishing-point), and _F_ is the level of the point _F_
+in Fig. 60., on the side of the pyramid.
+
+Draw _Fm_, _Fn_, to the vanishing-points of _AH_ and _AK_. Then _Fn_
+and _Fm_ are horizontal lines across the pyramid at the level _F_,
+forming at that level two sides of a square.
+
+  [Illustration: Fig. 62.]
+
+Complete the square, and within it inscribe a circle, as in Fig. 62.,
+which is left unlettered that its construction may be clear. At the
+extremities of this draw vertical lines, which will be the sides of
+the shaft in its right place. It will be found to be somewhat smaller
+in diameter than the entire shaft in Fig. 60., because at the center
+of the square it is more distant than the nearest edge of the square
+abacus. The curves of the capital may then be drawn approximately by
+the eye. They are not quite accurate in Fig. 62., there being a
+subtlety in their junction with the shaft which could not be shown on
+so small a scale without confusing the student; the curve on the left
+springing from a point a little way round the circle behind the shaft,
+and that on the right from a point on this side of the circle a little
+way within the edge of the shaft. But for their more accurate
+construction see Notes on Problem XIV.
+
+
+
+
+PROBLEM XI.
+
+
+It is seldom that any complicated curve, except occasionally a spiral,
+needs to be drawn in perspective; but the student will do well to
+practice for some time any fantastic shapes which he can find drawn on
+flat surfaces, as on wall-papers, carpets, etc., in order to accustom
+himself to the strange and great changes which perspective causes in
+them.
+
+  [Illustration: Fig. 63.]
+
+The curves most required in architectural drawing, after the circle,
+are those of pointed arches; in which, however, all that will be
+generally needed is to fix the apex, and two points in the sides. Thus
+if we have to draw a range of pointed arches, such as _APB_, Fig. 63.,
+draw the measured arch to its sight-magnitude first neatly in a
+rectangle, _ABCD_; then draw the diagonals _AD_ and _BC_; where they
+cut the curve draw a horizontal line (as at the level _E_ in the
+figure), and carry it along the range to the vanishing-point, fixing
+the points where the arches cut their diagonals all along. If the arch
+is cusped, a line should be drawn, at _F_ to mark the height of the
+cusps, and verticals raised at _G_ and _H_, to determine the interval
+between them. Any other points may be similarly determined, but these
+will usually be enough. Figure 63. shows the perspective construction
+of a square niche of good Veronese Gothic, with an uncusped arch of
+similar size and curve beyond.
+
+  [Illustration: Fig. 64.]
+
+In Fig. 64. the more distant arch only is lettered, as the
+construction of the nearest explains itself more clearly to the eye
+without letters. The more distant arch shows the general construction
+for all arches seen underneath, as of bridges, cathedral aisles, etc.
+The rectangle _ABCD_ is first drawn to contain the outside arch; then
+the depth of the arch, _Aa_, is determined by the measuring-line, and
+the rectangle, _abcd_, drawn for the inner arch.
+
+_Aa_, _Bb_, etc., go to one vanishing-point; _AB_, _ab_, etc., to the
+opposite one.
+
+In the nearer arch another narrow rectangle is drawn to determine the
+cusp. The parts which would actually come into sight are slightly
+shaded.
+
+
+
+
+PROBLEM XIV.
+
+
+Several exercises will be required on this important problem.
+
+I. It is required to draw a circular flat-bottomed dish narrower at
+the bottom than the top; the vertical depth being given, and the
+diameter at the top and bottom.
+
+  [Illustration: Fig. 65.]
+
+Let _ab_, Fig. 65., be the diameter of the bottom, _ac_ the diameter
+of the top, and _ad_ its vertical depth.
+
+Take _AD_ in position equal to _ac_.
+
+On _AD_ draw the square _ABCD_, and inscribe in it a circle.
+
+Therefore, the circle so inscribed has the diameter of the top of the
+dish.
+
+From _A_ and _D_ let fall verticals, _AE_, _DH_, each equal to _ad_.
+
+Join _EH_, and describe square _EFGH_, which accordingly will be equal
+to the square _ABCD_, and be at the depth _ad_ beneath it.
+
+Within the square _EFGH_ describe a square _IK_, whose diameter shall
+be equal to _ab_.
+
+Describe a circle within the square _IK_. Therefore the circle so
+inscribed has its diameter equal to _ab_; and it is in the center of
+the square _EFGH_, which is vertically beneath the square _ABCD_.
+
+Therefore the circle in the square _IK_ represents the bottom of the
+dish.
+
+Now the two circles thus drawn will either intersect one another, or
+they will not.
+
+If they intersect one another, as in the figure, and they are below
+the eye, part of the bottom of the dish is seen within it.
+
+  [Illustration: Fig. 66.]
+
+To avoid confusion, let us take then two intersecting circles without
+the inclosing squares, as in Fig. 66.
+
+Draw right lines, _ab_, _cd_, touching both circles externally. Then
+the parts of these lines which connect the circles are the sides of
+the dish. They are drawn in Fig. 65. without any prolongations, but
+the best way to construct them is as in Fig. 66.
+
+If the circles do not intersect each other, the smaller must either be
+within the larger or not within it.
+
+If within the larger, the whole of the bottom of the dish is seen from
+above, Fig. 67. _a_.
+
+  [Illustration: Fig. 67.]
+
+If the smaller circle is not within the larger, none of the bottom is
+seen inside the dish, _b_.
+
+If the circles are above instead of beneath the eye, the bottom of the
+dish is seen beneath it, _c_.
+
+If one circle is above and another beneath the eye, neither the bottom
+nor top of the dish is seen, _d_. Unless the object be very large, the
+circles in this case will have little apparent curvature.
+
+II. The preceding problem is simple, because the lines of the profile
+of the object (_ab_ and _cd_, Fig. 66.) are straight. But if these
+lines of profile are curved, the problem becomes much more complex:
+once mastered, however, it leaves no farther difficulty in
+perspective.
+
+Let it be required to draw a flattish circular cup or vase, with a
+given curve of profile.
+
+The basis of construction is given in Fig. 68., half of it only being
+drawn, in order that the eye may seize its lines easily.
+
+  [Illustration: Fig. 68.]
+
+Two squares (of the required size) are first drawn, one above the
+other, with a given vertical interval, _AC_, between them, and each is
+divided into eight parts by its diameters and diagonals. In these
+squares two circles are drawn; which are, therefore, of equal size,
+and one above the other. Two smaller circles, also of equal size, are
+drawn within these larger circles in the construction of the present
+problem; more may be necessary in some, none at all in others.
+
+It will be seen that the portions of the diagonals and diameters of
+squares which are cut off between the circles represent radiating
+planes, occupying the position of the spokes of a wheel.
+
+Now let the line _AEB_, Fig. 69., be the profile of the vase or cup to
+be drawn.
+
+Inclose it in the rectangle _CD_, and if any portion of it is not
+curved, as _AE_, cut off the curved portion by the vertical line _EF_,
+so as to include it in the smaller rectangle _FD_.
+
+Draw the rectangle _ACBD_ in position, and upon it construct two
+squares, as they are constructed on the rectangle _ACD_ in Fig. 68.;
+and complete the construction of Fig. 68., making the radius of its
+large outer circles equal to _AD_, and of its small inner circles
+equal to _AE_.
+
+The planes which occupy the position of the wheel spokes will then
+each represent a rectangle of the size of _FD_. The construction is
+shown by the dotted lines in Fig. 69.; _c_ being the center of the
+uppermost circle.
+
+  [Illustration: Fig. 69.]
+
+Within each of the smaller rectangles between the circles, draw the
+curve _EB_ in perspective, as in Fig. 69.
+
+Draw the curve _xy_, touching and inclosing the curves in the
+rectangles, and meeting the upper circle at _y_.[32]
+
+Then _xy_ is the contour of the surface of the cup, and the upper
+circle is its lip.
+
+If the line _xy_ is long, it may be necessary to draw other rectangles
+between the eight principal ones; and, if the curve of profile _AB_ is
+complex or retorted, there may be several lines corresponding to _XY_,
+inclosing the successive waves of the profile; and the outer curve
+will then be an undulating or broken one.
+
+  [Illustration: Fig. 70.]
+
+III. All branched ornamentation, forms of flowers, capitals of
+columns, machicolations of round towers, and other such arrangements
+of radiating curve, are resolvable by this problem, using more or
+fewer interior circles according to the conditions of the curves.
+Fig. 70. is an example of the construction of a circular group of
+eight trefoils with curved stems. One outer or limiting circle is
+drawn within the square _EDCF_, and the extremities of the trefoils
+touch it at the extremities of its diagonals and diameters. A smaller
+circle is at the vertical distance _BC_ below the larger, and _A_ is
+the angle of the square within which the smaller circle is drawn; but
+the square is not given, to avoid confusion. The stems of the trefoils
+form drooping curves, arranged on the diagonals and diameters of the
+smaller circle, which are dotted. But no perspective laws will do work
+of this intricate kind so well as the hand and eye of a painter.
+
+IV. There is one common construction, however, in which, singularly,
+the hand and eye of the painter almost always fail, and that is the
+fillet of any ordinary capital or base of a circular pillar (or any
+similar form). It is rarely necessary in practice to draw such minor
+details in perspective; yet the perspective laws which regulate them
+should be understood, else the eye does not see their contours rightly
+until it is very highly cultivated.
+
+  [Illustration: Fig. 71.]
+
+Fig. 71. will show the law with sufficient clearness; it represents
+the perspective construction of a fillet whose profile is a
+semicircle, such as _FH_ in Fig. 60., seen above the eye. Only half
+the pillar with half the fillet is drawn, to avoid confusion.
+
+_Q_ is the center of the shaft.
+
+_PQ_ the thickness of the fillet, sight-magnitude at the shaft’s
+center.
+
+Round _P_ a horizontal semicircle is drawn on the diameter of the
+shaft _ab_.
+
+Round _Q_ another horizontal semicircle is drawn on diameter _cd_.
+
+These two semicircles are the upper and lower edges of the fillet.
+
+Then diagonals and diameters are drawn as in Fig. 68., and, at their
+extremities, semicircles in perspective, as in Fig. 69.
+
+The letters _A_, _B_, _C_, _D_, and _E_, indicate the upper and
+exterior angles of the rectangles in which these semicircles are to be
+drawn; but the inner vertical line is not dotted in the rectangle at
+_C_, as it would have confused itself with other lines.
+
+Then the visible contour of the fillet is the line which incloses and
+touches[33] all the semicircles. It disappears behind the shaft at the
+point _H_, but I have drawn it through to the opposite extremity of
+the diameter at _d_.
+
+Turned upside down the figure shows the construction of a basic
+fillet.
+
+The capital of a Greek Doric pillar should be drawn frequently for
+exercise on this fourteenth problem, the curve of its echinus being
+exquisitely subtle, while the general contour is simple.
+
+
+  [32] This point coincides in the figure with the extremity of the
+       horizontal diameter, but only accidentally.
+
+  [33] The engraving is a little inaccurate; the inclosing line
+       should touch the dotted semicircles at _A_ and _B_. The student
+       should draw it on a large scale.
+
+
+
+
+PROBLEM XVI.
+
+
+It is often possible to shorten other perspective operations
+considerably, by finding the vanishing-points of the inclined lines of
+the object. Thus, in drawing the gabled roof in Fig. 43., if the gable
+_AYC_ be drawn in perspective, and the vanishing-point of _AY_
+determined, it is not necessary to draw the two sides of the
+rectangle, _A′D′_ and _D′B′_, in order to determine the point _Y′_;
+but merely to draw _YY′_ to the vanishing-point of _AA′_ and _A′Y′_ to
+the vanishing-point of _AY_, meeting in _Y′_, the point required.
+
+Again, if there be a series of gables, or other figures produced by
+parallel inclined lines, and retiring to the point _V_, as in
+Fig. 72.,[34] it is not necessary to draw each separately, but merely
+to determine their breadths on the line _AV_, and draw the slopes of
+each to their vanishing-points, as shown in Fig. 72. Or if the gables
+are equal in height, and a line be drawn from _Y_ to _V_, the
+construction resolves itself into a zigzag drawn alternately to _P_
+and _Q_, between the lines _YV_ and _AV_.
+
+The student must be very cautious, in finding the vanishing-points of
+inclined lines, to notice their relations to the horizontals beneath
+them, else he may easily mistake the horizontal to which they belong.
+
+Thus, let _ABCD_, Fig. 73., be a rectangular inclined plane, and let
+it be required to find the vanishing-point of its diagonal _BD_.
+
+Find _V_, the vanishing-point of _AD_ and _BC_.
+
+Draw _AE_ to the opposite vanishing-point, so that _DAE_ may represent
+a right angle.
+
+Let fall from _B_ the vertical _BE_, cutting _AE_ in _E_.
+
+Join _ED_, and produce it to cut the sight-line in _V′_.
+
+  [Illustration: Fig. 72.]
+
+Then, since the point _E_ is vertically under the point _B_, the
+horizontal line _ED_ is vertically under the inclined line _BD_.
+
+  [Illustration: Fig. 73.]
+
+So that if we now let fall the vertical _V′P_ from _V′_, and produce
+_BD_ to cut _V′P_ in _P_, the point _P_ will be the vanishing-point of
+_BD_, and of all lines parallel to it.[35]
+
+
+  [34] The diagram is inaccurately cut. _YV_ should be a right line.
+
+  [35] The student may perhaps understand this construction better
+       by completing the rectangle _ADFE_, drawing _DF_ to the
+       vanishing-point of _AE_, and _EF_ to _V_. The whole figure,
+       _BF_, may then be conceived as representing half the gable roof
+       of a house, _AF_ the rectangle of its base, and _AC_ the
+       rectangle of its sloping side.
+
+       In nearly all picturesque buildings, especially on the
+       Continent, the slopes of gables are much varied (frequently
+       unequal on the two sides), and the vanishing-points of their
+       inclined lines become very important, if accuracy is required
+       in the intersections of tiling, sides of dormer windows, etc.
+
+       Obviously, also, irregular triangles and polygons in vertical
+       planes may be more easily constructed by finding the
+       vanishing-points of their sides, than by the construction given
+       in the corollary to Problem IX.; and if such triangles or
+       polygons have others concentrically inscribed within them, as
+       often in Byzantine mosaics, etc., the use of the
+       vanishing-points will become essential.
+
+
+
+
+PROBLEM XVIII.
+
+
+Before examining the last three problems it is necessary that you
+should understand accurately what is meant by the position of an
+inclined plane.
+
+Cut a piece of strong white pasteboard into any irregular shape, and
+dip it in a sloped position into water. However you hold it, the edge
+of the water, of course, will always draw a horizontal line across its
+surface. The direction of this horizontal line is the direction of the
+inclined plane. (In beds of rock geologists call it their “strike.”)
+
+  [Illustration: Fig. 74.]
+
+Next, draw a semicircle on the piece of pasteboard; draw its diameter,
+_AB_, Fig. 74., and a vertical line from its center, _CD_; and draw
+some other lines, _CE_, _CF_, etc., from the center to any points in
+the circumference.
+
+Now dip the piece of pasteboard again into water, and, holding it at
+any inclination and in any direction you choose, bring the surface of
+the water to the line _AB_. Then the line _CD_ will be the most
+steeply inclined of all the lines drawn to the circumference of the
+circle; _GC_ and _HC_ will be less steep; and _EC_ and _FC_ less steep
+still. The nearer the lines to _CD_, the steeper they will be; and the
+nearer to _AB_, the more nearly horizontal.
+
+When, therefore, the line _AB_ is horizontal (or marks the water
+surface), its direction is the direction of the inclined plane, and
+the inclination of the line _DC_ is the inclination of the inclined
+plane. In beds of rock geologists call the inclination of the line
+_DC_ their “dip.”
+
+To fix the position of an inclined plane, therefore, is to determine
+the direction of any two lines in the plane, _AB_ and _CD_, of which
+one shall be horizontal and the other at right angles to it. Then any
+lines drawn in the inclined plane, parallel to _AB_, will be
+horizontal; and lines drawn parallel to _CD_ will be as steep as _CD_,
+and are spoken of in the text as the “steepest lines” in the plane.
+
+But farther, whatever the direction of a plane may be, if it be
+extended indefinitely, it will be terminated, to the eye of the
+observer, by a boundary line, which, in a horizontal plane, is
+horizontal (coinciding nearly with the visible horizon);—in a vertical
+plane, is vertical;—and, in an inclined plane, is inclined.
+
+This line is properly, in each case, called the “sight-line” of such
+plane; but it is only properly called the “horizon” in the case of a
+horizontal plane: and I have preferred using always the term
+“sight-line,” not only because more comprehensive, but more accurate;
+for though the curvature of the earth’s surface is so slight that
+practically its visible limit always coincides with the sight-line of
+a horizontal plane, it does not mathematically coincide with it, and
+the two lines ought not to be considered as theoretically identical,
+though they are so in practice.
+
+It is evident that all vanishing-points of lines in any plane must be
+found on its sight-line, and, therefore, that the sight-line of any
+plane may be found by joining any two of such vanishing-points. Hence
+the construction of Problem XVIII.
+
+
+
+
+II.
+
+DEMONSTRATIONS WHICH COULD NOT CONVENIENTLY BE INCLUDED IN THE TEXT.
+
+
+
+
+I.
+
+THE SECOND COROLLARY, PROBLEM II.
+
+
+In Fig. 8. omit the lines _CD_, _C′D′_, and _DS_; and, as here in
+Fig. 75., from _a_ draw _ad_ parallel to _AB_, cutting _BT_ in _d_;
+and from _d_ draw _de_ parallel to _BC′_.
+
+  [Illustration: Fig. 75.]
+
+  Now as _ad_ is parallel to _AB_—
+    _AC_ ∶ _ac_ ∷ _BC′_ ∶ _de_;
+  but _AC_ is equal to _BC′_—
+    ∴ _ac_ = _de_.
+
+  Now because the triangles _acV_, _bc′V_, are similar—
+    _ac_ ∶ _bc′_ ∷ _aV_ ∶ _bV_;
+  and because the triangles _deT_, _bc′T_ are similar—
+    _de_ ∶ _bc′_ ∷ _dT_ ∶ _bT_.
+
+  But _ac_ is equal to _de_—
+    ∴ _aV_ ∶ _bV_ ∷ _dT_ ∶ _bT_;
+  ∴ the two triangles _abd_, _bTV_, are similar, and their angles
+  are alternate;
+    ∴ _TV_ is parallel to _ad_.
+
+  But _ad_ is parallel to _AB_—
+    ∴ _TV_ is parallel to _AB_.
+
+
+
+
+II.
+
+THE THIRD COROLLARY, PROBLEM III.
+
+
+In Fig. 13., since _aR_ is by construction parallel to _AB_ in
+Fig. 12., and _TV_ is by construction in Problem III. also parallel to
+_AB_—
+
+    ∴ _aR_ is parallel to _TV_,
+    ∴ _abR_ and _TbV_ are alternate triangles,
+    ∴ _aR_ ∶ _TV_ ∷ _ab_ ∶ _bV_.
+
+  Again, by the construction of Fig. 13., _aR′_ is parallel to _MV_—
+    ∴ _abR′_ and _MbV_ are alternate triangles,
+    ∴ _aR′_ ∶ _MV_ ∷ _ab_ ∶ _bV_.
+
+  And it has just been shown that also
+    _aR_ ∶ _TV_ ∷ _ab_ ∶ _bV_—
+    ∴ _aR′_ ∶ _MV_ ∷ _aR_ ∶ _TV_.
+
+  But by construction, _aR′_ = _aR_—
+    ∴ _MV_ = _TV_.
+
+
+
+
+III.
+
+ANALYSIS OF PROBLEM XV.
+
+
+We proceed to take up the general condition of the second problem,
+before left unexamined, namely, that in which the vertical distances
+_BC′_ and _AC_ (Fig. 6. page 13), as well as the direct distances _TD_
+and _TD′_ are unequal.
+
+In Fig. 6., here repeated (Fig. 76.), produce _C′B_ downwards, and
+make _C′E_ equal to _CA_.
+
+  [Illustration: Fig. 76.]
+
+Join _AE_.
+
+Then, by the second Corollary of Problem II., _AE_ is a horizontal
+line.
+
+Draw _TV_ parallel to _AE_, cutting the sight-line in _V_.
+
+  ∴ _V_ is the vanishing-point of _AE_.
+
+Complete the constructions of Problem II. and its second Corollary.
+
+Then by Problem II. _ab_ is the line _AB_ drawn in perspective; and by
+its Corollary _ae_ is the line _AE_ drawn in perspective.
+
+
+From _V_ erect perpendicular _VP_, and produce _ab_ to cut it in _P_.
+
+Join _TP_, and from _e_ draw _ef_ parallel to _AE_, and cutting _AT_
+in _f_.
+
+Now in triangles _EBT_ and _AET_, as _eb_ is parallel to _EB_ and _ef_
+to _AE_;—_eb_ ∶ _ef_ ∷ _EB_ ∶ _AE_.
+
+But _TV_ is also parallel to _AE_ and _PV_ to _eb_.
+
+Therefore also in the triangles _aPV_ and _aVT_,
+
+  _eb_ ∶ _ef_ ∷ _PV_ ∶ _VT_.
+
+Therefore _PV_ ∶ _VT_ ∷ _EB_ ∶ _AE_.
+
+And, by construction, angle _TPV_ = ∠ _AEB_.
+
+Therefore the triangles _TVP_, _AEB_, are similar; and _TP_ is
+parallel to _AB_.
+
+Now the construction in this problem is entirely general for any
+inclined line _AB_, and a horizontal line _AE_ in the same vertical
+plane with it.
+
+So that if we find the vanishing-point of _AE_ in _V_, and from _V_
+erect a vertical _VP_, and from _T_ draw _TP_ parallel to _AB_,
+cutting _VP_ in _P_, _P_ will be the vanishing-point of _AB_, and (by
+the same proof as that given at page 17) of all lines parallel to it.
+
+  [Illustration: Fig. 77.]
+
+Next, to find the dividing-point of the inclined line.
+
+I remove some unnecessary lines from the last figure and repeat it
+here, Fig. 77., adding the measuring-line _aM_, that the student may
+observe its position with respect to the other lines before I remove
+any more of them.
+
+Now if the line _AB_ in this diagram represented the length of the
+line _AB_ in reality (as _AB_ _does_ in Figs. 10. and 11.), we should
+only have to proceed to modify Corollary III. of Problem II. to this
+new construction. We shall see presently that _AB_ does not represent
+the actual length of the inclined line _AB_ in nature, nevertheless we
+shall first proceed as if it did, and modify our result afterwards.
+
+In Fig. 77. draw _ad_ parallel to _AB_, cutting _BT_ in _d_.
+
+Therefore _ad_ is the sight-magnitude of _AB_, as _aR_ is of _AB_ in
+Fig. 11.
+
+  [Illustration: Fig. 78.]
+
+Remove again from the figure all lines except _PV_, _VT_, _PT_, _ab_,
+_ad_, and the measuring-line.
+
+Set off on the measuring-line _am_ equal to _ad_.
+
+Draw _PQ_ parallel to _am_, and through _b_ draw _mQ_, cutting _PQ_ in
+_Q_.
+
+Then, by the proof already given in page 20, _PQ_ = _PT_.
+
+Therefore if _P_ is the vanishing-point of an inclined line _AB_, and
+_QP_ is a horizontal line drawn through it, make _PQ_ equal to _PT_,
+and _am_ on the measuring-line equal to the sight-magnitude of the
+line _AB_ _in the diagram_, and the line joining _mQ_ will cut _aP_ in
+_b_.
+
+
+We have now, therefore, to consider what relation the length of the
+line _AB_ in this diagram, Fig. 77., has to the length of the line
+_AB_ in reality.
+
+Now the line _AE_ in Fig. 77. represents the length of _AE_ in
+reality.
+
+But the angle _AEB_, Fig. 77., and the corresponding angle in all the
+constructions of the earlier problems, is in reality a right angle,
+though in the diagram necessarily represented as obtuse.
+
+  [Illustration: Fig. 79.]
+
+Therefore, if from _E_ we draw _EC_, as in Fig. 79., at right angles
+to _AE_, make _EC_ = _EB_, and join _AC_, _AC_ will be the real length
+of the line _AB_.
+
+Now, therefore, if instead of _am_ in Fig. 78., we take the real
+length of _AB_, that real length will be to _am_ as _AC_ to _AB_ in
+Fig. 79.
+
+And then, if the line drawn to the measuring-line _PQ_ is still to cut
+_aP_ in _b_, it is evident that the line _PQ_ must be shortened in the
+same ratio that _am_ was shortened; and the true dividing-point will
+be _Q′_ in Fig. 80., fixed so that _Q′P′_ shall be to _QP_ as _am′_ is
+to _am_; _am′_ representing the real length of _AB_.
+
+But _am′_is therefore to _am_ as _AC_ is to _AB_ in Fig. 79.
+
+Therefore _PQ′_ must be to _PQ_ as _AC_ is to _AB_.
+
+But _PQ_ equals _PT_ (Fig. 78.); and _PV_ is to _VT_ (in Fig. 78.) as
+_BE_ is to _AE_ (Fig. 79.).
+
+Hence we have only to substitute _PV_ for _EC_, and _VT_ for _AE_, in
+Fig. 79., and the resulting diagonal _AC_ will be the required length
+of _PQ′_.
+
+  [Illustration: Fig. 80.]
+
+It will be seen that the construction given in the text (Fig. 46.) is
+the simplest means of obtaining this magnitude, for _VD_ in Fig. 46.
+(or _VM_ in Fig. 15.) = _VT_ by construction in Problem IV. It should,
+however, be observed, that the distance _PQ′_ or _PX_, in Fig. 46.,
+may be laid on the sight-line of the inclined plane itself, if the
+measuring-line be drawn parallel to that sight-line. And thus any form
+may be drawn on an inclined plane as conveniently as on a horizontal
+one, with the single exception of the radiation of the verticals,
+which have a vanishing-point, as shown in Problem XX.
+
+
+THE END.
+
+
+
+Transcriber’s Note
+
+A handful of unequivocal typographical errors has been corrected.
+
+For increased clarity, a few diagrams have been shifted from their
+original position in the text.
+
+
+
+
+
+End of Project Gutenberg's The Elements of Perspective, by John Ruskin
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE ELEMENTS OF PERSPECTIVE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

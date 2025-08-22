@@ -1,0 +1,3352 @@
+The Project Gutenberg eBook of The Kansas University Quarterly, Vol. I, No. 2, October 1892
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Kansas University Quarterly, Vol. I, No. 2, October 1892
+
+Author: Various
+
+Editor: Vernon L. Kellogg
+
+Release date: January 17, 2020 [eBook #61188]
+                Most recently updated: October 17, 2024
+
+Language: English
+
+Credits: Produced by Paul Marshall and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This book was
+        produced from images made available by the HathiTrust
+        Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE KANSAS UNIVERSITY QUARTERLY, VOL. I, NO. 2, OCTOBER 1892 ***
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs “=” before and after a word or phrase indicate =bold=
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Typographical errors have been silently corrected.
+
+
+
+
+              Vol. I.         OCTOBER, 1892           No. 2.
+
+                                  THE
+
+                           KANSAS UNIVERSITY
+
+                               QUARTERLY
+
+
+
+
+                               CONTENTS
+
+
+        UNICURSAL CURVES BY METHOD OF INVERSION,   _H. B. Newson_
+        FOREIGN SETTLEMENTS IN KANSAS,             _W. H. Carruth_
+        THE GREAT SPIRIT SPRING MOUND,             _R. H. S. Bailey_
+        ON PASCAL’S LIMAÇON AND THE CARDIOID,      _H. C. Riggs_
+        DIALECT WORD-LIST,                         _W. H. Carruth_
+
+                      PUBLISHED BY THE UNIVERSITY
+                           LAWRENCE, KANSAS
+
+                   _Price of this number, 50 cents_
+
+    Entered at the Post-office in Lawrence as Second-class matter.
+
+                       COMMITTEE OF PUBLICATION
+
+                 E. H. S. BAILEY        F. W. BLACKMAR
+                 W. H. CARRUTH          C. G. DUNLAP
+                 E. MILLER              S. W. WILLISTON
+                    V. L. KELLOGG, MANAGING EDITOR
+
+                       JOURNAL PUBLISHING HOUSE
+                           LAWRENCE, KANSAS
+                                 1892
+
+
+
+
+                     KANSAS UNIVERSITY QUARTERLY.
+
+              VOL. I.        OCTOBER, 1892.        NO. 2.
+
+
+
+
+Unicursal Curves by Method of Inversion.
+
+
+BY HENRY BYRON NEWSON.
+
+This paper contains a summary of the work done during the last school
+year by my class in Modern Geometry. Since many of the results were
+suggested or entirely wrought out by class-room discussion, it becomes
+practically impossible to assign to each member of the class his
+separate portion. Many of the results were contributed by Messrs. M. E.
+Rice, A. L. Candy, H. C. Riggs, and Miss Annie L. MacKinnon.
+
+The reader who is not familiar with the method of Geometric Inversion
+should read Townsend’s Modern Geometry, chapters IX and XXIV; or a
+recent monograph entitled, “Das Princep der Reziproken Radien,” by C.
+Wolff, of Erlangen.
+
+When a conic is inverted from a point on the curve, the inverse curve
+is a nodal, circular cubic.
+
+This is shown analytically as follows: let the equation of the conic be
+written
+
+                  ax² + 2hxy + by² + 2gx + 2fy = 0;
+
+which shows that the origin is a point on the curve. Substituting for
+
+                           x              y
+              x and y  —————————  and  ———————— ,
+                        x² + y²       (x² + y²)
+
+we have as the equation of the inverse curve
+
+            ax² + 2hxy + by² + 2(gx + fy)(x² + y²) = 0.
+
+The terms of the second degree show that the origin is a double point
+on the cubic; and is a crunode, acnode, or cusp, according as the
+conic is a hyperbola, ellipse, or parabola. The terms of the third
+degree break up into three linear factors, viz: gx + fy, x + iy, and
+x - iy, which are the equations of the three lines joining the origin
+to the three points where the line at infinity cuts the cubic; thus
+showing that the cubic passes through the imaginary circular points at
+infinity.
+
+Since the above transformation is rational, it follows that there
+is a (1, 1) correspondence between the conic and the cubic. This
+fact is also evident from the nature of the method of inversion. The
+cubic has its maximum number of double points, viz: one; and hence is
+unicursal. This unicursal circular cubic may be projected into the most
+general form of unicursal cubic; the cuspidal variety, however, always
+remaining cuspidal.
+
+By applying the method of inversion to many of the well known theorems
+of conics, new theorems are obtained for unicursal, circular cubics.
+If one of these new theorems states a projective property, it may at
+once by the method of projection be extended to all unicursal cubics.
+Examples will be given below.
+
+The following method of generating a unicursal cubic is often useful.
+Given two projective pencils of rays having their vertices at A and
+B; the locus of the intersection of corresponding rays is a conic
+through A and B. Invert the whole system from A. The pencil through
+A remains as a whole unchanged, while the pencil through B inverts
+into a system of co-axial circles through A and B, and the generated
+conic becomes a circular cubic through A and B, having a node at A.
+Now project the whole figure and we have the following:—given a system
+of conics through four fixed points and a pencil of rays projective
+with it and having its vertex at one of the fixed points, the locus
+of the intersection of corresponding elements of the two systems is
+a unicursal cubic, having its node at the vertex of the pencil, and
+passing through the three other fixed points.
+
+Unicursal cubics are divisible into two distinct varieties, nodal and
+cuspidal. The nodal variety is a curve of the fourth class and has
+three points of inflection, one of which is always real. The cuspidal
+variety is of the third class and has one point of inflection (Salmon,
+H. P. C., Art. 147). Each of these varieties forms a group projective
+within itself; that is to say, any nodal cubic may be projected into
+every other possible nodal cubic, and the same is true with regard to
+the cuspidal. But a nodal cubic can not be projected into a cuspidal
+and vice versa.
+
+In applying this method of investigation to the various forms of
+unicursal cubics and quartics, only a limited number of theorems are
+given in each case. It will be at once evident that many more theorems
+might be added, but enough are given in each case to illustrate the
+method and show the range of its application. It is not necessary to
+work out all the details, as this paper is intended to be suggestive
+rather than exhaustive.
+
+
+NODAL CUBICS.
+
+If an ellipse be inverted from one of its vertices, the inverse
+curve is symmetrical with respect to the axis; it has one point of
+inflection at infinity and the asymptote is an inflectional tangent.
+This asymptote is the inverse of the circle of curvature at the vertex.
+The cubic has two other points of inflection situated symmetrically
+with respect to the axis. Hence the three points of inflection lie on
+a right line, a projective theorem which is consequently true of all
+nodal cubics. The axis is evidently the harmonic polar of the point
+of inflection at infinity. Since the axis bisects the angle between
+the tangents at the node, it follows that the line joining a point of
+inflection to the node, the two tangents at the node, and the harmonic
+polar of the point of inflection, form a harmonic pencil. There are
+three such lines, one to each node, and three harmonic polars; these
+form a pencil in involution, the tangents at the node being the foci.
+
+Since the asymptote is perpendicular to the axis, we have by projection
+the following theorem:—through a point of inflection I, draw any line
+cutting the cubic in B and C. Through P the point of intersection of
+the harmonic polar and inflectional tangent of I, draw two lines to B
+and C. The four lines meeting in P form a harmonic pencil. The point
+of contact of the tangent from I to the cubic is on the harmonic polar
+of I. Any two inflectional tangents meet on the harmonic polar of the
+third point of inflection.
+
+The locus of the foot of the perpendicular from the focus of a conic
+on a tangent is the auxiliary circle. Inverting from the vertex, there
+are two points, A and B, on the axis of the curve, such that if a
+circle be drawn through one of them and the node, cutting at right
+angles a tangent circle through the node, their point of intersection
+will be on the tangent to the curve where it is cut by the axis.
+Projecting:—through a point of inflection I of a nodal cubic draw a
+line cutting the cubic in P and Q; there are two determinate points
+on the harmonic polar of I, which have the following property:—draw a
+conic through P, Q, and the node touching the cubic; draw another conic
+through one of these points, P, Q, and the node cutting the former, so
+that their tangents at their point of intersection, together with the
+lines from it to P and Q form a harmonic pencil; the locus of such a
+point of intersection is the tangent from I to the cubic.
+
+If three conics circumscribe the same quadrilateral, the common tangent
+to any two is cut harmonically by the third. Inverting from one of the
+vertices of the quadrilateral: if three nodal, circular cubics have
+a common double point and pass through three other fixed points, the
+common tangent circle through the common node to any two of the cubics
+is cut harmonically by the third; _i. e._, so that the pencil from the
+node to the two points of intersection and the points of contact is
+harmonic. Projecting this:—given three nodal cubics having a common
+node and passing through five other fixed points; let a conic be passed
+through the common node and two of the fixed points, touching two of
+the cubics. The pencil from the common node to the points of contact
+and the point where the conic cuts the third cubic is harmonic.
+
+The following theorem may be proved in similar manner:—given a system
+of cubics having a common node and passing through five other fixed
+points; let a conic be drawn through the common node and two of the
+fixed points; the lines drawn from the points where it cuts the cubics
+to the common node form a pencil in involution.
+
+A variable chord drawn through a fixed point P to a conic subtends a
+pencil in involution at any point O on the conic. Inverting from O:—a
+system of circles through the double point of a nodal circular cubic
+and any other fixed point P, is cut by the cubic in pairs of points
+which determine at the node a pencil in involution. Projecting:—a
+system of conics through the node of a unicursal cubic, two fixed
+points on the curve, and any fourth fixed point, is cut by the cubic in
+pairs of points which determine at the node a pencil in involution.
+
+We give another proof of the theorem that the three points of
+inflection of a nodal cubic lie on a right line. This is easily shown
+by inversion and is a beautiful example of the method.
+
+There are three points on a conic whose osculating circles pass through
+a given point on the conic; these three points lie on a circle passing
+through the given point.[1] (Salmon’s Conics, Art. 244, Ex. 5.) By
+inverting from the given point and then projecting, we readily see that
+there are three points of inflection on a nodal cubic which lie on a
+right line. If the above conic be an ellipse, the three osculating
+circles are all real; but if it be a hyperbola, one only is real. Hence
+an acnodal cubic has three real points of inflection, while a crunodal
+one has one real and two imaginary.
+
+The reciprocals of many of the theorems of this section are of interest
+and will be given under Quartics.
+
+
+CUSPIDAL CUBICS.[2]
+
+Inverting the parabola from its vertex we obtain the Cissoid of
+Diocles. The focus of the parabola inverts into a point on the cuspidal
+tangent which I shall call the focus of the cissoid. The circle of
+curvature at the vertex of the parabola inverts into the asymptote of
+the cissoid. This asymptote is also plainly the inflectional tangent,
+and the point at infinity is the point of inflection. The directrix
+of the parabola inverts into a circle through the cusp of the cissoid
+having the cuspidal tangent for a diameter. Hall calls this the
+directrix circle. The double ordinate of the parabola which is tangent
+to the circle of curvature of the vertex inverts into the circle
+usually called the base circle of the cissoid.[3]
+
+The cissoid may fairly be called the simplest form of the cuspidal
+cubic. Its projection and polar reciprocal are both cuspidal cubics. I
+shall now deduce from the parabola a few simple propositions for the
+cissoid, and then extend them to all cuspidal cubics.
+
+(1) It is known that the locus of the intersection of tangents to the
+parabola which are at right angles to one another, is the directrix.
+Inverting:—the locus of the intersection of tangent circles to the
+cissoid through the cusp and at right angles to each other is the
+directrix circle.
+
+(2) For the parabola, two right lines O P and O Q, are drawn through
+the vertex of the parabola at right angles to one another, meeting the
+curve in P and Q; the line P Q cuts the axis at a fixed point, whose
+abscissa is equal to its ordinate. Inverting:—two right lines, O P and
+O Q, are drawn at right angles to one another through the cusp of the
+cissoid, meeting the curve in P and Q; the circle O P Q passes through
+the intersection of the axis and asymptote.
+
+(3) If the normals at the points P, O, R, of a parabola meet at
+a point, the circle through P O R will pass through the vertex.
+Inverting:—through a fixed point and the cusp of a cissoid, three and
+only three circles can be passed, cutting the cissoid at right angles;
+these three points of intersection are collinear.
+
+From the geometry of the cissoid we see that if any line be drawn
+parallel to the asymptote, cutting the curve in two points, B and C,
+the segment B C is bisected by the axis. Hence, projecting the curve
+we have the following theorem:—any line drawn through the point of
+inflection is cut harmonically by the point of inflection, the curve,
+and the cuspidal tangent. Thus the cuspidal tangent is the harmonic
+polar of the point of inflection. The polar reciprocal of this last
+theorem reads as follows:—if from any point on the cuspidal tangent
+the two other tangent lines be drawn to the curve, and a line to the
+point of inflection, these four lines form a harmonic pencil. These are
+fundamental propositions in the theory of cuspidal cubics.
+
+(4) Projecting proposition (1) above, we have the generalized
+theorem:—through the point of inflection draw any line cutting the
+cubic in B and C; through B, C, and the cusp draw two conics tangent
+to the cubic, and intersecting in a fourth point such that the two
+tangents to the conics at their point of intersection, together with
+the two lines from it to B and C, form a harmonic pencil; the locus of
+all such intersections is a conic through B, C, and the cusp having the
+point of inflection and the cuspidal tangent for pole and polar.
+
+(5) Reciprocating (4) we have:—through any point on the cuspidal
+tangent draw the two other tangents, B and C, to the cubic. Touching B,
+C, and the inflectional tangent draw two conics, such that the points
+of contact of their common tangent, together with the points where
+their common tangent cuts the tangents B and C, form a harmonic range;
+the envelope of such common tangents is a conic having the cuspidal
+tangent and the point of inflection for polar and pole.
+
+(6) Projecting (2) we obtain the following:—through the point of
+inflection draw any line cutting the curve in B and C; take any other
+two points on the cubic such that the pencil from the cusp, O, O (B P C
+Q) is harmonic; the conic passing through O B P C Q will pass through
+the intersection of the cuspidal and inflectional tangents.
+
+(7) Reciprocating (6):—from any point on the cuspidal tangent draw two
+other tangents, B and C, to the cubic; take any two other tangents, P
+and Q, such that the range cut from the inflectional tangent by B, C,
+P, Q, is harmonic; the conic touching B, C, P, Q, and the inflectional
+tangent will also touch the line joining the point of inflection and
+the cusp.
+
+(8) Projecting (3):—through the point of inflection draw any line
+cutting the cubic in B and C; through the cusp O and the points B and C
+on the cubic and any other fixed point P, three, and only three, conics
+can be passed, such that the tangent to the conic and cubic at their
+remaining point of intersection, together with the lines from it to B
+and C, form a harmonic pencil; these three points of intersection are
+collinear.
+
+
+SYSTEMS OF CUBICS THROUGH NINE POINTS.
+
+Let U and V be the equations of two given cubics, then U + kV is
+the equation of a system of cubics through their nine points of
+intersection. Twelve cubics of this system are unicursal, and the
+twelve nodes are called the twelve critic centres of the system. (See
+Salmon’s H. P. C., Art. 190.)
+
+Let the equation of the system be written briefly
+
+    a + ka₁ + (b + kb₁) x + (c + kc₁) y + u₂ + u₃ = 0;
+
+one, and only one, value of k makes the absolute term vanish; hence
+one, and only one, curve of the system passes through the origin,
+which may be any point in the plane. Make the equation of the system
+homogeneous by means of z, and differentiate twice with respect to z;
+we obtain thus the equations of the polar conics and polar lines of the
+origin with respect to the system.
+
+The polar conics of the origin are given by
+
+    3(a + ka₁) + 2 { (b + kb₁) x + (c + kc₁)y } + u₂ = 0;
+
+thus showing that the polar conics of any point, with respect to the
+system of cubics, form a system through four points. The polar lines of
+the origin are given by
+
+          3(a + ka₁) + (b + kb₁) x + (c + kc₁)y = 0,
+
+which represents a pencil of lines through a point.
+
+Suppose now the origin to be at one of the critic centres; then for a
+particular value, k₁, all terms lower than the second degree must
+vanish, so that
+
+                        ║ a    b    c  ║
+                        ║              ║ = 0.
+                        ║ a₁   b₁   c₁ ║
+
+The factors of the terms of u₂, which involves k₁, represent the
+tangents at the double point to the nodal cubic, and also the polar
+conic of the origin with respect to this nodal cubic. Hence a critic
+centre is at one of the vertices of the self-polar triangle of its
+system of polar conics. The opposite side of this triangle is the
+common polar line of the critic centre with respect to its system of
+polar conics, and hence it is also the common polar line of the critic
+centre with respect to the system of cubics. The four basal points of
+the system of polar conics lie two and two upon the tangents at the
+double point of the nodal cubic.
+
+When the origin is taken at one of the nine basal points of the system
+of cubics, a and a₁ both vanish. Hence it is readily seen that a basal
+point of a system of cubics is also a basal point of its system of
+polar conics and the vertex of its pencil of polar lines.
+
+Suppose two of the basal points of the system of cubics to coincide,
+then every cubic of the system, in order to pass through two coincident
+points, must touch a common tangent at a fixed point. The common
+tangent is the common polar of its point of contact, both with respect
+to the system of cubics and to its system of polar conics. Hence the
+union of two basal points gives rise to a critic centre. The self-polar
+triangle of its system of polar conics here reduces to a limited
+portion of the common tangent. This line is not a tangent to the nodal
+cubic, but only passes through its double point.
+
+Suppose three of the basal points of a system of cubics to coincide,
+such a point will then be a point of inflection on each cubic of the
+system. For, in the last case, if a line be drawn from the point of
+contact of the common tangent to a third basal point of the system,
+such a line will be a common chord of the system of cubics. Suppose,
+now, this third basal point be moved along the curves until it
+coincides with the other two; then the common chord becomes a common
+tangent, which cuts every cubic of the system in three coincident
+points, and hence is a common inflectional tangent.
+
+Since the polar conic of a point of inflection on a cubic consists of
+the inflectional tangent and the harmonic polar of the point, and since
+the polar conics of a fixed point with respect to a system of cubics
+pass through four fixed points, it follows that in a system of cubics
+having a common point of inflection and a common inflectional tangent
+the harmonic polars of the common point of inflection meet in a point.
+
+Since the common inflectional tangent is the common polar line of the
+common point of inflection, it follows that such a point is a critic
+centre of the system of cubics. One cubic of the system then has a
+node at the common point of inflection of the system, and forms an
+exception. The line which is the common inflectional tangent to the
+other cubics of the system cuts this also in three points, but is one
+of the tangents at the double point; the other tangent at the double
+point goes through the vertex of the pencil of harmonic polars.
+
+It is evident that the nine basal points of a system of conics may
+unite into three groups of three each. The cubics will then all have
+three common points of inflection, and at these points three common
+inflectional tangents. These three points all lie on a line.
+
+When four basal points of the system of cubics coincide, such a point
+is a double point on every cubic of the system. This is easily shown
+as follows, using the method of inversion. Let a system of conics
+through four points be inverted from one of the four points. The system
+of conics inverts into a system of cubics, having a common node and
+passing through three other finite fixed points and the two circular
+points at infinity. Since the common node counts as four points of
+intersection, it follows that any two cubics of the system, and hence
+all of them, intersect in nine points. This system can be projected
+into a system having a common double point and passing through any five
+other fixed points.
+
+A number of theorems concerning the system of cubics can easily be
+inferred from known theorems concerning the system of conics. Since two
+conics of the system are parabolas, it follows that two cubics of the
+system are cuspidal. Since three conics of the system break up into
+pairs of right lines, it follows that three cubics of the system break
+up into a right line and a conic. Each right line and its corresponding
+conic intersect in the common double point. The line at infinity cuts
+the system of conics in pairs of points in involution, the points of
+contact of the two parabolas of the system being the foci; it follows
+on inversion that the pairs of tangents to the cubics at their common
+node form a pencil in involution, the two cuspidal tangents being the
+foci.
+
+If the four basal points of the system of conics lie on a circle,
+this circle inverts into a right line, and one cubic then consists of
+this right line and the lines joining the centre of inversion to the
+circular points at infinity. This theorem may be stated for the system
+of cubics as follows: if the conic determined by the five basal points
+of the system of cubics (not counting the common double points), break
+up into right lines, the line passing through three of the five points,
+together with the lines joining the other two points to the common
+node, constitute a cubic of the system.
+
+If three of the four basal points of the system of conics lie on a
+line, the conics consist of this line and a pencil of lines through
+the fourth basal point. Inverting from this fourth point and then
+projecting, we have a system of cubics consisting of a pencil of lines
+and a conic through the vertex and the four other fixed points. Hence,
+when the five fixed points of such a system of cubics lie on a conic
+through the common node, this conic is a part of every cubic of the
+system. If we invert the above system of conics from one of the three
+points on the right line, and then project, we obtain a system of
+cubics which consists of a system of conics through four fixed points,
+and a fixed right line through one of these four points. Hence, if
+two of the five basal points of such a system of cubics be on a line
+through the common node, this line is a part of every cubic of the
+system.
+
+If a system of conics having one basal point at infinity be inverted
+from one of the remaining basal points, this point at infinity inverts
+to the center of inversion, and we obtain a system of cubics having
+five coincident basal points and hence passing through only four
+others. The system of cubics is now so arranged that one tangent at
+their common double point is common to all. Only one cubic of the
+system is cuspidal. As before three cubics break up into a right line
+and conic.
+
+If two of three basal points of the system of conics be at infinity,
+the system of cubics obtained by projection and inversion has six
+coincident basal points and hence only three others. This system has
+both tangents at the common node common to all cubics of the system. If
+the two basal points at infinity in the system of conics be coincident,
+all the conics are parabolas, and hence all the cubics of the system
+are cuspidal and have a common cuspidal tangent.
+
+If three of the basal points of the system of conics be at infinity,
+the conics consist of the line at infinity and a pencil of lines
+through the finite basal point. Inverting from the latter, we obtain
+a system of cubics with seven coincident basal points. This system
+is made up of a pencil of lines meeting in the seven coincident basal
+points together with the two lines joining this to the other two basal
+points of the system. These two lines are part of every cubic of the
+system.
+
+If one of the remaining basal points be moved up to join the seven
+coincident ones, one of these fixed lines becomes indeterminate, and
+the system of cubics through eight coincident points consists of a
+fixed line through the eight coincident points and the ninth fixed
+point together with any two lines of the pencil through the eight
+points. If the nine basal points coincide, any three lines through it
+form a cubic of the system.
+
+
+UNICURSAL QUARTICS.
+
+The inverse of a conic from any point not on the curve is a nodal
+bicircular quartic. This is shown by inverting the general equation of
+the conic
+
+                ax² + 2hxy + by² + 2gx + 2fy + c = 0;
+
+                                 x               y
+by substituting for x and y, —————————  and  —————————— ,
+                             (x² + y²)        (x² + y²)
+
+we get the equation
+
+   ax² + 2hxy + by² + 2(gx + fy)(x² + y²) + c(x² + y²)² = 0.
+
+The origin is evidently a double point on the curve, and is a crunode,
+acnode, or cusp according as the conic is a hyperbola, ellipse, or
+parabola. The factors of the terms of the fourth degree, viz:
+(x + iy) (x + iy) (x - iy) (x - iy), show that the two imaginary
+circular points at infinity are double points on the quartic, which is
+thus trinodal. Hence this nodal, bicircular quartic can be projected
+into the most general form of the trinodal quartic. Trinodal quartics
+are unicursal.
+
+If the conic which we invert be a parabola, the quartic has two nodes
+and one cusp. If the conic be inverted from a focus, the quartic has
+the two circular points at infinity for cusps. This is best shown
+analytically as follows: let the equation of the conic, origin being at
+the focus, be written
+
+                      x²      y²     2aex      b²
+                     ———  +  ———  +  ————  -  ——— = 0.
+                      a²      b²      a²       a²
+
+Inverting this we have
+
+             x²      y²       2aex(x² + y²)        b²(x² + y²)²
+            ———  +  ———  +  ———————————————  -  ————————————————  = 0.
+             a²      b²           a²                  a²
+
+Now transform this equation so that the lines joining the origin to the
+circular points at infinity shall be the axes of reference. To do this
+
+let x + iy = x₁ and x - iy = y₁;
+
+         x₁ + y₁             x₁ - y₁
+ ∴ x =  ————————  and  y =  ———————— .
+             2                 2i.
+
+Making these substitutions and reducing we have (dropping the
+subscripts),
+
+    (x² + 2xy + y²)    (x² - 2xy + y²)    4aexy(x + y)     b²x²y²
+  ————————————————— - ————————————————— - ———————————— - ————————— = 0.
+         a²                 b²                 a²           a²
+
+Making this equation homogeneous by means of z, we have
+
+     ┌                                     ┐
+     │  (x² + 2xy + y²)   (x² - 2xy + y²)  │   4aexyz(x + y)     b²x²y²
+  z² │ ———————————————— - ———————————————— │ - ————————————— - —————————
+     └        a²                b²         ┘        a²            a²
+
+                                   4aexyz(x + y)     b²x²y²
+                                -  ————————————— - ————————— = 0,
+                                        a²             a²
+
+which is the equation of the quartic referred to the triangle formed by
+the three nodes. We are now able to determine the nature of the node at
+the vertex (y, z). Factor x² out of all the terms which contain it; and
+arrange thus:
+
+       ┌                              ┐      ┌                         ┐
+       │ z²      z²    4aeyz     b²y² │      │yz²      yz²      2aey²z │
+    x² │———  -  ———  - —————  - ——————│ + 2x │————  +  ————  -  ———————│
+       │ a²      b²     a²        a²  │      │ a²       b²         a²  │
+       └                              ┘      └                         ┘
+
+                           y²z²       y²z²
+                        + ——————  -  —————— = 0.
+                            a²         b²
+
+The quantity which multiplies x² represents the two tangents at the
+double point (y, z); but this quantity is a perfect square and hence
+we have a cusp. In this way the point (x, z) may be shown to be a
+cusp. Lastly, when a parabola is inverted from the focus, we obtain a
+tricuspidal quartic.
+
+The trinodal quartic can be generated in a manner analogous to that
+shown for the nodal cubic. Let two projective pencils of rays have
+their vertices at A and B, the locus of intersection of corresponding
+rays is a conic through A and B. Invert from any point O in the plane,
+and we obtain two systems of co-axial circles, O A being the axis of
+one and O B of the other. The locus of intersection of corresponding
+circles is a bicircular quartic having a node at O. Projecting the
+whole figure we have the following theorem:—two projective systems of
+conics through O P Q A and O P Q B generate by their corresponding
+intersections a trinodal quartic having its nodes at O, P, and Q, and
+passing through A and B.
+
+It is evident that the quartic generated in this way may have three
+nodes, one node and two cusps, two nodes and one cusp, or three cusps,
+depending upon the nature of the conic inverted and the centre of
+inversion. Making this the basis of classification we thus distinguish
+four varieties of unicursal quartics. To these must be added a fifth
+variety, viz: the quartic with a triple point. Each of these varieties
+will be considered separately.
+
+The method of treating unicursal quartics given in this and the next
+four sections is in some respects similar to that suggested by Cayley
+in Salmon’s Higher Plane Curves. But the method here sketched out is
+very different in its point of view and much wider in its application,
+yielding a multitude of new theorems not suggested by Cayley’s method.
+
+
+TRINODAL QUARTICS.
+
+The quartic with three double points is a curve of the sixth class
+having four double tangents and six cusps (Salmon’s H. P. C. Art. 243).
+Hence its reciprocal is of the sixth degree with four double points,
+six cusps, three double tangents, and no points of inflection.
+
+The locus of intersection of tangents to a conic at right angles to
+one another is a circle. Inverting:—the locus of intersection of
+circles through the node and tangent a nodal, bicircular quartic and
+at right angles to one another is a circle. Projecting:—through the
+three nodes of a quartic draw two conics, each touching the quartic
+and intersecting so that the two tangents to the conics at their point
+of intersection, together with the lines from it to two of the nodes,
+form a harmonic pencil; the locus of all such intersections is a conic
+through these two nodes. Whenever the two tangents to the quartic from
+the third node, together with the lines from it to the other two nodes,
+form a harmonic pencil, this last conic breaks up into two right lines.
+
+Any chord of a conic through O is cut harmonically by the conic and the
+polar of O. Inverting from O and projecting:—from one of the nodes of
+a trinodal quartic draw the two tangents to the quartic (not tangents
+at the node); draw the conic through these two points of contact and
+the three nodes; any line through the first mentioned node is cut
+harmonically by this conic, the quartic and the line joining the other
+two nodes.
+
+If a triangle circumscribe a conic, the three lines from the angular
+points of the triangle to the points of contact of the opposite sides
+intersect in a point. Inverting and projecting:—through the three nodes
+of a quartic draw three conics touching the quartic; through the point
+of intersection of two of these conics, the point of contact of the
+third, and the three nodes draw a conic; three such conics can be drawn
+and they pass through a fixed point.
+
+The eight points of contact of two conics with their four common
+tangents lie on a conic, which is the locus of a point, the pairs of
+tangents from which to the two given conics form a harmonic pencil.
+Inverting and projecting:—two connodal trinodal quartics have four
+common tangent conics through the three nodes; their eight points
+of contact lie on another connodal trinodal quartic; if from any
+point on the last quartic four conics be drawn through the nodes and
+tangent in pairs to the first quartics, any line through a node is cut
+harmonically by these four conics.
+
+The eight common tangents to two conics at their common points all
+touch a conic. Inverting and projecting:—two connodal trinodal quartics
+intersect in four other points; eight conics can be drawn through the
+three nodes tangent to the quartics at these points of intersection;
+these eight conics all touch another connodal trinodal quartic.
+
+A series of conics through four fixed points is cut by any transversal
+in a range of points in involution. Inverting and projecting:—a series
+of connodal trinodal quartics can be passed through four other fixed
+points; any conic through the three nodes cuts the series of quartics
+in pairs of points which determine at a node a pencil in involution.
+The conic touches two of the quartics and the lines to the points of
+contact are the foci of the pencil.
+
+If the sides of two triangles touch a given conic, their six angular
+points will lie on another conic. Inverting and projecting:—if two
+groups of three conics each be passed through three nodes and tangent
+to the quartic, their six points of intersection (three of each group)
+lie on another connodal trinodal quartic.
+
+If the two triangles are inscribed in a conic, their six sides touch
+another conic. Inverting and projecting:—if two groups of three conics
+each be passed through the three nodes of a quartic so that the three
+points of intersection of each group lie on the quartic, these six
+conics all touch another connodal trinodal quartic.
+
+A triangle is circumscribed about one conic, and two of its angular
+points are on a second conic; the locus of its third angular point is a
+conic.—Inverting and projecting:—if three conics be drawn through the
+three nodes of two connodal trinodal quartics so that they all touch
+one of the quartics and two of their points of intersection are on the
+other quartic, the locus of their third point of intersection is a
+connodal trinodal quartic.
+
+A triangle is inscribed in one conic and two of its sides touch a
+second conic; the envelope of its third side is a conic. Inverting and
+projecting:—if three conics be drawn through the three nodes of two
+connodal trinodal quartics so that their three points of intersection
+lie on one of the quartics and two of them touch the other quartic, the
+envelope of the third conic is another connodal trinodal quartic.
+
+The theorems of this section are stated in the most general terms and
+are still true when one or more of the nodes are changed into cusps. It
+is therefore not necessary to give separate theorems for the case of
+one cusp and two nodes.
+
+
+NODAL BICUSPIDAL QUARTICS.
+
+A quartic with one node and two cusps is a curve of the fourth class,
+having one double tangent and two points of inflection (see Salmon).
+Hence its reciprocal is also a nodal bicuspidal quartic, a fact of
+which frequent note will be made in this section.
+
+The inverse of a conic with respect to a focus is a curve called
+Pascal’s Limaçon. From the polar equation of a conic, the focus being
+the pole, it is evident that the polar equation of the limaçon may be
+written in the form:
+
+                           e             1
+                    r  =  —— cos_x_  +  —— ;
+                           p             p
+
+where e and p are constants, being respectively the eccentricity and
+semi-latus rectum of the conic.
+
+From the above equation it is readily seen that the curve may be traced
+by drawing from a fixed point O on a circle any number of chords
+and laying off a constant length on each of these lines, measured
+from the circumference of the circle. The point O is the node of the
+limaçon; and the fixed circle, which I shall call the base circle, is
+the inverse of the directrix of the conic. This is readily shown as
+follows:—the polar equation of the directrix is r = p/(e cos_x_). Hence
+the equation of its inverse is r = (e cos_x_)/p, which is the equation
+of the base circle of the limaçon.
+
+The envelope of circles on the focal radii of a conic as diameters
+is the auxiliary circle. Inverting:—the envelope of perpendiculars
+at the extremities of the nodal radii of a limaçon is a circle with
+its centre on the axis and having double contact with the limaçon.
+Projecting:—from any point on a nodal bicuspidal quartic draw lines to
+the three nodes and a fourth line forming with them a harmonic pencil;
+the envelope of all such lines is a conic through the two cusps and
+having double contact with the quartic; the chord of contact passes
+through the node and cuts the line joining the cusps so that this
+point of intersection, the two cusps, and intersection of the double
+tangent with the cuspidal line form a harmonic range. Reciprocating:—on
+any tangent to a nodal bicircular quartic take the three points where
+it cuts the two inflectional tangents and the double tangent, and a
+fourth point forming with these a harmonic range; the locus of all such
+points is a conic touching the two inflectional tangents and having
+double contact with the quartic; the pole of the chord of contact is
+on the double tangent; join this last point to the intersection of the
+inflectional tangents and join the node with the same intersection;
+these four lines form a harmonious pencil.
+
+If the tangent at any point P of a conic meet the directrix in Q, the
+line P Q will subtend a right angle at the focus O; the circle P O Q
+has P Q for a diameter and hence cuts the conic at P at right angles.
+Inverting:—from any point P on the limaçon draw O P to the node O;
+draw O Q perpendicular to O P meeting the base circle in Q; P Q is
+normal to the limaçon at P. Projecting:—from any point P on a nodal
+bicuspidal quartic draw lines to the three nodes and a fourth harmonic
+to these three; from O draw lines to the two cusps and a fourth
+harmonic to these two and the line O P; the locus of the intersection
+of the fourth line of each pencil is a conic through the three nodes.
+Call this the basal conic of the quartic. Reciprocating:—on any given
+tangent to a nodal bicuspidal quartic take its points of intersection
+with the double tangent and the inflectional tangents, and a fourth
+point harmonic with these; on the double tangent take its points of
+intersection with the given tangent and the inflectional tangents, and
+a fourth point harmonic with these; the envelope of the lines joining
+the fourth point of these two ranges is a conic touching the double and
+inflectional tangents.
+
+The locus of the foot of the perpendicular from the focus on the
+tangent to a conic is the auxiliary circle. Inverting:—draw a circle
+through the node tangent to a limaçon; draw the diameter O P of this
+circle; the locus of P is a circle having double contact with the
+limaçon, the axis being the chord of contact. Cor.; the locus of the
+centre of the tangent circle is also a circle. Projecting:—through the
+three nodes of a nodal bicuspidal quartic draw any conic touching the
+quartic; the locus of the pole with respect to this conic of the line
+joining the two cusps is a conic; draw the chord O P of the first conic
+through the node O and the pole of the line joining the two cusps; the
+locus of P is a conic through the cusps, having double contact with the
+quartic.
+
+If chords of a conic subtend a constant angle at the focus, the
+tangents at the ends of the chords will meet on a fixed conic, and
+the chords will envelope another fixed conic; both these conics will
+have the same focus and directrix as the given conic. Inverting:—draw
+two nodal radii of a limaçon O P and O Q, making a given angle at O;
+the envelope of the circle P O Q is another limaçon; the locus of the
+intersection of circles through O tangent to the limaçon at P and Q is
+another limaçon. These two limaçons have the same node and base circle
+as the given one. Projecting:—through the node O of a nodal bicuspidal
+quartic draw a pencil of radii in involution; let O P and O Q be a
+conjugate pair of these nodal radii; the envelope of the conic through
+P, Q, and the three nodes, is another quartic of the same kind: also
+draw conics through the three nodes tangent to the quartic at P and
+Q; the locus of their point of intersection is another quartic of the
+same kind. These three quartics all have the same node, cusps, and base
+conic.
+
+Every focal chord of a conic is cut harmonically by the curve, the
+focus, and directrix. Inverting:—every nodal chord of a limaçon is
+bisected by the base circle. Projecting:—every nodal chord of a nodal
+bicuspidal quartic is cut harmonically by the quartic, the base conic,
+and the line joining the two cusps. Reciprocating:—from any point
+on the double tangent of a nodal bicuspidal quartic draw the other
+two tangents to the quartic and a line to the intersection of the
+inflectional tangents; the fourth harmonic to these lines envelopes a
+conic.
+
+Since the limaçon is symmetrical with respect to the axis, it
+follows that the two points of inflection are situated symmetrically
+with respect to the axis. Hence the line joining the two points of
+inflection is parallel to the double tangent. Therefore by projection
+we infer the following general theorem for the nodal bicuspidal
+quartic: the line joining the two cusps, the line joining the two
+points of inflection, and the double tangent meet in a point. Also the
+fourth harmonic points on each of these lines lie on a line through
+the node. Reciprocating:—the point of intersection of the cuspidal
+tangents, the point of intersection of inflectional tangents, and the
+node all lie on a right line. From the node draw a fourth harmonic
+to this right line and the tangents at the node; draw a fourth line
+harmonic to this right line and the inflectional tangents; draw a
+fourth harmonic to the cuspidal tangents and this right line; these
+three lines all meet in a point on the double tangent.
+
+
+TRICUSPIDAL QUARTICS.
+
+A tricuspidal quartic is a curve of the third class with one double
+tangent and no inflection. Its reciprocal is therefore a nodal cubic.
+
+We shall begin by reciprocating some of the simpler properties of
+nodal cubics. Since the three points of inflection of a nodal cubic
+lie on a right line, it follows that the three cuspidal tangents of a
+tricuspidal quartic meet in a point. The reciprocal of the harmonic
+polar of a point of inflection is a point on the double tangent, found
+by drawing through the point of intersection of the three cuspidal
+tangents a line forming with them a harmonic pencil. Three such lines
+can be drawn and it is not difficult to distinguish them. All six lines
+form a pencil in involution, the lines to the points of contact of
+the double tangent being the foci. I shall call such a point on the
+double tangent the harmonic point of the cuspidal tangent. Since any
+two inflectional tangents of a nodal cubic meet on the harmonic polar
+of the third point of inflection, it follows that any two cusps of a
+trinodal quartic and the harmonic point of the third cuspidal tangent
+lie on a right line. Since the point of contact of the tangents from a
+point of inflection of a nodal cubic is on the harmonic polar of the
+point, it follows that the tangent to the tricuspidal quartic at the
+point where it is cut by a cuspidal tangent passes through the harmonic
+point of that cuspidal tangent.
+
+The inverse of the parabola from a focus is the cardioid; and the
+inverse of the corresponding directrix is the base circle of the
+cardioid. The cardioid projects into a tricuspidal quartic and its base
+circle projects into a conic through the three cusps which has the same
+general properties as the base conic of the nodal bicuspidal quartic.
+
+The circle circumscribing the triangle formed by the three tangents
+to a parabola passes through the focus. Inverting:—three circles
+through the cusp, and tangent to a cardioid, intersect in three
+collinear points. Projecting:—three conics through the three cusps
+of a tricuspidal quartic and touching the quartic intersect in three
+collinear points. Reciprocating:—if three conics touch the three
+inflectional tangents of a nodal cubic and the cubic itself, their
+three other common tangents intersect in a point.
+
+Circles described on the focal radii of a parabola as diameters touch
+the tangent through the vertex. Inverting and projecting:—from a point
+on a tricuspidal quartic lines are drawn to the three cusps and a
+fourth line forming a harmonic pencil; the envelope of this fourth line
+is a conic through the three cusps and touching the quartic at the
+point where the latter is cut by one of the cuspidal tangents. There
+are three such conics, one corresponding to each cusp. At any cusp the
+tangent to its corresponding base conic, the cuspidal tangent, and the
+lines to the other two cusps form a harmonic pencil. Reciprocating:—on
+any tangent to a nodal cubic take the three points of intersection
+with the inflectional tangents and a fourth point forming with these a
+harmonic range; the locus of this fourth point is a conic touching the
+three inflectional tangents and the cubic. The tangent to the cubic
+where it is touched by the conic goes through a point of inflection.
+On any inflectional tangent the point of contact of this conic, the
+point of inflection, and the points of intersection of the other two
+inflectional tangents form a harmonic range.
+
+The circle described on any focal chord of a parabola as diameter will
+touch the directrix. Inverting:—the circle described on any cuspidal
+chord of a cardioid will touch the base circle. Projecting:—through a
+cusp C draw any chord of a tricuspidal quartic meeting the quartic in
+P and O; draw a conic through P, O, and the other two cusps so that
+the pencil at P formed by the tangent to the conic and the lines to
+the cusps is harmonic; all such conics will touch the base conic of the
+cusp C. Reciprocating:—from O, on any inflectional tangent of a nodal
+cubic, draw two tangents P and Q to the cubic; draw a conic touching
+the tangents P and Q and the other two inflectional tangents so that
+the range on one of these tangents formed by the point of contact of
+the conic and the intersection of the three inflectional tangent is
+harmonic; the envelope of all such conics is a conic touching the three
+inflectional tangents.
+
+The directrix of a parabola is the locus of the intersection of tangents
+at right angles to one another. Inverting and projecting:—through any
+point P on the base conic of a cusp C of the tricuspidal quartic, two
+conics can be drawn through the three cusps and touching the quartic;
+their two tangents at P and the lines to the other two cusps form a
+harmonic pencil; their two points of contact lie on a line through
+C. Reciprocating:—from any point on one of the inflectional tangents
+to a nodal cubic draw the two tangents P and Q; draw two conics each
+touching the cubic and the three inflectional tangents, one touching P
+and the other Q; the envelope of their other common tangent is a conic
+touching the three inflectional tangents; the two points of contact of
+any one of these common tangents and the points where it cuts the other
+two inflectional tangents form a harmonic range.
+
+Any two parabolas which have a common focus and their axes in opposite
+directions cut at right angles. Inverting:—any two cardioids having a
+common cusp and their axes in opposite directions cut at right angles.
+Projecting:—two tricuspidal quartics having common cusps and at one
+of the cusps the same cuspidal tangent, but the cusps pointed in
+opposite directions, cut at such an angle that the tangents at a point
+of intersection and the lines to the other two cusps form a harmonic
+pencil. Reciprocating:—two nodal cubics have common inflectional
+tangents and on one of them the points of inflection common, but the
+branches of the curve on opposite sides of the line; any common tangent
+to the two curves is cut harmonically by the points of contact and the
+other two inflectional tangents.
+
+Circles are described on any two focal chords of a parabola as
+diameters; their common chord goes through the vertex of the parabola.
+Inverting:—circles are described on any two cuspidal chords of a
+cardioid; the circle through their points of intersection and the cusp
+goes also through the vertex of the cardioid. Projecting:—through one
+of the cusps of a tricuspidal quartic draw two chords; draw conics
+through the other two cusps and the extremities of each of these
+chords so that the pole of the line joining the other two cusps with
+respect to each of these conics is on the corresponding chord; the
+conic through the points of intersection of these two conics and the
+cusps passes also through the point where the cuspidal tangent of
+the first mentioned cusp cuts the quartic. Reciprocating:—on one of
+the inflectional tangents, of a nodal cubic take two points P and Q;
+draw a pair of tangents from each of these points to the cubic; draw
+two conics each touching a pair of these tangents and the other two
+inflectional tangents, so that the polars of the point of intersection
+of the other two inflectional tangents with respect to each of those
+conics pass respectively through P and Q; the conic touching the common
+tangents to these two conics and the three inflectional tangents
+touches also the tangent from the first mentioned point of inflection
+to the cubic.
+
+
+QUARTICS WITH A TRIPLE POINT.
+
+Since a triple point is analytically equivalent to three double points,
+a quartic with a triple point is unicursal. Such a quartic is obtained
+by inverting a unicursal cubic from its node. The equation of such
+a cubic may be written u₂ + u₃ = 0, where u₂ and u₃ are homogeneous
+functions of the second and third degree respectively in x and y. Hence
+the equation of the inverse curve is u₃ + u₂ (x² + y²), which shows
+that the origin is a triple point and the quartic circular. By
+projecting this all other forms may be obtained.
+
+The nature of the triple point depends upon the relation of the line at
+infinity to the cubic before inversion. Thus the line at infinity may
+cut the cubic in three distinct points all real, or one real and two
+imaginary, in one real and two coincident points (an ordinary tangent),
+or in three coincident points (an inflectional tangent). Hence the
+quartic may have at the triple point three distinct tangents all real,
+or one real and two imaginary, one real and two coincident, or all
+coincident.
+
+This quartic may be generated in a manner similar to that used for the
+curves already discussed. We showed in the section on nodal cubics that
+a system of conics through A, B, C, D, and a projective pencil of rays
+with its vertex at A generate by the intersection of corresponding
+elements a cubic with a node at A. Invert the whole figure from A
+and then project:—the pencil of rays remains a pencil; the system of
+conics becomes a system of unicursal cubics having a common node at A
+and passing through five other common points; the cubic inverts and
+projects into a quartic with a triple point at A, passing through the
+five other common points of the system of cubics.
+
+The three points of inflection of a nodal cubic lie on a right line.
+Inverting:—there are three points on a circular quartic with a triple
+point whose osculating circles pass through the triple point, and
+these three points lie on a circle through the triple point. Let these
+three points be designated by A, B, and C. The lines from the triple
+point O to the points A, B, C, and the common chord of the osculating
+circles at two of them form a harmonic pencil. Through one of these
+points, A, and the triple point draw a circle touching the quartic; the
+point of contact is on the common chord of the osculating circles at B
+and C.
+
+From theorems which we have already proved for a system of cubics
+having a common node and passing through five others fixed points,
+we can infer other theorems for a system of quartics having a common
+triple point and passing through seven other fixed points. For example,
+any conic through the common double point and two of the fixed points
+is cut by the cubics in pairs of points which determine at the node a
+pencil in involution. Hence any cubic having its node at the common
+triple point and passing through any four of the fixed points is cut
+by the quartics in pairs of points which determine at the common
+triple point a pencil in involution. Again, the pairs of tangents to
+the cubics at the common double point form a pencil in involution, the
+two cuspidal tangents being the foci of the pencil. Inverting:—the
+line at infinity (which passes through two of the fixed points, i. e.
+the circular points) cuts the system of circular quartics in pairs
+of points in involution. Projecting:—a line through any two of the
+seven fixed points cuts the system of quartics in pairs of points
+in involution. Since the line at infinity touches the inverse of a
+cuspidal cubic, it follows that any line through two of the fixed
+points will touch two of the quartics of the system; these points of
+contact are therefore the foci of the involution.
+
+Other theorems on such a system of quartics will be given in the next
+section.
+
+
+SYSTEMS OF QUARTICS THROUGH SIXTEEN POINTS.
+
+Let U and V represent a system of quartics through sixteen points.
+Since the discriminant of quartic is of the 27th degree in the
+coefficients it follows that there are 27 values of k for which the
+discriminant vanishes, and hence 27 quartics of the system which
+have double points. As in case of cubics these 27 points are called
+the critic centres of the system. Let the equation of the system of
+quartics be written
+
+              u₄ + u₃ + u₂ + u₁ + u₀ = 0.
+
+In a manner similar to that employed for cubics, we find the equation
+of the polar cubics of the origin with respect to the system to be
+
+                 u₃ + 2u₂ + 3u₁ + 4u₀ = 0.
+
+The polar conics of the origin are given by
+
+                     u₂ + 3u₁ + 6u₀ = 0;
+
+and the polar lines of the origin, by u₁ + 4u₀ = 0.
+
+The origin may be any point in the plane and hence we conclude that
+only one quartic of the system passes through a given point and that
+the polar cubics of any point form a system through nine points. The
+polar conics of any point form a system through four points and the
+polar lines meet in a point.
+
+If one of the critic centres be taken for origin, we can readily see
+that such a point is also a critic centre on each of its systems of
+polar curves. It is thus at a vertex of the self-polar triangle of
+its system of polar conics and the opposite side of the triangle is
+the common polar line of the critic centre with respect to each of
+the systems of curves. The tangents at the node of the nodal quartic
+coincide with those of its polar cubic and these we know coincide with
+the lines which constitute its polar conic.
+
+If two of the sixteen basal points coincide, such a point is a critic
+centre. The argument is the same as for a system of cubics. We can also
+see that two of the basal points of each of its systems of polar curves
+coincide at the critic centre. The sixteen basal points of the system
+of quartics may unite two and two so that it is possible to draw a
+system of quartics touching eight given lines each at a fixed point.
+
+If three of the basal points of our system of quartics coincide, all
+the quartics have at such a point a common point of inflection and a
+common inflectional tangent. The demonstration is the same as that
+already given for cubics. The system of polar cubics of such a point
+also have this point for a common point if inflection and the same
+tangent for a common inflectional tangent. I prefer to show this
+analytically for the sake of the method. The equation of the system of
+quartics having the origin for a common point of inflection and the
+axis of y for a common inflectional tangent may be written
+
+    u₄ + u₃ + {(B + kB₁)xy + (C + kC₁)y²} + (A + kA₁)y = 0.
+
+The equation of the polar cubics of the origin is therefore,
+
+    u₃ + 2{(B + kB₁)xy + (C + kC₁)y²} + 3(A + kA₁)y = 0,
+
+which proves the proposition. The properties of the system of polar
+conics of such a point are therefore the same as those already proved
+for cubics. One quartic of the system has a double point at the common
+point of inflection of the others.
+
+When four basal points coincide they give rise either to a common point
+of undulation or a common double point on all the quartics of the
+system. The equation of the system having a common point of undulation
+may be written
+
+     u₄ + (A + kA₁)x²y + (B + kB₁)xy² + (C + kC₁)y³
+
+                 + (D + kD₁)xy + (E + kE₁)y² + (F + kF₁)y = 0.
+
+There is one value of k for which the last term vanishes, and hence the
+origin is a critic centre. The polar cubics of the point of undulation
+break up into a system of conics through four points and the common
+tangent at the common point of undulation. For the equation of the
+polar cubics is
+
+     y{(A + kA₁)x² + (B + kK₁)xy + (C + kC₁)y²
+
+                 + 2(D + kD₁)x + 2(E + kE₁)y + (F + kF₁)} = 0.
+
+The system of polar conics of the origin consequently breaks up into
+the line y = 0 and a pencil meeting in a point. The common tangent at
+the common point of undulation is also the common polar line of the
+point of undulation.
+
+When the four coincident basal points form a common double point on
+the quartic, it is not difficult to show that two of the quartics are
+cuspidal at this point. The polar cubics of the common double point
+form a system having the same point for common double point. The
+tangents to the quartics at the common node constitute the system of
+polar conics and form a pencil in involution. Twelve of the sixteen
+basal points may unite in three groups of four each and the system of
+quartics is then trinodal and passes through four other fixed points.
+This is the system obtained by inverting a system of conics through
+four points and then projecting.
+
+A few special cases should be noticed here. If the four fixed points
+and two of the nodes lie on a conic, this conic together with the two
+lines from the third node to the first two constitute a quartic of
+the system. If the four fixed points lie on a line, the quartic then
+consists of this line and the sides of the triangle formed by the
+nodes. If the three nodes and three of the fixed points lie on a conic,
+the system of quartics then consists of this conic and a system of
+conics through the three nodes and the fourth fixed point. A special
+case of a system of quartics with three nodes is a system of cubics
+having a common node and passing through five other fixed points
+together with a line through two of them.
+
+If a fifth basal point be moved up to join the four at the common node,
+the quartics have one tangent at the common node common to all. If
+six basal points coincide they have both tangents at the node common
+to all. In this case one of the quartics has a triple point at the
+common node of the others. If seven basal points coincide, one of these
+tangents is an inflectional tangent as well. If eight points coincide,
+both are inflectional tangents.
+
+When nine of the basal points of a system of quartics coincide, the
+quartics have a common triple point. This is nicely shown by inverting
+a system of nodal cubics from the common node. The inverse curves form
+a system of quartics having a triple point and passing through seven
+other fixed points. The common triple point on two quartics counts for
+nine points of intersection and the seven others make the requisite
+sixteen. From our knowledge of a system of cubics having a common node
+it is readily inferred that three of the quartics must each break up
+into a nodal cubic and a right line through the node. If the seven
+fixed points of the system of quartics lie on a cubic having a node
+at the common triple point, the system of quartics then consists of
+this cubic and a pencil of lines through the node. If two of the seven
+fixed points lie on a line through the common triple point, the system
+of quartics then consists of this right line and a system of cubics
+through the other five points and having a common node at the common
+triple point.
+
+The system of cubics having a common node may have one, two, or three
+of the other basal points at infinity; and these may be all distinct
+or two or three of them coincident. Whence we infer that if the system
+of quartics have ten coincident basal points, one of the tangents at
+the triple point is common to all the quartics of the system. If eleven
+basal points coincide, two of the triple-point tangents are common to
+all the quartics. If twelve coincide, all three triple-point tangents
+are common. These triple-point tangents may be all distinct, two
+coincident, or all three coincident.
+
+If thirteen basal points coincide, the system of quartics then consists
+of the three fixed lines joining the multiple point to the other three,
+together with a pencil of lines through the multiple point. If fourteen
+points coincide, two lines are fixed and these with any two lines of
+the pencil form a quartic of the system. If fifteen points coincide,
+only one line is fixed and each quartic consists of this line and any
+other three of the pencil. When all sixteen points coincide, any four
+lines through it form a quartic of the system.
+
+In this paper cubic and quartic curves only are considered. I expect
+in a future paper to extend the methods herein developed to curves of
+still higher degrees. Many of the present results can be generalized
+and stated for a unicursal curve of the nth degree. I have purposely
+omitted all consideration of focal properties of these curves. There
+are also many special forms of interest which do not properly belong to
+a general treatment of the subject.
+
+
+NOTE A.
+
+The theorem concerning the three points on a conic A, B, and C, whose
+osculating circles pass through a fourth point O on the conic, is due
+to Steiner. From the properties of the harmonic polars of the points of
+inflection on a nodal cubic we may infer many other theorems concerning
+the points A, B, and C on a conic. Let the cubic be projected into
+a circular cubic and then inverted from the node. Its points of
+inflection A₁, B₁, C₁ invert into the points A, B, and C. The harmonic
+polar of A₁ inverts into the common chord O P of the circles osculating
+the conic at B and C; and similarly for the other harmonic polars.
+
+The pencil O {A B P C} is harmonic. Any circle through A and O meets
+the conic in S and T so that the pencil O {A S P T} is harmonic. The
+two circles through O and tangent to the conic at S and T intersect on
+O P. If two circles be drawn through O and A intersecting the conic
+one in S and T and the other in U and V, the circles O S U and O T V
+intersect on O P; so also the circles O S V and O T U. But one circle
+can be drawn through O and A and tangent to the conic; its point of
+contact is on O P. Let l, m, and n be three points on the conic on a
+circle through O. Draw the circles O A l, O A m, and O A n intersecting
+the conic again in l₁, m₁, n₁; l₁, m₁, n₁, are also on a circle through
+O, and the circles through l, m, n and l₁, m₁, n₁ intersect on O P.
+
+
+NOTE B.
+
+From the fundamental property of the Cissoid of Diocles we can obtain
+by inversion an interesting theorem concerning the parabola. In the
+figure of the Cissoid given in Salmon’s H. P. C. Art. 214, A M₁ = M R,
+whence A M₁ = A R - A M; or A R = A M + A M₁. Inverting from the cusp
+and representing the inverse points by the same letters, we have for
+the parabola
+
+                          1       1        1
+                         ———  =  ———  +  ————— .
+                         A R     A M      A M₁
+
+This result is interpreted as follows:—draw the circle of curvature at
+the vertex of a parabola; this circle is tangent to the ordinate B D
+which is equal to the abscissa A D; draw a line through A cutting the
+circle in R, the ordinate B D in M, and the parabola in M₁; then
+
+                          1        1        1
+                         ———  =   ———  +  ————— .
+                         A R      A M      A M₁
+
+Draw the circle with centre at D and radius A D; any chord of the
+parabola through the vertex is cut harmonically by the parabola, the
+circle, and the double ordinate through D.
+
+Footnotes:
+
+[1] See note A.
+
+[2] A few of the results of this section are due to the late Mr. H. B.
+Hall.
+
+[3] See note B.
+
+
+
+
+Foreign Settlements in Kansas.
+
+
+A CONTRIBUTION TO DIALECT STUDY IN THE STATE.
+
+Explanatory.—Some years ago when the subject of dialect study in
+Kansas, or rather of Kansas dialect, was mentioned, Mr. Noble Prentis,
+a gentleman who is warranted in speaking with authority on Kansas,
+was inclined to think that he settled the question in short order by
+declaring that there is no Kansas dialect. Probably the majority of
+intelligent citizens of the state would turn off the subject with the
+same reply. In the sense of a mode of speech common to the inhabitants
+of Kansas and peculiar to them, Mr. Prentis was indeed right. There is
+no vocabulary, at least no extensive vocabulary, by which the native of
+Kansas may be recognized in the American Babel. We have no distinctive
+pronunciation by which we may be known from the inhabitants of Nebraska
+or set apart from the citizens of Missouri. The verb fails to agree
+with its subject and the participle is deprived of its final ‘g’ with
+about equal frequency in Western Kansas and Eastern Colorado.
+
+But in the same sense it is true that there is no Kansas flora, no
+Kansas fauna; that is, there is no plant and there is no animal found
+quite generally in Kansas and found nowhere outside of Kansas. The
+remark that there is no such thing as a Kansas dialect rests upon a
+misapprehension of what is meant by the term. In just the same way
+that we speak of the flora and the fauna of Kansas we may speak of
+the dialect of Kansas. Yet to avoid popular misapprehension it may be
+better to speak of dialect in Kansas, rather than of Kansas dialect.
+
+Dialect study involves the observation and description of all facts
+concerning the natural living speech of men, and especially those
+points in which the speech of individuals or groups differs from that
+of the standard literary language as represented in classic writers
+and classic speakers. Standard literary English is always a little
+behind the times. It is the stuffed and mounted specimen in the
+museum. Dialect is the live animal on its native heath. Most people,
+indeed, will think that their speech does not differ materially from
+standard English. They say, “We speak near enough alike ‘for practical
+purposes’. But a thousand years hence the pronunciation of our country
+may have changed so much that it will seem like another language, and
+our descendants will write learned theses to prove that we pronounced
+‘cough’ like cow or like cuff. A new language will have grown out of an
+old one, but no one know how it came about. Careful dialect study will
+help explain it.”
+
+Kansas is a peculiarly favorable field for dialect study. We have here
+side by side representatives from nearly every state in the Union, and
+from a dozen foreign countries. The observer has here what elsewhere
+he must travel over half the world to find. In a district where the
+people are all natives, the speech is so nearly homogeneous that it
+is difficult to find any one who recognizes the peculiarities of his
+own language, but here the contrast of strange tongues strikes us
+immediately and we become conscious early of the fact that all men do
+not speak alike.
+
+Study of dialect may be classified under the heads of pronunciation,
+grammar and vocabulary. Of these the last two are the easiest, and may
+be carried on by almost any one with pleasure and valuable results.
+Pronunciation is the most difficult of these matters to study, as
+competent observation and reports can be made only by one who has made
+a thorough study of Phonetics. To those who might wish to take up the
+study of this branch of the subject, Sweet’s Primer of Phonetics, and
+Grandgent’s “Vowel Measurements” and “German and English Sounds” are
+recommended.
+
+In the study of dialect vocabularies it may become of the greatest
+importance to establish the exact locality of a word and the origin
+of the persons by whom it is used. For instance, in a family of my
+acquaintance the word ‘slandering’ = sauntering was familiar. It
+was a great puzzle to me until I learned that some of the children
+had been in the care of a German maid. The German word ‘schlendern’
+suggested the unquestionable source of the peculiar word. As a source
+of information regarding the origin of the foreign elements of our
+population when their native speech shall have been forgotten, but
+when the influence of it will be left in vocabulary and pronunciation
+I have thought that a map of the state with the location of all the
+foreign settlements of even quite small size would be of interest and
+in time of great value. In the following pages I transmit the results
+of my inquiries so far as received. It is my intention to make the
+report complete and to publish the map, when as complete as it can be
+made, in colors. Unexpected difficulties have delayed the work and
+prevented its being complete. I depended for my information upon the
+County Superintendents of the State, a class of unusually intelligent
+and well-informed men and women. But in not a few cases there seems to
+have been a suspicion in the mind of my correspondent that I might
+be a special officer of the state trying to locate violations of the
+law requiring district schools to be conducted in English, and hence
+information regarding schools in foreign tongue was withheld or given
+but partially. And in some cases my informants were not well posted. A
+superintendent by the name of Schauermann in a county containing a town
+called Suabia, tells me that there are no foreigners in his county. In
+such cases time must be taken to secure a correct result.
+
+The questions asked were: Locate, and give origin, date and approximate
+numbers of any settlements—six or more families—of foreigners in
+your county. Do they still use their language to any extent? Do they
+have church service and schools conducted in their native tongue? In
+many replies one or more of these points was neglected so that the
+information is not yet by any means what I desire to make it. However,
+for the purpose of dialect study approximate correctness in location is
+of chief importance, and accuracy as to numbers quite secondary.
+
+Through the aid of ministers and others to whom I have been referred
+by the superintendents I hope to make this report complete in the
+following respects: The more exact limits of the settlement; the
+numbers of those foreign-born; the province as well as land from
+which they came; the number of churches; the number of schools and
+the length of time the same are conducted. I solicit the co-operation
+of everyone interested in this work, and also in the whole subject of
+dialect study. As intimated above, interested observers can without
+especial training do a service to science and at the same time find a
+fascinating pastime for themselves by making collections of words and
+constructions which they believe to be unusual or new. If any such
+are sent to the writer they will be duly acknowledged. They should in
+every case be accompanied by a statement of the age, condition and
+birth-place of the person using them.
+
+I wish here to call attention to the work of the American Dialect
+Society which exists to promote this study. It desires as wide a
+membership as possible, and membership is open to all interested in
+the subject. The publication of the Society, Dialect Notes, contains
+reports of word-lists and other studies, and will be an aid to any
+who wish to undertake similar work. Subscriptions and membership fees
+should be sent to Mr. C. H. Grandgent, Treas., Cambridge, Mass.
+
+
+REPORTS BY COUNTIES.
+
+    ATCHISON.—Reports no foreigners, by John
+        Klopfenstein, Supt.
+
+    ALLEN.—Swedes and Danes, from 600 to 700, settled
+        from 1873 to 1880. Have church service, and four to five
+        months school in Swedish. Grove and Elsmore townships.
+        Germans in and around Humboldt.
+
+    ANDERSON.—Irish in Reeder township, 1860 and 1874.
+        Germans, 1860 in Putman township, 1880 in Westphalia
+        township. Have both church and schools in German.
+
+    BARBER.—Reports “no foreigners worth making
+        account of”, by J. O. Hahn, Sup’t.
+
+    BARTON.—No report.
+
+    BOURBON.—Reports no foreigners.
+
+    BROWN.—No report.
+
+    BUTLER.—Germans (Prussians), speaking Low German,
+        in Fairmount and Milton townships. Hold church services
+        but no schools in German.
+
+    CHASE.—Russian Mennonites, speaking both Russian
+        and German, in Diamond Creek township, no church, but a
+        portion of schooling in German. Germans at Strong City,
+        with both church and schools in their native tongue.
+
+    CHATAUQUA.—Some Norwegians and Swedes, 1870, no location
+        given. Neither schools nor churches in native tongue.
+        One colony of ‘Russians’ (Mennonites?), who have also
+        given up their language.
+
+    CHEROKEE.—Weir City, French and Italians, number
+        considerable. Scammon, Scotch, also in large numbers.
+        The French and Italians have neither schools nor church
+        in the native tongue. Germans in Ross, twenty families;
+        with church originally Lutheran, now Mennonite; school
+        irregularly during past ten years. Swedes, a few
+        families in Cherokee township, have entirely given up
+        Swedish language. The Scotch, French and Italians in
+        mines or mining industries.
+
+    CHEYENNE.—Germans settled in 1885-86 on Hackberry
+        Creek, 160 persons; in the northeast corner of the
+        county, 100; on west border of county, north of
+        Republican river, 120; all with churches and the last
+        two with occasional schools. Swedes are across the
+        Republican adjoining last named German settlement,
+        120, entered 1886, having neither church nor school in
+        Swedish.
+
+    CLARKE.—Reports no foreigners.
+
+    CLAY.—No report.
+
+    CLOUD.—Canadian French are scattered over much of
+        the county, with considerable settlements in and around
+        the towns of Concordia, Clyde, St. Joseph and Aurora. In
+        all there are churches, in the first three schools also
+        conducted in French. Norwegians occupy portions of Sibley
+        and Lincoln townships with two churches in their own
+        tongue. They number about three hundred. Irish occupy
+        portions of Solomon and Lyon, the south part of Meredith
+        and the southeast corner of Grant townships.
+
+    COFFEY.—Germans in Liberty and on border of Leroy
+        and Avon township. Have church service in German.
+
+    COMANCHE.—Germans. A few scattered families.
+
+    COWLEY.—A few Swedes and Germans, widely scattered.
+
+    CRAWFORD.—Irish and French in Grant township;
+        Swedes in west part of Sherman township, have all
+        given up their language. Italians, Austrians and other
+        nationalities in south part of Washington, southeast
+        part of Sheridan and all over Baker township, especially
+        in Pittsburg, employed in mining and smelting.
+
+    DECATUR.—Swedes in Oberlin township; Mennonites
+        in Prairie Dog township; Germans in and around Dresden,
+        with Catholic church; Bohemians in Jennings and Garfield
+        townships.
+
+    DICKINSON.—Germans, 500 in number settled in
+        1860 in Liberty, Union and Lyon townships. Have three
+        churches and two schools in German. Also in Wheatland,
+        Jefferson, Bonner and Ridge townships, one church and a
+        school. Swedes, 100 settled in 1860 in Center and Hayes
+        township, with two churches and one school in Swedish.
+        Irish, several hundred in south part of Banner township.
+
+    DONIPHAN.—Germans in Wayne, Marion and southern
+        part of Center, Burr Oak and Washington townships, with
+        church service in native tongue. Norwegians in eastern
+        part of Wolf River township.
+
+    DOUGLAS.—There are German settlements in Eudora
+        township (300), Marion township (600), and Big Springs
+        township (100), with churches in all and school in
+        the first. There are about five hundred Germans in
+        Lawrence, with three German churches. There are smaller
+        settlements of Germans and Scandinavians at several
+        points in the county.
+
+    EDWARDS.—Germans and Swedes in Kinsley, Jackson
+        and Trenton townships, have church service in their
+        mother tongue.
+
+    ELK.—Swedes in Painter and Hood townships; Irish
+        in Falls township; Germans on the border of Elk and Wild
+        Cat townships. None of these have church or school in
+        the native tongue, but all use it at home.
+
+    ELLIS.—Germans from Russia, settled about 1876
+        in Catherine, Hartsook, Lookout, Wheatland and Freedom
+        townships, about 3000 in number—one third of the
+        population of the county in 1891. They are Catholics,
+        and have both churches and parochial schools conducted
+        in German. They are large wheat-growers.
+
+    ELLSWORTH.—Germans, (Methodists) in south part of
+        Valley township; Germans (Lutherans) in north part of
+        Columbia and Ellsworth townships; Germans (Baptists)
+        from Prussia, in Green Garden and south west corner of
+        Empire townships. These all have church service, and
+        the Lutherans schools in their own tongue. Bohemians in
+        Valley and Noble townships.
+
+    FINNEY.—Reports no foreigners.
+
+    FORD.—Germans in Wheatland and Speareville
+        townships. Have church, and one school conducted in
+        German.
+
+    FRANKLIN.—No report.
+
+    GARFIELD.—A few scattered families of Germans.
+
+    GEARY.—Irish (Connaught) came into Jackson,
+        Jefferson and Liberty townships 1855, about 1500 in
+        number. Germans (Anhalt) about 1500 came into Jefferson,
+        Milford and Lyon townships in 1862. About 300 English
+        from Sussex settled in Lyon township in 1870. The
+        Germans maintain both churches and schools in German.
+
+    GOVE.—Swedes in Lewis and south part of Grinnell
+        and south west corner of Gove townships.
+
+    GRAHAM.—A settlement of Canadian French (600)
+        was made in adjacent parts of Wild Horse and Morelan
+        townships about 1880. They conduct church service but no
+        schools in French.
+
+    GRANT.—Reports no foreigners.
+
+    GRAY.—Reports no foreigners.
+
+    GREELEY.—Swedes in the north west part of the
+        county, have church service and summer school in Swedish.
+
+    GREENWOOD.—Norwegians, about 200, in south part of
+        Salem township, have church in their own tongue. Germans
+        in Shell Rock township, about 300, also have church in
+        their own language.
+
+    HAMILTON.—Reports no foreigners.
+
+    HARPER.—Germans about the town of Harper.
+        Hungarians south of Bluff City. Both have church service
+        in German. About 100 French in Odell and Stohrville
+        townships.
+
+    HARVEY.—Germans (Russian Mennonites) from Odessa,
+        a few from Prussia, the latter speaking Low German. They
+        settled from 1874 to 1876 in Alta and Garden townships,
+        in Pleasant and the eastern part of Newton townships, and
+        about Halstead. They have church and school in German,
+        but speak Russian also. French in north part of Emma
+        township, engaged in raising silk worms.
+
+    HASKELL.—Reports no foreigners.
+
+    HODGMAN.—Germans, about 30 families, settled about
+        1884 in south east corner of Sterling township; have
+        preaching in German. Swedes in north west corner of
+        Marena township.
+
+    JACKSON.—Danes in Netawaca and Whiting townships;
+        Irish in Washington township; neither continue to use
+        their native tongue.
+
+    JEFFERSON.—Germans (Swiss) in Delaware, Jefferson
+        and Kentucky townships, maintaining church but no
+        schools in German.
+
+    JEWELL.—Swedes, widely scattered in Sinclair,
+        Allen, Ewing and Ezbon townships.
+
+    JOHNSON.—No report.
+
+    KEARNEY.—No report.
+
+    KINGMAN.—A small settlement of Germans in Peters
+        township, not using German to any extent. A few Irish in
+        Union township.
+
+    KIOWA.—No report.
+
+    LABETTE.—Swedes and Norwegians settled in Valley
+        and Canada townships about 1869. Still speak their
+        language, but have neither church nor school in it.
+
+    LANE.—Reports no foreigners.
+
+    LEAVENWORTH.—German, in 1873 in Easton township;
+        in Fair township in 1876; about 600 in each place. They
+        have church service and schools in German.
+
+    LINCOLN.—Danes settled in Grant township in 1869
+        and since, 400 in number. Germans settled in Pleasant
+        township in 1872, with 300, and in Indiana township in
+        1869 and later with about 375. Danes and Germans have
+        good schools and churches in native tongue. Bohemians
+        in Highland township in 1878 with thirty families.
+        They speak their native tongue, but have no schools or
+        churches.
+
+    LINN.—Reports no foreigners.
+
+    LOGAN.—Swedes, about 200, about Page City, in
+        north part of county. Have church and school both in
+        Swedish.
+
+    LYON.—Welsh, between 1000 and 1500 are located
+        in and about Emporia, with three churches conducted in
+        Welsh. There is a settlement of Scandinavians near Olpe
+        in Centre township.
+
+    MARION.—Germans (Russian Mennonites), settled in
+        Logan, Durham, Lehigh, Risley, Menno, West Branch and
+        Liberty townships, from 1870 to 1875, some 5000 in number.
+        They speak both Russian and German, and have church
+        service and schools in the latter tongue. Bohemians,
+        about 500 in number are settled in Clark township. They
+        speak Czech and have church service in that language.
+        French to the number of 200 settled soon after 1870 on
+        the border of Grant and Doyle townships. They speak
+        French still, but have no schools or church service in
+        the language.
+
+    MARSHALL.—Germans (Pommeranians, Hanoverians,
+        Frisians) to the number of 2000, settled in the west
+        part of Marysville township from before 1860 to 1870.
+        They have both church and school in their own tongue.
+        In the north part of Murray and the south half of
+        Vermillion townships are 1200 Irish, who use only
+        English in church and school. They came before 1870.
+        Bohemians in small numbers occupy the north part of
+        Guittard, the north west corner of Waterville and the
+        south part of Blue Rapids townships; Swedes a portion of
+        the south part of Waterville township. No report as to
+        their language.
+
+    MEADE.—No report.
+
+    MIAMI.—Germans occupy the north part of Wea and
+        the west part of Valley townships, about 200 in each
+        settlement; the first has a Catholic, the second a
+        Lutheran church. Irish occupy the north part of Osage
+        township, also about 200 in number.
+
+    MITCHELL.—Germans to the number of 1200 occupy
+        Pittsburg, Blue Hill, and Carr Creek townships. In the
+        first there is a church, and a well-attended school
+        (Catholic) at Tipton.
+
+    MONTGOMERY.—Germans to the number of 100 are
+        settled in and about Independence. They have church
+        service in German (Lutheran).
+
+    MORRIS.—Swedes occupy Diamond Valley, the west
+        part of Creek, and the north part of Parker townships.
+        They have several churches and occasionally a school
+        conducted in Swedish.
+
+    MORTON.—Reports no foreigners.
+
+    MCPHERSON.—Swedes settled, about 1870, in Union,
+        Smoky Hill, Harper, New Gottland, Delmore, and portions
+        of other townships, in large numbers, several thousand.
+        They have several churches and excellent schools
+        conducted in Swedish. Germans (Russian Mennonites)
+        occupy Superior, Turkey Creek, Mound, Lone Tree, King
+        City, and portions of McPherson and other southern
+        townships, with several churches and schools. The
+        Mennonites number about 5000 and settled after 1876.
+
+    NEMAHA.—Germans (Swiss) occupy Nemaha and
+        Washington, and a portion of Richmond townships, with
+        German churches and schools. Irish are in Clear Creek
+        and north east corner of Neuchatel townships. Most of
+        Neuchatel township is occupied by French (Swiss).
+
+    NEOSHO.—Germans have a considerable settlement in
+        the south east corner of Tioga township, with church
+        service (Lutheran) in German; another in the east part
+        of Lincoln township, where the language is spoken, but
+        without church or school. Swedes have settlements in the
+        north west part of Tioga and the east part of Big Creek
+        townships; church in the first only, though in both
+        Swedish is spoken almost exclusively.
+
+    NESS.—No report.
+
+    NORTON.—Germans to the number of 100 settled about
+        1880 in Grant township. They have church service in
+        German.
+
+    OSAGE.—Swedes, (700 in number,) settled in
+        Grant township in 1871, where they have four churches
+        conducted in Swedish. Welsh settled in 1869 in Arvonia
+        township, and others in the north part of Superior
+        township, 700 in number. They have six churches with
+        services in Welsh. Germans are in the north part of
+        Scranton and Ridgway townships, 200 in number; French
+        in the central part of Superior township, 200 strong;
+        Danes, 200, in north part of Melvern and Olivet
+        townships; a considerable number of Scotch and Irish in
+        and near Scranton. Most of these latter are engaged in
+        coal mining. None of the foreigners have schools—except
+        Sunday schools—in their native tongue.
+
+    OSBORNE.—Germans settled in Bloom township, where
+        they have both church and school in their mother tongue.
+
+    OTTAWA.—Bohemians are located about the border
+        of Sheridan and Fountain townships; Danes in the south
+        part of Buckeye township; Irish, arrived about 1885, in
+        the south part of Chapman township. None of these have
+        church or school in a foreign tongue.
+
+    PAWNEE.—Swedes settled about 1877 in the west part
+        of Garfield and the north part of Walnut townships, about
+        500 in all. They speak their native language at home
+        almost exclusively, and have preaching in it.
+
+    PHILLIPS.—Germans occupy Mound and south part of
+        Dayton townships, with preaching and parochial school
+        in German. Dutch occupy east part of Prairie View with
+        adjacent portions of Long Island, Dayton, and Beaver
+        townships, with preaching in Dutch. Some Danes and Swedes
+        in Crystal township, and some scattered Poles.
+
+    POTTAWATOMIE.—Germans, about 2500, in west half of
+        Mill Creek and adjacent portions of Sherman and Vienna
+        townships, also in Pottawatomie and adjacent portions of
+        Union, Louisville, and St. George townships. There are a
+        few families in Wamego and St. Mary’s Mission. They have
+        several schools and churches conducted in German. Swedes
+        occupy the whole of Blue Valley and the west border of
+        Greene townships, and have a small settlement in St.
+        Mary township, numbering in all 1200. They have church
+        service and a parochial school conducted in Swedish.
+        Irish, to the number of 2000 occupy Clear Creek, Emmet,
+        St. Mary and the border of St. Clere townships. French
+        (Canadian), numbering 200, are found in the north part
+        of Mill Creek and in Union townships, also a few about
+        St. Mary’s Mission.
+
+    PRATT.—Reports no foreigners.
+
+    RAWLINS.—Germans in north east part of county with
+        church and school in German. Swedes in east part of
+        county, Bohemians and Hungarians in north and north east
+        portion.
+
+    RENO.—Germans, about 300, came in 1880 to north
+        east corner of Little River township, and about 200 to
+        south east corner of Sumner township; also a settlement
+        in the west part of Hayes township; Dutch, about 350,
+        came 1878 into Haven township; Russians are settled
+        in Salt Creek and Medford townships. All have church
+        service and schools in their native tongue. There are
+        also a few French and Danes in the county.
+
+    REPUBLIC.—No report.
+
+    RICE.—There is a considerable settlement of
+        Germans in Valley township, also Pennsylvania Germans in
+        the west part of Sterling township, with German churches
+        in both. There are also some Germans in the town of
+        Lyons, with a German church.
+
+    RILEY.—Swedes, about 2500, occupy Jackson, Swede
+        Creek and adjacent portions of Mayday, Center, Fancy
+        Creek and Sherman townships. They have church services
+        and summer schools in their own tongue. Bohemians and
+        Germans, about 500 together, occupy the north east part
+        of Swede Creek township.
+
+    ROOKS.—Germans, 10 families, settled 1880 in north
+        part of Northhampton township. Bohemians, 10 families,
+        located in north part of Logan township in 1879. French,
+        about 30 families, south west corner of Logan, and same
+        number in Twin Mound township, settled in 1878, speak
+        French and have preaching in that tongue. The Germans
+        have church service in German.
+
+    RUSH.—Germans (Russian Mennonites) are located as
+        follows: in Big Timber township 75 families, in Illinois
+        township 25 families, in Pioneer township 50 families,
+        in Lone Star township 50 families, in Banner township
+        25 families, in Garfield township 25 families, in Belle
+        Prairie township 30 families. In each township there is
+        one church or more, but no German schools (?). Bohemians
+        are found in Banner and Garfield townships, about 25
+        families in each.
+
+    RUSSELL.—No report.
+
+    SALINE.—Germans, (Bavarians and Swabians) about
+        200, in Gypsum and south part of Ohio townships; Swedes,
+        3000 to 4000, in Washington, Smolan, Falun, Liberty and
+        Smoky View, and adjacent parts of Spring Creek, Summit
+        and Walnut townships, also in Salina. The Swedes came
+        in 1868. Both Germans and Swedes have preaching and the
+        latter have schools in their tongue.
+
+    SCOTT.—No report.
+
+    SEDGWICK.—Germans, 3000 to 4000, settled from
+        1874-82 in Sherman, Grand River, Garden Plain, Attica
+        and Union townships. Also about 2000 Germans in the
+        city of Wichita. In both places schools and churches in
+        German. Russians, Italians, French and Scandinavians
+        are represented, a few hundred each, in Wichita. In the
+        country townships a few Dutch and Swedes.
+
+    SEWARD.—Reports no foreigners.
+
+    SHAWNEE.—Germans (Moravians) in Rossville
+        township, speak their native tongue almost exclusively,
+        but have neither school nor preaching in German.
+
+    SHERIDAN.—No reports.
+
+    SHERMAN.—Germans, 20 families about the center of
+        the county. Swedes, 10 families in north east corner
+        and 25 families in south west corner. Both Germans and
+        Swedes have schools and preaching in their native tongue.
+
+    SMITH.—Germans in west part of Swan and Cedar
+        townships, and on border of Harvey and Banner townships,
+        in both churches, and in the first schools, in German.
+        Dutch, in the south half of Lincoln township, have
+        church but no schools.
+
+    STAFFORD.—Germans in Hayes and Cooper townships,
+        three hundred in number, with two churches having
+        service in German.
+
+    STANTON.—A few scattered Germans.
+
+    STEVENS.—No report.
+
+    SUMNER.—No report.
+
+    THOMAS.—A few foreigners scattered about the
+        country; all anglicised.
+
+    TREGO.—No report.
+
+    WABAUNSEE.—Germans and some Swedes in Kaw,
+        Newbury, Mill, Farmer, Alma and Washington townships,
+        with both preaching and schools in the mother tongue.
+
+    WALLACE.—Swedes, to the number of 300, have
+        settled since 1888 in the south west corner of the
+        county. They have church and schools in Swedish.
+
+    WASHINGTON.—Germans in Franklin, Charleston,
+        Hanover and north part of Sherman townships, have both
+        church and schools (6) conducted in German. Bohemians
+        are numerous in Little Blue township; French about
+        midway in Sherman township; Irish in Barnes, south part
+        of Sherman and Koloko townships.
+
+    WICHITA.—No report.
+
+    WILSON.—Swedes have settled since 1870 in Colfax
+        township. They have preaching but no schools in Swedish.
+
+    WOODSON.—No report.
+
+    WYANDOTTE.—Germans, 150, in north west corner of
+        Prairie township; Swedes, 350, in Kansas City, Kas.;
+        both have church service in the native language. Welsh,
+        200, in Rosedale, and Irish about midway in Wyandotte
+        township.
+
+
+                              SUMMARIES.
+
+        There are German settlements of thirty or more persons
+        in the following counties: Allen, Anderson, Butler,
+        Chase, Chautauqua, Cherokee, Cheyenne, Coffey, Comanche,
+        Cowley, Crawford, Decatur, Dickinson, Doniphan, Douglas,
+        Edwards, Elk, Ellis, Ellsworth, Ford, Garfield, Geary,
+        Greenwood, Harper, Harvey, Hodgeman, Jefferson, Kingman,
+        Leavenworth, Lincoln, Marion, Marshall, Miami, Mitchell,
+        Montgomery, McPherson, Nemaha, Neosho, Norton, Osage,
+        Osborne, Phillips, Pottawatomie, Rawlins, Reno, Rice,
+        Riley, Rooks, Rush, Saline, Sedgwick, Shawnee, Sherman,
+        Smith, Stafford, Stanton, Thomas, Wabaunsee, Washington,
+        Wyandotte.                                    Total, 60.
+
+        Scandinavians in settlements of thirty or over are
+        found in: Allen, Chautauqua, Cherokee, Cheyenne, Cloud,
+        Cowley, Crawford, Decatur, Dickinson, Doniphan, Edwards,
+        Elk, Gove, Greeley, Greenwood, Hodgeman, Jackson,
+        Jewell, Labette, Lincoln, Logan, Lyon, Marshall, Morris,
+        McPherson, Neosho, Osage, Ottawa, Pawnee, Phillips,
+        Pottawatomie, Rawlins, Riley, Saline, Sedgwick, Sherman,
+        Wabaunsee, Wallace, Wilson, Wyandotte.        Total, 40.
+
+        Settlements of Slavonic peoples, Bohemians, Poles,
+        Russians, or Hungarians, in: Decatur, Ellsworth, Harper,
+        Lincoln, Marshall, Ottawa, Phillips, Rawlins, Reno,
+        Riley, Rooks, Rush, Sedgwick, Washington.     Total, 14.
+
+        Settlements of Irish have been made in: Anderson, Cloud,
+        Crawford, Dickinson, Doniphan, Elk, Geary, Jackson,
+        Kingman, Marshall, Miami, Nemaha, Osage, Ottawa,
+        Pottawatomie, Washington, Wyandotte.          Total, 17.
+
+        French are found in settlements of thirty or more in:
+        Cherokee, Cloud, Crawford, Doniphan, Graham, Harper,
+        Harvey, Nemaha, Osage, Pottawatomie, Rooks, Sedgwick,
+        Washington.                                   Total, 13.
+
+        Italians are in Cherokee, Crawford, Sedgwick.  Total, 3.
+
+        Welsh in Lyon, Osage and Wyandotte.            Total, 3.
+
+        Dutch in Phillips, Reno, Sedgwick.             Total, 3.
+
+        Scotch are reported from Cherokee and Osage.   Total, 2.
+
+        English in Geary and Doniphan.                 Total, 2.
+
+        The following counties report that there are no
+        settlements of people of foreign birth within their
+        borders: Atchison, Barber, Bourbon, Clarke, Finney,
+        Grant, Gray, Hamilton, Haskell, Lane, Linn, Morton,
+        Pratt, Seward. Total, 14.
+
+        No reports have been secured from the following
+        counties: Barton, Brown, Clay, Franklin, Johnson,
+        Kearney, Kiowa, Meade, Ness, Republic, Russell, Scott,
+        Sheridan, Stevens, Sumner, Trego, Wichita, Woodson.
+        Total, 18.
+
+Seventy-four of our Kansas counties report settlements of citizens of
+foreign birth in numbers above 30. In so many cases there is no report
+or estimate of numbers that it is not worth while to give summaries.
+Probably there are not actually ten counties that have not such
+settlements.
+
+        Church services in a foreign tongue are held as follows:
+        Allen S.,[4] Anderson G., Butler G., Chase G., Cheyenne
+        G., Cherokee G., Cloud F. S., Coffey G., Decatur G.,
+        Dickinson G. S., Doniphan G., Douglas G., Edwards G. S.,
+        Ellis G., Ellsworth G., Ford G., Geary G., Graham F.,
+        Greeley S., Greenwood G. S., Harper G. Hung., Harvey
+        G., Hodgeman G., Jefferson G., Leavenworth G., Lincoln
+        G. Du., Logan S., Lyon W. G., Marion G. Boh., Marshall
+        G., Miami G., Mitchell G., Montgomery G., Morris S.,
+        McPherson S. G., Nemaha G., Neosho G. S., Norton G.,
+        Osage S. Welsh, Osborne G., Pawnee S., Phillips G.
+        Du., Pottawatomie G. S., Rawlins G., Reno G. Du. Rus.,
+        Rice G., Riley S., Rooks F. G., Rush G., Saline G. S.,
+        Sedgwick G., Sherman G. S., Smith G. Du., Stafford G.,
+        Wabaunsee G., Wallace S., Washington G. Wilson S.,
+        Wyandotte G. S.                              Total, 58.
+
+This total of fifty-eight counties in which church service is held in
+a foreign tongue does not at all indicate the number of such churches.
+In many of the reports received the number is not given, or merely
+in the plural. These very incomplete reports indicate one hundred
+thirty-eight such churches; it is safe to say that the number is nearly
+double this.
+
+        More interesting is the number of schools conducted in a
+        foreign tongue. The counties having them are: Allen S.,
+        Anderson G., Chase G., Cheyenne G., Cherokee, G., Cloud
+        F., Dickinson G. S., Douglas G., Ellis G., Ellsworth G.,
+        Ford G., Geary G., Greeley S., Harvey G., Leavenworth
+        G., Lincoln G. S., Logan S., Marion G., Marshall G.,
+        Mitchell G., Morris S., McPherson S. G., Nemaha G.,
+        Osborne G., Phillips G., Pottawatomie G. S., Rawlins G.,
+        Reno G. Du. Rus., Riley S., Rush G., Saline S., Sedgwick
+        G., Sherman G. S., Smith G. Du., Wabaunsee G., Wallace
+        S., Washington G.
+                                                     Total, 37.
+
+The number of separate schools in a foreign language so far as reported
+is seventy-four, and here, too, it is safe to say that the actual
+number is much larger.
+
+
+EXPLANATION.
+
+The spaces indicating settlements are in many cases too small to admit
+a complete description of the inhabitants, and accordingly they have
+been marked by races rather than by nationalities and tribes. “German”
+is made to do duty for all inhabitants of Germany whether Low or High,
+as well as for Austrians, German Swiss, and Russo-German Mennonites.
+The last are reported simply as Mennonites, but are, I believe, in
+all cases of German origin. “Scandinavian” is used instead of Swede,
+Norwegian and Dane, because in some cases the distinction was not made
+in the reports, and in order to limit the number of colors on the map
+which is to come. In the case of Scotch I have been unable to secure
+information whether they are Highlanders or Lowlanders, and in case of
+Irish, to what extent, if at all, they speak the old Irish language.
+
+                                            W. H. CARRUTH.
+
+[Illustration: A PRELIMINARY MAP OF FOREIGN SETTLEMENTS IN KANSAS.
+
+B - Bohemians (in a few cases other Slavs)
+
+G - Germans (including Dutch and Russian Mennonites)
+
+S - Scandinavians (Danes, Swedes and Norwegians)
+
+I - Irish   W - Welsh   It - Italians   F - French
+
+H - Hungarians]
+
+Footnote:
+
+[4] G = German, S = Scandinavian, F = French, W = Welsh, Du = Dutch.
+
+
+
+
+The Great Spirit Spring Mound.
+
+
+BY E. H. S. BAILEY.
+
+The “Waconda” or Great Spirit Spring, which is situated in Mitchell
+County, Kansas, about two miles east of Cawker City, has been described
+in detail by G. E. Patrick in vol. vii, p. 22, Transactions of the
+Kansas Academy of Science. An analysis of the water, and of the rock
+forming the mound on which the spring is located, is also given.
+
+The spring is upon a conical, limestone mound 42 feet in height, and
+150 feet in diameter at the top. The pool itself is a nearly circular
+lake about 50 feet in diameter, 35 feet deep, and the water rises to
+within a few inches of the top of the basin. There is a level space on
+all sides of the spring so wide that a carriage can be readily driven
+around it.
+
+There is but little indication of organic matter in the water of the
+large spring, though there is a slimy white deposit adhering to the
+bottom and sides, but the water is colorless, clear, and transparent.
+The excess of water, instead of overflowing the bank, escapes by
+numerous small fissures, from 10 to 20 feet down on the sides,
+especially on the side away from the bluff. In these lateral springs
+there is an abundance of green algæ, and a whitish scum, which seems
+to be detached from the bottom and to float to the surface. This has
+a slimy, granular feeling suggesting in a very marked manner hydrated
+silica.
+
+The mound is situated within about 200 feet of a limestone bluff,
+which rises perhaps 20 feet above the level of the spring. The natural
+inference would be that the harder material of the mound protected
+it from the erosion which carried away the rock in the valley of the
+Solomon on the south, and the rock between the spring and the bluff.
+
+Is it not possible however that the mound has been really made by the
+successive deposits from the spring? Although the mound is plainly
+stratified, this need not interfere with the theory, for the water
+may have been intermittent in its flow. The rock is very porous, and
+on being ground to a thin section is shown to be concretionary in
+structure.
+
+An analysis of the water of the spring (loc. cit.) showed that it
+contained over 1120 grains of mineral matter per gallon, of which 775
+grains were sodium chloride and 206 grains sodium sulphate, with 66
+grains of magnesium sulphate, 41 grains of magnesium carbonate, and 31
+grains of calcium carbonate. An analysis by the author shows that there
+are 0.874 grains of silica.
+
+Samples of the rock composing the mound, and of the adjoining bluff
+were secured, and comparative analyses made, with the following results:
+
+                                                              GREAT
+                                               COUNTRY       SPIRIT
+                                                 ROCK.        MOUND.
+
+    Silica and insoluble residue                  2.14         4.10
+    Oxides of Iron and Alumina                    3.22      [5]2.66
+    Sulphuric Anhydride                            .00         0.34
+    Carbon Dioxide                               40.90        39.10
+    Calcium Oxide                                51.90        49.28
+    Magnesium Oxide                               0.63         1.15
+    Water and organic matter, undetermined        1.21      [6]3.37
+                                                ——————       ——————
+                                                100.00       100.00
+
+    Specific gravity                              2.52         2.79
+
+The rocks are entirely different in appearance and structure, that of
+the mound being twice as hard as that of the bluff. The former contains
+much organic matter as is shown by blackening when it is heated in a
+tube and giving off the characteristic odor. The iron is practically
+of the ferrous variety, probably combined with carbonic acid, and the
+rock contains traces of chlorides. The particular sample taken was at
+some distance from the spring, and had been thoroughly exposed to the
+weather.
+
+The rock of the mound is of just such a character as might have been
+built up by deposition from the water, as it contains the least soluble
+constituents of the water. The process of solidification would have
+been assisted by the silica in the water, forming insoluble cementing
+silicates, as noticed by Prof. Patrick. The analysis given above shows
+that there is abundant silica in the water for this purpose.
+
+Mention has been made of the organic growth in the adjacent springs.
+The mixed scum on being heated changes from a dull green to a vivid
+grass-green, and if ignited it swells up and emits an ill-smelling
+vapor, which is evidently nitrogenous in its character. A grayish white
+ash is left, which contains much carbonate of lime. This is evidently
+freshly deposited, as it is entangled in the algæ in granular lumps.
+
+A specimen of the white scum, noticed above, only slightly mixed with
+the green algæ, was analyzed. The acid solution of the ash contains
+1.26 per cent of soluble silica. This was of course a combined silica,
+probably calcium silicate, which becomes the cementing material in
+the rock. In another sample of ash, after removing all the substances
+soluble in hot water, the residue was found to contain 76.46 per cent
+of silica.
+
+The siliceous residue from the scum was examined by Dr. S. W.
+Williston. It consists mostly of diatoms. He recognized
+
+    Navicula—    2 species
+    Nitzschia—   2 species
+    Asteronella— 1 species.
+
+All three genera are found both in fresh and salt or brackish water.
+
+The green material consists essentially of Oscillaria and Confervæ.
+If the scum is allowed to stand for a short time a very strong
+sulphuretted odor is developed, strangely suggestive of salt water
+marshes or mud flats; and indeed the same odor is noticed in the
+vicinity of the spring. No characteristic salt water organisms, that
+should occasion this peculiar odor have, however, yet been observed
+here. A more extended and special study of the organic life of these
+interior salt water marshes and springs would be of great interest.
+
+Footnotes:
+
+[5] Mostly FeO, and so calculated.
+
+[6] With alkalies.
+
+
+
+
+On Pascal’s Limaçon and the Cardioid.
+
+
+BY H. C. RIGGS.
+
+The inverse of a conic with respect to a focus is a curve called
+Pascal’s Limaçon. From the polar equation of a conic, the focus
+being the pole, it is evident that the polar equation of the limaçon
+may be written in the form:
+
+                           e              1
+                      r = ——— cos_x_  +  ——— ;
+                           p              p
+
+where e and p are constants, being respectively the eccentricity and
+semi-latus rectum of the conic.
+
+From the above equation it is readily seen that the curve may be traced
+by drawing from a fixed point O on a circle any number of chords
+and laying off a constant length on each of these lines, measured
+from the circumference of the circle. The point O is the node of the
+limaçon; and the fixed circle, which I shall call the base circle, is
+the inverse of the directrix of the conic. This is readily shown as
+follows:—the polar equation of the directrix is r = p/(e cos_x_). Hence
+the equation of its inverse is r = (e cos_x_)/p, which is the equation of
+the base circle of the limaçon.
+
+If the conic which we invert be an ellipse, the point O will be an
+acnode on the Limaçon; if the conic be a hyperbola, the point O is a
+crunode. If the conic be a parabola, O is then a cusp and the inverse
+curve is called the Cardioid.
+
+The limaçon may also be traced as a roulette.
+
+Let the circle A C have a diameter just twice that of the circle A B.
+Then a given diameter of A C will always pass through a fixed point Q
+on the circle A B, (Williamson’s Diff. Cal. Art. 286) and will have its
+middle point on the circle A B. Now any point P on the diameter of A C
+will always be at a fixed distance from C and will therefore describe a
+limaçon of which A B will be the base circle.
+
+The pedal of a circle with respect to any point is a limaçon. This may
+be inferred from the general theorem that the pedal of a curve is the
+inverse of its polar reciprocal, (Salmon’s H. P. C. Art. 122). For the
+polar reciprocal of a conic from its focus is a circle and hence its
+pedal is a limaçon.
+
+The base circle is the locus of the instantaneous centre for all points
+on the limaçon. Let B O P be a line cutting a circle in B and Q. Let
+the line revolve about B, Q following the circle; the point P will
+trace a limaçon.
+
+Now, for any instant, the instantaneous center will be the same whether
+Q be following the circle or the tangent at the point where the line
+cuts the circle. Therefore the instantaneous center for the point P
+is found by erecting a perpendicular to the line P B, through B, and
+a normal to the circle at Q. (Williamson’s Diff. Cal. Art. 294). The
+intersection (C) of these two lines is the instantaneous center for the
+curve at the point P. But by elementary geometry C is on the circle.
+Now as the line P B revolves through 360° around B, the line B C which
+is always perpendicular to it also makes a complete revolution and the
+instantaneous center C moves once round the base circle.
+
+Below we give a list of theorems obtained by inverting the
+corresponding theorems respecting a conic. In these theorems any circle
+through the pole is called a nodal circle, any chord through the pole
+is called a nodal chord, and the line through the pole perpendicular to
+the axis of the curve is called the latus rectum. The letters _e_ and
+_p_ signify respectively the eccentricity and half the latus rectum of
+the inverted conic.
+
+    The locus of the point of intersection
+    of two tangents to a parabola which
+    cut one another at a constant angle is
+    a hyperbola having the same focus and
+    directrix as the original parabola.
+
+                    The locus of the point of intersection
+                    of two nodal tangent circles to a
+                    cardioid which cut each other at a
+                    constant angle is a limaçon having the
+                    same double point and director circle.
+
+    The sum of the reciprocals of two focal
+    chords of a conic at right angles to
+    each other is constant.
+
+                    The sum of any two nodal chords of a
+                    limaçon at right angles to each other
+                    is constant.
+
+    P Q is a chord of a conic which
+    subtends a right angle at the focus.
+    The locus of the pole of P Q and the
+    locus enveloped by P Q are each conics
+    whose latera recta are to that of the
+    original conic as √2 : 1 and 1 : √2
+    respectively.
+
+                    If P and Q be two points on a limaçon
+                    such that they intercept a right
+                    angle at the node, then the locus
+                    of the point of intersection of the
+                    two nodal circles tangent at P and Q
+                    respectively, is a limaçon whose latus
+                    rectum is to that of the original
+                    limaçon as ½√2 : 1. And the envelope
+                    of the circle described on P Q as a
+                    diameter is a limaçon, whose latus
+                    rectum is to that of the original
+                    limaçon as 1 : ½√2.
+
+    If two conics have a common focus,
+    two of their common chords will pass
+    through the point of intersection of
+    their directrices.
+
+                    If two limaçons have a common node,
+                    two nodal circles passing each through
+                    two points of intersection of the
+                    limaçons, will pass through the point
+                    of intersection of their base circles.
+
+    Two conics have a common focus about
+    which one of them is turned; two of
+    their common chords will touch conics
+    having the fixed focus for focus.
+
+                    Two limaçons have a common node about
+                    which one of them is turned; two of
+                    the nodal circles through two of their
+                    points of intersection will envelope
+                    limaçons having fixed node for node.
+
+    Two conics are described having the
+    same focus, and the distance of
+    this focus from the corresponding
+    directrix of each is the same; if the
+    conics touch one another, then twice
+    the sine of half the angle between
+    the transverse axes is equal to the
+    difference of the reciprocals of the
+    eccentricities.
+
+                    If two limaçons are described having
+                    the same node and base circles of the
+                    same diameter, and if the limaçons
+                    touch each other, then twice the sine
+                    of half the angle between the axes of
+                    the limaçons is equal to the difference
+                    of the eccentricities.
+
+    If a circle of a given radius pass
+    through the focus (S) of a given conic
+    and cut the conic in the points A,
+    B, C, and D; then SA. SB. SC. SD
+    is constant.
+
+                    If a circle of a given radius pass
+                    through the node (S) of a given limaçon
+                    and cut it in A, B, C, and D; then
+
+                            1
+                    ———————————————  is constant.
+                    (SA. SB. SC. SD)
+
+    A circle passes through the focus of
+    a conic whose latus rectum is 2l and
+    meets the conic in four points whose
+    distance from the focus are r₁, r₂,
+    r₃, r₄, then
+
+       1       1       1       1       2
+      ———  +  ———  +  ———  +  ———  =  ——— .
+       r₁      r₂      r₃      r₄      l
+
+                    A circle passes through the node of
+                    a limaçon whose latus rectum is 2l,
+                    meeting the curve in four points whose
+                    distances from the node are r₁, r₂, r₃,
+                    r₄, then
+
+                    r₁ + r₂ + r₃ + r₄ = 2l.
+
+    Two points P and Q are taken, one on
+    each of two conics which have a common
+    focus and their axes in the same
+    direction, such that PS and QS are at
+    right angles, S being the common focus.
+    Then the tangents at P and Q meet on a
+    conic the square of whose eccentricity
+    is equal to the sum of the squares of
+    the eccentricities of the original
+    conics.
+
+                    Two points P and Q are taken one on
+                    each of two limaçons which have a
+                    common node and their axes in the same
+                    direction, such that PS and QS are at
+                    right angles, S being the common node.
+                    Then the nodal tangent circles at P and
+                    Q intersect on a limaçon the square of
+                    whose eccentricity is equal to the sum
+                    of the squares of the eccentricities of
+                    the original limaçons.
+
+    A series of conics are described with
+    a common latus rectum; the locus
+    of points upon them at which the
+    perpendicular from the focus on the
+    tangent is equal to the semi-latus
+    rectum is given by the equation
+
+    p = -r cos 2_x_
+
+                    If a series of limaçons are described
+                    with the same latus rectum, the locus
+                    of points upon them at which the
+                    diameter of the nodal tangent circle
+                    is equal to the semi-latus rectum, is
+                    given by the equation
+
+                    pr = -cos 2_x_
+
+    If POP₁ be a chord of a conic through a
+    fixed point O, then will tan ½P₁SO tan ½PSO
+    be a constant, S being the focus of the conic.
+
+                    If POP₁ be a nodal circle of a limaçon
+                    passing through a fixed point O, then
+                    will tan ½ P₁SO tan ½ PSO be a constant,
+                    S being the node.
+
+    Conics are described with equal latera
+    recta and a common focus. Also the
+    corresponding directrices envelop
+    a fixed confocal conic. Then these
+    conics all touch two fixed conics, the
+    reciprocals of whose latera recta are
+    the sum and difference respectively of
+    those of the variable conic and their
+    fixed confocal, and which have the same
+    directrix as the fixed confocal.
+
+                    Limaçons are described with equal
+                    latera recta and a common node. Also
+                    the director circles envelop a fixed
+                    limaçon having a common node. Then
+                    these limaçons all touch two fixed
+                    limaçons whose latera recta are the
+                    sum and difference respectively of the
+                    reciprocals of the variable limaçon
+                    and of the fixed limaçon, and which
+                    have the same base circle as the fixed
+                    limaçon.
+
+    Every focal chord of a conic is cut
+    harmonically by the curve, the focus,
+    and the directrix.
+
+                    Every nodal chord of a limaçon is
+                    bisected by the base circle.
+
+    The envelope of circles on the focal
+    radii of a conic as diameters is the
+    auxiliary circle.
+
+                    The envelope of the perpendiculars at
+                    the extremities of the nodal radii of
+                    a limaçon is a circle having for the
+                    diameter the axis of the limaçon.
+
+Below we give a number of theorems respecting the cardioid obtained by
+inverting the corresponding theorems concerning the parabola.
+
+    The straight line which bisects the
+    angle contained by two lines drawn
+    from the same point in a parabola,
+    the one to the focus, the other
+    perpendicular to the directrix, is a
+    tangent to the parabola at that point.
+
+                    The nodal circle which bisects the
+                    angle between the line drawn from any
+                    point on a cardioid to the cusp and the
+                    nodal circle through the point which
+                    cuts the director circle orthogonally,
+                    is a tangent circle at that point.
+
+    The latus rectum of a parabola is equal
+    to four times the distance from the
+    focus to the vertex.
+
+                    The latus rectum of a cardioid is equal
+                    to its length on the axis.
+
+    If a tangent to a parabola cut the axis
+    produced, the points of contact and of
+    intersection are equally distant from
+    the focus.
+
+                    If a nodal tangent circle cut the
+                    axis of a cardioid, the points of
+                    intersection and of tangency are
+                    equally distant from the cusp.
+
+    If a perpendicular be drawn from the
+    focus to any tangent to a parabola, the
+    point of intersection will be on the
+    vertical tangent.
+
+                    If a nodal circle be drawn tangent to a
+                    cardioid, the diameter of such circle
+                    passing through the cusp will be a
+                    common chord of this circle and another
+                    described on the axis of the cardioid
+                    as diameter.
+
+    The directrix of a parabola is the
+    locus of the intersection of tangents
+    that cut at right angles.
+
+                    The base circle is the locus of the
+                    intersection of nodal circles tangent
+                    to a cardioid, which cut orthogonally.
+
+    The circle described on any focal chord
+    of a parabola as diameter will touch
+    the directrix.
+
+                    The circle described an any nodal chord
+                    of a cardioid as diameter will be
+                    tangent to the base circle.
+
+    The locus of a point from which two
+    normals to a parabola can be drawn
+    making complementary angles with the
+    axis, is a parabola.
+
+                    The locus of the point through which
+                    two nodal circles, cutting a cardioid
+                    orthogonally, and making complementary
+                    angles with the axis, can be drawn is a
+                    cardioid.
+
+    Two tangents to a parabola which
+    make equal angles with the axis and
+    directrix respectively, but are not at
+    right angles, meet on the latus rectum.
+
+                    Two nodal circles tangent to a cardioid
+                    which make equal angles with the axis
+                    and latus rectum, respectively but do
+                    not cut orthogonally intersect on the
+                    latus rectum.
+
+    The circle which circumscribes the
+    triangle formed by three tangents to a
+    parabola passes through the focus.
+
+                    If three nodal circles be drawn tangent
+                    to a cardioid, the three points of
+                    intersection of these three circles are
+                    on a straight line.
+
+    If the two normals drawn to a parabola
+    from a point P make equal angles with
+    a straight line, the focus of P is a
+    parabola.
+
+                    If the two nodal circles cutting a
+                    cardioid orthogonally and pass through
+                    the point P, make equal angles with a
+                    fixed nodal circle, the locus of P is a
+                    cardioid.
+
+    Any two parabolas which have a common
+    focus and their axes in opposite
+    directions intersect at right angles.
+
+                    Any two cardioids which have a common
+                    cusp and their axes in opposite
+                    directions intersect at right angles.
+
+A number of other theorems on the limaçon and cardioid are given in
+Professor Newson’s article in this number of the QUARTERLY,
+and these need not be repeated here.
+
+
+
+
+Dialect Word-List.
+
+
+BY W. H. CARRUTH.
+
+The following are some of the dialect words that have come to one
+observer’s ears within the past triennium. They are all from Kansas,
+unless otherwise noted. They are printed here to interest others, and
+to secure a basis for observation. The writer will be under obligations
+to any one who will note his familiarity with any of these words,
+insert others, or other meanings, and send them, with a statement of
+his place of birth and childhood, to him at Lawrence:
+
+=among:= all of, as, Where are you going among you?
+
+=all:= all gone, as, The corn is all. (Indiana, Penn.) Comp. German.
+
+=bat:= a ‘hard case.’
+
+=bid:= in, to bid the time of day. (Indiana.)
+
+=beeslings:= preparation of artificially curdled milk. (Indiana and
+Kansas.)
+
+=become:= to look well in, as, He becomes that coat.
+
+=bad:= desperate, as in, A bad citizen = a desperate fellow.
+
+=behave:= to behave well, as in, Do behave now!
+
+=bump on a log:= something lifeless, as, He sat there like a bump on a
+log.
+
+=bier:= sham, as in pillow-bier. (Vermont.)
+
+=branch:= a small stream.
+
+=breeze:= a torrent of talk, as in, He gave me a breeze.
+
+=boo:= dried mucous.
+
+=buckle down:= to work persistently.
+
+=conniptions:= a fit, also ‘conniption fit.’
+
+=caba:= an old valise. (Penn.)
+
+=craps:= a game with dice; playing, it is called, ‘shooting craps.’
+
+=crawl:= to try to escape from an embarrassing situation without
+admitting one’s mistake.
+
+=crawfish:= same as ‘crawl.’
+
+=crock:= an earthenware vessel, a large bowl.
+
+=chuck:= lunch.
+
+=chuck-a-luck:= loaded (of dice).
+
+=coddy:= odd, out of fashion.
+
+=chug:= to strike a blow, as in, Chug him one.
+
+=could:= to be able, as in, He used to could.
+
+=cod:= a bit of deceit, as in, He gave the teacher a cod.
+
+=Chenuk:= a Canadian. (Note the pronunciation.)
+
+=dast:= to dare, as in, He don’t dast to do it.
+
+=dew-claws:= hands and knees (?), as in, Get down on your d., = apply
+yourself intensely.
+
+=Dick’s hatband:= in the phrase, As contrary as Dick’s hatband.
+What is the origin of this?
+
+=dick-nailer:= anything quite satisfactory, as in, He (it) is a
+dick-nailer.
+
+=drop:= advantage, as in, to get the drop on a person (allusion to
+dexterity in drawing a revolver). Comp. also: bulge, inside-track, whip
+handle, dead-wood, all used in the same way and with same sense.
+
+=diven=, past participle of _dive_.
+
+=drug:= pret. of drag.
+
+=east:= yeast.
+
+=emptings:= bread dough set to ferment. Note the expression “It
+will come out all right in the emptings,” i. e. after it has had a
+chance to stand.
+
+=fat up:= to increase a stake at cards.
+
+=find:= to supply with board, as in, Pay five dollars a week and
+find him; I get five dollars and found.
+
+=fresh:= impudent, (due to greenness).
+
+=fog:= to filch.
+
+=fluke:= to steal. (Indiana).
+
+=flat:= plug tobacco. (Arkansas).
+
+=gallery:= church, as in, He’s in the gallery.
+
+=gag:= an improbable story intended to deceive, as in, He tried to give
+me a gag.
+
+=go with:= to become of, as in, What has gone with my hat? Ohio; also in
+Pall Mall Gazette.
+
+=grub-stake:= to give board.
+
+=girling:= a ‘girl-boy,’ in contempt.
+
+=gaumy:= not neat. (Arkansas.)
+
+=gob, or gaub:= a shapeless mass, as, a gob of mud, then sportively,
+gaubs of wisdom.
+
+=gray:= an awkward fellow.
+
+=get to:= to get an opportunity to, as in, He didn’t get to do it.
+
+=go to:= to intend to, as in, I didn’t go (for) to do it.
+
+=gumbo:= a peculiar, putty-like dark soil. (Kansas.)
+
+=hen:= feminine, as in, hen-party; comp. stag-party, a gathering of men
+only.
+
+=honey:= a fine fellow, generally ironically.
+
+=hump:= to bestir, as, Hump yourself.
+
+=hole:= bad condition financially; as, He is in the hole, i. e. he has
+lost.
+
+=huckleberry:= indifferent, in, a huckleberry Christian.
+
+=huckleberry:= the right person, as in, You’re my huckleberry.
+
+=hornswoggle:= to discomfit, as in, I’ll be hornswoggled if I’ll do it.
+
+=in it:= on the successful side, as, He is not in it, i. e., He has no
+prospect of success. This phrase is universal in 1891.
+
+=infare:= the reception after a wedding.
+
+=in:= on the credit side, as, I was in five dollars.
+
+=jay:= a green, conceited fellow.
+
+=jag:= a bit of anything; a spree, a brief drunk.
+
+=jack mosquito:= a large insect of the mosquito family, three times the
+size of the pestiferous kind; this one does not bite.
+
+=jimmy:= to meddle, as, to jimmy with a thing or person, to ‘fool with.’
+Comp., to ‘monkey with.’
+
+=jump:= to leave without notice, as to jump the town, to jump bail; to
+jump a board-bill is to leave it unpaid.
+
+=joint:= an illegal saloon. What is the origin of it?
+
+=jigger= or =chigger:= a minute red mite, which frequents weeds and
+lawns, burrows beneath the human skin and causes excruciating itching.
+
+=keep:= board and lodgings, as, He works for his keep.
+
+=lay over:= to surpass, as, That lays over anything I know.
+
+=larofamedlers:= a phrase used generally as equivalent to, It’s none
+of your business. (Maryland, Penn., Ohio, Arkansas.) The word is a
+corruption of Lay-over for medlers, a lay-over being a bear-trap
+consisting of a pit covered with boughs.
+
+=light out:= to start on the run, as, He ‘lit’ out for home.
+
+=lagniap:= the extra in a bargain, as, Five dollars, and a hat for
+lagniap. (Louisiana.)
+
+=lush:= to drink heavily, to ‘swill.’
+
+=mog:= to move, as, Mog along with you.
+
+=mogle:= the same.
+
+=main:= very, as, It’s main strange. (Worcester county, Mass.)
+
+=mosey.:= to move along with a strut.
+
+=move:= motion, as in, Get a move on you.
+
+=mealer:= one who takes only meals at a boarding-house.
+
+=mind off:= to ward off (flies, etc.).
+
+=meet up with:= to meet. (Tennessee.)
+
+=peter out:= to dwindle.
+
+=pail:= to milk, as, to pail the cow. (Penn.)
+
+=possessed:= anything, as, He acted like ‘all possessed.’
+
+=quill:= to write. (_The Writer._)
+
+=quill-wheel:= a ‘rattle-trap’ wagon.
+
+=ruther:= choice, as, If I had my ruther; also, druther.
+
+=ride and tie:= verbal phrase, describing a mode of travel in which
+one vehicle is used by two sets of people, one riding ahead a given
+distance and tying the team where the others who have walked will come
+up to it, the first walking on ahead until overtaken and passed by the
+second, and so on. (Colorado.)
+
+=red up:= to make tidy.
+
+=ring off:= to desist or cease talking, technical phrase from the
+telephone, but passed into common usage. Comp., “saw off.”
+
+=rucus:= quarrel, rumpus.
+
+=saddy:= thanks, thank you. (Penn.)
+
+=saw off:= ‘ring off;’ a short person is said to look ‘sawed off.’
+
+=shet, shut, shed:= rid, as, to get shut of anything.
+
+=shear off:= to pour off (water from settlings). (Ohio.)
+
+=shapin’s:= young peas and beans—the unfilled pod. (Arkansas.)
+
+=should have said:= said, as, He should have said yes, i. e.,
+indeed he said yes.
+
+=shin:= to climb, as, to shin up a tree.
+
+=shut off:= to make to stop talking, as, Do shut him off.
+
+=shebang:= anything run-down, as house, carriage, affairs.
+
+=scrooch or scrooge:= to cringe.
+
+=skin-away:= a small boy. (Civilized Sac Indians.)
+
+=skin:= to run, as, Skin out, i. e., run away.
+
+=skid:= to sneak through examinations. (Yale.)
+
+=skid:= a sharp-pointed instrument.
+
+=skit:= a mild lie.
+
+=skads:= great quantities, as, Skads of money, of books, etc.; also =
+money, as, He hasn’t the skads.
+
+=singed cat:= a shrewd ‘rustler,’ of unpretentious appearance.
+
+=skulduggery:= knavery.
+
+=skip:= to run away, as, Now skip, i. e., Go away from here.
+
+=skip:= to leave hastily, as, He skipped the town.
+
+=slouch:= a gawky fellow; then anything imperfect, as in the phrase,
+He’s no slouch, i. e., He is an expert; no slouch of a horse, i. e., a
+first-rate horse.
+
+=sloomiky:= not neat.
+
+=slander:= to saunter.
+
+=slump:= to fail to meet requirements, as, in examinations.
+
+=slumps:= great quantities. (Clark’s Second Hand Catalogue, N. Y.)
+
+=sleep:= to give lodgings. I have heard, We can eat and sleep him.
+
+=smoodle:= a sycophant. (Kansas University.) Comp., ‘swipe.’
+
+=smokewood:= dried water-soaked wood used by small boys as
+substitute for cigars.
+
+=smearcase:= a preparation of clabber, often called ‘Dutch cheese.’
+
+=snake:= to snatch stealthily.
+
+=snum:= to vow, as in, Well, I snum. Reported as common among girls.
+
+=snouge:= unfair, as, a snouge game.
+
+=snide:= inferior, unfair, as, a snide game, a snide watch, etc.
+
+=so fashion:= thus, as, Do it so fashion.
+
+=soap:= bribe money in elections.
+
+=sugar:= same as soap.
+
+=sugar=, (explet): pshaw!
+
+=split:= anything, as, He ran like split, also, lickety split.
+
+=spunky:= pouting, incensed.
+
+=sprinkle=   ┐
+             ├ =:= a small number; also a considerable number.
+=sprinkling= ┘
+
+=stag:= masculine, as, A stag-party.
+
+=stag:= to go to an entertainment without a lady companion, as, to
+stag it.
+
+=Stoughton-bottle:= an unimpressionable fellow. (From Stoughton’s
+Bitters, common in the 50’s.)
+
+=streak:= rapid rate, as, He talked a streak, or more commonly, a blue
+streak.
+
+=streak:= to run, as, He streaked it for home.
+
+=steer:= to manage (votes), as, A steering committee, the same as
+‘whips’ in Parliament.
+
+=striffin=, or =strifning:= the membrane surrounding the abdominal
+viscera. (Missouri.)
+
+=swan:= to vow, as, in exclamation, I swan!
+
+=swat:= to slap or strike, as, Swat him in the eye.
+
+=suz:= (excl.)=:= me, as in, Dear suz, and Law suz.
+
+=swipe:= a sycophant. (Harvard.)
+
+=tacky:= not fashionably dressed.
+
+=tewed:= harrassed, as, I’m tewed and fretted.
+
+=that:= so, as in, Not that far.
+
+=throw over:= to ‘cut’ (an acquaintance).
+
+=throw over:= to stop, as, I threw her over, i. e., stopped talking.
+Common among railroad men; derived from the use of the reverse lever.
+
+=tear-down:= to thrash, as, He gave the boy a good tearing down.
+
+=toad on a tussock:= anything dull or lifeless. He sat there like a toad
+on a tussock.
+
+=tousle:= to disarrange (hair).
+
+=tousey:= frowsy.
+
+=topside:= on top of, as in, The best man topside o’ God’s green earth.
+
+=trade-lash:= an exchange of compliments. (Wellesley.)
+
+=trottin’-riggin’s:= best suit of clothes.
+
+=two sticks:= anything, as, He’s as cross as two sticks.
+
+=up above:= up, as in, Up above stairs.
+
+=whootle-dasher:= a ‘rustler.’
+
+=want:= for was not, were not, etc.
+
+=wamus=, =wampus=, =warmus:= a close, generally knit jacket. (Illinois,
+Pennsylvania, Ohio, Wisconsin, New England.)
+
+
+
+
+PROSPECTUS.
+
+
+The KANSAS UNIVERSITY QUARTERLY is maintained by the University of
+Kansas as a medium for the publication of the results of original
+research by members of the University. Papers will be published only
+upon recommendation by the Committee of Publication. Contributed
+articles should be in the hands of the Committee at least one month
+prior to the date of publication. A limited number of author’s
+_separata_ will be furnished free to contributors.
+
+The QUARTERLY will be issued regularly, as indicated by its
+title. Each number will contain fifty or more pages of reading matter,
+with necessary illustrations. The four numbers of each year will
+constitute a volume. The price of subscription is two dollars a volume,
+single numbers varying in price with cost of publication. Exchanges are
+solicited.
+
+Communications should be addressed to
+
+                             V. L. KELLOGG,
+                                       University of Kansas,
+                                                     Lawrence.
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE KANSAS UNIVERSITY QUARTERLY, VOL. I, NO. 2, OCTOBER 1892 ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
